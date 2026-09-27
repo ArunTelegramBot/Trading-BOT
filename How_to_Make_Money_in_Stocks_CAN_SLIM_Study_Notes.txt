@@ -1,0 +1,2830 @@
+
+HOW TO MAKE MONEY IN STOCKS
+WILLIAM J. O'NEIL
+SECOND EDITION — MASTER STUDY NOTES
+
+SOURCE
+Uploaded PDF: "How to Make Money in Stocks: A Winning System in Good Times
+or Bad," William J. O'Neil, Second Edition, McGraw-Hill, 1995.
+
+The source's contents are organized around:
+PART 1 — A WINNING SYSTEM: C-A-N S-L-I-M
+PART 2 — BE SMART FROM THE START
+PART 3 — INVESTING LIKE A PROFESSIONAL
+
+The core CAN SLIM chapters are:
+C = Current Quarterly Earnings
+A = Annual Earnings Increases
+N = New Products, New Management, New Highs
+S = Supply and Demand
+L = Leader or Laggard
+I = Institutional Sponsorship
+M = Market Direction
+
+Later chapters cover:
+- brokers/accounts/costs,
+- selling,
+- diversification,
+- margin,
+- short selling,
+- options,
+- OTC stocks,
+- new issues,
+- mutual funds,
+- historical winning-stock models,
+- chart reading,
+- financial news,
+- tape reading,
+- industry groups,
+- institutional portfolios,
+- and common investor mistakes.
+
+IMPORTANT SOURCE CONTEXT
+This is a 1995 second edition with historical U.S. market examples. The
+book's numerical thresholds, exchange mechanics, tax references, securities,
+and market conditions are historical. The principles can be studied for
+Indian markets, but current NSE/BSE/SEBI rules, taxes, contract
+specifications, and current market data must be verified separately.
+
+These notes summarize and reorganize the book's ideas for study. They do
+not reproduce the book.
+
+============================================================
+1. THE CENTRAL IDEA
+============================================================
+
+O'Neil's central premise is that large stock-market winners tend to share
+recognizable characteristics BEFORE their major advances.
+
+His research studied hundreds of major winning stocks and looked for the
+common factors visible before the largest price increases.
+
+The book's process is therefore:
+
+FIND PAST WINNERS
+        ->
+STUDY THEIR COMMON CHARACTERISTICS
+        ->
+BUILD A REPEATABLE SCREEN
+        ->
+IDENTIFY CURRENT STOCKS WITH SIMILAR CHARACTERISTICS
+        ->
+USE PRICE/VOLUME TO TIME THE ENTRY
+        ->
+CONTROL LOSSES
+        ->
+LET THE BEST WINNERS DEVELOP
+        ->
+SELL WHEN THE PRICE ACTION OR FUNDAMENTALS DETERIORATE
+
+The main organizing framework is CAN SLIM.
+
+============================================================
+2. WHAT O'NEIL STUDIED
+============================================================
+
+The historical study covered more than four decades and hundreds of major
+stock winners.
+
+The source says the research examined characteristics such as:
+- current quarterly EPS,
+- annual earnings history,
+- trading volume,
+- relative price strength,
+- number of shares outstanding,
+- new products or new management,
+- industry group strength,
+- and market direction.
+
+The underlying lesson:
+
+Do not study only the current stock.
+Study the characteristics that repeatedly appeared before major winners.
+
+============================================================
+3. THE CAN SLIM FRAMEWORK
+============================================================
+
+C = Current quarterly earnings per share
+
+A = Annual earnings increases
+
+N = New products, new management, new highs
+
+S = Supply and demand
+
+L = Leader or laggard
+
+I = Institutional sponsorship
+
+M = Market direction
+
+These seven components should be considered together.
+
+A stock does not become attractive merely because one letter looks good.
+
+============================================================
+4. C — CURRENT QUARTERLY EARNINGS
+============================================================
+
+O'Neil treats current quarterly EPS growth as the most important fundamental
+selection factor.
+
+Compare:
+
+LATEST REPORTED QUARTER
+vs.
+SAME QUARTER OF THE PRIOR YEAR.
+
+Do NOT simply compare the current quarter with the immediately preceding
+quarter because of:
+- seasonality,
+- business cycles,
+- and different starting levels.
+
+The book repeatedly emphasizes:
+percentage change matters.
+
+WHY EPS?
+EPS represents the amount of after-tax company profit attributable to each
+common share.
+
+A company can report:
+- rising sales,
+- rising total net income,
+yet still produce disappointing per-share earnings if share count rises.
+
+Therefore:
+FOCUS ON EPS, NOT ONLY TOTAL CORPORATE PROFIT.
+
+============================================================
+5. CURRENT EPS — WHAT COUNTS AS STRONG?
+============================================================
+
+The source's historical guideline is to seek a major percentage increase.
+
+It explicitly suggests:
+- at least roughly 18%-20% as a minimum guide,
+- with many successful money-makers using 25%-30% or more,
+- and a preference for much stronger increases in favorable markets.
+
+The book's research found that many past major winners showed very large
+current-quarter earnings increases, often far above 50%.
+
+The practical principle:
+
+AVOID MEDIOCRE CURRENT EARNINGS IF YOUR OBJECTIVE IS TO FIND EXCEPTIONAL
+LEADERS.
+
+The book favors:
+20%+
+over:
+8%-10%.
+
+And in strong market environments it prefers companies showing substantially
+stronger increases.
+
+============================================================
+6. DO NOT BE MISLED BY A LOW BASE
+============================================================
+
+A percentage increase can look huge when the prior period was abnormally
+small.
+
+Example:
+1 cent -> 10 cents
+= 900% growth.
+
+That can be less meaningful than:
+50 cents -> $1
+= 100% growth.
+
+Therefore investigate:
+- the prior-year base,
+- why it was low,
+- whether earnings are normalizing,
+- and whether the improvement is sustainable.
+
+============================================================
+7. SALES UP, EPS FLAT — WARNING
+============================================================
+
+A company can announce:
+- sales +20%,
+- net income +5%,
+- EPS +2%.
+
+That is NOT automatically a good report.
+
+Possible reasons:
+- margins fell,
+- costs rose,
+- shares outstanding increased,
+- or management had a weak mix.
+
+O'Neil emphasizes:
+FOLLOW EPS AND PROFITABILITY, NOT HEADLINE SALES GROWTH ALONE.
+
+============================================================
+8. TOTAL EARNINGS VS EPS
+============================================================
+
+You own shares, not the whole company.
+
+Therefore:
+TOTAL NET INCOME UP
+does not necessarily mean
+YOUR PER-SHARE ECONOMICS ARE IMPROVING.
+
+Watch for:
+- stock issuance,
+- dilution,
+- options,
+- acquisitions funded with shares,
+- and other changes in share count.
+
+============================================================
+9. BREAK DOWN MULTI-MONTH EARNINGS
+============================================================
+
+Do not rely only on:
+- six-month earnings,
+- nine-month earnings,
+- or annual headline growth.
+
+Break the figures into quarters.
+
+Example:
+Quarter 1 +30%
+Quarter 2 +10%
+Quarter 3 -10%
+
+A "nine-month increase" could hide deterioration in the latest quarter.
+
+The important information is:
+IS THE EARNINGS TREND IMPROVING OR DETERIORATING NOW?
+
+============================================================
+10. EXCLUDE ONE-TIME GAINS
+============================================================
+
+Do not count nonrecurring earnings as evidence of ongoing operating
+strength.
+
+Examples:
+- sale of real estate,
+- plant sale,
+- unusual one-off gains,
+- accounting-related benefits.
+
+For the stock-selection process:
+FOCUS ON REPEATABLE OPERATING EARNINGS.
+
+============================================================
+11. EARNINGS ACCELERATION
+============================================================
+
+One of O'Neil's most important observations is:
+
+The change in the RATE of earnings growth can matter as much as the level of
+earnings.
+
+Example:
+
+Prior growth:
++10%, +12%, +15%
+
+Then:
++40%, +50%
+
+This acceleration can be a powerful signal of improving business momentum.
+
+Likewise:
+
+Prior growth:
++50%, +55%
+
+Then:
++20%, +10%
+
+This deceleration can signal weakening momentum.
+
+The book calls attention to:
+ACCELERATION and DECELERATION.
+
+============================================================
+12. TWO QUARTERS OF MATERIAL DECELERATION
+============================================================
+
+One weak quarter can happen even in a good company.
+
+O'Neil prefers to see more evidence before becoming strongly negative.
+
+His source-specific framework discusses two quarters of meaningful earnings
+deceleration as a more serious warning.
+
+This is not a universal law.
+It is part of O'Neil's historical interpretation of earnings trends.
+
+============================================================
+13. LOGARITHMIC EARNINGS / PRICE CHARTS
+============================================================
+
+The book favors log-scale charts for percentage changes.
+
+Reason:
+Equal vertical distances represent equal percentage changes.
+
+For example:
+$10 -> $20 = +100%
+$20 -> $30 = +50%
+
+A log chart makes the 100% rise appear proportionally larger than the 50%
+rise.
+
+This helps visualize:
+- acceleration,
+- deceleration,
+- price growth,
+- and earnings growth.
+
+============================================================
+14. CHECK THE INDUSTRY GROUP
+============================================================
+
+A strong stock should ideally not be the only strong name in its group.
+
+Check for:
+- another high-quality stock in the same industry,
+- other companies with strong current earnings,
+- industry-wide demand,
+- and broad strength.
+
+If your stock is strong while every other important company in the group is
+weak, investigate why.
+
+Group confirmation improves confidence.
+
+============================================================
+15. WATCH THE NEXT EARNINGS DATE
+============================================================
+
+O'Neil advises knowing when the company will report next.
+
+Before the report:
+- price may act unusually,
+- volume may change,
+- the stock may hesitate,
+- or it may show unusual relative strength/weakness.
+
+These movements can sometimes provide clues about market expectations.
+
+But do not treat pre-earnings price action as certainty.
+
+============================================================
+16. CURRENT EPS MASTER RULE
+============================================================
+
+Source-derived emphasis:
+
+- Seek substantial current EPS growth.
+- Compare the same quarter year-over-year.
+- Avoid weak current earnings when alternatives exist.
+- Check whether growth is accelerating.
+- Remove one-time items.
+- Check dilution.
+- Break down multi-quarter reports.
+- Consider the industry group.
+- Look at what the next report is expected to show.
+
+============================================================
+17. A — ANNUAL EARNINGS INCREASES
+============================================================
+
+The "A" in CAN SLIM asks:
+
+HAS THE COMPANY SHOWN STRONG LONG-TERM EARNINGS GROWTH?
+
+O'Neil prefers:
+- a strong multi-year earnings record,
+- generally around four or five years of meaningful growth,
+- and ideally approximately 25%-50% or more annual compounded earnings
+  growth in outstanding companies.
+
+His historical research showed that many major winners had strong five-year
+earnings growth before their major price advances.
+
+============================================================
+18. ANNUAL GROWTH MUST BE REAL
+============================================================
+
+Do not be impressed by:
+- one recovery year,
+- a depressed comparison base,
+- or a temporary earnings bounce.
+
+A company earning:
+$4 -> $5 -> $6 -> $2 -> $2.50
+
+does not have a great long-term growth record simply because the last year
+shows +25% from a depressed base.
+
+Ask:
+ARE EARNINGS RETURNING TO OLD HIGHS,
+or
+ARE THEY CREATING NEW HIGH GROUND?
+
+============================================================
+19. NEXT-YEAR EARNINGS ESTIMATE
+============================================================
+
+O'Neil also wants the expected future earnings to remain strong.
+
+However:
+FORECASTS ARE OPINIONS.
+REPORTED EARNINGS ARE FACTS.
+
+Use estimates as supplementary evidence, not as a substitute for actual
+performance.
+
+============================================================
+20. EARNINGS STABILITY
+============================================================
+
+The book describes a stability measurement for five-year earnings.
+
+The scale runs:
+1 to 99
+
+with:
+LOWER NUMBER
+= more stable earnings history.
+
+A stability figure below roughly 20-25 is described as favorable for growth
+companies in the source.
+
+A figure above roughly 30 suggests greater cyclicality and less dependable
+growth.
+
+The specific rating system is O'Neil's historical methodology.
+
+============================================================
+21. GROWTH + STABILITY
+============================================================
+
+The strongest candidates ideally have:
+- strong earnings growth,
+- and consistent earnings.
+
+A high growth rate with extreme instability is more risky than the same
+growth with a stable progression.
+
+============================================================
+22. NEW CYCLES CREATE NEW LEADERS
+============================================================
+
+Leadership changes across market cycles.
+
+A sector that led one bull market may lag in the next.
+
+Potential new leadership can arise from:
+- young growth businesses,
+- turnarounds,
+- cyclicals,
+- newly improved industries,
+- new technologies,
+- consumer growth,
+- defense,
+- or other emerging sectors.
+
+Therefore:
+DO NOT ASSUME LAST CYCLE'S LEADERS WILL LEAD THE NEXT ONE.
+
+============================================================
+23. CURRENT + ANNUAL EARNINGS MUST AGREE
+============================================================
+
+A company with:
+- excellent five-year growth
+but
+- weak recent quarterly earnings
+
+is not an ideal CAN SLIM candidate.
+
+Conversely:
+a company with:
+- one great quarter
+but
+- poor long-term earnings history
+
+may also be weak.
+
+O'Neil wants:
+LONG-TERM EARNINGS STRENGTH
++
+RECENT EARNINGS MOMENTUM.
+
+============================================================
+24. P/E — O'NEIL'S VIEW
+============================================================
+
+One of the book's strongest lessons is:
+
+DO NOT BUY STOCKS SIMPLY BECAUSE THE P/E IS LOW.
+
+Historical research in the book found many big winning stocks started with
+P/E ratios that were not especially low.
+
+Some later expanded to substantially higher P/Es during their advances.
+
+The key factors are:
+- earnings growth,
+- earnings acceleration,
+- business quality,
+- price/volume behavior,
+- and market conditions.
+
+============================================================
+25. LOW P/E CAN BE A TRAP
+============================================================
+
+A stock may be cheap because:
+- earnings are falling,
+- the business is deteriorating,
+- the market expects future weakness,
+- or the industry is declining.
+
+Therefore:
+LOW MULTIPLE != LOW RISK.
+
+Likewise:
+HIGH MULTIPLE != AUTOMATICALLY OVERVALUED.
+
+The real question:
+WHAT IS HAPPENING TO EARNINGS AND FUTURE GROWTH?
+
+============================================================
+26. N — NEW
+============================================================
+
+O'Neil argues that major price advances generally have a "new" element.
+
+This can be:
+
+NEW PRODUCT
+NEW SERVICE
+NEW MANAGEMENT
+NEW INDUSTRY CONDITION
+NEW TECHNOLOGY
+NEW MARKET
+NEW PRICE HIGH
+
+The book's historical analysis found that the overwhelming majority of major
+winners had an important new factor.
+
+============================================================
+27. NEW PRODUCT
+============================================================
+
+Examples in the book include companies whose:
+- new products,
+- new technologies,
+- new services,
+- or new distribution models
+
+created significant earnings acceleration.
+
+The product itself is not enough.
+
+The new factor should:
+- improve economics,
+- create demand,
+- increase earnings,
+- or open a large new market.
+
+============================================================
+28. NEW MANAGEMENT
+============================================================
+
+A management change can create a major turnaround when:
+- old leadership was ineffective,
+- costs are reduced,
+- strategy improves,
+- assets are redeployed,
+- or a new growth opportunity is recognized.
+
+Again:
+NEW MANAGEMENT is valuable when it produces measurable improvement.
+
+============================================================
+29. NEW INDUSTRY CONDITIONS
+============================================================
+
+An entire industry can experience a favorable change because of:
+- shortages,
+- pricing changes,
+- regulation,
+- new technology,
+- increased demand,
+- or structural changes.
+
+A company can benefit even if it did not create the new development itself.
+
+============================================================
+30. NEW HIGHS — THE GREAT PARADOX
+============================================================
+
+A major behavioral lesson:
+
+Many investors feel comfortable buying stocks that are far below their old
+highs.
+
+O'Neil argues that:
+what feels "expensive" because it is near/at a new high can actually be
+stronger than a stock that looks cheap because it is near its lows.
+
+His historical research found:
+NEW-HIGH STOCKS often continued higher,
+while NEW-LOW STOCKS often continued lower.
+
+Therefore:
+A NEW HIGH + STRONG BUSINESS + STRONG VOLUME
+can be a positive signal, not automatically a warning.
+
+============================================================
+31. DO NOT CONFUSE "LOW PRICE" WITH "CHEAP"
+============================================================
+
+A $10 stock can be expensive.
+
+A $200 stock can be cheap.
+
+The share price alone says almost nothing about value or opportunity.
+
+Always analyze:
+- EPS,
+- growth,
+- market capitalization,
+- shares outstanding,
+- valuation,
+- and price/volume structure.
+
+============================================================
+32. S — SUPPLY AND DEMAND
+============================================================
+
+The stock market ultimately follows:
+SUPPLY
+and
+DEMAND.
+
+More buying pressure relative to available shares:
+-> upward price pressure.
+
+More selling pressure relative to buying:
+-> downward pressure.
+
+O'Neil therefore examines:
+- shares outstanding,
+- float,
+- trading volume,
+- turnover,
+- and accumulation/distribution behavior.
+
+============================================================
+33. SMALLER SUPPLY CAN AMPLIFY DEMAND
+============================================================
+
+A company with relatively few shares outstanding can sometimes move more
+rapidly when strong demand appears.
+
+A large-company stock may require enormous capital flows to move
+significantly.
+
+A smaller capitalization business can therefore have:
+- greater percentage-move potential,
+- but also potentially greater volatility.
+
+============================================================
+34. VOLUME
+============================================================
+
+Volume measures participation.
+
+Price + volume should be analyzed together.
+
+A powerful breakout should generally show:
+- strong price movement,
+- and increased trading volume.
+
+The book repeatedly emphasizes:
+PRICE MOVEMENT WITHOUT SUPPORTING VOLUME CAN BE LESS CONVINCING.
+
+============================================================
+35. ACCUMULATION
+============================================================
+
+Accumulation refers to substantial buying by large market participants.
+
+Clues can include:
+- price rises on higher-than-normal volume,
+- repeated support,
+- and strong relative price performance.
+
+Distribution:
+- price declines on heavy volume,
+- repeated failed advances,
+- and increasing institutional selling.
+
+The individual investor cannot directly observe every institutional order,
+but price/volume can reveal evidence of large participation.
+
+============================================================
+36. L — LEADER OR LAGGARD
+============================================================
+
+O'Neil wants:
+LEADERS.
+
+Avoid:
+LAGGARDS.
+
+A leader is a company whose stock:
+- performs strongly relative to the market,
+- has strong earnings,
+- and belongs to a strong group.
+
+A laggard may:
+- look cheap,
+- have a low P/E,
+- be far below its high,
+- but still be underperforming because its business or price action is weak.
+
+============================================================
+37. RELATIVE STRENGTH
+============================================================
+
+Relative strength compares a stock's price performance with other stocks or
+the market.
+
+A high relative-strength stock demonstrates:
+- superior performance,
+- and market demand.
+
+The book's historical methodology strongly emphasizes relative-strength
+ranking as a way to identify leaders.
+
+============================================================
+38. DO NOT BUY THE SECOND-BEST COMPANY JUST BECAUSE IT IS CHEAPER
+============================================================
+
+One recurring O'Neil theme:
+
+The strongest company in the group can continue outperforming while weaker
+companies remain weak.
+
+Therefore:
+QUALITY OF LEADERSHIP CAN MATTER MORE THAN CHEAPNESS.
+
+If two companies are in the same industry:
+- prefer the one with better earnings,
+- better relative strength,
+- better price action,
+- and better institutional demand.
+
+============================================================
+39. INDUSTRY GROUP STRENGTH
+============================================================
+
+A stock is more likely to succeed when its industry group is strong.
+
+Therefore rank the:
+- market sector,
+- industry,
+- subgroup,
+- then stock.
+
+The desired sequence is:
+
+STRONG MARKET
+    ->
+STRONG INDUSTRY GROUP
+        ->
+STRONG LEADING STOCK
+            ->
+STRONG BASE / BUY POINT.
+
+============================================================
+40. I — INSTITUTIONAL SPONSORSHIP
+============================================================
+
+Large professional institutions can provide substantial buying power.
+
+Examples:
+- mutual funds,
+- pension funds,
+- insurance companies,
+- investment managers.
+
+O'Neil wants:
+SOME QUALITY INSTITUTIONAL SPONSORSHIP.
+
+But not necessarily:
+ALMOST ALL INSTITUTIONS ALREADY OWNING IT.
+
+Why?
+
+If no institutions own a stock:
+- demand may be too weak.
+
+If virtually every major institution already owns it:
+- future buying capacity may be limited,
+- and the stock can become crowded.
+
+The ideal condition is:
+GOOD STOCK + GROWING PROFESSIONAL INTEREST.
+
+============================================================
+41. QUALITY OF INSTITUTIONAL SPONSORS
+============================================================
+
+Not all institutional owners are equal.
+
+A respected fund with a history of owning leading stocks can be more
+meaningful than a small or poor-performing institution.
+
+The investor should look for:
+- high-quality professional sponsorship,
+- increasing ownership,
+- and broadening institutional participation.
+
+============================================================
+42. M — MARKET DIRECTION
+============================================================
+
+This is the final CAN SLIM letter and one of the most important.
+
+Even excellent stocks can fall in a weak general market.
+
+Therefore:
+MARKET DIRECTION COMES BEFORE AGGRESSIVE BUYING.
+
+The investor should study:
+- major market indexes,
+- price/volume action,
+- distribution days,
+- follow-through,
+- and overall market trend.
+
+============================================================
+43. DO NOT FIGHT THE GENERAL MARKET
+============================================================
+
+If the market is in a significant correction or bear phase:
+- breakouts are more likely to fail,
+- leading stocks can be damaged,
+- and risk increases.
+
+A strong stock in a weak market is not automatically a safe buy.
+
+============================================================
+44. MARKET FOLLOW-THROUGH
+============================================================
+
+O'Neil's framework looks for confirmation that a new market rally is real.
+
+A concept commonly used in the book:
+FOLLOW-THROUGH.
+
+The idea:
+After a market decline and attempted rally,
+look for a strong market advance on higher volume at the appropriate point
+after the low.
+
+The exact timing rules are historical and should be studied from the book's
+market chapters rather than treated as a universal mathematical guarantee.
+
+============================================================
+45. DISTRIBUTION DAYS
+============================================================
+
+Distribution describes:
+- significant market declines,
+- often on heavier volume,
+- indicating meaningful institutional selling.
+
+Several distribution events close together can signal weakening market
+conditions.
+
+This matters because:
+STOCK SELECTION SHOULD BE MODIFIED WHEN THE GENERAL MARKET CHANGES.
+
+============================================================
+46. CAN SLIM — COMPLETE SCREEN
+============================================================
+
+A strong candidate ideally has:
+
+C:
+Strong current quarterly EPS increase.
+
+A:
+Strong multi-year annual EPS growth.
+
+N:
+New product, new management, new industry condition, or new high.
+
+S:
+Favorable supply/demand and meaningful volume.
+
+L:
+Leader with strong relative strength.
+
+I:
+Quality institutional sponsorship that is present/increasing.
+
+M:
+General market in a favorable trend.
+
+The goal is:
+ALL THE PIECES SHOULD ALIGN.
+
+============================================================
+47. CHARTS ARE THE EXECUTION TOOL
+============================================================
+
+Fundamentals can identify:
+WHAT TO BUY.
+
+Charts help determine:
+WHEN TO BUY.
+
+A strong company bought:
+- too early,
+- too late,
+- or during a weak market
+
+can still produce a poor outcome.
+
+Therefore:
+FUNDAMENTALS + PRICE/VOLUME = CAN SLIM EXECUTION.
+
+============================================================
+48. WHAT A GOOD BASE DOES
+============================================================
+
+A leading stock often needs a period of:
+- price consolidation,
+- digestion of prior gains,
+- and accumulation.
+
+A proper base creates:
+- a defined area of resistance,
+- an identifiable buy point,
+- and an opportunity for institutional demand to reveal itself.
+
+============================================================
+49. COMMON BASE PATTERNS
+============================================================
+
+The book's chart-reading framework includes classic formations such as:
+
+- cup with handle,
+- double bottom,
+- flat base,
+- and other consolidation structures.
+
+The investor should learn:
+- depth,
+- duration,
+- shape,
+- volume pattern,
+- position within the market cycle,
+- and breakout behavior.
+
+============================================================
+50. CUP WITH HANDLE
+============================================================
+
+GENERAL STRUCTURE:
+
+LEFT SIDE DECLINE
+    ->
+BOTTOM / ROUNDING
+    ->
+RIGHT SIDE RECOVERY
+    ->
+HANDLE / SHORTER CONSOLIDATION
+    ->
+BREAKOUT
+
+A proper cup should generally:
+- have a recognizable prior uptrend,
+- correct and consolidate,
+- round rather than collapse into an extremely sharp V,
+- build the right side,
+- form a handle,
+- and then break out through the proper resistance/pivot.
+
+============================================================
+51. CUP DEPTH
+============================================================
+
+O'Neil's historical guidelines generally favor moderate corrections.
+
+A cup that is:
+- too shallow may not shake out enough weak holders,
+- too deep may indicate excessive damage.
+
+The exact acceptable depth depends on:
+- market conditions,
+- the magnitude of the prior advance,
+- and the severity of the general market correction.
+
+Do not apply a single percentage mechanically.
+
+============================================================
+52. THE HANDLE
+============================================================
+
+The handle is a final, relatively controlled consolidation.
+
+A healthy handle often shows:
+- quieter trading,
+- limited downward movement,
+- and weakening volume during the pullback.
+
+Danger signs:
+- deep handle,
+- heavy selling volume,
+- excessive volatility,
+- or a handle forming far below the old highs.
+
+The handle should represent:
+CONTROLLED CONSOLIDATION,
+not a collapse.
+
+============================================================
+53. THE BUY POINT / PIVOT
+============================================================
+
+The buy point is generally the price level where:
+- the stock breaks above resistance from a proper base,
+- and demand overwhelms the remaining supply.
+
+Confirmation improves when:
+- volume expands strongly,
+- market conditions are supportive,
+- industry group is strong,
+- and the stock is acting like a leader.
+
+============================================================
+54. BREAKOUT VOLUME
+============================================================
+
+O'Neil emphasizes volume expansion on breakouts.
+
+A breakout without strong demand can:
+- fail,
+- reverse,
+- or become a false breakout.
+
+Strong volume suggests:
+institutional demand is participating.
+
+The exact historical volume percentages in the book should be treated as
+source-specific guidelines, not universal laws.
+
+============================================================
+55. CHASE RISK
+============================================================
+
+Buying far above the proper buy point can increase risk.
+
+The further a stock moves beyond its ideal pivot:
+- the farther away the logical risk point becomes,
+- the greater the chance of buying late,
+- and the more difficult the stop becomes.
+
+Therefore:
+BUY CORRECTLY FROM A PROPER BASE,
+not after a huge extension.
+
+============================================================
+56. FAILED BREAKOUTS
+============================================================
+
+A breakout that quickly reverses into the prior base can be a warning.
+
+Possible causes:
+- weak market,
+- weak earnings,
+- poor industry group,
+- inadequate institutional demand,
+- or defective base structure.
+
+The key:
+ACT QUICKLY WHEN THE ORIGINAL ASSUMPTION IS INVALIDATED.
+
+============================================================
+57. POSITION SIZE
+============================================================
+
+Position sizing should reflect:
+- account size,
+- risk,
+- conviction,
+- and market conditions.
+
+Do not become heavily concentrated in one stock simply because the story is
+exciting.
+
+The major O'Neil discipline is:
+PROTECT CAPITAL BY CONTROLLING LOSSES.
+
+============================================================
+58. RISK CONTROL — CUT LOSSES QUICKLY
+============================================================
+
+One of O'Neil's most well-known rules is to cut losses quickly.
+
+The historical guide in his system is roughly:
+7%-8% below the purchase price.
+
+The point is NOT that 7% is a universal mathematical law.
+
+The point is:
+DO NOT ALLOW A SMALL, NORMAL TRADE ERROR TO BECOME A CATASTROPHIC LOSS.
+
+A small controlled loss can be recovered.
+A very large loss requires disproportionately larger future gains.
+
+============================================================
+59. LOSS RECOVERY MATHEMATICS
+============================================================
+
+Approximate recovery examples:
+
+Loss = 10%
+Required gain to recover = about 11.1%
+
+Loss = 20%
+Required gain = 25%
+
+Loss = 50%
+Required gain = 100%
+
+Therefore:
+LARGE LOSSES DESTROY COMPOUNDING.
+
+This is why O'Neil treats loss control as central, not optional.
+
+============================================================
+60. NEVER "AVERAGE DOWN" AUTOMATICALLY
+============================================================
+
+A common mistake O'Neil criticizes:
+BUY MORE BECAUSE THE STOCK FELL.
+
+If the original thesis is wrong:
+adding more simply increases the loss.
+
+His preferred behavior is often:
+ADD TO SUCCESSFUL POSITIONS AFTER THEY CONFIRM,
+not blindly add to declining positions.
+
+============================================================
+61. ADDING TO WINNERS
+============================================================
+
+The book emphasizes that strong stocks can be bought in stages as they
+prove themselves.
+
+The principle:
+INCREASE EXPOSURE AFTER SUCCESSFUL CONFIRMATION,
+not simply because a position is cheaper.
+
+This is sometimes called pyramiding.
+
+It must still be controlled:
+- risk must remain manageable,
+- the stock must continue acting well,
+- and the market must remain supportive.
+
+============================================================
+62. WHEN TO TAKE PROFITS
+============================================================
+
+The exact exit depends on:
+- how the stock advanced,
+- the category,
+- the base,
+- market environment,
+- and the behavior of the earnings story.
+
+For a typical growth stock:
+O'Neil historically discussed taking profits after substantial appreciation
+when the stock no longer behaved like a strong leader.
+
+But:
+DO NOT SELL A TRUE BIG WINNER SIMPLY BECAUSE IT HAS DOUBLED.
+
+First ask:
+HAS THE STORY BROKEN?
+
+============================================================
+63. BIG WINNERS NEED ROOM
+============================================================
+
+A stock that:
+- breaks out strongly,
+- continues to hold the moving averages,
+- produces excellent earnings,
+- and remains the leader
+
+may continue much farther.
+
+Selling too early is one of the easiest ways to destroy the benefit of
+owning a major winner.
+
+============================================================
+64. 20% IN 8 WEEKS / RAPID ADVANCES
+============================================================
+
+O'Neil discusses a special historical rule for unusually fast advances.
+
+When a stock rises roughly 20% or more very quickly after a correct
+breakout, that can signal exceptional institutional demand.
+
+In some cases the stock may deserve more patience rather than immediate
+profit-taking.
+
+This is commonly associated with the book's "eight-week hold" concept for
+fast, powerful breakouts.
+
+Treat this as a historical O'Neil rule, not a guarantee.
+
+============================================================
+65. WHEN A WINNER SHOULD BE SOLD
+============================================================
+
+Potential warning signs:
+
+- earnings deterioration,
+- significant earnings deceleration,
+- failed breakout,
+- heavy-volume reversal,
+- abnormal price behavior,
+- major support violation,
+- late-stage base failure,
+- repeated institutional distribution,
+- loss of leadership,
+- weakening industry group,
+- or market entering a major correction.
+
+The exact sell signal depends on the combination of fundamental and technical
+evidence.
+
+============================================================
+66. SELLING A STOCK THAT IS DOWN
+============================================================
+
+If the stock falls to the predefined loss limit:
+SELL.
+
+Do not:
+- hope,
+- average down,
+- rationalize,
+- wait for the analyst to change the target,
+- or wait for the stock to "come back."
+
+The objective:
+PROTECT CAPITAL.
+
+============================================================
+67. SELLING WHEN EARNINGS DETERIORATE
+============================================================
+
+If earnings growth:
+- decelerates sharply,
+- becomes negative,
+- or repeatedly misses expectations,
+
+reassess the stock.
+
+This is especially important if the stock price begins showing:
+- heavy-volume selling,
+- failed breakouts,
+- or loss of relative strength.
+
+============================================================
+68. DIVERSIFICATION — O'NEIL'S VIEW
+============================================================
+
+O'Neil's method is not a "buy everything" approach.
+
+He prefers:
+- a relatively focused group of strong ideas,
+- with attention to risk,
+- while avoiding excessive concentration.
+
+The exact number of holdings depends on:
+- account size,
+- market condition,
+- quality of opportunities,
+- and ability to monitor the positions.
+
+The principle:
+DIVERSIFY ENOUGH TO MANAGE RISK,
+BUT DO NOT FILL THE PORTFOLIO WITH WEAK IDEAS JUST FOR DIVERSITY.
+
+============================================================
+69. INVEST FOR THE LONG PULL — BUT NOT BLINDLY
+============================================================
+
+"Long term" does NOT mean:
+hold everything forever.
+
+O'Neil's approach is:
+hold a stock while:
+- its fundamental story remains strong,
+- its technical behavior remains strong,
+- and the market environment is supportive.
+
+Sell when the evidence changes.
+
+============================================================
+70. BUYING ON MARGIN
+============================================================
+
+Margin can amplify:
+- gains,
+- and losses.
+
+O'Neil discusses the danger of using borrowed money without sufficient
+discipline.
+
+If a stock declines:
+- losses are magnified,
+- interest is owed,
+- and forced liquidation can occur.
+
+Therefore:
+MARGIN SHOULD NEVER BE USED AS A SUBSTITUTE FOR GOOD STOCK SELECTION
+OR RISK CONTROL.
+
+This is especially important for Indian markets where current margin
+requirements and derivative leverage must be verified separately.
+
+============================================================
+71. SHORT SELLING
+============================================================
+
+Short selling profits from decline rather than advance.
+
+Risks:
+- losses can be theoretically very large,
+- short squeezes,
+- borrow costs,
+- dividends owed,
+- margin calls,
+- and timing difficulty.
+
+O'Neil's primary system is designed around finding strong stocks to buy,
+not around making short selling the core strategy.
+
+============================================================
+72. OPTIONS
+============================================================
+
+Options can create:
+- leverage,
+- rapid gains,
+- and rapid losses.
+
+The biggest danger for a stock-oriented investor:
+BEING RIGHT ABOUT THE DIRECTION BUT WRONG ABOUT THE TIMING.
+
+An option can expire before the expected move occurs.
+
+Therefore:
+OPTIONS ARE NOT A SUBSTITUTE FOR CORRECT STOCK ANALYSIS.
+
+============================================================
+73. OTC STOCKS
+============================================================
+
+OTC securities can contain:
+- less liquidity,
+- weaker disclosure,
+- greater manipulation risk,
+- wider spreads,
+- and higher volatility.
+
+O'Neil's framework places significant emphasis on:
+- quality,
+- liquidity,
+- institutional participation,
+- and chart confirmation.
+
+The investor should be especially careful with low-liquidity securities.
+
+============================================================
+74. NEW ISSUES / IPOs
+============================================================
+
+New issues can become major winners when:
+- the company is exceptional,
+- growth is strong,
+- institutions support the issue,
+- and the market is favorable.
+
+But they also carry risks:
+- limited trading history,
+- limited earnings history,
+- aggressive expectations,
+- and lack of established chart patterns.
+
+The investor must evaluate:
+- business quality,
+- earnings,
+- price,
+- supply,
+- institutional demand,
+- and the IPO structure.
+
+============================================================
+75. MUTUAL FUNDS
+============================================================
+
+The book also discusses mutual funds.
+
+Important factors:
+- historical performance,
+- management,
+- investment style,
+- expense ratios,
+- turnover,
+- and consistency.
+
+For CAN SLIM investors:
+fund selection is different from stock selection.
+
+A strong individual stock process does not automatically imply a strong
+mutual-fund strategy.
+
+============================================================
+76. LEADING INDUSTRY GROUPS
+============================================================
+
+O'Neil places strong importance on industry-group strength.
+
+A stock's performance is influenced by:
+- industry demand,
+- sector momentum,
+- institutional money,
+- and broader economic conditions.
+
+When possible:
+PREFER LEADERS IN LEADING GROUPS.
+
+============================================================
+77. INDUSTRY GROUP RANKING
+============================================================
+
+A practical approach:
+
+1. Identify the strongest broad sectors.
+2. Find the strongest industry groups.
+3. Compare the stocks within the group.
+4. Select the true leaders.
+5. Check CAN SLIM fundamentals.
+6. Wait for the proper technical buy point.
+
+============================================================
+78. WHY GROUP CONFIRMATION MATTERS
+============================================================
+
+A stock can have:
+- excellent company earnings,
+- but weak industry conditions.
+
+A strong industry can provide:
+- more demand,
+- more institutional attention,
+- and a supportive environment.
+
+Therefore:
+GOOD COMPANY + BAD GROUP
+can be less attractive than:
+GOOD COMPANY + STRONG GROUP.
+
+============================================================
+79. DAILY FINANCIAL NEWS
+============================================================
+
+The book encourages learning to read financial news as an investor.
+
+Do not simply ask:
+"What happened?"
+
+Ask:
+"HOW DOES THIS CHANGE THE BUSINESS OR EARNINGS?"
+
+Examples:
+- price increase,
+- new contract,
+- new product,
+- regulation,
+- acquisition,
+- inventory,
+- management change,
+- industry capacity.
+
+Separate:
+HEADLINE
+from
+ECONOMIC IMPACT.
+
+============================================================
+80. TAPE READING
+============================================================
+
+Tape reading is the interpretation of:
+- price,
+- volume,
+- order behavior,
+- and how the stock responds to news.
+
+The modern investor may not read a physical ticker tape, but the principle
+still applies:
+
+WATCH HOW PRICE AND VOLUME REACT TO INFORMATION.
+
+A favorable news event with a weak price response can be informative.
+A negative headline followed by strong price action can also be informative.
+
+The reaction can matter as much as the news itself.
+
+============================================================
+81. PRICE RESPONSE TO NEWS
+============================================================
+
+Ask:
+- Did the stock gap up?
+- Did volume expand?
+- Did price hold the gains?
+- Did it reverse?
+- Did competitors react similarly?
+- Is the move broad or isolated?
+
+A strong stock often shows:
+STRENGTH IN THE FACE OF VOLATILITY AND NEWS.
+
+============================================================
+82. DAILY / WEEKLY CHARTS
+============================================================
+
+O'Neil's chart process emphasizes:
+- daily price/volume,
+- weekly price/volume,
+- moving averages,
+- relative strength,
+- bases,
+- breakouts,
+- and distribution.
+
+Weekly charts can reduce noise and make major bases clearer.
+
+Daily charts help:
+- exact timing,
+- breakout details,
+- volume spikes,
+- and support/resistance behavior.
+
+Use both.
+
+============================================================
+83. 50-DAY MOVING AVERAGE
+============================================================
+
+The 50-day moving average is used as an important reference for:
+- trend,
+- support,
+- and risk.
+
+A strong leader often:
+- advances above it,
+- pulls back toward it,
+- and finds support.
+
+Repeated violations can signal weakness.
+
+The exact interpretation depends on:
+- market conditions,
+- volume,
+- and the broader pattern.
+
+============================================================
+84. 200-DAY MOVING AVERAGE
+============================================================
+
+The 200-day moving average helps identify longer-term trend.
+
+A stock that is:
+- above a rising long-term moving average
+is generally in a stronger long-term condition than a stock far below a
+declining long-term average.
+
+It is context, not a standalone buy/sell signal.
+
+============================================================
+85. RELATIVE STRENGTH LINE
+============================================================
+
+The relative strength line compares a stock's performance to a benchmark.
+
+Ideal behavior for a leader:
+- relative strength improves,
+- ideally near or at new highs around the breakout.
+
+A stock price making a new high while relative strength remains weak can be
+less convincing.
+
+============================================================
+86. VOLUME DRY-UP
+============================================================
+
+During a healthy consolidation or handle:
+volume can contract.
+
+This can indicate:
+- fewer sellers,
+- reduced supply,
+- and preparation for a new demand wave.
+
+During a breakout:
+volume should generally increase again.
+
+Therefore:
+QUIET CONSOLIDATION + POWERFUL DEMAND
+can create a constructive setup.
+
+============================================================
+87. DISTRIBUTION ON THE STOCK
+============================================================
+
+Warning signs include:
+- large decline on heavy volume,
+- repeated high-volume selling,
+- failed rebounds,
+- and price weakness relative to the market.
+
+A single bad day can happen.
+
+Repeated distribution is more concerning.
+
+============================================================
+88. LATE-STAGE FAILURES
+============================================================
+
+Repeated bases can become:
+- weaker,
+- more obvious,
+- more crowded,
+- or more susceptible to failure.
+
+A late-stage breakout that fails can be more serious than an early-stage
+failed attempt.
+
+This is part of the reason O'Neil emphasizes:
+BUY EARLY IN A MAJOR NEW CYCLE,
+NOT AFTER A STOCK HAS ALREADY MADE MULTIPLE ADVANCES.
+
+============================================================
+89. COMMON BASE STRUCTURE LOGIC
+============================================================
+
+A healthy base generally has:
+1. Prior advance.
+2. Controlled correction.
+3. Consolidation.
+4. Recovery.
+5. Final tightening/handle where appropriate.
+6. Breakout.
+7. Volume confirmation.
+
+An unhealthy base can show:
+- extremely deep declines,
+- violent volatility,
+- abnormal selling,
+- weak volume on attempts to advance,
+- or a breakout that immediately fails.
+
+============================================================
+90. BUY RIGHT — NOT MERELY BUY RIGHT COMPANY
+============================================================
+
+This is a major O'Neil principle.
+
+You can be:
+CORRECT ABOUT THE COMPANY
+but
+WRONG ABOUT THE ENTRY.
+
+The stock may need:
+- time to build a base,
+- more earnings confirmation,
+- stronger group action,
+- or a better market environment.
+
+Therefore CAN SLIM has:
+FUNDAMENTALS
++
+TIMING.
+
+============================================================
+91. MARKET LEADERS VS MARKET LAGGARDS
+============================================================
+
+LEADER characteristics:
+- strong earnings,
+- strong sales/profitability,
+- strong relative strength,
+- leading industry,
+- institutional demand,
+- strong chart,
+- proper breakout.
+
+LAGGARD characteristics:
+- weak relative strength,
+- lower-quality fundamentals,
+- poor industry group,
+- declining earnings,
+- low demand.
+
+Cheapness is not a valid reason to prefer the laggard.
+
+============================================================
+92. THE STOCK MARKET'S "GREAT PARADOX"
+============================================================
+
+O'Neil highlights a psychological paradox:
+
+Investors often think:
+"High price = dangerous."
+"Low price = safe."
+
+His historical research instead suggests:
+- strong stocks near/new highs can continue higher,
+- weak stocks near lows can continue lower.
+
+This is one of the most important mindset changes in the book.
+
+============================================================
+93. DO NOT BUY AFTER A HUGE EXTENDED RUN
+============================================================
+
+A stock may be a great long-term winner but a poor entry after:
+- a huge vertical run,
+- multiple consecutive advances,
+- or a large distance above its proper base.
+
+The best risk/reward often occurs:
+at the correct breakout from a constructive base.
+
+============================================================
+94. COMMON INVESTOR MISTAKE — AVERAGING DOWN
+============================================================
+
+Wrong process:
+
+BUY
+-> PRICE FALLS
+-> BUY MORE
+-> PRICE FALLS
+-> BUY MORE.
+
+Better O'Neil process:
+
+BUY PROPERLY
+-> STOCK CONFIRMS
+-> ADD IF APPROPRIATE
+-> CUT IF WRONG.
+
+The objective is to commit more capital to evidence of correctness, not
+evidence of failure.
+
+============================================================
+95. COMMON INVESTOR MISTAKE — BUYING LOW-PRICED STOCKS
+============================================================
+
+A low nominal share price is irrelevant.
+
+A stock at:
+₹50
+can be more expensive than one at:
+₹5,000
+
+depending on:
+- earnings,
+- shares outstanding,
+- market capitalization,
+- growth,
+- and valuation.
+
+Therefore:
+NEVER EQUATE SHARE PRICE WITH CHEAPNESS.
+
+============================================================
+96. COMMON INVESTOR MISTAKE — BUYING BECAUSE IT FELL
+============================================================
+
+A falling price is not a bargain signal.
+
+It can mean:
+- earnings are deteriorating,
+- institutions are selling,
+- market conditions are bad,
+- the industry is weakening,
+- or the original thesis is broken.
+
+Wait for evidence of strength.
+
+============================================================
+97. COMMON INVESTOR MISTAKE — TAKING TIPS
+============================================================
+
+A tip can be:
+- late,
+- incomplete,
+- biased,
+- wrong,
+- or already reflected in price.
+
+Use outside information as:
+RESEARCH STARTING MATERIAL.
+
+Never make it the entire investment thesis.
+
+============================================================
+98. COMMON INVESTOR MISTAKE — LOW P/E
+============================================================
+
+A low P/E can exist because:
+- growth is poor,
+- earnings are near peak,
+- the stock is a laggard,
+- or the market expects deterioration.
+
+O'Neil therefore prioritizes:
+EARNINGS GROWTH
+and
+ACCELERATION
+over low-multiple hunting.
+
+============================================================
+99. COMMON INVESTOR MISTAKE — SELLING WINNERS TOO EARLY
+============================================================
+
+Investors frequently:
+- take a small profit,
+- then watch the stock become a huge winner.
+
+This can happen because:
+- the investor fears giving back gains,
+- the stock looks "too high,"
+- or the investor anchors to purchase price.
+
+The solution:
+Evaluate the company and chart, not your emotional comfort.
+
+============================================================
+100. COMMON INVESTOR MISTAKE — HOLDING LOSERS TOO LONG
+============================================================
+
+A stock can fall:
+- 7%,
+- 15%,
+- 30%,
+- 50%,
+- 80%,
+- or to zero.
+
+The investor must not allow hope to replace risk management.
+
+The book's disciplined loss rule is designed to prevent this.
+
+============================================================
+101. COMMON INVESTOR MISTAKE — IGNORING THE MARKET
+============================================================
+
+Even if a company is excellent:
+a broad bear market can overwhelm the stock.
+
+Therefore always monitor:
+M = MARKET DIRECTION.
+
+============================================================
+102. COMMON INVESTOR MISTAKE — TOO MUCH DIVERSIFICATION
+============================================================
+
+Owning many positions can create:
+- diluted attention,
+- diluted returns,
+- and ownership of mediocre stocks.
+
+Diversify enough to manage risk, but keep the portfolio focused on qualified
+ideas.
+
+============================================================
+103. COMMON INVESTOR MISTAKE — USING MARGIN EXCESSIVELY
+============================================================
+
+Borrowing can transform:
+a manageable temporary loss
+into:
+a forced permanent loss.
+
+Do not use leverage simply because a stock "looks certain."
+
+Markets can invalidate confidence quickly.
+
+============================================================
+104. COMMON INVESTOR MISTAKE — IGNORING CHARTS
+============================================================
+
+Fundamental investors sometimes ignore price/volume behavior.
+
+O'Neil's approach:
+fundamentals tell you WHAT;
+charts can tell you WHEN.
+
+A great company breaking down technically deserves caution.
+
+============================================================
+105. COMMON INVESTOR MISTAKE — IGNORING EARNINGS
+============================================================
+
+A beautiful chart cannot substitute for:
+- earnings,
+- sales,
+- profitability,
+- and future growth.
+
+For CAN SLIM:
+FUNDAMENTALS ARE THE CORE SCREEN.
+
+============================================================
+106. COMMON INVESTOR MISTAKE — IGNORING INDUSTRY GROUPS
+============================================================
+
+Strong companies often succeed within strong groups.
+
+Weak groups can undermine individual stocks.
+
+Always compare:
+- group strength,
+- competitor earnings,
+- and relative performance.
+
+============================================================
+107. PORTFOLIO MANAGEMENT
+============================================================
+
+A portfolio should consist of:
+- qualified stocks,
+- each backed by a clear thesis,
+- appropriate position sizes,
+- and disciplined exits.
+
+Do not let:
+- one stock become an accidental giant position,
+- or several correlated stocks create hidden concentration.
+
+============================================================
+108. POSITION CONCENTRATION
+============================================================
+
+Concentration can increase returns when the investor owns true leaders.
+
+But concentration also increases:
+- single-stock risk,
+- emotional pressure,
+- and drawdown.
+
+Therefore:
+CONCENTRATE IN HIGH-QUALITY IDEAS,
+BUT CONTROL TOTAL DOWNSIDE.
+
+============================================================
+109. MARKET TIMING VS STOCK SELECTION
+============================================================
+
+CAN SLIM is not merely:
+"Find good stocks."
+
+It is:
+
+GOOD STOCK
++
+GOOD MARKET
++
+GOOD BUY POINT.
+
+A strong setup in a weak market should receive less confidence.
+
+A favorable market improves the probability that breakouts will work.
+
+============================================================
+110. MARKET CORRECTIONS
+============================================================
+
+During corrections:
+- leading stocks can reset,
+- weak stocks break,
+- bases form,
+- and new leaders can prepare.
+
+Do not assume every market correction is a catastrophe.
+
+O'Neil's historical framework treats corrections as normal parts of the
+market cycle.
+
+============================================================
+111. FOLLOW-THROUGH DAY — PRACTICAL IDEA
+============================================================
+
+A market rally attempt becomes more credible when a later session shows:
+- strong index price advance,
+- meaningful volume expansion,
+- and supporting breadth/leadership.
+
+This is used to confirm that institutional demand may be returning.
+
+The historical rules in the book should be treated as one framework, not a
+guarantee of future market direction.
+
+============================================================
+112. MARKET TOP WARNING SIGNS
+============================================================
+
+Potential clues:
+- repeated distribution,
+- failed breakouts,
+- leading stocks breaking support,
+- high-volume reversals,
+- weakening earnings leaders,
+- and increasing volatility.
+
+The goal is not to predict the exact top.
+
+The goal is:
+REDUCE RISK WHEN THE EVIDENCE OF DISTRIBUTION BECOMES STRONG.
+
+============================================================
+113. MARKET BOTTOM / NEW BULL PHASE
+============================================================
+
+Potential clues:
+- selling pressure begins to dry up,
+- market indexes stop making new lows,
+- leading stocks begin to outperform,
+- earnings leaders emerge,
+- a follow-through occurs,
+- and more breakouts begin working.
+
+Again:
+the aim is confirmation, not perfect prediction.
+
+============================================================
+114. DAILY ROUTINE
+============================================================
+
+A disciplined O'Neil-style routine can be:
+
+BEFORE MARKET:
+- Review general market.
+- Review strongest industry groups.
+- Review leading stocks.
+- Check earnings announcements.
+- Check major news.
+- Identify proper buy points.
+- Define downside risk.
+
+DURING MARKET:
+- Watch price/volume.
+- Watch breakouts.
+- Watch market indexes.
+- Watch distribution.
+- Avoid chasing.
+
+AFTER MARKET:
+- Record trades.
+- Update watchlist.
+- Review breakout quality.
+- Reassess portfolio risk.
+- Prepare for tomorrow.
+
+============================================================
+115. FUNDAMENTAL + TECHNICAL WORKFLOW
+============================================================
+
+STEP 1
+SCREEN FOR EARNINGS.
+
+STEP 2
+CHECK ANNUAL GROWTH.
+
+STEP 3
+IDENTIFY THE "NEW" FACTOR.
+
+STEP 4
+CHECK SHARES / SUPPLY.
+
+STEP 5
+CHECK RELATIVE STRENGTH.
+
+STEP 6
+CHECK INSTITUTIONAL SPONSORSHIP.
+
+STEP 7
+CHECK INDUSTRY GROUP.
+
+STEP 8
+CHECK MARKET DIRECTION.
+
+STEP 9
+WAIT FOR A PROPER BASE AND BUY POINT.
+
+STEP 10
+BUY WITH DEFINED RISK.
+
+STEP 11
+CUT LOSERS QUICKLY.
+
+STEP 12
+ADD TO WINNERS ONLY AFTER CONFIRMATION.
+
+STEP 13
+LET MAJOR WINNERS DEVELOP.
+
+STEP 14
+SELL WHEN THE FUNDAMENTAL OR TECHNICAL STORY BREAKS.
+
+============================================================
+116. TWO-MINUTE STOCK THESIS
+============================================================
+
+Before buying, be able to answer:
+
+WHAT IS THE COMPANY?
+...
+
+WHY IS IT GROWING?
+...
+
+WHAT IS THE CURRENT EPS GROWTH?
+...
+
+WHAT IS THE ANNUAL EPS GROWTH?
+...
+
+WHAT IS NEW?
+...
+
+HOW MANY SHARES ARE OUTSTANDING?
+...
+
+IS VOLUME SHOWING DEMAND?
+...
+
+IS IT A LEADER?
+...
+
+WHAT INSTITUTIONS OWN IT?
+...
+
+IS THE INDUSTRY GROUP STRONG?
+...
+
+IS THE MARKET IN AN UPTREND?
+...
+
+WHERE IS THE BUY POINT?
+...
+
+WHERE WILL I EXIT IF WRONG?
+...
+
+WHAT WOULD MAKE ME SELL FOR A PROFIT?
+...
+
+============================================================
+117. CAN SLIM STOCK-SCREEN TEMPLATE
+============================================================
+
+COMPANY:
+SYMBOL:
+DATE:
+
+C — CURRENT QUARTER
+EPS growth YoY:
+Revenue growth:
+Margin change:
+Dilution:
+One-time items:
+Last two quarters:
+Acceleration/deceleration:
+
+A — ANNUAL
+5-year EPS trend:
+Average annual growth:
+Stability:
+Next-year estimate:
+New annual high potential:
+
+N — NEW
+New product:
+New service:
+New management:
+Industry change:
+New high:
+Catalyst:
+
+S — SUPPLY/DEMAND
+Shares outstanding:
+Float:
+Average volume:
+Breakout volume:
+Accumulation:
+Distribution:
+
+L — LEADER/LAGGARD
+Relative strength:
+Industry rank:
+Competitor comparison:
+Market leadership:
+
+I — INSTITUTIONS
+Institutional owners:
+Quality of sponsors:
+Increasing/decreasing ownership:
+Number of funds:
+
+M — MARKET
+Market trend:
+Distribution:
+Follow-through:
+Index position:
+Risk level:
+
+TECHNICAL
+Base type:
+Base depth:
+Base duration:
+Buy point:
+Distance from buy point:
+Moving averages:
+Relative strength line:
+Volume behavior:
+
+RISK
+Entry:
+Stop:
+Maximum loss:
+Position size:
+
+EXIT PLAN
+Fundamental failure:
+Technical failure:
+Profit-taking condition:
+Market exit condition:
+
+============================================================
+118. BUY CHECKLIST
+============================================================
+
+[ ] Current quarterly EPS strongly positive.
+[ ] Annual EPS history is strong.
+[ ] Earnings are accelerating or maintaining strength.
+[ ] New factor exists.
+[ ] Shares/supply are favorable.
+[ ] Volume confirms demand.
+[ ] Relative strength is strong.
+[ ] Stock is a leader, not a laggard.
+[ ] Institutions are present/accumulating.
+[ ] Industry group is strong.
+[ ] General market is supportive.
+[ ] Base is constructive.
+[ ] Buy point is clear.
+[ ] Entry is not excessively extended.
+[ ] Stop/risk is defined.
+
+============================================================
+119. DO NOT BUY CHECKLIST
+============================================================
+
+Avoid or investigate carefully when:
+
+[ ] Current EPS is flat or falling.
+[ ] Earnings growth is slowing sharply.
+[ ] Only a one-time gain created the profit increase.
+[ ] Stock is a persistent laggard.
+[ ] Relative strength is weak.
+[ ] Industry group is weak.
+[ ] Institutions are absent and demand is weak.
+[ ] Breakout occurs on weak volume.
+[ ] Stock is far extended above the proper buy point.
+[ ] Base is too deep/erratic.
+[ ] Market is under distribution.
+[ ] The idea comes only from a tip or story.
+[ ] The stock is cheap only because fundamentals are deteriorating.
+
+============================================================
+120. LOSS MANAGEMENT CHECKLIST
+============================================================
+
+[ ] Define maximum loss before entering.
+[ ] Use the historical 7%-8% rule as the source's reference point.
+[ ] Sell without arguing with the market when the risk limit is reached.
+[ ] Do not average down automatically.
+[ ] Do not widen the stop because of hope.
+[ ] Do not revenge trade.
+[ ] Reassess the market before re-entering.
+[ ] Protect capital for the next qualified opportunity.
+
+============================================================
+121. WINNER MANAGEMENT CHECKLIST
+============================================================
+
+[ ] Does the stock continue to be a leader?
+[ ] Are earnings still strong?
+[ ] Is the industry group still strong?
+[ ] Is the price above important trend references?
+[ ] Is volume constructive?
+[ ] Has a major sell signal appeared?
+[ ] Is the stock extended?
+[ ] Did the stock make a rapid 20%+ advance?
+[ ] Is the story still intact?
+[ ] Am I selling because of evidence or because the gain makes me nervous?
+
+============================================================
+122. COMMON MISTAKES — MASTER LIST
+============================================================
+
+1. Averaging down.
+2. Buying because the stock has fallen.
+3. Buying low-priced stocks just because they are cheap per share.
+4. Buying on tips.
+5. Buying second-rate companies because their P/E is low.
+6. Ignoring earnings.
+7. Ignoring industry strength.
+8. Ignoring market direction.
+9. Buying after a stock is already far extended.
+10. Selling winners too quickly.
+11. Holding losers too long.
+12. Refusing to use a stop.
+13. Using too much margin.
+14. Over-diversifying.
+15. Buying without knowing the story.
+16. Ignoring charts.
+17. Focusing on price instead of EPS growth.
+18. Letting emotions override the rules.
+
+============================================================
+123. "PRICE IS HIGH" IS NOT A REASON TO SELL
+============================================================
+
+A high nominal price is not itself a problem.
+
+What matters:
+- earnings,
+- growth,
+- demand,
+- institutional support,
+- valuation,
+- and price/volume structure.
+
+A strong stock can continue rising because the underlying company keeps
+becoming more valuable.
+
+============================================================
+124. "PRICE IS LOW" IS NOT A REASON TO BUY
+============================================================
+
+A stock near its low may be weak because:
+- earnings are deteriorating,
+- institutions are selling,
+- industry is shrinking,
+- or management is failing.
+
+Therefore:
+WAIT FOR STRENGTH + EARNINGS,
+not simply low price.
+
+============================================================
+125. THE ROLE OF CASH
+============================================================
+
+Cash is useful because it:
+- preserves flexibility,
+- allows you to wait,
+- and provides capital when the market produces new opportunities.
+
+Do not deploy all capital at once simply because the market feels exciting.
+
+============================================================
+126. TAXES AND COMMISSIONS
+============================================================
+
+O'Neil discusses trading costs and the need to consider:
+- commissions,
+- taxes,
+- account costs,
+- margin charges.
+
+However, he also argues that avoiding a necessary sell decision merely to
+avoid taxes can be more damaging than realizing a gain.
+
+The same principle:
+DO NOT LET SMALL COSTS OVERRIDE MAJOR RISK MANAGEMENT.
+
+For India:
+current STT, brokerage, GST, exchange charges, taxes, and other costs must
+be checked separately.
+
+============================================================
+127. BROKER / ACCOUNT SELECTION
+============================================================
+
+The book's historical brokerage discussion covers:
+- commissions,
+- service,
+- account opening,
+- and execution.
+
+Modern Indian investors should adapt the principle:
+COMPARE TOTAL COST + EXECUTION QUALITY + REGULATORY SAFETY.
+
+Do not choose solely on the lowest advertised fee.
+
+============================================================
+128. PROFESSIONAL PORTFOLIO MANAGEMENT
+============================================================
+
+The book also addresses:
+- mutual funds,
+- pension managers,
+- institutional investors,
+- and professional portfolio management.
+
+The same CAN SLIM principles can be applied at portfolio level:
+- leadership,
+- earnings,
+- industry strength,
+- market direction,
+- and risk control.
+
+============================================================
+129. INDIA-MARKET APPLICATION
+============================================================
+
+This source is historical and U.S.-market focused.
+
+Do not automatically transfer:
+- U.S. exchange mechanics,
+- old brokerage rules,
+- old SEC/NYSE/AMEX rules,
+- U.S. tax treatment,
+- historical market percentages,
+- or U.S.-specific mutual-fund structures.
+
+For Indian markets, the CAN SLIM logic can be translated into current data:
+
+C:
+Compare latest quarterly EPS year-over-year using current Indian financial
+filings.
+
+A:
+Study several years of annual EPS/profit history.
+
+N:
+Look for new products, management changes, capacity expansion, new markets,
+technology, or favorable industry changes.
+
+S:
+Study shares/float, turnover, volume, delivery data where appropriate, and
+institutional demand.
+
+L:
+Compare relative strength against NIFTY/SENSEX and peers.
+
+I:
+Study institutional ownership and changes where reliable data are available.
+
+M:
+Evaluate the current broader market trend using NIFTY/SENSEX and market
+breadth/volume indicators.
+
+Current Indian regulations, taxes, market hours, derivatives details,
+margin rules, and exchange-specific mechanics must be verified independently.
+
+============================================================
+130. INDIAN CAN SLIM ADAPTATION TEMPLATE
+============================================================
+
+COMPANY:
+NSE/BSE SYMBOL:
+SECTOR:
+INDUSTRY GROUP:
+
+C — CURRENT
+Latest quarterly EPS:
+YoY change:
+Revenue:
+Margin:
+Last quarter:
+Quarter before:
+Acceleration:
+
+A — ANNUAL
+5-year EPS trend:
+3-year CAGR:
+Stability:
+Recent peak EPS:
+Forward estimate:
+
+N — NEW
+Product:
+Service:
+Management:
+Capacity:
+Market expansion:
+Technology:
+Industry change:
+New price high:
+
+S — SUPPLY/DEMAND
+Shares outstanding:
+Promoter holding:
+Free float:
+Average volume:
+Breakout volume:
+Delivery/participation data:
+Institutional buying:
+
+L — LEADER
+Relative performance vs NIFTY:
+Relative performance vs sector:
+Peer ranking:
+RS line:
+Industry rank:
+
+I — INSTITUTIONAL
+Mutual funds:
+Insurance:
+Domestic institutions:
+Foreign institutions:
+Change in ownership:
+Quality of ownership:
+
+M — MARKET
+NIFTY trend:
+SENSEX trend:
+Breadth:
+Distribution:
+Follow-through:
+Market regime:
+
+TECHNICAL SETUP
+Base:
+Pivot/buy point:
+Volume:
+Moving averages:
+Relative strength:
+Support:
+Invalidation:
+
+RISK
+Entry:
+Stop:
+Maximum capital risk:
+Position size:
+
+EXIT
+Fundamental break:
+Technical break:
+Profit management:
+Market exit trigger:
+
+============================================================
+131. FINAL 30 RULES TO MEMORIZE
+============================================================
+
+1. Start with the best historical winners.
+2. Learn the characteristics before the big move.
+3. Current EPS growth is central.
+4. Annual EPS growth matters.
+5. Look for acceleration.
+6. Remove one-time earnings.
+7. Watch dilution.
+8. Do not be fooled by low P/E.
+9. Look for something new.
+10. New highs can be constructive.
+11. Supply and demand drive price.
+12. Volume reveals participation.
+13. Prefer leaders over laggards.
+14. Compare stocks within the industry group.
+15. Quality institutional sponsorship matters.
+16. Avoid overcrowded ownership.
+17. Market direction matters.
+18. Buy from proper bases.
+19. Wait for a valid breakout/buy point.
+20. Look for volume confirmation.
+21. Do not chase extended stocks.
+22. Cut losses quickly.
+23. Do not average down blindly.
+24. Add to winners only after confirmation.
+25. Let exceptional winners run while the story remains strong.
+26. Sell when fundamentals or technical evidence breaks.
+27. Use charts for timing.
+28. Review the market every day.
+29. Keep the portfolio focused on qualified ideas.
+30. Protect capital so you can exploit the next opportunity.
+
+============================================================
+132. FINAL MASTER CAN SLIM SCORECARD
+============================================================
+
+C — CURRENT EPS
+0 = weak
+1 = acceptable
+2 = strong
+3 = exceptional
+
+A — ANNUAL EPS
+0 = poor
+1 = mixed
+2 = strong
+3 = exceptional
+
+N — NEW
+0 = none
+1 = possible
+2 = strong
+3 = major catalyst
+
+S — SUPPLY/DEMAND
+0 = weak
+1 = neutral
+2 = constructive
+3 = strong demand
+
+L — LEADERSHIP
+0 = laggard
+1 = average
+2 = leader
+3 = clear group leader
+
+I — INSTITUTIONAL
+0 = absent/negative
+1 = limited
+2 = good
+3 = strong and increasing
+
+M — MARKET
+0 = hostile
+1 = uncertain
+2 = favorable
+3 = strongly favorable
+
+IMPORTANT:
+This scorecard is a study tool created from the book's framework. It is not
+a claim from O'Neil that every stock should literally be scored this way.
+
+============================================================
+133. FINAL PRE-TRADE ROUTINE
+============================================================
+
+BEFORE ENTERING:
+
+1. Check market.
+2. Check industry group.
+3. Check earnings.
+4. Check annual trend.
+5. Check the "new" factor.
+6. Check relative strength.
+7. Check institutions.
+8. Check supply/demand.
+9. Identify proper chart pattern.
+10. Identify pivot/buy point.
+11. Wait for breakout confirmation.
+12. Calculate position size.
+13. Define stop.
+14. Enter only if the total setup is favorable.
+
+============================================================
+134. FINAL POST-TRADE ROUTINE
+============================================================
+
+After every trade:
+
+[ ] Did I follow CAN SLIM?
+[ ] Did I buy at a proper point?
+[ ] Was volume supportive?
+[ ] Was the market supportive?
+[ ] Was the industry supportive?
+[ ] Did I cut the loss quickly if wrong?
+[ ] Did I sell early because of fear?
+[ ] Did I hold too long because of hope?
+[ ] Did I average down?
+[ ] Did I chase?
+[ ] Did I change the plan after entry?
+[ ] What should be repeated?
+[ ] What should be eliminated?
+
+============================================================
+135. FINAL SYNTHESIS
+============================================================
+
+O'Neil's system is best understood as a combination of:
+
+FUNDAMENTAL MOMENTUM
++
+NEW BUSINESS CATALYST
++
+SUPPLY/DEMAND
++
+LEADERSHIP
++
+INSTITUTIONAL DEMAND
++
+MARKET TREND
++
+PRICE/VOLUME TIMING
++
+STRICT LOSS CONTROL.
+
+In compact form:
+
+C
+CURRENT EPS
+    +
+A
+ANNUAL EPS
+    +
+N
+NEW
+    +
+S
+SUPPLY/DEMAND
+    +
+L
+LEADERSHIP
+    +
+I
+INSTITUTIONAL
+    +
+M
+MARKET
+    ->
+PROPER BASE
+    ->
+BUY POINT
+    ->
+VOLUME CONFIRMATION
+    ->
+CONTROL RISK
+    ->
+LET WINNERS DEVELOP
+    ->
+SELL WHEN THE STORY BREAKS.
+
+The deepest mindset shift in the book is:
+
+DO NOT BUY BECAUSE A STOCK LOOKS CHEAP.
+
+BUY BECAUSE:
+- the company is producing superior earnings,
+- the business has something new,
+- the stock is a leader,
+- demand is strong,
+- institutions are participating,
+- the market is favorable,
+- and the price is emerging from a proper technical structure.
+
+And when you are wrong:
+
+DO NOT ARGUE WITH THE MARKET.
+
+CUT THE LOSS.
+
+And when you are right:
+
+DO NOT SELL A TRUE WINNER TOO EARLY JUST BECAUSE IT HAS RISEN.
+
+Let the evidence determine the decision.
+
+END OF HOW TO MAKE MONEY IN STOCKS — STUDY NOTES

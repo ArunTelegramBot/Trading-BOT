@@ -1,0 +1,1189 @@
+HOW TO DAY TRADE FOR A LIVING — TRADING STUDY NOTES
+Andrew Aziz, Ph.D. — 3rd Edition
+
+SOURCE: Uploaded PDF, 132 pages.
+PURPOSE: Study notes and extraction of the book's main trading ideas. This is a condensed paraphrase, not a reproduction of the book.
+IMPORTANT: The thresholds, examples, broker references, market hours, regulations, and stock examples in this book are based on the author's experience and the US equity market context. They should not be assumed to apply unchanged to NSE/BSE or Indian derivatives.
+
+============================================================
+1. CENTRAL MESSAGE OF THE BOOK
+============================================================
+
+The author presents day trading as a serious profession rather than a quick-money activity.
+
+Core ideas:
+- Day trading is difficult and competitive.
+- The trader is competing against experienced participants and sophisticated automated trading.
+- Reading a book is not enough to become profitable; practice, tools, education, discipline and risk management are required.
+- The author repeatedly emphasizes that risk management is more important than collecting many indicators or strategies.
+- The trader's job is not merely to predict price. It is to select a suitable setup, define risk, execute a plan, and manage the position.
+- Emotional trading, over-trading, poor money management and inability to accept losses are presented as major causes of failure.
+- The author prefers a small number of repeatable setups rather than a complicated collection of indicators.
+
+The book's overall progression is:
+1. Understand day trading.
+2. Treat trading as a business.
+3. Control account risk.
+4. Find stocks with suitable volatility, liquidity and catalysts.
+5. Use scanners/watchlists to find opportunities.
+6. Read price action and candlesticks.
+7. Master a small number of setups.
+8. Build a repeatable pre-trade and post-trade process.
+9. Practice in simulation before using meaningful real capital.
+10. Keep learning and remain skeptical of claims.
+
+============================================================
+2. THE AUTHOR'S ELEVEN DAY-TRADING RULES
+============================================================
+
+RULE 1 — Day trading is not a strategy to get rich quickly.
+
+Meaning:
+- Reject the expectation of fast wealth.
+- Approach trading as a profession requiring training and preparation.
+- A lucky early trade can create the dangerous illusion that trading is easy.
+
+RULE 2 — Day trading is not easy. It is a serious business.
+
+Meaning:
+- Prepare before the market opens.
+- Use suitable tools and software.
+- Study and practice.
+- Treat capital as business capital, not entertainment money.
+- Develop discipline and professional habits.
+
+RULE 3 — Day traders do not hold positions overnight.
+
+Meaning:
+- The author's day-trading framework closes positions before the market closes.
+- If necessary, he accepts a loss rather than carrying the position overnight.
+- This separates his day-trading approach from swing trading.
+
+RULE 4 — Always ask whether the stock is moving because of the overall market or because of its own catalyst.
+
+Meaning:
+- Distinguish broad market/sector movement from stock-specific price action.
+- The author's preferred day-trading candidates have a unique reason for moving.
+- Examples of catalysts discussed: earnings, earnings surprises/warnings, FDA decisions, mergers/acquisitions, partnerships, product releases, contracts, restructuring, management changes, buybacks, splits and debt offerings.
+
+RULE 5 — Success in day trading comes from risk management: low-risk entries with high potential reward.
+
+Author's minimum stated profit-to-loss target:
+- 2:1.
+
+Example used in the book:
+- Risk $100.
+- Desired potential profit at least $200.
+- If the setup offers less than this, the author says to keep looking.
+
+RULE 6 — The broker buys/sells; the trader's job is to manage risk.
+
+Meaning:
+- Risk definition, position size, stop placement and discipline are central responsibilities.
+- Strategy without risk management is insufficient.
+
+RULE 7 — Retail traders should focus on “Alpha Predators.”
+
+The author's definition:
+- High relative volume.
+- Fundamental catalyst.
+- Price movement independent of the overall market and sector.
+- Significant retail trader interest.
+
+RULE 8 — Experienced traders behave like guerrilla soldiers.
+
+Meaning:
+- Wait for the right opportunity.
+- Enter when the setup is ready.
+- Take profits.
+- Exit rather than staying exposed unnecessarily.
+- The book strongly discourages frequent, low-quality trading.
+
+RULE 9 — Hollow/bullish candles indicate buying pressure; filled/bearish candles indicate selling pressure.
+
+Meaning:
+- Candlesticks are interpreted as evidence of the balance of power between buyers and sellers.
+- The author views day trading partly as reading market participants' behavior through price action.
+
+RULE 10 — Indicators only indicate; they should not dictate.
+
+Meaning:
+- Indicators should support decision-making rather than replace judgment.
+- The author uses indicators such as RSI and moving averages but rejects the idea of a single “holy grail” indicator.
+
+RULE 11 — Profitable trading does not involve emotion.
+
+Meaning:
+- Build a process so decisions do not depend on fear, greed, excitement or panic.
+- Predefine the trade plan.
+- Execute the plan.
+- Review performance afterward.
+
+============================================================
+3. DAY TRADING VS. OTHER STYLES
+============================================================
+
+The author's definition of day trading:
+- Position opened and closed within the same trading day.
+- No overnight position.
+
+Swing trading:
+- Position may be held from one day to weeks.
+- Different tools, time frame and stock-selection logic.
+
+Important lesson:
+- Do not mix strategies blindly across time frames.
+- A strategy designed for intraday trading may behave differently when a position is held overnight.
+
+============================================================
+4. LONG AND SHORT TRADING
+============================================================
+
+LONG:
+- Buy first.
+- Profit if price rises.
+- Exit by selling the shares.
+
+SHORT:
+- Borrow shares through a broker.
+- Sell them.
+- Profit if the price falls and the shares can later be bought back cheaper.
+
+Risks discussed by the author:
+- Long stock has a theoretical maximum loss limited by the stock reaching zero.
+- Short selling has theoretically unlimited price risk because the price can continue rising.
+- Borrow availability and borrowing costs matter.
+- The author says he is not structurally long-biased, but is more careful with short selling.
+
+Practical lesson:
+- Know whether the setup is designed for long or short execution.
+- Define the stop before entering.
+
+============================================================
+5. RETAIL VS. INSTITUTIONAL TRADERS
+============================================================
+
+The book argues that institutional traders have major advantages:
+- Large capital.
+- Sophisticated technology and algorithms.
+- High-frequency execution.
+- Ability to trade large volume.
+
+Retail trader's advantage, according to the author:
+- The retail trader can simply choose not to trade.
+- Institutions may be required to execute large orders.
+- The retail trader can wait for a high-quality opportunity.
+
+The author's warning:
+- Retail traders waste this advantage through over-trading.
+- Patience is a competitive advantage.
+- The trader does not have to defeat the large institutions; the goal is to avoid unnecessary exposure and take favorable setups.
+
+The author's “guerrilla” analogy:
+- Wait.
+- Strike when the setup appears.
+- Take the opportunity.
+- Get out.
+
+============================================================
+6. MARKET CONDITIONS AND TIME OF DAY
+============================================================
+
+The author prefers the early part of the trading session because, in his US-market experience:
+- Volume is generally higher near the open.
+- Volatility is greater.
+- Liquidity can be better.
+- Momentum setups may be more active.
+
+He is cautious about:
+- Pre-market trading because of lower liquidity.
+- Midday periods when volume may decline.
+- Trading after reaching a daily goal simply to continue trading.
+
+Important behavioral point:
+- A trader who loses early may be tempted to continue trading to recover the loss.
+- This can produce emotional, low-quality trading.
+- The author recommends reducing activity when high-quality setups are absent.
+
+Transfer note for Indian markets:
+- The book's clock times are US-specific. Do not copy them into NSE/BSE without separately checking Indian session structure and liquidity.
+
+============================================================
+7. RISK MANAGEMENT — THE CORE FRAMEWORK
+============================================================
+
+The author presents three essential components:
+1. Trading psychology.
+2. A logical trading strategy.
+3. Risk management.
+
+He compares these to the three legs of a stool: removing one causes the system to fail.
+
+Major principle:
+- No strategy wins every trade.
+- A losing streak can occur even when the setup has positive expectancy.
+- Risk control keeps an unfavorable sequence from destroying the account.
+
+The author repeatedly emphasizes:
+- Be a “good loser.”
+- Accept losses quickly when the setup is invalidated.
+- Do not hold a losing trade just because the company or stock is fundamentally attractive.
+- You can re-enter later; recovering from a large loss is much harder.
+
+============================================================
+8. THE BOOK'S 2% MAXIMUM-RISK RULE
+============================================================
+
+Author's stated maximum:
+- Never risk more than 2% of account equity on one trade.
+
+Examples in the book:
+- $30,000 account -> $600 maximum risk.
+- $10,000 account -> $200 maximum risk.
+- The author says risking less is acceptable; risking more is not.
+
+Important:
+- The author presents 2% as an absolute maximum for his framework, not as a universal law.
+- The appropriate number for an individual depends on strategy, account size, tolerance and circumstances.
+
+============================================================
+9. THREE-STEP POSITION-SIZING METHOD
+============================================================
+
+STEP 1 — Determine maximum dollar risk.
+- Establish the maximum amount you can lose on the trade before entering.
+- Book example: $40,000 account and conservative 1% risk = $400.
+
+STEP 2 — Determine risk per share.
+- Entry price minus logical stop price.
+- Example in the book: Entry $16, stop $14.50 -> $1.50 risk per share.
+
+STEP 3 — Calculate shares.
+- Maximum shares = maximum dollar risk / risk per share.
+- Example: $400 / $1.50 = approximately 266 shares, rounded to 250.
+
+Core formula:
+SHARE SIZE = MAXIMUM TRADE RISK / RISK PER SHARE
+
+Critical consequence:
+- If the logical stop is too far away to fit the account's risk limit, reduce share size or skip the trade.
+- Do not move the stop simply to fit a desired position size.
+
+============================================================
+10. REWARD-TO-RISK
+============================================================
+
+The author says:
+- A preferred minimum is 2:1 profit-to-loss.
+- Example: risk $100, seek at least $200 potential profit.
+- Better setups may offer more than 2:1.
+
+Reasoning:
+- With a positive reward/risk ratio, a trader does not need to win every trade to remain profitable.
+- Example in the book: with a 2:1 ratio, a trader can be wrong a substantial portion of the time and still have positive results, assuming consistent execution and other conditions.
+
+Study caution:
+- Reward/risk ratio alone does not create an edge.
+- A trade needs a credible probability of reaching the target before the stop.
+
+============================================================
+11. RISK MANAGEMENT QUESTIONS BEFORE EVERY TRADE
+============================================================
+
+The author's three main questions:
+1. Am I trading the right stock?
+2. What share size should I take?
+3. What is my stop loss?
+
+Additional self-checks from the psychology section:
+- Does this trade fit my strategy?
+- Which strategy is this?
+- Where is the stop if the trade goes wrong?
+- How much money am I risking?
+- What is the reward potential?
+- Am I focused and calm enough to execute?
+
+============================================================
+12. EMOTIONAL CONTROL
+============================================================
+
+The author identifies self-control as a major turning point in his own trading development.
+
+Main emotional dangers:
+- Fear.
+- Greed.
+- Excitement.
+- Revenge trading.
+- Desire to recover losses quickly.
+- Overconfidence after a winning streak.
+- Paralysis when a position becomes too large.
+- Changing the plan after entry.
+
+Key concept:
+- A trader must know what the market may do and also know what the trader will do.
+
+The author recommends continuous self-awareness:
+- Am I focused?
+- Am I calm?
+- Am I making decisions according to my rules?
+- Am I on a winning streak or losing streak?
+- Are my emotions affecting judgment?
+
+Discipline is described as a skill that must be exercised continuously.
+
+============================================================
+13. CHOOSING THE RIGHT STOCK
+============================================================
+
+The author's preferred day-trading stock characteristics:
+- High relative volume.
+- Volatility sufficient for the strategy.
+- A fundamental catalyst.
+- Retail trader interest.
+- Adequate liquidity.
+- A price movement that is not merely a broad market/sector move.
+
+The key concept is RELATIVE volume, not just total volume.
+
+Example logic:
+- A very large stock can normally trade huge volume.
+- Huge volume is not automatically unusual for that stock.
+- The useful question is whether today's volume is unusually high relative to that stock's own normal activity.
+
+============================================================
+14. “ALPHA PREDATORS”
+============================================================
+
+Author's definition:
+- Stocks trading independently of the overall market and their sector.
+- High relative volume.
+- Fundamental catalyst.
+- Strong retail interest.
+
+Typical catalysts listed:
+- Earnings report.
+- Earnings warning/pre-announcement.
+- Earnings surprise.
+- FDA approval/disapproval.
+- Merger or acquisition.
+- Alliance/partnership.
+- Major product release.
+- Major contract win/loss.
+- Restructuring or layoffs.
+- Management change.
+- Stock split.
+- Buyback.
+- Debt offering.
+
+Main filter:
+Ask: “Is this stock moving because the market is moving, or because this company has its own catalyst?”
+
+============================================================
+15. THE BOOK'S STOCK CATEGORIES
+============================================================
+
+The author divides his US equity universe into simplified groups.
+
+A. LOW-FLOAT, SUB-$10 STOCKS
+- Very volatile.
+- Can move extremely quickly.
+- Often manipulated.
+- High risk.
+- Author recommends them mainly for highly experienced traders.
+- Author associates Bull Flag/Momentum with this group.
+- He strongly warns beginners against shorting very volatile low-float stocks.
+
+B. MEDIUM-FLOAT, ABOUT $10-$100
+- Medium float in the author's approximate range.
+- The author says VWAP and Support/Resistance strategies are particularly suitable.
+
+C. LARGE-FLOAT / MEGA-CAP STOCKS
+- Require much more capital/volume to produce large intraday movement.
+- Author says they can work when there is a strong catalyst.
+- He associates Reversal and Moving Average strategies with this group.
+
+Important:
+- These price bands are historical examples from the book and should not be treated as current universal classifications.
+
+============================================================
+16. PRE-MARKET WATCHLIST PROCESS
+============================================================
+
+The author's scanner criteria include:
+- Pre-market gap of at least approximately $1.
+- At least about 50,000 pre-market shares traded.
+- Average daily volume above about 1 million shares.
+- ATR above about $0.50.
+- Fundamental catalyst.
+
+Then:
+1. Start with thousands of stocks.
+2. Use the scanner to reduce the universe.
+3. Check the news/catalyst for each candidate.
+4. Eliminate stocks whose movement is not explained by a suitable catalyst.
+5. Select only a few stocks for close monitoring.
+6. Plan trades before the opening bell.
+7. Execute the plan rather than improvising.
+
+The author says he normally focuses closely on only a few candidates because monitoring too many stocks reduces focus.
+
+============================================================
+17. REAL-TIME SCANNERS
+============================================================
+
+For setups that appear only after the market opens, the author uses real-time scans.
+
+His cited Volume Radar conditions include:
+- Gap of at least about $1.
+- ATR greater than about $0.50.
+- Relative volume at least about 1.5.
+- Average daily volume at least about 500,000 shares.
+
+For Momentum scanners:
+- Look for low float.
+- High relative volume.
+- High activity.
+
+For Reversal scanners:
+- Detect repeated directional candles.
+- Detect extreme price/indicator conditions.
+- Then manually confirm the setup.
+
+Scanner principle:
+- The scanner is a filter, not an automatic buy/sell system.
+- Final trade selection still requires chart review and risk assessment.
+
+============================================================
+18. TOOLS AND EXECUTION
+============================================================
+
+Tools discussed by the author:
+- Broker.
+- Fast execution platform.
+- High-speed Internet.
+- Scanner.
+- Real-time market data.
+- Trading community.
+
+The author emphasizes execution speed for day trading.
+
+Broker/margin lessons:
+- Leverage increases buying power but also increases potential losses.
+- Margin is a double-edged sword.
+- A trader must understand how much capital is actually at risk.
+- Margin calls are dangerous and should be avoided.
+
+Important India-market note:
+- The book's named broker, platform, leverage and US rules are not recommendations for Indian trading.
+- Indian broker/exchange rules must be checked independently before using similar tools or leverage.
+
+============================================================
+19. TRADING COMMUNITY — USE BUT DO NOT FOLLOW BLINDLY
+============================================================
+
+The author sees value in a trader community because it can provide:
+- Discussion.
+- Learning.
+- Exposure to other traders' processes.
+- Market awareness.
+- Emotional support after losses.
+
+But he gives an important warning:
+- Do not become a follower of the crowd.
+- Do not mirror another trader's positions automatically.
+- Think independently.
+- Crowds can become impulsive.
+- A crowd can follow a trend and then be caught when the trend reverses.
+
+============================================================
+20. CANDLESTICK FRAMEWORK
+============================================================
+
+Each candlestick shows:
+- Open.
+- High.
+- Low.
+- Close.
+
+The body represents the open-to-close range.
+The wicks/shadows show the high and low relative to the body.
+
+Author's basic interpretation:
+- Close above open -> buying pressure.
+- Close below open -> selling pressure.
+
+Market-psychology framework:
+- Buyers expect higher prices.
+- Sellers expect lower prices.
+- Undecided traders create urgency because either side can lose the opportunity if they wait.
+- Candles are viewed as a visual representation of the fight between buyers and sellers.
+
+Large bullish body:
+- Buyers strongly controlled that candle.
+
+Large bearish body:
+- Sellers strongly controlled that candle.
+
+Neutral / indecision candle:
+- Neither side clearly controls the period.
+- Can matter when it appears at an important support/resistance or at an extreme.
+
+============================================================
+21. SPINNING TOPS AND DOJIS
+============================================================
+
+Spinning top:
+- Upper and lower wicks are relatively large.
+- Body is comparatively small.
+- Suggests indecision/balance between buyers and sellers.
+
+Doji:
+- Small body relative to the range.
+- Represents indecision.
+- Can become useful for reversal confirmation when it occurs after an extended move and near another confirming condition.
+
+Important:
+- The author does not treat an indecision candle as an automatic trade signal.
+- Context matters: trend, location, volume, indicator extremes and confirmation.
+
+============================================================
+22. WARNING AGAINST SUBJECTIVE CHART PATTERNS
+============================================================
+
+The author is skeptical of many classical chart patterns and trend lines.
+
+His reasoning:
+- Trend lines can be drawn differently depending on the trader's bias.
+- Traders can see what they want to see.
+- Pattern interpretation can become wishful thinking.
+
+Therefore:
+- Prefer more objective reference points where possible.
+- Use price levels, VWAP, moving averages and clearly defined triggers.
+- Avoid forcing a pattern onto a chart simply because you want a trade.
+
+============================================================
+23. TRADE MANAGEMENT MODEL
+============================================================
+
+The author's example trade-management structure:
+- Enter the full position.
+- Sell roughly half at the first target.
+- Move stop to break-even.
+- Sell another portion at the next target.
+- Retain a smaller final portion for an extended move or until stopped.
+
+Example in the book:
+- Typical 800-share trade.
+- 400 shares out at first target.
+- 200 at the next target.
+- Final 200 held for further movement.
+
+Purpose:
+- Lock some profit.
+- Reduce risk after the first target.
+- Keep some exposure if the move continues.
+
+Scaling in:
+- The author explains scaling into positions but warns beginners not to confuse it with averaging down.
+- Adding to a planned position can be different from adding to a losing trade in an attempt to rescue it.
+- The author particularly warns against averaging down losing positions.
+
+============================================================
+24. ABCD PATTERN
+============================================================
+
+Structure:
+A = initial strong upward move.
+B = new high / extension.
+C = pullback that finds support above A.
+D = continuation toward/above B.
+
+Author's logic:
+- Do not chase the initial move at B.
+- Wait for the pullback.
+- Determine whether the stock establishes support at C.
+- Enter close to C when support is confirmed.
+- Stop below C.
+- First profit area near D.
+- After first profit, move stop toward break-even.
+- Exit the remainder if the target is reached, momentum fades, or sellers gain control.
+
+Critical principle:
+- Entry should be close enough to the invalidation point to keep risk small.
+- Never enter without knowing where the stop belongs.
+
+============================================================
+25. BULL FLAG MOMENTUM
+============================================================
+
+Structure:
+- Strong upward “pole.”
+- Short consolidation/“flag.”
+- Breakout from consolidation.
+
+Author's view:
+- Mainly a momentum/scalping strategy.
+- Particularly associated with low-float stocks.
+- Fast execution is important.
+- The trader should not chase the initial spike.
+
+Entry:
+- Wait for consolidation.
+- Enter when price breaks above the consolidation high.
+
+Stop:
+- Below the consolidation.
+
+Management:
+- Take partial profit.
+- Move stop to break-even.
+- Exit remaining position when target is reached or momentum loses strength.
+
+The author prefers the first and second consolidation periods and considers later flags increasingly risky because the move may be extended.
+
+Warning:
+- The author calls momentum trading risky for beginners.
+- He recommends small size and simulation practice before attempting it.
+
+============================================================
+26. BOTTOM REVERSAL
+============================================================
+
+Concept:
+- Look for a stock that has become extremely stretched to the downside.
+- Wait for evidence that sellers are losing control and buyers may take over.
+
+Author's preferred confirmation factors:
+1. Several consecutive bearish 5-minute candles.
+2. Price near/outside Bollinger Band extremes.
+3. RSI below 10.
+4. An indecision/Doji-type candle showing potential exhaustion.
+5. Confirmation through a new 5-minute high.
+
+Entry:
+- Buy after the reversal trigger, not simply because the stock has fallen a lot.
+
+Stop:
+- Low of previous red candle / low of day according to the setup.
+
+Targets:
+- Next support level.
+- VWAP.
+- Moving average.
+- New 5-minute high/continued buyer control.
+
+Most important warning:
+- Do not try to catch a falling knife.
+- An extended move alone is not enough; wait for confirmation.
+
+============================================================
+27. TOP REVERSAL
+============================================================
+
+This is the short-selling version of the reversal setup.
+
+Confirmation factors:
+1. Several consecutive bullish candles.
+2. Price near/outside Bollinger Band extreme.
+3. RSI above 90.
+4. Bearish indecision/Doji candle.
+5. New 5-minute low confirming sellers gaining control.
+
+Entry:
+- Short after the reversal trigger.
+
+Stop:
+- High of previous candle or high of day.
+
+Targets:
+- Next support.
+- VWAP.
+- Moving average.
+- Price action showing buyers regaining control.
+
+Major warning:
+- Do not short only because a stock “looks too high.”
+- The crowd can keep the stock moving higher longer than expected.
+- Confirmation matters more than an opinion about valuation.
+
+============================================================
+28. EXTREME REVERSAL FILTERS
+============================================================
+
+The author quantifies “extreme” using a combination of:
+- RSI > 90 or < 10.
+- Price near/outside Bollinger Bands.
+- About 5–10 consecutive candles in one direction.
+- Ending in indecision/Doji behavior.
+- Significant volume/relative volume.
+
+Key point:
+- One condition alone is weaker.
+- The author looks for multiple conditions occurring together.
+
+============================================================
+29. MOVING-AVERAGE TREND TRADING
+============================================================
+
+The author's moving averages:
+- 9 EMA.
+- 20 EMA.
+- 50 SMA.
+- 200 SMA.
+
+Alternative set he mentions:
+- 11 EMA.
+- 21 EMA.
+- 50 SMA.
+- 200 SMA.
+
+Concept:
+- In a trending stock, a moving average may act like dynamic support/resistance.
+- The author attributes this partly to a self-fulfilling effect because many traders watch the same levels.
+
+Procedure:
+1. Identify a trend.
+2. Look for repeated respect of a moving average.
+3. Enter near the moving average after confirmation.
+4. Place the stop just beyond the moving-average breakdown according to the setup.
+5. Exit when the moving average is broken or when price becomes extended.
+6. Take partial profit when appropriate.
+
+Author's criticism:
+- It is hard to know which moving average will work best on a specific stock.
+- A trend strategy can expose the trader for longer periods.
+- The author personally trades this less often than VWAP and Support/Resistance.
+
+============================================================
+30. VWAP TRADING
+============================================================
+
+VWAP = Volume Weighted Average Price.
+
+Author's interpretation:
+- Price above VWAP -> buyers generally in control.
+- Price below VWAP -> sellers gaining control.
+
+Long setup:
+- Stock respects VWAP as support.
+- Buy near VWAP to keep risk small.
+- Stop on a break/close below VWAP in the author's 5-minute framework.
+- Target the next resistance/support area or other preplanned target.
+
+Short setup:
+- Stock fails to break above VWAP / finds resistance at VWAP.
+- Short after confirmation.
+- Stop above the relevant VWAP level.
+- Target lower support areas/VWAP-related price objectives.
+
+Management:
+- Partial profit near target.
+- Move stop toward break-even.
+
+Why the author likes VWAP:
+- It incorporates both price and volume.
+- Many traders watch it, which can make it a meaningful decision point.
+
+============================================================
+31. HORIZONTAL SUPPORT AND RESISTANCE
+============================================================
+
+The author calls this his favorite style.
+
+Support:
+- A price area where buying is strong enough to stop or reverse a decline.
+
+Resistance:
+- A price area where selling is strong enough to stop or reverse an advance.
+
+He prefers horizontal levels over diagonal trend lines because horizontal levels are easier to define objectively.
+
+How he finds them:
+1. Start with the daily chart.
+2. Look for recent important price levels.
+3. Give extra importance to areas with repeated reactions.
+4. Look for indecision candles around those levels.
+5. Focus on levels close to the current price range.
+6. Treat support/resistance as an area rather than one exact tick.
+7. Require evidence of a clear bounce/reaction.
+8. Use 5-minute price action for confirmation.
+
+Intraday detail:
+- Whole-dollar and half-dollar levels can act as “invisible” psychological support/resistance, according to the author's observations.
+
+Trade plan:
+- Enter close to support to minimize risk.
+- Stop below a confirmed support break.
+- Target next resistance.
+- Sell partial position near target.
+- Move stop to break-even.
+- If no obvious next level exists, consider a psychological round/half-dollar area.
+
+Similar logic can be used from the short side at resistance.
+
+============================================================
+32. INDICATORS — USE AS CONTEXT, NOT COMMANDS
+============================================================
+
+The author is skeptical of using indicators as automatic triggers.
+
+He mentions:
+- RSI.
+- Moving averages.
+- Bollinger Bands.
+- VWAP.
+
+His rule:
+“Indicators only indicate; they should not be allowed to dictate.”
+
+Practical interpretation:
+- Indicator + price action + context + risk plan is stronger than indicator alone.
+- RSI is particularly used as a scanner filter for extremes, not as an automatic buy/sell signal.
+
+============================================================
+33. ONE-STRATEGY APPROACH
+============================================================
+
+One of the book's strongest practical recommendations:
+- Do not try to master everything at once.
+- Choose one strategy.
+- Practice it.
+- Learn its entries, stops and exits.
+- Collect historical/simulated evidence.
+- Build confidence through repetition.
+- Only then expand into additional setups.
+
+The author describes this as learning to “tread water” before trying to do more.
+
+Potential starting strategies mentioned by the author:
+- VWAP.
+- Support/Resistance.
+- Reversal.
+- Bull Flag.
+
+============================================================
+34. WRITTEN TRADING PLAN
+============================================================
+
+The author strongly advocates writing down the plan before entering.
+
+A written plan should define:
+- Stock.
+- Setup/strategy.
+- Entry trigger.
+- Stop-loss location.
+- Maximum account risk.
+- Position size.
+- Profit target(s).
+- What invalidates the trade.
+- How the position will be managed after the first target.
+
+Important discipline rule:
+- Do not rewrite the plan simply because you are already in the trade and uncomfortable.
+- The plan should exist before the position becomes emotional.
+
+============================================================
+35. FULL TRADING PROCESS
+============================================================
+
+The author's process is:
+
+1. MORNING ROUTINE
+   Prepare mentally and physically.
+
+2. DEVELOP WATCH LIST
+   Use scanners, news and catalyst information.
+
+3. ORGANIZE A TRADE PLAN
+   Define entry, stop, target, size and setup.
+
+4. INITIATE TRADE ACCORDING TO PLAN
+   Wait for the trigger.
+
+5. EXECUTE TRADE ACCORDING TO PLAN
+   Manage risk and exit according to predefined rules.
+
+6. JOURNAL AND REFLECT
+   Record what happened and what can be improved.
+
+This process is meant to reduce emotional decision-making.
+
+============================================================
+36. TRADE JOURNAL / REVIEW
+============================================================
+
+Questions the author recommends asking:
+- What did I do right?
+- What did I do wrong?
+- Should I have sold earlier?
+- Did I follow my plan?
+- Was the setup actually present?
+- Was the stock a good candidate?
+- Was my entry correct?
+- Was my exit correct?
+- Did I take too much risk?
+
+Important principle:
+- A profitable trade is not automatically a good trade.
+- A losing trade is not automatically a bad trade if the trader correctly followed a valid plan.
+- Evaluate the PROCESS, not only the P&L.
+
+============================================================
+37. SIMULATION / PAPER TRADING
+============================================================
+
+The author strongly recommends practice before meaningful real-money trading.
+
+He suggests:
+- At least about three months of simulator practice for new traders.
+- Use real-time data rather than delayed data when practicing.
+- Practice with position sizes similar to what will eventually be used live.
+- After simulation, move to small real-money size rather than immediately using full size.
+- Return to simulation when learning a new setup or correcting mistakes.
+
+Key message:
+- There is no shame in returning to simulation at any point.
+
+============================================================
+38. WHAT TO AVOID
+============================================================
+
+Avoid:
+- Chasing a fast-rising stock.
+- Entering without knowing the stop.
+- Holding losing positions hoping they recover.
+- Averaging down losing trades.
+- Over-trading.
+- Trading merely because you are bored.
+- Trading to recover a morning loss.
+- Trading a stock with no catalyst when the strategy requires a catalyst.
+- Trading normal, low-relative-volume conditions when the approach needs unusual activity.
+- Blindly following chatrooms or other traders.
+- Treating indicators as automatic signals.
+- Using huge position size relative to account risk.
+- Changing the trade plan after entry.
+- Confusing luck with skill.
+- Becoming overconfident after a winning streak.
+- Assuming one strategy works for everyone.
+
+============================================================
+39. MOST IMPORTANT MINDSET LESSONS
+============================================================
+
+1. Survival comes before expansion.
+2. Protect capital before pursuing profits.
+3. Wait for the setup; do not manufacture a setup.
+4. A small loss is acceptable; a large uncontrolled loss is dangerous.
+5. The market is always there; there is no need to force a trade today.
+6. Being flat is a valid position when the setup is unclear.
+7. Trade frequency is not the objective; trade quality is.
+8. You should be able to explain why you are entering, where you are wrong, and where you expect to exit.
+9. Confidence should come from tested process, not recent winning trades.
+10. Discipline must be practiced continuously.
+11. Remain skeptical of experts, indicators and claims, including the author.
+
+============================================================
+40. QUICK SETUP CHEAT SHEET
+============================================================
+
+ABCD:
+Strong move up -> new high B -> pullback -> support C -> continuation D.
+Entry: near C after support confirmation.
+Stop: below C.
+First target: D / next resistance.
+Management: partial profit + break-even stop.
+
+BULL FLAG:
+Strong up move -> short consolidation -> breakout.
+Entry: breakout above consolidation.
+Stop: below consolidation.
+Best use in author's framework: fast momentum / low-float stocks.
+Warning: avoid chasing; later flags are considered riskier.
+
+BOTTOM REVERSAL:
+Extended decline -> extreme conditions -> indecision -> new 5-min high.
+Filters: RSI < 10, Bollinger extreme, multiple consecutive candles.
+Stop: prior low / low of day.
+Targets: next level, VWAP, MA or renewed buyer control.
+
+TOP REVERSAL:
+Extended rise -> extreme conditions -> indecision -> new 5-min low.
+Filters: RSI > 90, Bollinger extreme, multiple consecutive candles.
+Stop: prior high / high of day.
+Targets: next support, VWAP, MA or renewed buyer control.
+
+MOVING AVERAGE TREND:
+Trend respects MA -> entry near MA -> ride trend -> exit on break.
+Author's default: 9/20 EMA, 50/200 SMA.
+
+VWAP:
+Above VWAP = buyers stronger in author's framework.
+Below VWAP = sellers stronger.
+Long: VWAP holds as support.
+Short: VWAP acts as resistance / price fails above it.
+Stop: VWAP break/close according to setup.
+Partial profits and break-even management are emphasized.
+
+SUPPORT/RESISTANCE:
+Find important horizontal levels on daily chart.
+Confirm with 5-min price action and indecision candle.
+Buy near support / short near resistance.
+Stop beyond invalidation level.
+Target next level.
+Treat the level as an area, not an exact number.
+
+============================================================
+41. MASTER PRE-TRADE CHECKLIST
+============================================================
+
+MARKET CONTEXT
+[ ] Is the market broadly strong, weak or mixed?
+[ ] Is the sector moving with the stock?
+[ ] Is this stock moving for its own reason?
+
+STOCK QUALITY
+[ ] Is there a catalyst?
+[ ] Is relative volume unusually high?
+[ ] Is liquidity sufficient?
+[ ] Is the volatility appropriate for the setup?
+[ ] Is retail interest/attention present in the author's framework?
+
+SETUP
+[ ] Which exact strategy am I trading?
+[ ] Is the setup actually present?
+[ ] What is the entry trigger?
+[ ] Where is the invalidation level?
+[ ] Where is the stop?
+[ ] Where is the first target?
+[ ] Where is the next target?
+
+RISK
+[ ] Maximum dollar risk calculated?
+[ ] Risk per share calculated?
+[ ] Position size calculated from risk?
+[ ] Is the position within the account risk limit?
+[ ] Is the reward/risk acceptable (author's preference: at least 2:1)?
+
+PSYCHOLOGY
+[ ] Am I calm?
+[ ] Am I entering because of the setup or because of FOMO?
+[ ] Am I trying to recover a previous loss?
+[ ] Am I chasing?
+[ ] Am I willing to accept the stop if wrong?
+
+============================================================
+42. MASTER IN-TRADE CHECKLIST
+============================================================
+
+[ ] Price is behaving as expected.
+[ ] Stop remains at the planned invalidation point.
+[ ] No averaging down simply because the trade is losing.
+[ ] Take partial profit according to the plan.
+[ ] Move stop to break-even when the strategy calls for it.
+[ ] Watch for loss of momentum / opposite side gaining control.
+[ ] Do not extend the trade just because you want a bigger profit.
+[ ] Do not exit early merely because of fear if the plan is still valid.
+[ ] Exit when the setup is invalidated.
+
+============================================================
+43. MASTER POST-TRADE CHECKLIST
+============================================================
+
+[ ] Did I follow my written plan?
+[ ] Was the stock actually suitable?
+[ ] Was the setup valid?
+[ ] Was the entry good?
+[ ] Was the stop logical?
+[ ] Did I take the planned risk?
+[ ] Did I manage the position correctly?
+[ ] Did I respect the exit/target rules?
+[ ] Did emotion change my behavior?
+[ ] What should I repeat?
+[ ] What should I stop doing?
+[ ] What one lesson should go into the journal?
+
+============================================================
+44. AUTHOR'S CORE PHILOSOPHY IN ONE PAGE
+============================================================
+
+- Treat trading as a profession.
+- Do not expect fast wealth.
+- Protect capital.
+- Define the risk before entering.
+- Keep maximum risk within your predetermined limit.
+- Use position size based on stop distance and account risk.
+- Search for stocks with unusual relative activity and a real catalyst.
+- Prefer a small number of highly understood setups.
+- Do not chase extended moves.
+- Wait for confirmation.
+- Use price action to judge buyer/seller control.
+- Use VWAP, support/resistance, moving averages and RSI as tools, not commands.
+- Take losses without argument.
+- Do not average down losing trades.
+- Reduce exposure after reaching partial profit where the plan calls for it.
+- Write the trade plan before the trade.
+- Follow the plan after entry.
+- Journal every trade and review the process.
+- Practice in simulation.
+- Start small when transitioning to real capital.
+- Keep learning.
+- Think independently even when trading with a community.
+- Do not rush; the market will provide future opportunities.
+
+============================================================
+45. IMPORTANT SOURCE-SPECIFIC POINTS TO VERIFY BEFORE USING IN INDIA
+============================================================
+
+The book was written around US equity day trading and contains:
+- US tickers and examples.
+- US market hours.
+- US broker/platform references.
+- US margin and regulatory examples.
+- Historical price/volume thresholds.
+- US pre-market behavior.
+
+For an Indian-market trading plan, these points should be treated as SOURCE MATERIAL rather than directly copied rules.
+
+Concepts that are more portable in principle:
+- Risk-before-entry.
+- Position sizing based on stop distance.
+- Reward/risk planning.
+- Avoiding over-trading.
+- Waiting for confirmation.
+- Using price/volume context.
+- Keeping a written plan.
+- Journaling.
+- Simulation before scaling up.
+- Independent thinking.
+- Avoiding emotional decisions.
+
+Concepts that need India-specific verification before use:
+- Exact risk percentage.
+- Intraday leverage/margin.
+- Short-selling mechanics.
+- Pre-market rules and timings.
+- Trading-session timing.
+- Brokerage/platform assumptions.
+- Liquidity thresholds.
+- Stock price/float categories.
+- Scanner thresholds.
+- Regulatory restrictions.
+
+============================================================
+46. FINAL REVISION PAGE
+============================================================
+
+Before trade:
+STOCK -> CATALYST -> VOLUME -> SETUP -> ENTRY -> STOP -> SIZE -> TARGET -> REWARD/RISK
+
+During trade:
+FOLLOW PLAN -> CONTROL RISK -> TAKE PARTIALS IF PLANNED -> MOVE STOP AS PLANNED -> EXIT WHEN INVALIDATED
+
+After trade:
+RECORD -> REVIEW -> IDENTIFY ERROR -> KEEP LESSON -> IMPROVE PROCESS
+
+The single most repeated theme of the book:
+A trader's edge is not only in predicting price. It is in repeatedly selecting suitable situations, limiting downside, executing a tested plan and controlling personal behavior.
+
+END OF STUDY NOTES
