@@ -1,0 +1,223 @@
+//@version=5
+strategy(
+  title="NSE Algo Trading System v1",
+  overlay=true,
+  initial_capital=100000,
+  default_qty_type=strategy.percent_of_equity,
+  default_qty_value=100,
+  commission_value=0.05,
+  commission_type=strategy.commission.percent,
+  slippage=2,
+  pyramiding=0,
+  calc_on_every_tick=false
+)
+
+// ============================================================
+// SETTINGS — CONFIGURE THESE
+// ============================================================
+
+// --- Strategy Selection ---
+strat_choice = input.string("Supertrend+EMA", "Strategy", options=["Supertrend+EMA", "EMA Crossover", "RSI+MACD", "BB Squeeze", "VWAP Pullback"])
+
+// --- Timeframe ---
+tf = input.timeframe("D", "Timeframe (D, 240, 60, 15, 5)")
+
+// --- Market Hours (NSE: 9:15-15:30 IST = 3:45-10:00 UTC) ---
+trade_start = input.int(345, "Trade Start (UTC, e.g. 345=3:45am)")
+trade_end   = input.int(1000, "Trade End (UTC, e.g. 1000=10:00am)")
+
+// --- Risk Management ---
+risk_percent   = input.float(1.0, "Risk Per Trade (% of equity)", step=0.25, minval=0.25, maxval=5.0)
+max_dd_percent = input.float(25.0, "Max Drawdown % (stop trading)", step=5.0, minval=5.0)
+atr_mult       = input.float(2.0, "ATR Multiplier for SL", step=0.5, minval=1.0, maxval=5.0)
+atr_len        = input.int(14, "ATR Length")
+use_atr_sl     = input.bool(true, "Use ATR-based Stop Loss?")
+fixed_sl_pct   = input.float(1.0, "Fixed SL % (if ATR off)", step=0.25)
+use_trailing   = input.bool(true, "Use Trailing Stop?")
+trail_activate = input.float(1.5, "Trail Activate (% profit)", step=0.25)
+trail_dist     = input.float(0.75, "Trail Distance (%)", step=0.25)
+
+// --- Strategy-specific params ---
+// Supertrend
+st_atr = input.int(10, "Supertrend ATR Period", group="Supertrend")
+st_mult = input.float(3.0, "Supertrend Multiplier", step=0.5, group="Supertrend")
+// EMA Crossover
+ema_fast_len = input.int(6, "Fast EMA", group="EMA Crossover")
+ema_slow_len = input.int(30, "Slow EMA", group="EMA Crossover")
+// RSI+MACD
+rsi_len = input.int(14, "RSI Length", group="RSI+MACD")
+rsi_ob  = input.int(70, "RSI Overbought", group="RSI+MACD")
+rsi_os  = input.int(30, "RSI Oversold", group="RSI+MACD")
+macd_fast = input.int(12, "MACD Fast", group="RSI+MACD")
+macd_slow = input.int(26, "MACD Slow", group="RSI+MACD")
+macd_sig  = input.int(9, "MACD Signal", group="RSI+MACD")
+// BB Squeeze
+bb_len     = input.int(20, "BB Length", group="BB Squeeze")
+bb_std     = input.float(2.0, "BB StdDev", step=0.1, group="BB Squeeze")
+bb_width   = input.float(0.3, "Max BB Width (squeeze)", step=0.05, group="BB Squeeze")
+// VWAP Pullback
+vwap_tf    = input.string("60", "VWAP Timeframe", group="VWAP Pullback")
+vwap_dev   = input.float(2.0, "VWAP Deviation", step=0.5, group="VWAP Pullback")
+
+// ============================================================
+// CORE LOGIC
+// ============================================================
+
+// Time filter
+in_trade_hours() =>
+    t = time(timeframe.period, "0000-0000")
+    na(t) ? false : na ? false : true
+
+// ATR
+atr_val = ta.atr(atr_len)
+
+// --- Strategy 1: SuperTrend + EMA ---
+[supertrend_direction, supertrend_line] = ta.supertrend(st_mult, st_atr)
+ema50 = ta.ema(close, 50)
+st_long  = supertrend_direction == 1  // green
+st_short = supertrend_direction == -1 // red
+
+// --- Strategy 2: EMA Crossover ---
+ema_fast = ta.ema(close, ema_fast_len)
+ema_slow = ta.ema(close, ema_slow_len)
+ema_cross_long  = ta.crossover(ema_fast, ema_slow)
+ema_cross_short = ta.crossunder(ema_fast, ema_slow)
+ema_in_long     = ema_fast > ema_slow
+
+// --- Strategy 3: RSI + MACD ---
+rsi_val = ta.rsi(close, rsi_len)
+[macd_line, signal_line, _] = ta.macd(close, macd_fast, macd_slow, macd_sig)
+macd_cross_long  = ta.crossover(macd_line, signal_line)
+macd_cross_short = ta.crossunder(macd_line, signal_line)
+
+// --- Strategy 4: BB Squeeze ---
+[bb_mid, bb_upper, bb_lower] = ta.bb(close, bb_len, bb_std)
+bb_width_val = (bb_upper - bb_lower) / bb_mid
+bb_squeeze   = bb_width_val < bb_width
+bb_break_high = close > bb_upper and close[1] <= bb_upper[1]
+bb_break_low  = close < bb_lower and close[1] >= bb_lower[1]
+
+// --- Strategy 5: VWAP Pullback ---
+vwap_val = ta.vwap(hlc3)
+vwap_above = close > vwap_val
+vwap_below = close < vwap_val
+
+// ============================================================
+// ENTRY SIGNALS
+// ============================================================
+
+bool long_signal  = false
+bool short_signal = false
+
+if strat_choice == "Supertrend+EMA"
+    long_signal  = st_long  and close > ema50
+    short_signal = st_short and close < ema50
+
+if strat_choice == "EMA Crossover"
+    long_signal  = ema_cross_long  and ema_in_long
+    short_signal = ema_cross_short
+
+if strat_choice == "RSI+MACD"
+    long_signal  = rsi_val < rsi_os and macd_cross_long
+    short_signal = rsi_val > rsi_ob and macd_cross_short
+
+if strat_choice == "BB Squeeze"
+    long_signal  = bb_squeeze and bb_break_high
+    short_signal = bb_squeeze and bb_break_low
+
+if strat_choice == "VWAP Pullback"
+    long_signal  = vwap_above and close < vwap_val * (1 + vwap_dev/100)
+    short_signal = vwap_below and close > vwap_val * (1 - vwap_dev/100)
+
+// ============================================================
+// STOP LOSS & TAKE PROFIT
+// ============================================================
+
+sl_price = use_atr_sl ? atr_val * atr_mult : close * fixed_sl_pct / 100
+tp_ratio = input.float(2.0, "Risk:Reward Ratio", step=0.5, minval=1.0)
+
+long_sl  = close - sl_price
+long_tp  = close + (sl_price * tp_ratio)
+short_sl = close + sl_price
+short_tp = close - (sl_price * tp_ratio)
+
+// ============================================================
+// EXECUTION
+// ============================================================
+
+// Track equity for drawdown protection
+var float peak_equity = strategy.equity
+var bool  dd_stop     = false
+
+if strategy.equity > peak_equity
+    peak_equity := strategy.equity
+
+dd = (peak_equity - strategy.equity) / peak_equity * 100
+if dd >= max_dd_percent
+    dd_stop := true
+
+// Entry
+if in_trade_hours() and not dd_stop
+    if long_signal and strategy.position_size == 0
+        strategy.entry("Long", strategy.long)
+        strategy.exit("Long Exit", "Long", stop=long_sl, limit=long_tp,
+         trail_price=use_trailing ? close * (1 + trail_activate/100) : na,
+         trail_offset=use_trailing ? close * trail_dist/100 : na)
+
+    if short_signal and strategy.position_size == 0
+        strategy.entry("Short", strategy.short)
+        strategy.exit("Short Exit", "Short", stop=short_sl, limit=short_tp,
+         trail_price=use_trailing ? close * (1 - trail_activate/100) : na,
+         trail_offset=use_trailing ? close * trail_dist/100 : na)
+
+// ============================================================
+// VISUALS
+// ============================================================
+
+// Plot signals on chart
+plotshape(long_signal  and strategy.position_size == 0, "Long Signal",  style=shape.triangleup,   location=location.belowbar, color=color.green, size=size.small)
+plotshape(short_signal and strategy.position_size == 0, "Short Signal", style=shape.triangledown, location=location.abovebar, color=color.red,   size=size.small)
+
+// Plot indicators based on strategy
+if strat_choice == "Supertrend+EMA"
+    plot(supertrend_line, "Supertrend", color=supertrend_direction == 1 ? color.green : color.red, linewidth=2)
+    plot(ema50, "EMA50", color=color.blue, linewidth=1)
+
+if strat_choice == "EMA Crossover"
+    plot(ema_fast, "Fast EMA", color=color.blue, linewidth=2)
+    plot(ema_slow, "Slow EMA", color=color.red, linewidth=2)
+
+if strat_choice == "BB Squeeze"
+    plot(bb_mid, "BB Mid", color=color.yellow)
+    plot(bb_upper, "BB Upper", color=color.gray)
+    plot(bb_lower, "BB Lower", color=color.gray)
+    bgcolor(bb_squeeze ? color.new(color.green, 90) : na)
+
+// ============================================================
+// TABLE — Performance Dashboard
+// ============================================================
+
+var table dash = table.new(position.top_right, 3, 6,
+  bgcolor=color.new(color.black, 40), border_color=color.gray, border_width=1)
+
+if barstate.islast
+    table.cell(dash, 0, 0, "Strategy", text_color=color.white, text_size=size.small)
+    table.cell(dash, 1, 0, strat_choice, text_color=color.yellow, text_size=size.small)
+
+    table.cell(dash, 0, 1, "Trades", text_color=color.white, text_size=size.small)
+    table.cell(dash, 1, 1, str.tostring(strategy.closedtrades), text_color=color.white, text_size=size.small)
+
+    win_rate = strategy.closedtrades > 0 ? strategy.winrate() * 100 : 0
+    table.cell(dash, 0, 2, "Win Rate %", text_color=color.white, text_size=size.small)
+    table.cell(dash, 1, 2, str.tostring(win_rate, "#.#"), text_color=win_rate > 40 ? color.green : color.red, text_size=size.small)
+
+    net_pnl = strategy.netprofit
+    table.cell(dash, 0, 3, "Net P&L", text_color=color.white, text_size=size.small)
+    table.cell(dash, 1, 3, "₹" + str.tostring(net_pnl, "#,###"), text_color=net_pnl > 0 ? color.green : color.red, text_size=size.small)
+
+    table.cell(dash, 0, 4, "Max DD %", text_color=color.white, text_size=size.small)
+    table.cell(dash, 1, 4, str.tostring(strategy.maxdrawdown, "#.#") + "%", text_color=strategy.maxdrawdown < max_dd_percent ? color.green : color.red, text_size=size.small)
+
+    avg_rr = strategy.closedtrades > 0 ? strategy.grossprofit / (strategy.grossloss + 1) : 0
+    table.cell(dash, 0, 5, "Avg RR", text_color=color.white, text_size=size.small)
+    table.cell(dash, 1, 5, str.tostring(avg_rr, "#.##"), text_color=avg_rr > 1.5 ? color.green : color.orange, text_size=size.small)
