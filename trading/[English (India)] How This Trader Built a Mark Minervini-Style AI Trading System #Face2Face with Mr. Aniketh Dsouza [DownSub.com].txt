@@ -1,0 +1,1674 @@
+Investment insecurities market are subject to market risks.
+Read all the related documents carefully before investing.
+In this process, you need a clod which is for reading and reasoning.
+You need an obsidian which basically saves like a memory bank.
+Oh, ****!
+Why some topics have big circles like VCP, index, trend template?
+Mark Minervini's trend template.
+Have you defined it?
+No, I haven't defined it.
+He has just ingested it.
+Today you are learning one technology, tomorrow something new has come.
+That is the pace.
+How do you maintain that pace?
+What do you do?
+This is going to be a blockbuster face-to-face.
+Don't share it with other people, please.
+Hello, my name is Vivek Bajaj.
+I have more than 20 years experience in stock market.
+And I can suggest you, if you are serious about stock market, download StockEdge app.
+It will really help you in your journey of wealth creation from stock market.
+As you can see, I am going deep on this topic for a few days.
+Algo trading, systematic trading, how to trade using AI.
+Because frankly speaking, I want to learn something.
+And I have been running this journey of face-to-face for 7 years.
+Its purpose is that I want to learn myself.
+And in this journey, you are also connected, you are also learning.
+So it's fun.
+We are all learning together.
+Because when the teacher is available, then why not we learn?
+Right? So today's guests have come from Bombay, Calcutta.
+Sorry, from Mumbai.
+Don't troll me, please.
+They have come from Mumbai, Calcutta.
+And they had approached me themselves that they want to teach me.
+And I really like it.
+When people approach that I have something that I can teach your audience.
+So I really like it.
+Then obviously we interacted with them.
+And we understood that a common man is doing abnormal work.
+And he wants to do everything.
+So why not bring them?
+So let's welcome our today's guest, Ankit.
+Welcome to you.
+Thank you very much, Vivek ji.
+How are you?
+Good.
+Thank you for the opportunity.
+I should be the one to say thank you.
+On behalf of the entire learner community of face-to-face, you should say thank you.
+First of all, you are expressing that you want to teach people.
+There are very few people who genuinely want to teach without commercial interest.
+Friends, we did not take any bribe.
+I am telling you, it is a disclaimer.
+Nor does it provide any service that it has come here to market its service.
+Pure, pure, pure pro bono knowledge sharing.
+So you should say thank you.
+You don't say.
+And you have come from Mumbai to Calcutta.
+How is Calcutta looking? New Calcutta.
+First I have come.
+Now I only see BJP flags.
+I think you are in the big tree.
+Yes.
+And you see more smiling faces now?
+I did not see much.
+I just came from the airport.
+That's good.
+Anyway, now the emotions are at a very high point.
+So people are more excited.
+But I am sure after a few months, this will also die down.
+And real reality will creep in.
+Sure.
+But sir, I had done a Zoom call with you.
+So I was a little confused.
+Because the process you made of your second brain, it is a great process.
+Okay.
+We want to learn about that.
+And we want people to adopt it in the best possible manner.
+And you just told me that you have made it for your children.
+Yes.
+So you are basically parking your mind, so that they can use your mind in their life.
+Fantastic.
+What a noble thought you have.
+But let's know about you first.
+How old you are?
+When did you start everything?
+And what is your real background?
+How long have you been in the market?
+Tell me everything.
+After that, I have made a PPT.
+We will base it.
+And we will do a lot of practical discussion.
+Okay.
+Let's start.
+So I am about 38.
+And when I started trading, that formal trading type started in late 2019.
+At that time, I didn't know that COVID will come.
+But when I used to take any trades or position,
+I used to take the least.
+It was more of a learning phase for me.
+Okay.
+Right.
+So before that,
+I used to focus on high performance.
+So I was focused on swimming for almost 18 years.
+Wow.
+So I have been an international athlete.
+Represented India four times.
+Amazing.
+Set 17 national records.
+I am an Ekalavya awardee.
+So performance has always been in my blood.
+Wow.
+Right.
+So racing.
+I was India's fastest swimmer in 2005.
+Okay.
+So from there,
+I moved into, transitioned into marketing.
+So for 15 years, in the marketing space,
+I was basically in that space.
+I still continue in that space.
+Okay.
+So after that,
+I thought that funds are being collected as part of earning.
+How do I convert that into a passive income approach?
+So my first focus was to take a financial planner in 2016.
+So I took the financial planner.
+So he said, put this in the fund.
+Then suddenly something came up in the middle.
+So over a period of time,
+I found out that wherever I have put it, there is a loss in it.
+But I didn't know that,
+I mean, did not look at any financial aspect at all.
+Right.
+I didn't know much about finance.
+I didn't even keep much focus.
+The focus was purely on marketing at that time.
+Then in 2017-18, my wife said that there is a webinar on wealth management.
+So join it once and see what it is.
+There I found out that there is a book called Rich Dad Poor Dad.
+So after reading that, it became so clear that whatever is in the financial, we have to test it.
+Everything in terms of learning about financial management has to be done by self.
+So by doing that self,
+I reached the stock market.
+Then I thought that I have to enter the profession.
+Whichever profession is that, that is something that I can pass on to my generation.
+Something that is common.
+Even if I become a doctor,
+I still need financial management.
+Even if I become an engineer,
+I still need financial management.
+So the focus was that a skill should be developed that will allow me to pass on my knowledge to children.
+At that time there was no AI, so I didn't even know about it that we can carry forward.
+Now technology has also come as part of, we can carry forward.
+But the focus was to develop an edge.
+At that time I didn't even know the meaning of edge.
+I didn't know what used to happen by trading edge.
+So I entered the stock market as part of formal training.
+So I took coaching from a lot of people.
+Then after that, it started to be 1-2 years.
+Then after that,
+I tried to apply trading myself for 2 more years.
+What do they say?
+Especially when you learn from a coach, there are some coaches who are very good traders, some are not.
+Most of them do trading.
+There are a lot of coaches whose primary business is not trading.
+So I understood that if I want to learn from someone,
+I should be a practicing person.
+If I want to learn medical,
+I have to go to a doctor.
+If I want to learn engineering,
+I have to go to an engineer.
+If I want to learn coding,
+I have to go to a coder.
+Similarly,
+keeping this frame,
+I thought that if I want to learn trading,
+I have to go to a trader.
+But ads keep coming.
+There are a lot of ads.
+There was an ad for Algo trading.
+So I bought Algo.
+Then there was another course for this.
+How do we trade with Python in Algo?
+So I got into that.
+Then after that, someone else's trading came, which is a course for a year.
+So I took theirs too.
+Then I did meditation.
+I did mindset training.
+All that came.
+It was a very slow process.
+Right.
+So after about five years,
+I understand that okay.
+It's been five years.
+What are the things in trading?
+Like my learning was that I say three S's.
+One is strategy, which everyone teaches.
+Everyone says that if you use strategy, then money is made.
+Setup.
+Some people teach setup.
+And few people teach system.
+That you do system, treat it like a business, then it will be made consistently.
+Right.
+So, it took me three years to understand this.
+I mean, I used to say it, but I have to utilize it also.
+I used to say, death by a thousand cuts everywhere.
+That small, small, small stop loss.
+I try this too, I try that too.
+Why do I try? Because coaches have taught me that this strategy, that strategy, that strategy, that strategy.
+So, there are a lot of strategies, so it is very difficult.
+So, one thing, that basically came learning.
+After that, I did a VCP course online.
+Primarily online, YouTube videos, collecting videos from here and there.
+You didn't take the mark in the VCP?
+No, I didn't take the mark in the VCP.
+Okay.
+Yes, its primary reason was that there was less stop loss in it.
+Because I had also talked to a lot of people at that time.
+There were some good traders.
+They said that you should change your thinking first.
+Don't look at absolute value, that how much absolute you make.
+Look at percentage.
+Everything calculate based on percentage.
+If you become strong on percentage, then automatically your performance will be better.
+So, I ran after the percentage.
+So, when I read the course, when I went through the course, there I understood that you need to know your numbers.
+A lot of people don't know the numbers.
+Okay.
+So, numbers means what is your winning average, what is your losing average, what is your trading edge, means which system works for you.
+And when you make money, how much do you make?
+When you lose money, how much do you lose?
+So, all these aspects became important.
+Now, to find out that, you need a journal.
+We also got a little laziness for the journal.
+I had laziness, but a lot of people don't write journals.
+If you don't make a journal, then you won't know the numbers.
+So, what I thought was that when AI was introduced,
+I thought, okay, there is a console of Zerodha, so I take a trade from there, let's say, I export it for 4 months, 1 month.
+Okay.
+After exporting, you tell AI,
+like I use it, I use Claude.
+So, there I tell that take this thing and give me a trading edge prompt.
+I ask Claude that I need a trading edge prompt.
+Okay.
+Specifically for calculating my numbers.
+Okay.
+Right.
+Okay.
+So, I got to know this much.
+So, he gave me a prompt.
+So, I took that prompt and made a new session in Claude and put it there.
+With that, I got all the numbers.
+Because I just put the exported data of the trades.
+It automatically cross-checked that how many were closed, how many are open, and whatever is closed, so how much capital did I deploy at one point of time, across months.
+So, you get all that clarity.
+Once you get that, then I thought that, as Mark Minervini says, how many trades do you follow, whatever your money is being made,
+how long would you take to double your capital?
+Hmm.
+How long would you take to grow by 50%? How many trades do you need?
+If you trade in your own style, then how long would it take you?
+Hmm.
+So, I checked that.
+What I used to do, when I used to take trades,
+I used to keep my max loss at Rs. 5000.
+In absolute terms?
+In absolute terms.
+Okay.
+Just as part of testing.
+Right.
+Because I am testing different strategies.
+Per trade, Rs. 5000.
+Per trade, Rs. 5000 loss.
+Okay.
+So, I thought that I have to reach Rs. 1 crore.
+Hmm.
+So, how much time would it take?
+Hmm.
+The answer came, 7 years.
+Hmm.
+Okay.
+Based on my calculation.
+The calculation that he did.
+Hmm.
+So, it became so clear that it will take 7 years.
+By doing such small trades.
+So, there is no benefit in trading.
+I might as well work somewhere else.
+Right.
+So, this much self-awareness comes.
+Very simple way, take your exported data,
+dump it into Claude, ask it for numbers, then basically ask it saying, how long will it take to reach your goal?
+Hmm.
+Superb.
+Means, a lot of questions can come.
+A lot of questions.
+And you can chat.
+And you have to put the data.
+Export it.
+Export it.
+Yes.
+Then ask whatever question you want to ask.
+Yes.
+Your numbers came straight.
+So, what did Mark Minervini say?
+Whenever you do a journal, you have to take out the numbers from it.
+Here you don't need to take it out.
+You are just dumping it.
+Claude will give you the answers immediately.
+Very good.
+Once the numbers come, once you know that, it will take 7 years.
+Means, we will have to do something to cover up that distance.
+I don't want to do it in 7 years.
+Because whenever,
+my wife has supported me a lot.
+So, she has only one question.
+How long will you take
+to start making money?
+To start earning?
+This is the business.
+Because I have been supporting you all this time.
+3 years, 4 years, 5 years.
+How long would you take?
+So, when I get that thing, then I get the focus that
+I have to do something to trade big.
+I have to find methods, ways to basically reach there.
+You know, no one has discussed this till now.
+This is a very basic discussion of yours.
+Yes.
+But no one has talked about how long it will take.
+And the answer to that will actually come from your own trade.
+Yes.
+Otherwise, it is always a very open-ended question, which people also ask me.
+Sir, how long will it take for me to become successful?
+So, I think it will take 5 years.
+But now that I am thinking, you are saying the right thing.
+How can I say 5 years?
+Because 5 years may not be relevant for you.
+Correct.
+2 years can be, someone can do it.
+Because his trade style is better.
+Correct.
+Very well said.
+Correct.
+Will we see all these examples today?
+I can show.
+Okay.
+Because there was one focus that was self-awareness.
+I can show a quick example for that.
+Okay.
+Where I will take one of the months just as a sample.
+Okay.
+Okay.
+And then, because what happens is, you are on different types of trades every month.
+Right.
+Your thinking keeps changing.
+You can ask your journal or your system saying, where did you go wrong?
+Which trades were right?
+Oh my goodness.
+You can ask whatever you want.
+Because you have dumped.
+He got the numbers.
+Once you get the numbers, you can chat with him. And suppose you do this every month, then you can automatically improve.
+What type of trades are good for you?
+What type of trades are not good for you?
+I mean, it doesn't work.
+We can do all that.
+So after that,
+then the focus was, how long, how do I crunch time?
+How do I crunch my learning?
+Right.
+How do I speed up my learning process?
+And that is where we are at our topic of second brain concept.
+Wow.
+Wow.
+So how long have you been doing this full time?
+I am not doing full time.
+Okay.
+You are doing your own.
+I have my business, which is into marketing.
+My team basically handles it.
+That's an established business.
+Okay.
+Yes.
+This one is something where I am looking at passing on to my children.
+Wow.
+The focus was that
+I can make my second brain.
+What have I learned?
+Wow.
+And I can only copy paste it and give it to them.
+That this is my approach.
+Wow.
+So for example, if I find about VCP, let's say I found 100 files.
+I identified everything about it.
+I put that in the second brain.
+Next step is, as though you are talking to Mark Minervini.
+Wow.
+So you can learn this today.
+Because that is what I am going to teach you.
+So you can have different people.
+You want to learn from Stan Weinstein.
+You can learn anything from Stan Weinstein's concepts.
+You can make a brain.
+Wow.
+Teach me quickly, sir.
+Your PPT is ready.
+Let's go through that PPT.
+Friends, don't watch this video till the end. Don't watch it.
+Don't watch it.
+If everyone watches it, everyone will go to make money. Don't watch it.
+Go.
+It's entertainment.
+Okay.
+And those who are serious, wait.
+Let's move on.
+Okay.
+So the purpose of this is to learn faster.
+Not necessary that I use it only for trading.
+I use it for my credit cards too.
+To get suggestions.
+That I have these packages, this deal with banks.
+So which is the best mode of payment for a vendor?
+He tells me which is the best mode of payment.
+Basically, this repository is the second brain concept.
+So we can make a lot of personalities like that.
+So this thing looks like this.
+Basically, there is a platform called Obsidian.
+I will take you through it.
+This is basically how it separates.
+When we think, we also basically have our memory banks.
+And let's say you look at a video.
+You spend, let's say, 10 minutes on a video, right?
+You watch that 10-minute video and make some notes.
+This is like how you make notes.
+Only thing is, I can watch that 10-minute video in, let's say,
+about 30 seconds.
+Okay.
+With this speed.
+So this is the concept.
+And it basically puts it like a filing cabinet.
+That this concept, after this, he takes this concept from this video and makes groups.
+And by making such groups, basically,
+It operates like a brain.
+Is it like a mind map?
+Because the information is in the mind, how does it operate in the brain?
+This is like a mind map.
+Best part about it is that it is offline.
+It is not online.
+It is not in the cloud.
+So it is offline, which means you can put it in a pen drive and operate it from another place.
+Okay.
+Okay.
+So it's private and it is shareable.
+Okay.
+Right.
+So that's the beauty of it.
+Right.
+So what questions can you ask? Now, I, for me, my trading edge is VCP.
+So these are some of the questions I can ask.
+I can, once I have the brain that I've already created, then I can ask, is this chart a VCP?
+I can screenshot it and give it to him.
+Right.
+Can you build me a VCP tracker?
+I can do this.
+Can you help me understand this stock meets the trend template of Mark Manor Winnie?
+If I ask, he will automatically give the answer, check, check, check, mark and give it to me.
+I can compare these two, two stocks.
+I can put a screenshot, two screenshots and ask, is this a VCP base?
+Or which VCP base is stronger?
+So I can ask this.
+Right.
+I can pull out stocks from charting, I can pull out from market smith, I can pull out from different directions.
+I'll show you an example of this.
+Okay.
+Okay.
+Ultimately, everything goes through the second brain and actions are taken accordingly.
+Okay.
+Okay.
+So what happens in this is that the biggest advantage I have seen is that we learn one concept, then we go to another concept.
+So when we go to another concept, we forget the first concept.
+Right.
+He will not leave to forget.
+It connects.
+It will connect.
+And sometimes when we see the VCP method, it talks about averages.
+So we see the averages or see some structure and setup.
+Sometimes we forget about the volume.
+But he will catch it.
+Because volume is a part of the book.
+Volume is a part of the videos.
+So it will basically filter out based on volume also.
+Okay.
+Right.
+So this is a traditional approach.
+It is a traditional approach for learning any new concept.
+When you learn, you look up for a guru, you find a guru.
+You will basically look at books, internet articles, YouTube videos, PDF documents, texts.
+Suppose you are sitting on a webinar and you will record.
+Right.
+You will record from your phone.
+Or you are sitting offline and still you will record from your iPhone.
+You get a transcript of that.
+You can also dump that.
+Right.
+Photos, you can dump photos, which are infographics.
+Audio clips.
+Like if you press record, you can dump audio clips in it.
+You can dump webinars.
+You can dump a lot of things.
+What was our typical process?
+That we do it as notes.
+Right.
+That's a typical approach where we do it as notes.
+Every time, whatever your guru says, you take notes.
+That is the traditional process.
+Okay.
+Right.
+And then everything is where you look at your book.
+You keep going back forward and then trying to analyze.
+So after that, you implement.
+After that, you improvise and try to self-learn and try to be more independent.
+Absolutely.
+This part of the process can take you anywhere from 15 days for a basic concept to about five years, six years to learn.
+Because that is traditionally the process.
+It's called learning.
+Correct.
+Right.
+Every person who is learning, every child who is going to basically get into learning, they are going to follow this process.
+This is the traditional process.
+Correct.
+The second part of the process that is now very famous is that everybody wants the result.
+So they directly go to chatGPT and ask for a strategy.
+I want to make money.
+This is that approach.
+Because you are following.
+Like how you used to ask Google before, now you ask chatGPT or you ask Claude that I just want to make money, give me a strategy.
+Right.
+He makes something and gives it to you.
+Then you test it.
+Then you give up because you don't have a system.
+You have not, you're not, the thought process is not there.
+You do not have the risk tolerance.
+Your mindset should be there.
+That thing has not been ingrained in you because you have not read anything.
+You're just asking directly for a strategy to make money.
+You have no idea of pattern, what happens, what happens.
+Nowadays, there are a lot of AI trading courses that you don't even see, money will be made.
+This is not that concept.
+Here we are not talking about make money without looking.
+Here we're talking about how do you learn something?
+How do you learn faster that you can pass on?
+Okay.
+Right.
+So the process here is that one is you ask it a strategy and AI platform browses online.
+So what happens in this is that the AI platform, every time you ask a question, it is trying to find from the web.
+Okay.
+Assume that this Mark Minervini VCP concept, you can put this same question, which is a screenshot, on the cloud as well.
+Online cloud.
+Right.
+So he will find out himself what is the approach and then he will give you the answer.
+Yeah.
+He does not have the material knowledge that you have, like you did a deep course with him.
+So there are nuggets in it, right?
+That we see this, like it has been bought with a large volume.
+After that, I should see less volume on the right-hand side, even if it's going down.
+It means I will start looking at buying further.
+So this concept is never talked about, right?
+So online it might miss because he has that much time, right?
+That it has to come back to you within 30 seconds.
+Otherwise the person will drop off.
+Correct.
+Saying that I will not get an answer.
+This is endlessly browsing.
+Correct.
+So what happens here is every time you put a query on cloud, it will start searching online.
+It will find whatever answer it gets.
+And then it gives you an answer.
+Instant gratification and it gives you a code or it gives you whatever you've asked for.
+Right.
+After that, you make notes again, you make notes offline and you probably save it manually.
+Whatever manual work is done.
+What happens here is that we end up trying, we are learning, but we are learning slowly, but we are also ending up frustrated because sometimes AI says something wrong all the time.
+Right.
+Sometimes it makes a lot of mistakes because it is learning.
+Every time you're asking a query, it is learning something new.
+So this way it is more of a testing and it's frustration because honestly, I don't know coding.
+I haven't done coding yet, but whatever I have built, I've used cloud code.
+Okay.
+This is the third step.
+This is what we are basically talking about.
+What happens in this is that we follow a tutor.
+We have all of this, right?
+We put it into Obsidian and Obsidian works with cloud code together to structure it.
+Okay.
+And then we study and implement it and we can improvise.
+Now this loop goes round and round here.
+Okay.
+Because you don't have to go out anymore.
+What is the focus?
+All the sources that you find.
+Suppose you have chosen a topic that I want to trade VCP or I want to trade on value buying.
+So whatever concept you have on value buying, whatever concept, suppose IPO style trading, which is post IPO trading, so you have to specialize on that.
+Whatever the topic is, you put that topic together on Obsidian.
+Obsidian serves like a storage tank.
+Okay.
+It's like a memory bank, which is offline.
+Okay.
+Right.
+So after that, cloud code will be the brain.
+It will not search online, it will search in your brain Obsidian.
+Okay.
+Right.
+So that is the, that is basically the process and we'll give you an answer.
+Now, typical timeline for, and this process is called ingesting.
+Okay.
+Ingesting, digestion, basically similar concept, where it is not learning, it is ingesting and it is adding to your,
+In this, their terminologies, they say that they are doing a wiki.
+Okay.
+They're making a Wikipedia of your strategy or whatever you're basically teaching it.
+Okay.
+Right.
+So machine basically learns and it gives you that structure, which I showed you earlier, which is the web like structure, mind map, as you said.
+So it creates that structure.
+Right.
+So that's what it does.
+Now, if I give it a book, it will do it in the same structure.
+If I give it a YouTube video, it will give it in the same structure.
+Interesting.
+If I do a PDF document, text, photo, it will convert it into that format and it will not overlap.
+It will keep giving more and more information.
+It will incrementally compound.
+So whatever I am over a period of five to six years is a compounded version of myself and the knowledge I have acquired.
+Right now, for me to give my knowledge to my children, they would take a long learning period, but with this, I can directly copy my knowledge and paste it on their computer.
+And then it is more like they can continue from it.
+They can learn from it.
+They can ask questions about what kind of strategies that I used to use.
+Everything will be answered.
+Every person becomes independent.
+So Obsidian is basically your personalized LLM.
+Can I just, I mean, a very desi way or very crude way.
+Can I say this?
+Then again, correcting myself, LLM is Claude, brain is Claude, it remains Claude.
+Obsidian is more of a layer, storage, memory.
+Got it.
+Right, so assume you have given a skill to Claude, that I have to go and fetch this and that, use this scanner, do this and that.
+If you do it once, then he will ask permission, allow, allow, allow and ask a lot of things.
+Then you have become successful.
+If you go to do it for the second time, then it will do the same process.
+But if I tell it, saying ingest it into my system, it will record it permanently.
+So then I just have to put a command.
+Very good.
+So I will show you an example of that.
+So this is the bonus or the advantage is where you can put these folders in the pen drive, you can go to any computer, there is Claude code, so you can connect and run the same thing.
+Like you can continue it.
+So you can take compounded knowledge.
+Right.
+So the process is this, it's a three-step process.
+In this process, you need Claude, which is for reading and reasoning.
+You need Obsidian, basically it saves like a memory bank.
+So the whole concept is like that.
+And an instruction article.
+The instruction article is because it gives instructions to Claude to create structures inside Obsidian.
+Okay.
+Right.
+So this is more like telling a baby how to brush their teeth.
+Hmm.
+Right.
+So you give it to Claude.
+Claude puts it in the memory of Obsidian that this is how to brush your teeth.
+Hmm.
+Then the next time when you try, that brushing happens automatically.
+Because you are teaching it.
+The beauty of it is you don't have to teach it again and again.
+It happens at once.
+It speeds up.
+Right.
+So this is an instruction article.
+And this is basically the process.
+So we can move forward one by one.
+Hmm.
+Where we go through step-by-step process and I can take you through this bit.
+Yeah.
+Okay.
+In the meanwhile, if you are liking it, then write in the comment.
+Yes, we are liking it.
+Because the more you write in the comment, I got to know that if you write in the comment, then the YouTube algorithm promotes the video more.
+I don't have such an idea.
+I understand when I listen to other podcasters.
+And there was one more thing.
+We were looking at the data.
+50% of you have not subscribed.
+Because you think money will be spent here.
+It's a free thing happening here.
+Subscribe so that YouTube comes to know that we are doing a good job.
+Okay.
+Let's go.
+So primarily you need three things.
+One is Claude.
+Right.
+Claude desktop version.
+Okay.
+You require that for Windows or Mac.
+You will have a desktop version.
+Download the desktop version.
+Okay.
+You will require a Pro plan or Max plan.
+Because Claude code is not available for free users.
+Okay.
+Claude is available.
+Suppose you need your numbers.
+Which is the first part which I said.
+For self-awareness, you need trading edge numbers from your trading data.
+Like winning percentage etc.
+You can do that with Claude.
+Which is for the free user.
+But if you want to use the second brain concept, you will need Claude code.
+Because there are a lot of things that you will see.
+Right.
+So we will use Claude code.
+Then we will use Obsidian.
+Obsidian is the memory bank tool.
+So it is obsidian.md.
+Okay.
+You can download this offline.
+It is free.
+There is an online version which is a paid one.
+The advantage of that is that it syncs online.
+Like you keep the whole thing in the cloud.
+You are not keeping it on your local desktop.
+So once it is downloaded and installed.
+Then we need something called as an instruction article.
+That's the third part.
+So for that you need to go to search.
+Search for Kaparthi's LLM wiki.
+Okay.
+So he has created a LLM wiki in Github.
+Which is a set of instructions.
+For Claude, you can use it with Obsidian.
+So if you see here, it says idea file.
+You don't really have to read it.
+You can just click on draw.
+Again I will show it to you.
+Here.
+This is the raw.
+Right.
+You click on draw.
+Or you can directly copy this entire article.
+This is an article.
+Until notes.
+Right.
+So you can just copy this.
+Right.
+So I will go back.
+I will just keep this copied.
+Let me copy it.
+Yeah.
+So now the first part is we will require to create a vault.
+Okay.
+Now I have launched Obsidian.
+Have you opened Obsidian?
+Yes.
+I have opened Obsidian.
+I already have one.
+Okay.
+Let's start fresh.
+Yes.
+Let's start fresh.
+So when you are starting on the left side, you will get an option where you can manage vaults.
+And it will ask you to create a new vault.
+Okay.
+Right.
+So you can create it here.
+Create it face to face.
+Yes.
+So we will create it.
+So I am basically saying I want to create a new vault.
+So I will click on create.
+I will give it a name.
+F2F.
+Okay.
+F2F.
+Okay.
+Okay.
+So I will create a vault name.
+And then I will say I want to put it in which folder.
+So I am selecting a folder by clicking on Obsidian.
+Yes.
+And I, let me just go back again.
+Manage vault.
+Okay.
+F2F.
+Now it has selected it.
+Sure.
+It has selected the location.
+I just clicked on create.
+Right.
+So I have a vault.
+Okay.
+Now I will close the previous one because my vault is this right now.
+Okay.
+Right.
+So now I have a vault, which means that if I go to my computer and I go into that same folder, which is inside Obsidian F2F.
+Right.
+Either welcome.md is the file and you can see welcome.md here also.
+Okay.
+This is the welcome.md file.
+Right.
+This is what is there in the file.
+Okay.
+So once I have this, then I go to my cloud code.
+I go to my cloud code and I create a new session.
+Okay.
+Okay.
+In this new session, over here, you have to select a folder.
+I'm keeping it local because it's the folder which is in my computer and I'm saying I will have to select a folder.
+So I will click on open folder and I have to select the same one, which we have just created, which is F2F.
+So I go to Obsidian and select F2F and I'm clicking open.
+Now what happens is that whatever cloud code will do, it will do it in this folder only.
+Okay.
+Right.
+So first step is we have to create a structure.
+We have to give it an instruction saying that I want this structure.
+Okay.
+So what I will say is, I will say set up these instructions to improve my trading.
+I just gave a simple line and I'm giving the copy-paste of the entire article.
+Right.
+I'm only saying this about trading because Cloud also understands how to structure it.
+Plus it has incremental instructions in it.
+Right.
+Sometimes it asks a topic that on which topic should I do it so that its focus comes that I want to make a strategy folder, I want to make a concept folder, I want to make a setup folder.
+So it generally asks the topic in case you have not given a topic.
+So you go a little bit of to and fro here.
+But let's say I did this and I hit enter.
+Right.
+It trusts this workspace.
+Basically, it trusts the folder and asks.
+So I end up starting it.
+So after doing this much, it starts its work and then you start seeing all the things that it's trying to build inside the vault.
+So now it understands that this is a fresh vault.
+So it will tell you.
+Very soon it will start telling you saying that, okay, this appears to be a fresh vault.
+I will start from scratch.
+And whatever instruction it has been given, it will do it.
+See this.
+Right.
+So now it is asking some things.
+I will just click.
+Okay.
+You know, the knowledge you are sharing, you could have made a course of one lakh rupees in India.
+Course, I think that is your speciality.
+What I am saying is that people make such a fool of themselves.
+They take one lakh or five lakh rupees and teach basic things.
+And you are not complex, but you are giving such deep learning without any motive.
+It is commendable.
+Really, I appreciate you.
+Thank you.
+And I am sure people who are listening, they are also appreciating that who teaches like this?
+Very few people teach in India.
+Except me.
+So meanwhile, let us do this.
+Let us find sources.
+Right.
+What all can we put in this?
+Let us basically find it.
+Because then you also understand that part.
+Right.
+So it is doing its work.
+Because I have a setup.
+Yes.
+Can I put it in this?
+Yes, you can.
+What can we take out from my setup?
+We can automate it.
+Okay.
+So it is a concept.
+See, I can show you what I have already created, because I have brought those files.
+I can show you the link.
+Yeah, that's better.
+So once you understand that.
+Then I will implement it myself.
+Will you directly implement it yourself?
+I will implement it and then give you feedback.
+We can give feedback.
+Done, done, done.
+That is better.
+Because I want to show you how you can do infographic, how you can do images, how you can do PDF, so all of that.
+He is still making that concept.
+I was a little selfish.
+I thought I would get it done myself.
+You can do that.
+It will be done soon.
+So now if you see here, on F2F, he has made a raw folder, he has made a wiki folder, he has made all these structures in the wiki folder.
+Now if you go to Obsidian, a network has been created here.
+Nice.
+It has started.
+Nice.
+Okay.
+So now there is nothing in this network.
+One minute, where did this Minerva and RelativeSync come from?
+All this is because I have put it in my cloud code first.
+Okay.
+So this is my whole base,
+I mean, he is giving me concepts by looking at my whole vault.
+Yes, because it is personalized.
+So it's a personalized vault.
+It is because I am doing a lot of study in this, that is why this concept is coming.
+Right.
+So all this will not come.
+Someone will do it for the first time.
+If you do it for the first time, then you will primarily get a raw folder.
+Yes.
+And you will get a wiki folder.
+Okay.
+Right.
+So you will get a raw and wiki folder.
+And it will be set like this.
+If I had told, say about a credit card, then there will be no Minerva and RelativeSync either.
+So now I have a raw folder and a wiki folder.
+Now what I do is that I have prepared a folder by doing a demo asset here.
+Just to show you.
+So I have put an image here.
+There is another image here.
+There is another image here.
+I don't know whether it's visible, but let me just...
+Right.
+Yes, it's visible.
+Right.
+So these are different images.
+Okay.
+Then I have some links to show you how we can do it from links, how we can do it from YouTube, how we can do it. I have Mark Minervini's...
+I got a PDF document while browsing online.
+Right.
+So how can we do that?
+So what I do is, in this whole thing, first we start with the PDF, but I can always multi-select and keep it in the raw folder.
+So right now I'm copying the PDF.
+Right.
+Or I'll copy the images first.
+I will put it in the F2F folder in the raw.
+Okay.
+Right.
+So I'll copy and paste it here.
+Okay.
+Right.
+Then I can come here.
+He has already done it.
+He has already set it up that these are the folders that are there in the F2F.
+Okay.
+Right.
+So setup is already ready.
+Now what I have to do is,
+I have to say,
+ingest everything there is in the raw folder.
+Hmm.
+Right.
+So then it will start studying what is there in the raw folder.
+If there are images, it will read the images.
+It will try to analyze.
+See, it already told saying only images are in there.
+Let me read all four.
+Because I have just copied the images there.
+Right.
+So it will read and put its analysis in it.
+Hmm.
+What can I do parallelly?
+I will basically go back into my place.
+I can go to my demo assets folder.
+I can go up and check my links.
+Let me just put.
+I will pick up a link from here.
+Can you put all at once?
+No.
+No.
+Because there is a process.
+So I will show you that process.
+Right.
+If I am taking a trading, if I am taking a YouTube video, let me open a YouTube video.
+Yeah.
+Let me start with the YouTube video.
+If I open a YouTube video, I get an option that it will just load.
+Yeah.
+So if you see over here, sorry, this is an ad.
+But you can use any Chrome plugin on the right side where you will get the transcript of the entire video.
+Now, I don't have to go through the entire video, which means I'm saving my time.
+What I can do is I can simply say copy without timestamp.
+Go back into my Claude folder and put it over here and say, ingest it.
+Ingest this.
+But you didn't go to the Claude folder.
+Video transcript.
+You went to Claude.
+Claude.
+Directly.
+You didn't go to the folder.
+There is no need for a folder all the time.
+Sometimes when you have heavy files, suppose you have a book and all of that, sometimes it will take too long to do it via this.
+But you can do it directly by putting into raw.
+Let's say you have identified four to five videos.
+Right.
+So you can put a transcript of each one and do it.
+Alternative option is you can, if it is not a text, then you take, if it is a file, like I have a file of images, then you can put images directly in the raw folder.
+So what I have done now is ingest this video transcript.
+Now I have pressed enter.
+So if you see over here, it has analyzed all the images and it's saying what it has added into the memory bank.
+Right.
+So now it will start basically analyzing the video content also.
+Right.
+Parallelly, let me do this.
+I will take a book now.
+Sorry, not a book, a PDF document.
+Book is not allowed.
+PDF document.
+No one will take the book.
+If someone takes the book, he will spend money in the original book.
+So PDF document.
+I come here face to face.
+I have become an author now.
+Correct.
+I know the pain of an author if someone is taking his pirated book.
+So this is a PDF extract of the setup.
+So I have put it in the raw folder or I can always do it from here also.
+Right.
+So now there is a data pool happening.
+If you see here, reading through the transcript now, let me identify what's new versus what's already in the wiki.
+It means it is compounding.
+Whatever information is already on the wiki, if something new comes on top of it, then it is adding on.
+If that old thing is not used, then it will remove it.
+If it is the core concept.
+Right.
+So if you look here, it says key new material from the transcript.
+So this thing came.
+What did I do now?
+I ingested the YouTube video.
+Right.
+So the next process, it is still basically creating.
+It is adding on more information.
+I can say now that I have copied the PDF file.
+I have just copied the PDF file of the rules.
+So I can also say that, ingest the PDF file, add it in the raw folder.
+Hmm.
+There is an alternative to this.
+Here you have a plus button.
+Yes, there is a plus button here.
+Add file.
+Add it.
+Right.
+And you will be able to ingest it.
+Right.
+Some people must have already commented that what is so complicated?
+Put the PDF in this.
+I have already answered that.
+So you can ingest the PDF.
+Now that PDF has multiple pages, it will take time.
+Yes, it is correct.
+Let's say 20-30 pages.
+So it will automatically change that I do it in batch, I do the process, I will do this process, I will do that process.
+It will give options on its own and it will do it on its own.
+We don't have to interfere.
+So now see that he has taken out these things from that YouTube video and updated these things here.
+Which one did you update? Which one did you create?
+What is a catalyst?
+Analysis.
+So these files have now been created.
+What is a .md?
+Markdown files.
+What is the...
+Which agent understands.
+So md means, for example, if I come here, if I select, now this is an md file, mark md file.
+So there are rules in this, there are instructions.
+Okay.
+So our first step is, before you ask question, is you give more information.
+Understood.
+Give him all the information, let him understand exactly what a trend template is.
+So is it a file for every instruction?
+It is a file.
+Yes.
+Can I presume that?
+Yes.
+.md means instruction.
+Instruction.
+Assume it is a concept file.
+So if I go to wiki in this, so here concepts, now which concepts of VCP are already inside this?
+There is a concept of relative strength in this.
+See, what he has said about relative strength, right?
+What has he said about RS line?
+What has he said about RS rating?
+Marketsmith India ratings.
+So all this and supply, demand, dynamics, there is some information about this.
+So he also talks about this, right?
+So now I have taken it from YouTube video, which is a transcript.
+You can use any Chrome plugin, which tells you saying it will pull out a transcript and you can utilize it.
+Yes.
+Right? So next is ingest the PDF file added in the raw folder.
+That one I hit enter.
+It will start going to the file.
+If it does not have the capability, it will tell you saying I have to install certain things.
+You click allow.
+Once it is read that it will process further.
+Okay.
+You don't have to do anything else.
+Okay.
+Right.
+Next is, um, if I go back to my demo assets, I have links, uh, links.
+What do you mean by demo assets?
+I have this for now.
+This is your name, right?
+Demo assets.
+This is related to the cloud.
+This is not related to the cloud.
+No, no, no, I have it for now.
+Okay.
+Like you said, I have collected from here so that I can go directly instead of searching on Google.
+But I can do it anyhow.
+So this is a link of GitHub.
+If I go to VCP, GitHub, right?
+So here I get a lot of repos as part of, you know, who all I have done.
+I don't understand GitHub.
+Yes, I was going to ask what is this?
+These are basically online code sharing platforms.
+So I don't understand it ideally.
+This is code sharing.
+Some people say that it is a fork and you are copying the meaning of fork.
+So I am not into engineering or computer engineering.
+I don't understand this.
+What is your background?
+I was into marketing, management.
+You are in management background.
+Yes, management background.
+You don't know how to take tech?
+I don't know how to take tech.
+Okay.
+So what I do is that I end up basically taking this.
+I copy this link.
+I go directly to the cloud.
+I tell it here to ingest this.
+Right? I put the link.
+It will do the whole thing by itself.
+And it will ingest it.
+Now what is there?
+There are scanners.
+There is information on how to read a VCP.
+That is everything.
+Right? So it will basically create that.
+Now what is happening is that it is taking from the book.
+It is still taking from the book.
+PDF.
+Yes.
+Now see the SIPA strategy.
+Don't say book.
+People will think that we have put the book in the pirate.
+Sorry.
+PDF.
+Yes.
+Sorry.
+PDF.
+The PDF document.
+It was a single page document.
+So it is extracting as part of the data.
+Now after this, we can also put the GitHub link.
+So I made a lot of things like this.
+Then we will.
+Now I will not continue.
+I will show you what I have built.
+Right? It will take some time until this process is done.
+So I will show you what I have built.
+So here if you see.
+I have done the same thing that I have done now.
+The only thing is that I have put a lot of documents here.
+Okay.
+So I will show you that.
+Currently the layer of this looks like this.
+One minute.
+It looks like this.
+It is still being ingested.
+A lot of PDFs.
+Images.
+All this is being ingested.
+Right.
+What I have made now.
+What I use now.
+Its setup looks like this.
+Okay.
+Let's go.
+It looks like this.
+So my brain has grown.
+Okay.
+So the more things you add from the web.
+From the internet.
+Clips.
+Articles.
+Videos.
+GitHub links.
+By making it like this, the brain grows.
+Like our brain.
+Correct.
+The more we study, the more the brain gets ready.
+Have you prepared that?
+Correct.
+I have prepared that.
+Beautiful.
+Right.
+So what I can do now is I can basically ask it questions.
+Sorry sir.
+One question.
+I am your student.
+Yeah.
+Some topics.
+The circle is big.
+Like VCP.
+Index.
+No.
+Primary concept.
+Primary.
+Primary.
+Yes.
+So how will it know that this is primary?
+Because you are just adding content.
+Yes.
+Because it has connected.
+It has connected itself.
+Okay.
+In VCP, stage analysis also happens.
+This also happens.
+That also happens.
+Now how many nodes are connecting the same topic.
+So it grows like that.
+What is an index file?
+It is an instructional file.
+Yes.
+How do you operate?
+Yes.
+Because what does Claude want?
+That if I ask a question, what should it do?
+So it goes to the index first.
+It understands that I have to do this.
+Yes.
+Right.
+Then it goes to the inside file that I have to follow this instruction.
+Right.
+So it creates that.
+Right.
+So now it also extracted the PDF.
+Okay.
+Sorry.
+Yes.
+And after the ingestion, it got three new concepts.
+Okay.
+Tennis ball action.
+This is their favorite.
+Yes.
+So all this came.
+So I can update it incrementally like this.
+Now I took that link from GitHub earlier.
+I can also ingest that.
+I just have to press enter.
+So what is happening now is that instead of spending 3 hours or 10 minutes on one video, 10 minutes on another video, 15 minutes on another video, 1 hour on a trader lion's video,
+I can ingest the whole thing and put it in one place.
+Now look, it asks for some permission.
+So I'll have to create allow.
+And then if it has any kind of skill that is developed, then it will tell me.
+Now to give you an example, what is this parallel web extract?
+Actually, Claude told me that this is a feature to browse AI agents.
+So you install it.
+And I also got its instruction.
+I followed it and installed it.
+Right.
+So it tells you what you have to do.
+Now to give you an example of what I have built on it.
+Right.
+So I have made a folder here.
+So I can put commands here and build a slash command.
+The command says that if you want to do the same thing every day, suppose you are scanning, then how can you set it up?
+Right.
+So I told it to fetch me something.
+So I basically fetched it and gave it a scan approach.
+So it fetched it and I can click it.
+So now the program that I have set up is that you go to the Market Smith website.
+There is a list of Minervini on Market Smith, which is for paid users only.
+Right.
+Now I am a paid user, so I can access it.
+Can Claude access it?
+Because I have given him the instruction that this is my login session ID.
+Okay.
+So you log in to this and retrieve the data of the Minervini list.
+You also retrieve the RS of it.
+And you update me that which stocks have come in this list today.
+And the next day what I do is I run the same thing called fetch.
+And it has given this instruction that which are new today and which have been removed.
+Right.
+So you also give me the list.
+So fetch is what?
+Fetch is something which you have defined as an instruction?
+I have created.
+Okay.
+So when I say fetch, it means you have created this.
+Yes.
+Like I have added a lot of things here.
+Like I have said here that first give me the list of Market Smith.
+I just need its number.
+How much is it?
+Because otherwise it will give such a big list.
+Okay.
+By pulling out.
+I don't want all that.
+So I said that first tell me the number of stocks in the list.
+So it said there are 95 stocks.
+At this time.
+Right.
+It is going to change in the evening.
+So I generally do this at the end of the day.
+I do something around 4 o'clock.
+So then I get to know at the end of the day how many stocks are there.
+Next I have given it that there is an option of Mark Minervini that if it is a young stock, it will have a capability to go further.
+Right.
+It has a capability to rise more.
+So IPO should be less than 10 years.
+I had given a clause to it that whatever stocks IPO which is less than 10 years,
+I also need an information for that.
+Whenever you get such a stock, then you put it like a plant.
+So it has put an icon for me.
+Wherever if it is there.
+Like see here now.
+New but not tight.
+Star Health 2021 IPO.
+It is a young stock.
+It is picking up.
+And these are the stocks that are currently removed.
+It's not in the Marketsmith list.
+So right now I don't have to go to Marketsmith to get this information.
+I just have to come here, click fetch.
+I will get all the information here.
+Right.
+Or I can directly ask it saying what is the, what is the, this is another command I have built.
+What is the RS of let's say NMDC.
+Okay.
+RS stands for Relative Strength.
+So I have given a command called RS.
+I can normally ask.
+So every time you are giving command, it is logging into Marketsmith and getting the data.
+Yes.
+So Marketsmith is allowing that exercise.
+Actually I am logged in.
+So parallelly I am logged in.
+If you see over here.
+I am logged in.
+Right.
+So I am a logged in user.
+I am a paid user.
+I have to log in because it requires the key.
+Okay.
+This is the session ID, which is my login ID.
+So I am always logged in.
+And because I am logged in, it is able to access.
+See the process is one time.
+Right.
+For the first time, it is a little long process.
+But once I gave it a command that you can make this skill.
+It will also show you, it will also tell you that how do you create the skill.
+Right.
+But Marketsmith website has to allow you to.
+Yeah.
+So it is allowing.
+Because it is.
+Right now it is thinking that I am logging in as an individual.
+So this is allowed.
+Because I have taken my M session ID.
+My login ID.
+Login ID which is user ID and password.
+No.
+Only the session ID.
+Because I am logged in.
+I am logged in here.
+So how does session ID come?
+Session ID means the way you see it in the developer code.
+It will tell you where to go.
+So it will tell you saying go to Chrome.
+Go to more tools.
+Go to developer tools.
+If you log in, you will see it. If you don't, you won't see it.
+So, if I show you here, my session ID will come.
+But basically, it will give you an instruction.
+Now, I will give you another example.
+I did not know this was happening. This was even possible.
+So, first it told me that it is not able to log in.
+So, I said, if it is not able to log in, then how do I get it?
+So, then it told me saying, if you have charting, there are public screeners in charting, right?
+We can basically make it possible.
+So, I told it, okay, build me a charting scanner.
+I want to take it from this URL.
+So, I gave it my public dashboard URL.
+And I said, pull the data from the first column.
+So, I will show you that example also.
+Right now, I have converted it into a command.
+So, I can say fetch.
+How do you create command like fetch?
+How do you define it?
+Basically, what you have to do is that, you have to first create a process.
+Let's say you have to extract some information.
+Right? That extraction of the process takes time.
+Because that is the first time it is ever doing this kind of a job.
+Right? So, now it is pulling from charting.
+Now, I have no, like I said,
+I am not into engineering or whatever.
+I do not know how it ended up doing this.
+So, what did I do?
+Right? I asked it saying that, how do I basically pull the data from charting?
+So, it told me saying, you have to either have access to it.
+You can also see if it has a charting API.
+Right? So, I thought API is the best method.
+Right? So, I went up online.
+I opened Chrome.
+And I searched charting API.
+Right? There is no API.
+So, what do we do?
+So, I looked up on these YouTube videos.
+There was a video here.
+Someone did it in 2024.
+Get charting screener data in Python with full code.
+So, I clicked on it.
+Okay.
+I took the transcript.
+Because I do not have time to see this video.
+Neither will I understand.
+He is talking in Python.
+It is an engineering.
+It is a code related thing.
+I did not understand.
+I copied this.
+I gave it to my cloud code.
+And I told it, do you think we can do this with this approach?
+It said, yes.
+My eyes lit up.
+And the moment it did it,
+I was like, if we can do this for charting, then why can't we do this method on MarketSmith?
+So, he said, we can do it.
+You just give me this information.
+The M session ID is private.
+So, he said, do not share it in cloud code.
+He himself says, do not share it in cloud code.
+I will make a folder file for you.
+You add there.
+Oh my God.
+Right? So, it is not public.
+It is not inside cloud code also.
+It is all offline.
+So, every time, it basically does the search on behalf of me.
+Whenever I give it a command, it will go.
+It will validate the session ID.
+It will go online, browse, and get the information.
+And give me in the way I want it.
+Superb.
+Right? So, these are all builds that we can do more and more.
+Now, let's come back to our thing, which has been ingested.
+Right? So, here we can ask what questions.
+Right? So, here it has already done multiple files.
+So, let's say I go to my trading view dashboard.
+Let me just close this.
+Let me just get a clean chart.
+I can remove all of this.
+Now, what is this?
+I had explained to you earlier that this also I created like a Chrome plugin.
+But I asked that only to give it to me.
+I mean, I asked Claude only that I want to make a Chrome extension in trading view.
+Okay? Which pulls RS data on the same concept.
+Use the same concept and give me that information.
+And it basically created a version for this.
+So, I use that now because whenever I shift this,
+I can use it.
+Right? So, if I basically give it instructions.
+Now, I have given it more instructions.
+I will currently just take a screenshot of this.
+Right? I will give a screenshot of this chart.
+And I can ask it saying, is this a VCP?
+Like, you can ask.
+Can't you ask Gemini?
+No, it's not a folder.
+Because it's not a folder.
+Yes.
+But Gemini doesn't give it.
+Gemini will give it online.
+It will give it online.
+I don't want to do it online.
+I want to do it with your brain.
+Yes.
+I want to do it with the second brain that we have set.
+So, here we can ask that okay, now the screenshot is there.
+So, I can basically ask it.
+Let's say, does this chart meet the trend template?
+Trend template?
+The trend template of Mark Minervini.
+Have you defined it?
+Yes.
+No, I haven't defined it.
+It has just been ingested.
+Yes.
+Right? So, I can ask any question.
+Okay.
+It will understand.
+Yes, it will understand.
+Because it has already downloaded so much information on its memory.
+So, it will tell.
+Even if it makes a mistake, sometimes what happens is that we put different color lines.
+Yes.
+Right? Yes.
+So, if you see my trading view, my red line is the 200-day moving average.
+My black line is the 150-day.
+My green line is the 50-day.
+This is the typical trend concept.
+Now, these two lines, those are for pyramiding approaches, which Mark Minervini teaches.
+So, I have to instruct it first saying that this is what these lines mean.
+So, it don't get confused.
+Right? So, sometimes what happens is that because this line which is coming from the top, right?
+It also understands the red line.
+So, we have to give it a correction at that time saying that is it meeting.
+So, for example, see here.
+It's telling me Tata Steel.
+Okay.
+This is the criteria.
+I had just ingested the information.
+So, it has given the result that it meets all the things.
+But it does not know what is the RS rating.
+Cannot read from chart.
+Right? So, I can ask it.
+Get the RS rating from Marketsmith.
+Yes.
+RS from Marketsmith.
+I haven't given the command yet.
+Because it becomes a command by slashing.
+Slash RS which is the command that I have built.
+But look what it does.
+It will do it by itself.
+See.
+Hello.
+So, now it's fetching the RS rating of Tata Steel.
+83.
+Full trend template.
+8 out of 8 pass.
+So, like this I can ask any question.
+So, right now.
+Whatever it has basically ingested from that information.
+It will take.
+And this.
+Right now.
+I am doing this particular questions.
+From what we just now built.
+I am not doing it from mine.
+This is just now what we built.
+So, I asked it a question.
+I took the photograph.
+I put it over here.
+And I got this answer.
+Based on what we have created in this session.
+Now, as part of extension.
+I can do many things.
+I can create commands.
+I can create.
+Telegram.
+Notification.
+App.
+Which is in my phone.
+I think my phone is behind.
+But I can show you that.
+Everyday I get a message.
+That these stocks have come in the selection criteria.
+And all you have to do is follow instruction.
+It will tell you.
+Saying this is what you need to follow.
+As a set of instructions.
+And you follow it.
+Because I wanted something to automate.
+You don't run.
+You don't want to run the.
+You don't have to run the instruction again and again.
+I don't have to.
+No.
+So, here in Claude code.
+You will see that there is something called as routine.
+Right.
+So, routine means.
+Everyday at the same time.
+It will create a certain action.
+So, I can create something like that.
+How do you do that?
+Suppose we have to put this in the routine.
+So, what should I do?
+So, I have to tell it.
+What I want.
+I want to put this under routine.
+You say that in telegram.
+Everyday.
+Every morning at 9 o'clock.
+Okay.
+Can you build me a vcp scanner.
+With files.
+The.
+Of.
+Files.
+From.
+Market.
+Smith.
+And.
+Send it to me on telegram.
+Is he called an agent?
+Or you have created an agent.
+You can say that.
+Yeah.
+To an extent.
+But this.
+Primarily I use it for learning myself.
+If I want to build myself.
+In whatever direction I want to build it.
+I will be able to.
+Build it in that way.
+Do you mean.
+The trend template.
+List already pulled.
+By vcp scan.
+Or do you want to download.
+Per stock.
+Which is.
+Which lcv data.
+From market.
+Smith to.
+Telegram bot.
+Do you have a bot token.
+And a chat id.
+Do you need to create one.
+If I say.
+Yes.
+I will be able to.
+Build it in that way.
+I will be able to.
+Build it in that way.
+I will be able to.
+Build it in that way.
+I will be able to.
+Build it in that way.
+I will be able to. say I want to create one it will give me instructions on how to create one so first process is that I have to do the entire process once then I tell it build it into a skill okay once I say build it into a skill then I put it into a
+routine so that part typically takes longer but what happens is all the information that you used to take by spending hours and hours on the web from to learn all that is now inside this and the beauty of it is I can simply go to my computer I can take
+this obsidian I can take my trader I can just copy this and give it to you and you have access to everything instantly all the learning that is ever done on this machine will be on your machine as well and this will open in obsidian only yes you will
+have to set up the structure what's the utility of obsidian and the same thing in a normal folder right it's a it's a memory bank because it needs a folder it needs a structure right it needs a structure so the structuring Claude needs a structure Claude
+is an instruction it's only a brain it's not a memory bank okay it does not save the memory so I'll be what happens if you go on Claude online it is trying to save the memory online you have limited context window you have limited context window once
+I install Claude in offline mode yeah and I give Claude the access of my folder yeah and give instruction inside Claude itself yeah that use this folder for any kind of processing what I know is based on how I have used it is that it's better combined
+with obsidian but what I have also tried but I've tried it with co-work okay I've tried it with co-worker I tell it saying organize my files absolutely co-work is that because we'll folder folder may select curtain of it is a desktop may select key or
+may be like a put all the files together organize it put them into neat folders was up my neck over pick your dear I have not tested what you're trying to say ideally a co-worker
+co-worker because it's my coding it's my agent it may extend as part of agent it okay to make us go app builders I may is missing an indicator create Kia right so Abby may Abby may for example if I go into my folder right now and I ask it saying fetch
+this particular thing it will also give me a tightness other tightness has talked me because I have given it an instruction saying that last three candles which is to latest one day before one day prior to that Ooska high or Ooska low agar was 6% C niche
+hair and it is a part of the
+Minervini list right then highlight those so much a chaotic I am getting us only two stocks three stocks because ultimately the result is what that I need to get I need to be I can only trade those which are less than 6% because that is my risk level
+I want to maintain so I'm able to filter out stocks like that it will give me on a daily basis I have to press one button it pulls all the data and gives information to me so I don't have to browse manually to do it I get what I want it's a personalized
+approach right so whatever I want to one learn let's say if I have to learn then I can ask like for example Abby May the stanka coach concepts were gonna Kia so I can ask over here saying that how does Stan trade how does Stan initiate trade Abby was
+caught Joe B material man a gather Kia right who's my agar who's the already bataya has KSR trade karte hain this is the approach that he follows then it will show up in this so if I if you see over here I have asked a question does Stan use moving averages
+to buy a stock what is the exact buying methodology so it's giving an answer also now it's taking this answer not by going online sticking the answer because of all the offline material I have asked got it right so that is basically the approach amazing
+but this is not the limit it is limitless you can ask whatever you want to ask it will keep building it will keep compounding so if you have different questions if you have if you want to create an RS scanner if you want to create a chrome plug-in that
+will help you if you want to create a trading view indicator it will create it will give it to you in whatever format and it will also tell you how to install it so you become poor independent I'm using indicate it was such a pleasure recording this with
+you I think as I said earlier also that it's an openly sub bottom how come look share Karte so
+I'm really appreciating you kept me share care and the many many people would love to connect with you to learn more which I'm not sure how much you want because ultimately you are doing it for yourself and for your kids you have no interest of you know
+giving anything in return but the knowledge you have given is tremendous are you there on social media I am so I go by super trader Aniket yes on YouTube and on Twitter I am on X so on
+XM Aniket surely so I will share your link with everyone so that anyone who wants to connect with you in case they have any questions yeah they can they're free to I think they should also use this to answer all the questions they can they can sometimes
+what happens is people feel very you know overwhelmed yeah I missed one particular aspect okay one of the things that you can also do is you can download a plug-in called obsidian Chrome extension hair okay so you can install this Chrome extension I can
+come over here I can install this Chrome extension it will take all the contents from the page okay
+and then I can just click on the demo for the whichever folder that I'm targeting and I add and I say I want to add it to raw and I can click add to obsidian to me browse karte karte I can do this as well if I'm on YouTube because I have a Chrome plug-in
+I can directly add it to obsidian the transcript I don't have to copy it paste it especially if it is online directly from your browser where is this world going I feel so raw at this moment the new world is so it's like it's going to be very fast but
+it's this is all of these things are you know that when the technology evolves so fast today you're learning one technology tomorrow something new has come that is the pace how do you maintain that what do you do Claude Claude will tell you yes so I have
+built like this for meta ka jo algorithm hai right for creating ads my meta is also in the same way if you see my meta algorithm this is how my entire thing looks like because meta has launched Andromeda which is a new algorithm for running their ads
+and the way how it selects which ads perform which ads are it necessary articles here on the web from international guys KF follow follow follow so I have made it so now I have to ask that this is my brand this is my brand's understanding this is what
+I want from it I want to create ads I want to create hooks I want to create creatives so I use this so because I'm using for marketing I thought why don't I use it for trading also because there are a lot of things coming in our marketing it is AI is
+disrupting pretty much everything but there are there is an AI usage that you can do to improve and learn faster even on for trading purposes and this is why
+I started implementing it for trading purposes and it can be used for anything anything trading is just one piece of life correct anything superb sir thank you so much for this beautiful video god bless you and I can only say this to my learners this
+is going to be a blockbuster face-to-face don't share it with other people please just kidding share it with other people because the knowledge grows exponentially when we share sharing is caring and let everyone learn from whatever knowledge our friend
+has shared with us thank you glad to glad to be here thank you so much all right so if you liked it what you have to do you know and comment if you are liking this whole thought process of mine where
+I am preparing you guys for the new world which is more systematic trading
+AI algo because ultimately everything will boil down to one thing that how I become more disciplined in my journey of excellence in stock market everything will lead us to there okay thank you or Jai Hind
+investment in securities market are subject to market risks read all the related documents carefully before investing

@@ -1,0 +1,1997 @@
+00:00:00 - 00:00:04
+What I'm about to show you today feels
+
+00:00:02 - 00:00:06
+like a literal cheat code to trading,
+
+00:00:04 - 00:00:08
+like you have actually cracked the
+
+00:00:06 - 00:00:10
+system. This works for smaller accounts.
+
+00:00:08 - 00:00:12
+When you take a loss, it is usually
+
+00:00:10 - 00:00:14
+minimal and it ensures that you are
+
+00:00:12 - 00:00:16
+always trading with the trend. It gives
+
+00:00:14 - 00:00:18
+you the highest possible upside with the
+
+00:00:16 - 00:00:20
+smallest downside, smallest risk. And
+
+00:00:18 - 00:00:22
+today, I'm going to break this down with
+
+00:00:20 - 00:00:23
+you piece by piece, step by step. By the
+
+00:00:22 - 00:00:25
+end of this video, you're going to have
+
+00:00:23 - 00:00:28
+a simple, repeatable system that you can
+
+00:00:25 - 00:00:30
+use on any chart in any time frame.
+
+00:00:28 - 00:00:32
+Okay, now let's open up Trading View and
+
+00:00:30 - 00:00:35
+get right into it. So, this entire
+
+00:00:32 - 00:00:36
+system is built on one concept, trend
+
+00:00:35 - 00:00:38
+lines. So, it is incredibly important
+
+00:00:36 - 00:00:40
+that you understand how to utilize the
+
+00:00:38 - 00:00:42
+trend lines. Maybe there's a way that
+
+00:00:40 - 00:00:43
+you identify or interpret trends, but we
+
+00:00:42 - 00:00:45
+need to make sure that we have the same
+
+00:00:43 - 00:00:47
+system across the board so that you can
+
+00:00:45 - 00:00:48
+continue to repeat this again and again.
+
+00:00:47 - 00:00:50
+Now, if you already know what a trend
+
+00:00:48 - 00:00:51
+line is, stay with me. I might have a
+
+00:00:50 - 00:00:53
+different way of identifying them and
+
+00:00:51 - 00:00:54
+tracking them than you're used to. But
+
+00:00:53 - 00:00:56
+if you don't know what a trend line is,
+
+00:00:54 - 00:00:57
+let me give you some quick context while
+
+00:00:56 - 00:00:59
+I find some on the chart. Now, when I'm
+
+00:00:57 - 00:01:01
+looking for trends on the charts, I use
+
+00:00:59 - 00:01:03
+something called a ray tool. Over here
+
+00:01:01 - 00:01:04
+on the toolbox to the left, you'll see
+
+00:01:03 - 00:01:06
+all of the trend line tools. This is
+
+00:01:04 - 00:01:07
+going to be your bread and butter, the
+
+00:01:06 - 00:01:09
+ray tool. This one has a point A, a
+
+00:01:07 - 00:01:10
+point B, and then extends indefinitely
+
+00:01:09 - 00:01:12
+in one direction. You can favorite it,
+
+00:01:10 - 00:01:15
+so it'll stay right up here, easy to
+
+00:01:12 - 00:01:18
+access. Now, the trend line allows us to
+
+00:01:15 - 00:01:21
+identify swing highs or swing lows or
+
+00:01:18 - 00:01:23
+the direction and speed in which an
+
+00:01:21 - 00:01:24
+instrument is moving. So, when we're
+
+00:01:23 - 00:01:25
+drawing trend lines, we're trying to
+
+00:01:24 - 00:01:28
+capture as many touch points as possible
+
+00:01:25 - 00:01:30
+and identify swing highs for downward
+
+00:01:28 - 00:01:32
+trend lines and swing lows for upward
+
+00:01:30 - 00:01:34
+trend lines where the price has come up
+
+00:01:32 - 00:01:35
+higher, created a swing low, continued
+
+00:01:34 - 00:01:37
+to move and push higher. So, we've got
+
+00:01:35 - 00:01:39
+upward trend lines, we've got downward
+
+00:01:37 - 00:01:41
+trend lines. This is just showing us the
+
+00:01:39 - 00:01:43
+direction of price movement. Each time
+
+00:01:41 - 00:01:44
+it comes up and creates a high, it
+
+00:01:43 - 00:01:46
+pushes lower. Each time it creates a
+
+00:01:44 - 00:01:47
+high, it pushes lower. This is a lower
+
+00:01:46 - 00:01:49
+high, a lower high, and continuing to
+
+00:01:47 - 00:01:51
+push lower and lower and lower. For the
+
+00:01:49 - 00:01:52
+upward trend, we've got higher lows.
+
+00:01:51 - 00:01:54
+Each time price comes down and creates a
+
+00:01:52 - 00:01:56
+low, it still pushes back. This is a
+
+00:01:54 - 00:01:57
+higher low, creates a low, but it's a
+
+00:01:56 - 00:01:59
+higher low, a higher low, a higher low,
+
+00:01:57 - 00:02:01
+and continuing to push higher and
+
+00:01:59 - 00:02:03
+higher. So, these trend lines allow us
+
+00:02:01 - 00:02:06
+to identify the direction of the price.
+
+00:02:03 - 00:02:08
+It allows us to also identify the speed.
+
+00:02:06 - 00:02:10
+How steep is the trend line? How fast is
+
+00:02:08 - 00:02:12
+it trending up? So, the tool allows us
+
+00:02:10 - 00:02:13
+to track the price. Essentially, that's
+
+00:02:12 - 00:02:14
+what we're trying to do. Okay, so this
+
+00:02:13 - 00:02:16
+was the easy part. You know how to draw
+
+00:02:14 - 00:02:18
+the trend line. You know how to lock it
+
+00:02:16 - 00:02:19
+in. But a trend line on its own is worth
+
+00:02:18 - 00:02:21
+nothing. Now, here's the part that most
+
+00:02:19 - 00:02:22
+people skip. is something called top
+
+00:02:21 - 00:02:24
+down analysis. So I want to walk you
+
+00:02:22 - 00:02:26
+guys through it, explain how useful it
+
+00:02:24 - 00:02:27
+is, why we use it, and how we do it step
+
+00:02:26 - 00:02:29
+by step. So we're going to start by
+
+00:02:27 - 00:02:30
+deleting the random lines that we've
+
+00:02:29 - 00:02:33
+drawn on the chart. And the first place
+
+00:02:30 - 00:02:34
+we'll start. So to get us in position,
+
+00:02:33 - 00:02:36
+we need to start on the monthly time
+
+00:02:34 - 00:02:38
+frame. And I'll explain why. So the
+
+00:02:36 - 00:02:40
+monthly time frame gives us as much
+
+00:02:38 - 00:02:41
+context as possible. We get to see what
+
+00:02:40 - 00:02:43
+your instrument has done from the very
+
+00:02:41 - 00:02:45
+beginning, the very beginning when you
+
+00:02:43 - 00:02:47
+hit that dinosaur icon to where the
+
+00:02:45 - 00:02:48
+price is at now. Open price action right
+
+00:02:47 - 00:02:50
+here, hard edge. You get to see all of
+
+00:02:48 - 00:02:51
+the context. That's amazing. That's the
+
+00:02:50 - 00:02:54
+top. Now, we need to work our way down.
+
+00:02:51 - 00:02:57
+Top down analysis. So, outside of seeing
+
+00:02:54 - 00:02:59
+the context of all of its movement, all
+
+00:02:57 - 00:03:01
+of the highs it's ever made, the lows
+
+00:02:59 - 00:03:03
+it's ever made, we want to bring in this
+
+00:03:01 - 00:03:04
+tool that I showed you guys just a
+
+00:03:03 - 00:03:07
+moment ago, the ray tool or the trend
+
+00:03:04 - 00:03:08
+line. We want to identify trends on the
+
+00:03:07 - 00:03:10
+monthly time frame. And in order to do
+
+00:03:08 - 00:03:11
+that, we hit the ray tool just like we
+
+00:03:10 - 00:03:13
+did before. For our very first downward
+
+00:03:11 - 00:03:15
+trend line, we're using the highest
+
+00:03:13 - 00:03:16
+point we see on the screen as our pivot
+
+00:03:15 - 00:03:19
+point or point A. Boom. We just locked
+
+00:03:16 - 00:03:20
+it in. Now, we need to lock in the
+
+00:03:19 - 00:03:22
+degree or the angle. And this is how.
+
+00:03:20 - 00:03:25
+So, you have these few rules to abide
+
+00:03:22 - 00:03:26
+by. One, price cannot intersect the
+
+00:03:25 - 00:03:28
+trend line. So, when we're drawing our
+
+00:03:26 - 00:03:29
+trend lines or identifying these trends
+
+00:03:28 - 00:03:31
+and marking them up, we have to make
+
+00:03:29 - 00:03:32
+sure that price has not poked through.
+
+00:03:31 - 00:03:34
+So, I'll show you what it looks like
+
+00:03:32 - 00:03:36
+when price has poked through. If we drew
+
+00:03:34 - 00:03:38
+a line right here, it looks amazing.
+
+00:03:36 - 00:03:40
+Point A, touch point, touch point, touch
+
+00:03:38 - 00:03:42
+point, close enough here, but price has
+
+00:03:40 - 00:03:43
+already poked through and intersected
+
+00:03:42 - 00:03:45
+completely. So, this would be incorrect
+
+00:03:43 - 00:03:47
+for our top down analysis. So we need to
+
+00:03:45 - 00:03:50
+make sure price has not intersected.
+
+00:03:47 - 00:03:51
+This is our very first downward trend
+
+00:03:50 - 00:03:53
+line. We followed the rule. Price hasn't
+
+00:03:51 - 00:03:55
+intersected. Now we have another rule.
+
+00:03:53 - 00:03:57
+Each trend line has to connect. And that
+
+00:03:55 - 00:04:00
+brings me to my next point as to how we
+
+00:03:57 - 00:04:02
+do this topdown analysis. So we're going
+
+00:04:00 - 00:04:03
+to identify all of the trends we can in
+
+00:04:02 - 00:04:05
+the monthly time frame. But we want to
+
+00:04:03 - 00:04:07
+continue marking up trends and moving
+
+00:04:05 - 00:04:08
+down time frames. So we'll identify the
+
+00:04:07 - 00:04:10
+trends in the monthly. We'll identify
+
+00:04:08 - 00:04:12
+the trends in the weekly, then the
+
+00:04:10 - 00:04:13
+daily, then the 4 hour, then the 1 hour
+
+00:04:12 - 00:04:15
+leading all the way up to the 15-minut
+
+00:04:13 - 00:04:17
+time frame. But each trend line has to
+
+00:04:15 - 00:04:19
+connect to one another as we work our
+
+00:04:17 - 00:04:22
+way down from top down. So this is
+
+00:04:19 - 00:04:24
+putting all of the price movement that
+
+00:04:22 - 00:04:26
+it's ever made all into context leading
+
+00:04:24 - 00:04:28
+us up to where the price is at now. So
+
+00:04:26 - 00:04:29
+every time we move down a time frame,
+
+00:04:28 - 00:04:31
+we've used the previous higher time
+
+00:04:29 - 00:04:33
+frame to give us context for the next
+
+00:04:31 - 00:04:34
+and so on and so forth leading all the
+
+00:04:33 - 00:04:36
+way up to real-time price action. That's
+
+00:04:34 - 00:04:38
+the goal. So we need to draw one more
+
+00:04:36 - 00:04:39
+trend line on this monthly time frame
+
+00:04:38 - 00:04:41
+before we start working our way down.
+
+00:04:39 - 00:04:43
+Now we need to follow the second rule
+
+00:04:41 - 00:04:45
+here which is each trend line needs to
+
+00:04:43 - 00:04:47
+connect to one another. Now a good rule
+
+00:04:45 - 00:04:50
+of thumb for that is each line's
+
+00:04:47 - 00:04:52
+previous point B or most recent touch
+
+00:04:50 - 00:04:54
+point will be your new point A, your new
+
+00:04:52 - 00:04:56
+starting point or your new pivot point.
+
+00:04:54 - 00:04:58
+So this is where this previous trend
+
+00:04:56 - 00:04:59
+line's point B was or last touch point.
+
+00:04:58 - 00:05:01
+This is now going to be where my new
+
+00:04:59 - 00:05:02
+trend line starts. Point A here. Now
+
+00:05:01 - 00:05:03
+we're still going to follow the same
+
+00:05:02 - 00:05:06
+rules we did for the last one. Make sure
+
+00:05:03 - 00:05:07
+price doesn't intersect. Boom. This is
+
+00:05:06 - 00:05:09
+as far as we can go. We have just drawn
+
+00:05:07 - 00:05:11
+two downward trend lines on the monthly
+
+00:05:09 - 00:05:13
+time frame. Amazing. Now we need an
+
+00:05:11 - 00:05:15
+upward trend line. We need to identify
+
+00:05:13 - 00:05:17
+bullish and bearish movement upward and
+
+00:05:15 - 00:05:18
+downward trend lines on each time frame.
+
+00:05:17 - 00:05:19
+So now let's draw our very first upward
+
+00:05:18 - 00:05:21
+trend line. Same tool. We're going to
+
+00:05:19 - 00:05:22
+use the ray tool. Now when drawing our
+
+00:05:21 - 00:05:24
+first upward trend line, it is the
+
+00:05:22 - 00:05:26
+opposite of our downward. So when we
+
+00:05:24 - 00:05:27
+drew our first downward trend line, we
+
+00:05:26 - 00:05:28
+were looking for the highest point we
+
+00:05:27 - 00:05:30
+see on the screen. For our first upward
+
+00:05:28 - 00:05:31
+trend line, we're looking for the lowest
+
+00:05:30 - 00:05:33
+point we see on the screen. Boom. Right
+
+00:05:31 - 00:05:34
+here. Same set of rules. We want to make
+
+00:05:33 - 00:05:36
+sure we're trying to capture as many
+
+00:05:34 - 00:05:38
+touch points as possible, but we don't
+
+00:05:36 - 00:05:40
+want price to intersect. So, we can't
+
+00:05:38 - 00:05:42
+come up here. We can't use this here.
+
+00:05:40 - 00:05:44
+This is the only place we can solidify
+
+00:05:42 - 00:05:45
+or lock in our pivot point for the
+
+00:05:44 - 00:05:47
+second trend line. Now, we only have one
+
+00:05:45 - 00:05:49
+upward trend line for this scenario here
+
+00:05:47 - 00:05:51
+on the monthly time frame because price
+
+00:05:49 - 00:05:52
+didn't give us any other swing highs or
+
+00:05:51 - 00:05:54
+swing lows. We've just completed marking
+
+00:05:52 - 00:05:56
+up our trends on the monthly time frame.
+
+00:05:54 - 00:05:57
+But, we're not done. This is called a
+
+00:05:56 - 00:05:58
+top down analysis. So, we need to
+
+00:05:57 - 00:06:00
+continue working our way down. We're
+
+00:05:58 - 00:06:01
+done on the monthly. Now, we need to
+
+00:06:00 - 00:06:02
+move our way to the weekly time frame.
+
+00:06:01 - 00:06:04
+So, as you work your way to lower time
+
+00:06:02 - 00:06:06
+frames, we're going to start to see more
+
+00:06:04 - 00:06:08
+price action and get a little bit more
+
+00:06:06 - 00:06:09
+precise with our lines. So, you'll
+
+00:06:08 - 00:06:10
+notice as you come into these lower time
+
+00:06:09 - 00:06:12
+frames, our lines look a little bit
+
+00:06:10 - 00:06:14
+wonky, a little bit off. Each time we go
+
+00:06:12 - 00:06:15
+down to a lower time frame, we'll make
+
+00:06:14 - 00:06:17
+some slight adjustments. We'll get that
+
+00:06:15 - 00:06:18
+a little bit more precise on that low.
+
+00:06:17 - 00:06:20
+And we'll move this line to be a little
+
+00:06:18 - 00:06:21
+bit more precise on that point B. Our
+
+00:06:20 - 00:06:22
+downward trend lines look great, though.
+
+00:06:21 - 00:06:23
+Now, we're going to move our way to the
+
+00:06:22 - 00:06:25
+weekly time frame. Now, in the weekly
+
+00:06:23 - 00:06:27
+time frame, we need to draw one more
+
+00:06:25 - 00:06:29
+downward trend line and one more upward
+
+00:06:27 - 00:06:32
+trend line. This is a great tool, by the
+
+00:06:29 - 00:06:33
+way. this reset chart view. If your view
+
+00:06:32 - 00:06:36
+of the charts ever gets skewed or messed
+
+00:06:33 - 00:06:37
+up or wonky and you start to lose track
+
+00:06:36 - 00:06:39
+of what you had going on, you can always
+
+00:06:37 - 00:06:40
+come back to this reset. Boom. There we
+
+00:06:39 - 00:06:42
+go. And then zoom in and zoom out. Now,
+
+00:06:40 - 00:06:44
+we need to come in with a steeper
+
+00:06:42 - 00:06:46
+downward trend line and a steeper upward
+
+00:06:44 - 00:06:48
+trend line. To continue tracking price
+
+00:06:46 - 00:06:50
+steeper and steeper, identifying the
+
+00:06:48 - 00:06:52
+trends in each time frame. So, when we
+
+00:06:50 - 00:06:53
+come in with a steeper upward trend
+
+00:06:52 - 00:06:55
+line, we're going to follow the same
+
+00:06:53 - 00:06:56
+rules. Each trend line has to connect.
+
+00:06:55 - 00:06:57
+We want to try to capture as many touch
+
+00:06:56 - 00:06:58
+points as possible, and we don't want
+
+00:06:57 - 00:07:00
+price to intersect. Now, in this
+
+00:06:58 - 00:07:01
+scenario, we can see that we need to
+
+00:07:00 - 00:07:03
+make a slight adjustment because our
+
+00:07:01 - 00:07:04
+line is a little bit off. Boom. There we
+
+00:07:03 - 00:07:05
+go. Now, we've captured this touch
+
+00:07:04 - 00:07:07
+point. So, when drawing our steeper
+
+00:07:05 - 00:07:09
+upward trend line, the previous point B
+
+00:07:07 - 00:07:12
+or the most recent touch point on the
+
+00:07:09 - 00:07:15
+last line will be the new touch point or
+
+00:07:12 - 00:07:17
+the point A of our new trend line. Boom.
+
+00:07:15 - 00:07:19
+Following the same rule. There we go. We
+
+00:07:17 - 00:07:21
+have just drawn our second upward trend
+
+00:07:19 - 00:07:23
+line. Now, we need a steeper downward
+
+00:07:21 - 00:07:24
+trend line. Okay. Previous point B is
+
+00:07:23 - 00:07:25
+new point A. Capture as many touch
+
+00:07:24 - 00:07:27
+points as possible without price
+
+00:07:25 - 00:07:29
+intersecting. We can't go very far with
+
+00:07:27 - 00:07:31
+this one. If we come in any steeper,
+
+00:07:29 - 00:07:33
+we'll have cut off this price here, but
+
+00:07:31 - 00:07:34
+we can continue to keep going steeper
+
+00:07:33 - 00:07:36
+with our downward trend lines. Previous
+
+00:07:34 - 00:07:37
+point B is new point A. We're going to
+
+00:07:36 - 00:07:38
+try to capture as many touch points as
+
+00:07:37 - 00:07:40
+possible without price intersecting.
+
+00:07:38 - 00:07:42
+Okay, that is as far as we can go in the
+
+00:07:40 - 00:07:44
+weekly time frame. All of the lines that
+
+00:07:42 - 00:07:46
+we just drew on the weekly had context
+
+00:07:44 - 00:07:47
+from the monthly. We're going to do the
+
+00:07:46 - 00:07:49
+same thing for the daily time frame. So,
+
+00:07:47 - 00:07:50
+we just did monthly, we did weekly, now
+
+00:07:49 - 00:07:51
+we're moving our way to the daily time
+
+00:07:50 - 00:07:53
+frame. Now, as we're coming into the
+
+00:07:51 - 00:07:54
+lower time frames, remember, we'll have
+
+00:07:53 - 00:07:55
+to make some slight adjustments because
+
+00:07:54 - 00:07:57
+we're just getting a little bit more
+
+00:07:55 - 00:07:58
+precise.
+
+00:07:57 - 00:08:01
+So, I want to make some slight
+
+00:07:58 - 00:08:03
+adjustments to these lines here, to this
+
+00:08:01 - 00:08:04
+line here. And upward trend lines look
+
+00:08:03 - 00:08:06
+great. Okay, for the upward trend line,
+
+00:08:04 - 00:08:08
+I can see a steeper upward trend line
+
+00:08:06 - 00:08:09
+that we can draw. Previous point B is
+
+00:08:08 - 00:08:10
+new point A. Capture as many touch
+
+00:08:09 - 00:08:12
+points as possible without price
+
+00:08:10 - 00:08:14
+intersecting. Now, let's keep going.
+
+00:08:12 - 00:08:15
+Let's go from the daily to the 4 hour.
+
+00:08:14 - 00:08:18
+We need to make some slight adjustments
+
+00:08:15 - 00:08:20
+here. And we can come in even steeper.
+
+00:08:18 - 00:08:21
+So, previous point B's, new point A. Try
+
+00:08:20 - 00:08:23
+to capture as many touch points as
+
+00:08:21 - 00:08:25
+possible, but don't let price intersect.
+
+00:08:23 - 00:08:26
+Now, let's go to the 1 hour time frame.
+
+00:08:25 - 00:08:28
+Okay, now we're in the 1 hour time
+
+00:08:26 - 00:08:30
+frame. We've cleaned up our lines ever
+
+00:08:28 - 00:08:32
+so slightly. We've got our point A, we
+
+00:08:30 - 00:08:34
+got our point B. Now, let's go to the
+
+00:08:32 - 00:08:36
+15minut time frame. We're going to zoom
+
+00:08:34 - 00:08:39
+out a little bit here and adjust our
+
+00:08:36 - 00:08:42
+lines a little bit. This needs to go
+
+00:08:39 - 00:08:43
+there and that needs to go there. Now,
+
+00:08:42 - 00:08:45
+we have made it all the way to the
+
+00:08:43 - 00:08:47
+15-minut time frame. This means we have
+
+00:08:45 - 00:08:49
+just taken in all of the context from
+
+00:08:47 - 00:08:51
+all of the higher time frames leading us
+
+00:08:49 - 00:08:53
+all the way up to real-time price action
+
+00:08:51 - 00:08:55
+right now at this 8216 here. Okay. So,
+
+00:08:53 - 00:08:57
+we have drawn our trend lines. We've
+
+00:08:55 - 00:08:59
+done our top down analysis. We know what
+
+00:08:57 - 00:09:01
+it is, how to do it, and why we use it.
+
+00:08:59 - 00:09:03
+These are still just lines. So, now we
+
+00:09:01 - 00:09:05
+need to understand how price reacts to
+
+00:09:03 - 00:09:07
+these lines and what do we do when price
+
+00:09:05 - 00:09:09
+does. Price is going to react in either
+
+00:09:07 - 00:09:11
+one of two ways with our trend lines.
+
+00:09:09 - 00:09:14
+It's either going to get to it and
+
+00:09:11 - 00:09:16
+respect it, bounce off, get to it and
+
+00:09:14 - 00:09:20
+bounce off, or price is going to violate
+
+00:09:16 - 00:09:21
+it and poke through and break through.
+
+00:09:20 - 00:09:24
+What I'm going to show you guys today is
+
+00:09:21 - 00:09:27
+the cheat code to trading when price
+
+00:09:24 - 00:09:29
+respects the line, when price gets to it
+
+00:09:27 - 00:09:31
+and bounces off. This is called a trend
+
+00:09:29 - 00:09:33
+line bounce setup. Now, when we're
+
+00:09:31 - 00:09:36
+trading the bounce, that means we're
+
+00:09:33 - 00:09:37
+anticipating that the price is going to
+
+00:09:36 - 00:09:39
+continue to respect this line that we've
+
+00:09:37 - 00:09:40
+drawn. We're anticipating the price is
+
+00:09:39 - 00:09:42
+going to come down to the line and then
+
+00:09:40 - 00:09:43
+respect. It's going to come down to the
+
+00:09:42 - 00:09:45
+line and then continue to push higher,
+
+00:09:43 - 00:09:47
+create these lower highs and continue to
+
+00:09:45 - 00:09:49
+move higher and higher. But now, how is
+
+00:09:47 - 00:09:51
+this a risk-free bingo card? How does
+
+00:09:49 - 00:09:53
+this give us the lowest possible risk
+
+00:09:51 - 00:09:55
+scenarios and give us the smallest
+
+00:09:53 - 00:09:57
+possible losses? It's because if we're
+
+00:09:55 - 00:09:59
+anticipating the bounce, that means
+
+00:09:57 - 00:10:01
+we're getting involved when the price is
+
+00:09:59 - 00:10:03
+as close to the trend line as possible.
+
+00:10:01 - 00:10:04
+So that when it does turn around and
+
+00:10:03 - 00:10:06
+move in our favor, we just got involved
+
+00:10:04 - 00:10:08
+at the most pivotal moment here where
+
+00:10:06 - 00:10:10
+price got to the line, showed us it was
+
+00:10:08 - 00:10:11
+respecting, and then pushed higher. If
+
+00:10:10 - 00:10:13
+it doesn't push higher, this is what I
+
+00:10:11 - 00:10:15
+really want to show you. If this trade
+
+00:10:13 - 00:10:16
+doesn't work out and it doesn't continue
+
+00:10:15 - 00:10:18
+to respect the line, let's say price
+
+00:10:16 - 00:10:21
+gets here, we enter our position at the
+
+00:10:18 - 00:10:24
+pivotal moment and then price violates.
+
+00:10:21 - 00:10:26
+This right here is the smallest possible
+
+00:10:24 - 00:10:29
+risk to take on to put us in position in
+
+00:10:26 - 00:10:32
+case price was going to push higher.
+
+00:10:29 - 00:10:34
+Okay, so we've gone over the idea of the
+
+00:10:32 - 00:10:36
+pivot point when price respects when it
+
+00:10:34 - 00:10:38
+violates. But now I want to show you the
+
+00:10:36 - 00:10:40
+exact criteria that gets us into the
+
+00:10:38 - 00:10:43
+trade. So what needs to happen in order
+
+00:10:40 - 00:10:45
+for us to get into the trade? Price at
+
+00:10:43 - 00:10:46
+minimum has to get at or near the trend
+
+00:10:45 - 00:10:49
+line. Amazing. So now let me show you
+
+00:10:46 - 00:10:51
+this in a realworld example. What price
+
+00:10:49 - 00:10:52
+is actually done and how you would be
+
+00:10:51 - 00:10:54
+using the strategy in an example like
+
+00:10:52 - 00:10:56
+this, which is crude oil on the
+
+00:10:54 - 00:10:58
+15-minute time frame. Having done your
+
+00:10:56 - 00:11:00
+full topdown analysis, price is heading
+
+00:10:58 - 00:11:01
+towards one of our trend lines.
+
+00:11:00 - 00:11:04
+Remember, we want to get involved at the
+
+00:11:01 - 00:11:05
+pivotal moment when price gets at the
+
+00:11:04 - 00:11:07
+line or near the line close enough to
+
+00:11:05 - 00:11:10
+the line. I'm going to use the replay
+
+00:11:07 - 00:11:11
+tool to move bar by bar as price reacted
+
+00:11:10 - 00:11:13
+or as the way price action actually
+
+00:11:11 - 00:11:14
+played out to see where do we get in,
+
+00:11:13 - 00:11:16
+how do we take action and get into a
+
+00:11:14 - 00:11:17
+trade. So, right now price is heading
+
+00:11:16 - 00:11:19
+towards the line. It's moving away from
+
+00:11:17 - 00:11:20
+it now. Okay, it's pushing towards the
+
+00:11:19 - 00:11:22
+line again. But remember, we don't want
+
+00:11:20 - 00:11:25
+to get involved until we get to that
+
+00:11:22 - 00:11:27
+pivotal moment where price is at or near
+
+00:11:25 - 00:11:29
+the line. It's getting very close. It's
+
+00:11:27 - 00:11:31
+getting very close. We're about to hit
+
+00:11:29 - 00:11:32
+that pivotal moment here. Boom. Price
+
+00:11:31 - 00:11:34
+has just gotten close enough to our
+
+00:11:32 - 00:11:36
+line. Now, what does this mean? So, we
+
+00:11:34 - 00:11:38
+have just watched price come all the way
+
+00:11:36 - 00:11:40
+down to our trend line. This is a very
+
+00:11:38 - 00:11:42
+pivotal area. What do we do now? This is
+
+00:11:40 - 00:11:44
+our time to take action. So, this is
+
+00:11:42 - 00:11:46
+where I like to call this upward line an
+
+00:11:44 - 00:11:47
+action line. It will only become an
+
+00:11:46 - 00:11:49
+action line when price reacts to this
+
+00:11:47 - 00:11:51
+line. Now that price has gotten to it
+
+00:11:49 - 00:11:53
+and bounced off, it is our time to take
+
+00:11:51 - 00:11:55
+action. This is our entry criteria right
+
+00:11:53 - 00:11:56
+here. This is what gets us into the
+
+00:11:55 - 00:11:58
+trade. I'm going to get us into our
+
+00:11:56 - 00:11:59
+position here. We want to take action.
+
+00:11:58 - 00:12:01
+We want to get into a position. We're
+
+00:11:59 - 00:12:03
+going to do one contract. We're going to
+
+00:12:01 - 00:12:05
+place a buy order. But now, where does
+
+00:12:03 - 00:12:06
+our stop go? How much are we willing to
+
+00:12:05 - 00:12:08
+lose in this position? Do you remember
+
+00:12:06 - 00:12:10
+the example that I gave you where we
+
+00:12:08 - 00:12:12
+drew out getting in at the pivotal
+
+00:12:10 - 00:12:14
+moment and then price violating the
+
+00:12:12 - 00:12:16
+line? This is exactly what has to happen
+
+00:12:14 - 00:12:18
+in order for us to take a loss if price
+
+00:12:16 - 00:12:20
+violates the line. So, if we get into
+
+00:12:18 - 00:12:22
+our position right here at this 8180 and
+
+00:12:20 - 00:12:25
+the price comes down and violates the
+
+00:12:22 - 00:12:27
+line, we will lose $420. Now, if that
+
+00:12:25 - 00:12:29
+number sounds big to you, remember we
+
+00:12:27 - 00:12:31
+talked about how this setup is geared
+
+00:12:29 - 00:12:32
+towards smaller account sizes. If this
+
+00:12:31 - 00:12:35
+is too big for you, there is something
+
+00:12:32 - 00:12:37
+called crude oil micro, which is
+
+00:12:35 - 00:12:39
+onetenth the amount of the mini. So, I
+
+00:12:37 - 00:12:41
+want to walk you guys through the exact
+
+00:12:39 - 00:12:43
+same trade, but if you were to trade
+
+00:12:41 - 00:12:45
+this on the micros. So, we're going to
+
+00:12:43 - 00:12:46
+go over here to micro crude oil to the
+
+00:12:45 - 00:12:48
+15-minute time frame. We're going to
+
+00:12:46 - 00:12:50
+wait for price to work its way to our
+
+00:12:48 - 00:12:52
+line, our pivotal point before we get
+
+00:12:50 - 00:12:54
+involved. Boom. Same exact price point
+
+00:12:52 - 00:12:56
+here. We're going to get into our same
+
+00:12:54 - 00:12:59
+trade here. One contract market
+
+00:12:56 - 00:13:02
+stop-loss. Now, if the price breaks our
+
+00:12:59 - 00:13:04
+safety line, we are going to lose $50. A
+
+00:13:02 - 00:13:06
+significant difference between the $420
+
+00:13:04 - 00:13:09
+over here, we've got the $50 over here.
+
+00:13:06 - 00:13:11
+It could even be $42 depending on how
+
+00:13:09 - 00:13:13
+tight we put this stock. If the price
+
+00:13:11 - 00:13:16
+violates the line after this pivotal
+
+00:13:13 - 00:13:18
+moment, we lose $42. Let's lock in this
+
+00:13:16 - 00:13:20
+position we're in. And we're going to
+
+00:13:18 - 00:13:21
+lock in the same position in the minis
+
+00:13:20 - 00:13:23
+over here. Okay. I'm going to put these
+
+00:13:21 - 00:13:25
+side by side so that we can see the same
+
+00:13:23 - 00:13:27
+trade play out with someone that has a
+
+00:13:25 - 00:13:29
+smaller account size versus someone who
+
+00:13:27 - 00:13:31
+can trade the minis has a little bit
+
+00:13:29 - 00:13:33
+bigger account size. But the risk, the
+
+00:13:31 - 00:13:35
+downside to each one of these is still
+
+00:13:33 - 00:13:37
+minimal. All right. In the lower account
+
+00:13:35 - 00:13:39
+size scenario, we have already made one
+
+00:13:37 - 00:13:41
+one. We're up $57. We were willing to
+
+00:13:39 - 00:13:43
+lose 42. Now, let's go over to the
+
+00:13:41 - 00:13:45
+bigger account size. Same scenario over
+
+00:13:43 - 00:13:47
+here. We're up 580. we were willing to
+
+00:13:45 - 00:13:49
+lose 420. This is just the beginning.
+
+00:13:47 - 00:13:50
+We're still not done here. Remember, I
+
+00:13:49 - 00:13:52
+also mentioned that this is going to
+
+00:13:50 - 00:13:55
+give you the lowest possible downside,
+
+00:13:52 - 00:13:57
+but the highest possible upside. We're
+
+00:13:55 - 00:13:58
+looking for more than just $57. Same in
+
+00:13:57 - 00:14:00
+this scenario. We're looking for more
+
+00:13:58 - 00:14:02
+than just $580. We want to get in for
+
+00:14:00 - 00:14:04
+this entire trend, this entire movement.
+
+00:14:02 - 00:14:05
+So, how long are we going to stay in
+
+00:14:04 - 00:14:07
+this position for? Well, we've talked
+
+00:14:05 - 00:14:08
+about the line that tells us when to
+
+00:14:07 - 00:14:10
+take action. When price gets to this
+
+00:14:08 - 00:14:12
+pivotal moment, gets at or near our
+
+00:14:10 - 00:14:13
+trend line. That's our entry. That's our
+
+00:14:12 - 00:14:16
+action line. But now, when do we get
+
+00:14:13 - 00:14:18
+out? How long and how much profit do we
+
+00:14:16 - 00:14:20
+want to take? How much can we capture?
+
+00:14:18 - 00:14:22
+This is when price violates the line.
+
+00:14:20 - 00:14:23
+So, we know as soon as we got in, if
+
+00:14:22 - 00:14:26
+price would have violated, we would have
+
+00:14:23 - 00:14:28
+taken our $42 loss or our $420 loss. But
+
+00:14:26 - 00:14:30
+what happens if price keeps going? We're
+
+00:14:28 - 00:14:32
+going to continue to move this stop as
+
+00:14:30 - 00:14:34
+price moves along our trend line. As
+
+00:14:32 - 00:14:37
+price continues to trend in this
+
+00:14:34 - 00:14:39
+direction. So, each time price gives us
+
+00:14:37 - 00:14:41
+a new swing low or a new pivot point or
+
+00:14:39 - 00:14:42
+a new area, we want to move this stop to
+
+00:14:41 - 00:14:44
+capture that. If that doesn't make a
+
+00:14:42 - 00:14:45
+whole lot of sense, don't worry. We're
+
+00:14:44 - 00:14:46
+going to walk through this step by step.
+
+00:14:45 - 00:14:48
+So, let's keep going. Right now, we're
+
+00:14:46 - 00:14:50
+up $1,000,
+
+00:14:48 - 00:14:52
+$500. There was a point in time where we
+
+00:14:50 - 00:14:54
+were up a,000 and almost back down to
+
+00:14:52 - 00:14:56
+break even within two candles here. The
+
+00:14:54 - 00:14:57
+coolest part about this that we don't
+
+00:14:56 - 00:14:58
+have to worry. We don't have to think,
+
+00:14:57 - 00:15:00
+are we going to give all this profit
+
+00:14:58 - 00:15:02
+back? As long as price respects this
+
+00:15:00 - 00:15:04
+upward trend line, we're comfortable
+
+00:15:02 - 00:15:06
+even when we just went from a,000 to
+
+00:15:04 - 00:15:08
+break even in two candles. We're only
+
+00:15:06 - 00:15:10
+anticipating an exit when price violates
+
+00:15:08 - 00:15:12
+the line. It doesn't matter if it comes
+
+00:15:10 - 00:15:14
+back to break even. If price comes back
+
+00:15:12 - 00:15:15
+to the line, we want to see it violate
+
+00:15:14 - 00:15:17
+in order for us to close and be done
+
+00:15:15 - 00:15:18
+with the trade. So, let's see what this
+
+00:15:17 - 00:15:20
+potential upside could be for this
+
+00:15:18 - 00:15:22
+trade. We're going to keep going. We're
+
+00:15:20 - 00:15:24
+waiting for price to give us another
+
+00:15:22 - 00:15:27
+swing low for us to move this stop.
+
+00:15:24 - 00:15:29
+Right now, we're up $2,660
+
+00:15:27 - 00:15:32
+in the minis. Let's go back over to the
+
+00:15:29 - 00:15:34
+micros. We saw that same spike within
+
+00:15:32 - 00:15:37
+two candles. Price hasn't violated our
+
+00:15:34 - 00:15:40
+safety line. And boom, we're up $281.
+
+00:15:37 - 00:15:40
+Let's keep going.
+
+00:15:40 - 00:15:45
+Price just made a big push in our favor
+
+00:15:43 - 00:15:47
+and now is kind of consolidating, moving
+
+00:15:45 - 00:15:49
+sideways. It's starting to work its way
+
+00:15:47 - 00:15:52
+back towards our line yet again. That's
+
+00:15:49 - 00:15:54
+what we want to see right now. Price has
+
+00:15:52 - 00:15:57
+been fluctuating between 2,000 3,000
+
+00:15:54 - 00:15:59
+4,000 2,000 3,000 for this example here.
+
+00:15:57 - 00:16:01
+There we go. We just got a another swing
+
+00:15:59 - 00:16:03
+low. Price just got back to another
+
+00:16:01 - 00:16:06
+pivot point. This is our moment to take
+
+00:16:03 - 00:16:08
+our stop loss and adjust it below this
+
+00:16:06 - 00:16:12
+last swing. Now, we just turned our risk
+
+00:16:08 - 00:16:14
+from $420 to a profit of 1,500. We just
+
+00:16:12 - 00:16:17
+locked in our new stop loss. So, worst
+
+00:16:14 - 00:16:19
+case scenario, if price comes back down
+
+00:16:17 - 00:16:23
+and violates our line, we take a profit
+
+00:16:19 - 00:16:25
+of 1550. As price continues to create
+
+00:16:23 - 00:16:27
+swings along this line, we're going to
+
+00:16:25 - 00:16:29
+continue to move this stop-loss along
+
+00:16:27 - 00:16:33
+this line. So, we just went from a
+
+00:16:29 - 00:16:35
+initial loss of 420 to a profit of 1550.
+
+00:16:33 - 00:16:38
+Let's do the same scenario over here in
+
+00:16:35 - 00:16:39
+the smaller account trade. Price made a
+
+00:16:38 - 00:16:41
+big push to the upside and now we can
+
+00:16:39 - 00:16:46
+see this kind of continue to move
+
+00:16:41 - 00:16:46
+sideways gravitating towards that line.
+
+00:16:46 - 00:16:50
+There we go. Price gave us that same
+
+00:16:48 - 00:16:53
+swing, that same higher low. We're going
+
+00:16:50 - 00:16:55
+to adjust our stop loss to go below this
+
+00:16:53 - 00:16:58
+last swing. Okay, so we're in the same
+
+00:16:55 - 00:16:59
+position on either instrument. We've
+
+00:16:58 - 00:17:01
+locked in our worst case scenario, which
+
+00:16:59 - 00:17:04
+is a profit, but we still want to see
+
+00:17:01 - 00:17:06
+the maximum results for this trade, the
+
+00:17:04 - 00:17:09
+maximum move, the entire trend. So,
+
+00:17:06 - 00:17:11
+we're staying in until price violates.
+
+00:17:09 - 00:17:13
+Let's keep going. Now, bonus. Remember,
+
+00:17:11 - 00:17:15
+we talked about this pivotal moment when
+
+00:17:13 - 00:17:17
+price gets to the line. This is an
+
+00:17:15 - 00:17:19
+entry. If you didn't take this position
+
+00:17:17 - 00:17:21
+over here, this could have been a second
+
+00:17:19 - 00:17:23
+entry, another pivot point. If you
+
+00:17:21 - 00:17:25
+missed this one, you could have gotten
+
+00:17:23 - 00:17:26
+in here. Same on the left side. Same on
+
+00:17:25 - 00:17:28
+the right trade over here. This could
+
+00:17:26 - 00:17:30
+have been another entry. You would have
+
+00:17:28 - 00:17:31
+done it exactly the same. Entry here if
+
+00:17:30 - 00:17:34
+price violated would have been around
+
+00:17:31 - 00:17:36
+that $420. Same scenario for here would
+
+00:17:34 - 00:17:38
+have been that $42. But we're staying
+
+00:17:36 - 00:17:40
+in. We want to see this trend play out
+
+00:17:38 - 00:17:43
+for its entirety. Okay. Price is pushing
+
+00:17:40 - 00:17:45
+back to the line and still respecting.
+
+00:17:43 - 00:17:46
+Price is pushing back to this line. Are
+
+00:17:45 - 00:17:48
+we going to have to get ready to close
+
+00:17:46 - 00:17:50
+now? As price created these higher lows,
+
+00:17:48 - 00:17:52
+we're going to continue to move this
+
+00:17:50 - 00:17:54
+stop along each swing low here. Locking
+
+00:17:52 - 00:17:55
+it in. We're locking in profits every
+
+00:17:54 - 00:17:58
+time price swings lower, but continues
+
+00:17:55 - 00:18:00
+to respect the line. Okay, price just
+
+00:17:58 - 00:18:02
+gave us another swing low. We're taking
+
+00:18:00 - 00:18:04
+that stop loss and moving it up here. We
+
+00:18:02 - 00:18:05
+adjusted our stop loss yet again to this
+
+00:18:04 - 00:18:07
+new pivot point. We're going to continue
+
+00:18:05 - 00:18:09
+to stay in as long as price respects.
+
+00:18:07 - 00:18:11
+Okay, price created yet another swing.
+
+00:18:09 - 00:18:13
+Every time it creates a swing low closer
+
+00:18:11 - 00:18:15
+to that line, we're adjusting the stop
+
+00:18:13 - 00:18:18
+higher and higher and higher. There we
+
+00:18:15 - 00:18:20
+go. Locked it in. Let's keep going.
+
+00:18:18 - 00:18:21
+There we go. So, we can still see our
+
+00:18:20 - 00:18:23
+entry and where the price is at now.
+
+00:18:21 - 00:18:25
+Okay, price created yet another swing
+
+00:18:23 - 00:18:26
+low. We're going to adjust that stop.
+
+00:18:25 - 00:18:28
+Now, always remember when adjusting the
+
+00:18:26 - 00:18:31
+stop, it needs to be in an area where
+
+00:18:28 - 00:18:33
+price has to violate the line entirely
+
+00:18:31 - 00:18:34
+in order for our stop to be hit. So, you
+
+00:18:33 - 00:18:36
+don't want to ever put it above the
+
+00:18:34 - 00:18:37
+line. It always needs to be on the other
+
+00:18:36 - 00:18:39
+side of the line. That's how we know
+
+00:18:37 - 00:18:41
+that the trend is over and price has
+
+00:18:39 - 00:18:44
+violated the line. Confirm. Let's keep
+
+00:18:41 - 00:18:46
+going. Okay, now let's see if this is
+
+00:18:44 - 00:18:48
+going to create yet another pivot point.
+
+00:18:46 - 00:18:49
+And you can see price has just violated
+
+00:18:48 - 00:18:51
+the line. Let's zoom in a little bit
+
+00:18:49 - 00:18:53
+closer so you guys can see this. We want
+
+00:18:51 - 00:18:55
+to see price close on the other side of
+
+00:18:53 - 00:18:57
+the trend line for us to manually close
+
+00:18:55 - 00:18:58
+our position or for our stop loss to
+
+00:18:57 - 00:19:00
+just simply be hit. Let's see out of one
+
+00:18:58 - 00:19:01
+of these two scenarios what happens. All
+
+00:19:00 - 00:19:03
+right, price just closed on the other
+
+00:19:01 - 00:19:05
+side of the safety line. We can close
+
+00:19:03 - 00:19:07
+our position manually. As we have just
+
+00:19:05 - 00:19:09
+seen, price violated the line. I'm going
+
+00:19:07 - 00:19:11
+to manually close this trade because our
+
+00:19:09 - 00:19:14
+line was violated. We are up $4,000
+
+00:19:11 - 00:19:17
+exactly. Position closed. Profits locked
+
+00:19:14 - 00:19:18
+in. Insane upside. So, this was an
+
+00:19:17 - 00:19:21
+entire trade that we got to watch play
+
+00:19:18 - 00:19:24
+out from start to finish. entry here,
+
+00:19:21 - 00:19:27
+exit here, and the downside was $420.
+
+00:19:24 - 00:19:30
+We just made $4,000 in this scenario. An
+
+00:19:27 - 00:19:32
+absolute cheat code to trading. We got
+
+00:19:30 - 00:19:34
+in on the trend because price got to a
+
+00:19:32 - 00:19:36
+pivotal point. We stayed in to the move,
+
+00:19:34 - 00:19:38
+even through all of these swings, these
+
+00:19:36 - 00:19:40
+highs, these lows, price pushing up
+
+00:19:38 - 00:19:42
+high, consolidating, moving sideways,
+
+00:19:40 - 00:19:44
+but still respecting the line. It wasn't
+
+00:19:42 - 00:19:45
+until price violated the line that we
+
+00:19:44 - 00:19:47
+decided to close this position. I want
+
+00:19:45 - 00:19:49
+to finish out the scenario with this
+
+00:19:47 - 00:19:50
+smaller account size trade so that we
+
+00:19:49 - 00:19:52
+can see both these trades all the way
+
+00:19:50 - 00:19:54
+through. All right, same scenario over
+
+00:19:52 - 00:19:56
+here. As soon as price violates this
+
+00:19:54 - 00:19:58
+line, we're closing our position. Boom.
+
+00:19:56 - 00:20:00
+In this scenario, the price hit our stop
+
+00:19:58 - 00:20:03
+and we closed out of our position with a
+
+00:20:00 - 00:20:06
+profit of $387.
+
+00:20:03 - 00:20:09
+Our downside to this small account was
+
+00:20:06 - 00:20:12
+$42. We just made $387.
+
+00:20:09 - 00:20:13
+This is the highest possible upside with
+
+00:20:12 - 00:20:15
+the lowest possible risk we had to take
+
+00:20:13 - 00:20:17
+on. So you guys were able to see start
+
+00:20:15 - 00:20:18
+to finish, entry to exit, how much we
+
+00:20:17 - 00:20:20
+had to risk, and how we stayed in this
+
+00:20:18 - 00:20:22
+trade. So now I challenge you to do
+
+00:20:20 - 00:20:24
+this. You've seen the walkthrough. Go to
+
+00:20:22 - 00:20:25
+your charts, open up Trading View, any
+
+00:20:24 - 00:20:27
+instrument, and I want you to completely
+
+00:20:25 - 00:20:29
+clear everything off the chart. Naked
+
+00:20:27 - 00:20:31
+chart, just price action. Do your top 10
+
+00:20:29 - 00:20:32
+analysis. Identify your trends. Make
+
+00:20:31 - 00:20:34
+sure each trend line connects from the
+
+00:20:32 - 00:20:35
+higher time frame. Go all the way to
+
+00:20:34 - 00:20:37
+your designated time frame. You can
+
+00:20:35 - 00:20:38
+choose. You can trade on the 1 hour, you
+
+00:20:37 - 00:20:40
+can trade on the 15-minute, you can go
+
+00:20:38 - 00:20:41
+all the way down to the five minute. But
+
+00:20:40 - 00:20:43
+make sure you continue to follow those
+
+00:20:41 - 00:20:44
+rules from the top analysis. But then
+
+00:20:43 - 00:20:45
+you'll know where your trend lines are.
+
+00:20:44 - 00:20:47
+Wait for price to get to that pivot
+
+00:20:45 - 00:20:49
+point and then enter your position. Make
+
+00:20:47 - 00:20:50
+sure you calculate that lowest possible
+
+00:20:49 - 00:20:52
+risk, that small loss that you'll take
+
+00:20:50 - 00:20:54
+if price violates the line and doesn't
+
+00:20:52 - 00:20:55
+end up respecting. And then see it all
+
+00:20:54 - 00:20:56
+the way through. So I challenge you to
+
+00:20:55 - 00:20:58
+do that and then come back to this
+
+00:20:56 - 00:20:59
+video, drop a comment, and see how that
+
+00:20:58 - 00:21:03
+played out. Was this the actual cheat
+
+00:20:59 - 00:21:03
+code to trading? Go try it for yourself.

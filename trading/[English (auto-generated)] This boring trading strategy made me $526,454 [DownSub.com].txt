@@ -1,0 +1,976 @@
+Have you ever sat down with a strategy,
+followed it step-by-step, and still
+walked away confused not knowing what
+you were doing? Or have you watched a
+YouTube video promising that you're
+going to have a trading strategy that
+you can walk away with and you were more
+confused afterwards than when you
+[music] started? If you've been jumping
+from strategy to strategy trying to find
+one that resonates with you, one that
+makes sense, one that you can
+understand, that you can repeat again
+and again, you are in the right place.
+Now, there is a reason that none of it
+has stuck yet. Most strategies out there
+are way more complicated than they need
+to be. The more complicated that the
+strategy is, the harder it is to learn,
+the harder it is to actually repeat and
+get started, [music] and longer it's
+going to take you to actually find
+confidence and implement. The strategy
+that I'm going to walk you through today
+is built on one simple tool, trend
+lines. Trend lines are one of the oldest
+and most essential tools in technical
+analysis, and they are the foundation
+that my entire strategy is built on. My
+name is Tori Trades and I've been
+trading for [music] over a decade now. I
+have turned a $5,000 account into over
+half a million dollars in trading. I've
+been using the same exact system for all
+11 years, [music] and I documented the
+entire journey, the highs, the lows, the
+wins, the losses, and everything in
+between. By the end of this video, you
+will have a complete step-by-step system
+on how to analyze any chart and execute
+a trade from start to finish. [music]
+You will not leave this YouTube video
+more confused than when you came.
+Obviously, I'm just really good at what
+I do. So, you just stick around, you're
+going to learn something. But first, I
+want to set the stage. This entire
+strategy is based on one simple concept,
+[music] trend lines. So, let's start at
+the very beginning. What is a trend
+line? A trend line is a line that you
+draw on your chart that shows the
+direction [music] price is moving in.
+Fun fact, trend lines have been used by
+traders for over a hundred freaking
+years. They are one of the original
+tools of technical analysis. I'm talking
+the literal Stone Age basics of
+technical analysis was the trend [music]
+line. And this is dating all the way
+back to Charles Dow, which I'm not sure
+if it sounds a little familiar to you,
+the literal guy himself, the Dow Jones
+is named after. But this is why I love
+trend lines so much. [music] So, it's
+not like some new concept that we're
+trying to reinvent. This is the literal
+foundation [music] of technical
+analysis. So, this trend line based
+strategy allows us to read the markets
+the same way that the best traders way
+back in the day have read it for over a
+century. [music] And I don't know if
+that gives you a peace of mind knowing
+that like we're not reinventing the
+wheel. We're just utilizing the absolute
+foundational [music] essential tool of
+trading. So, now that we know what a
+trend line is, we know it's the basics,
+the essential, the foundation, there are
+two types of trend lines. There's an
+upward trend line and there's a downward
+trend line. The upward trend line is
+what we call bullish. It connects
+[music] higher lows. It means that price
+is pushing up higher. There is a
+downward trend line. This is called a
+bearish trend line. This connects lower
+highs. It means that price is pushing
+lower. The platform that we are going to
+use to draw these trend lines on is
+TradingView. [music]
+This is the most widely used platform
+for all traders ever. It is free to get
+started. It works in your browser and it
+gives you everything that you need to
+analyze your charts and mark [music]
+them up. It's all we need. Now, let's
+talk about the tool. TradingView has a
+bucket of trend line tools. Out of all
+of the trend line tools that TradingView
+has to offer, we're going to use the one
+called the ray tool. The ray tool gives
+us a point A and a point B and then
+extends indefinitely in one direction.
+The point A is the pivot point. The
+point B locks in the degree or the angle
+that we're going to draw it at. And then
+the [music] line will extend
+indefinitely in the other direction to
+help us see what price might potentially
+do in the future. And just because I'm
+kind of artsy-fartsy and I like to color
+code things, I like to make my upward
+trend lines green and my downward trend
+lines red. So, we know what trend lines
+are. We know how important they are when
+it comes to technical analysis. And now
+I'm going to introduce a new concept to
+you guys, which is essentially step one,
+phase one, part one. This is something
+called top-down analysis. So, before we
+hop into the charts and draw any lines,
+we need to talk about top-down analysis.
+Top-down analysis is the process of
+analyzing an asset from a higher time
+frame working your way down. So, it'll
+be a monthly time frame, a weekly time
+frame, [music] a daily time frame, a
+4-hour time frame, a 1-hour time frame,
+and then so on and so forth until you
+reach the time frame that you decide to
+execute your trades on. Now, why do we
+use this top-down analysis? Higher time
+frames hold more weight than the lower
+time frames because they contain more
+data, more information. So, they show us
+the major trends, the major key levels,
+and how price has been moving over time.
+The lower time frames show us what's
+happening in the moment, right here,
+right now. The strategy works so well
+because we use both of these time frames
+together. [music] The higher time frame
+gives us context for the lower time
+frames. So, the bigger picture of what
+the markets have done in the past and
+the shifts that they've made, we combine
+that with what the price is doing in the
+lower time frames. Now, I've got a few
+analogies that help us understand why
+higher time frame analysis or top-down
+analysis is so important. So, think
+about it like this. We're going to start
+with the FBI agent analogy, which I know
+there's a lot of women out there that
+feel like they are FBI agents. [music]
+If you know, you know. You investigate,
+you will study the past, every clue,
+every pattern, every piece of history,
+and then you build a case. [music] So,
+by the time that something happens that
+the FBI agent, you know, the one behind
+your computer screen is waiting for you
+to do, they've already anticipated a
+move that you might make because they've
+studied everything you've done in the
+past, [music] your patterns. Another
+analogy would be a fighter. So, let's
+say that you are getting ready to fight
+your opponent. Before a match, you need
+to watch hours of old footage of your
+opponent. Every move that they make,
+their weaknesses, their habits. So,
+[music] by the time you step into the
+ring, you already have an idea of what
+your opponent is likely to do cuz you've
+already studied their habits, their
+moves. Do they usually use their left
+hand? Are they left forward? I mean, I
+don't really know anything about
+fighting, but I'd imagine [music] that's
+the things that you would study. How do
+they block? But, you're prepared when
+you step into the ring because you've
+done your research. And yet again, this
+is exactly what we're doing with higher
+time frames. [music] We are just
+gathering the research. We're doing the
+research on the instrument to help us
+make a more informed [music] decision on
+what it's likely to do in the future.
+So, that is the whole point of top-down
+analysis. This is why it's so important,
+and this is why this is step one when it
+[music] comes to this entire strategy.
+We need to research our instruments. The
+higher time frames give us context, the
+lower time frames give us our entries,
+[music] our trade management, and our
+exits. So, now that we understand why
+we're going to implement top-down
+analysis, let's learn how to do top-down
+analysis. [music] So, now it's time to
+get into the charts, open the screens,
+and draw some lines. Here we go. Now,
+the instrument that we are going to
+practice or learn our top-down analysis
+on is a very popular instrument. One
+that everyone has heard of. I figured
+the most generic and most broad the
+better, so that we can all understand
+and relate. We're going to do our
+top-down analysis on Bitcoin. We are
+looking at Bitcoin on TradingView. Now,
+what you see in front of you is a
+completely naked chart. There are no
+indicators on it. There's no volume.
+There's no [music] session lines. This
+is purely price action. This is the
+movement of Bitcoin. This is all we
+need. Now, when we do our top-down
+analysis, it's a quite literal term or a
+quite literal phrase, we start at the
+top and work our way down. So, that
+means we're going to start with the
+highest time frame. We're going to go to
+the monthly time frame on Bitcoin.
+This right here is everything Bitcoin
+has ever done. This is our full context.
+This is us doing our research on Bitcoin
+before we get married, before we
+actually place a trade. What we're going
+to do is utilize our trend lines. And
+remember, TradingView has the trend line
+toolbox over here. And then the specific
+trend line tool that we're going to use
+is the ray tool. So, you can go ahead
+and star that.
+This will keep the tool right here
+easily accessible to the left. So, we
+are going to start using our trend
+lines. But, the top-down analysis is
+what gives them structure. It gives the
+entire strategy or the entire system
+repeatability and a process. A
+step-by-step process that you can
+implement [music] across any instrument.
+So, after today's video, we'll have done
+it together with Bitcoin, but you can do
+it your own on crude oil, on gold, on
+the Nasdaq, on the Dow, on Tesla. You
+can do this same top-down analysis on
+any instrument, which is the coolest
+part. Now, what we're doing with these
+trend lines, this top-down analysis, is
+taking all of the context of everything
+it's ever done, leading all the way up
+to real-time price action to help us
+with a decision real-time. The price of
+Bitcoin right now is at 78,015.
+We to do our top-down analysis and draw
+our trend lines tracking all the way up
+as close to real-time price action as we
+can. Now, what does that look like? That
+means we're going to identify trends in
+every single one of these time frames
+leading all the way up to the one-hour
+time frame. When we're drawing our very
+first ever trend line, we are going to
+look for the lowest point we see on the
+screen.
+Now, there's going to be a few rules and
+guidelines that we have to these trend
+lines specifically. One rule will be
+specific to the very first trend line we
+draw. The very first trend line we draw
+needs to start with the lowest point we
+see on the screen.
+This is going to be the first rule for
+our very first upward trend line. Just a
+preface. We'll have upward trend lines
+and downward. Remember, bullish and
+bearish trend lines. So, the rule for
+drawing our very first upward trend
+line, we're looking for the lowest point
+we see on the screen. [music] We also
+need to have this line angled in some
+degree upwards. This cannot be a
+horizontal line. So, I'll show you what
+would be incorrect and what would be
+correct.
+This right here, using the actual lowest
+points of Bitcoin, this line would be
+incorrect. This is a horizontal line.
+When drawing our very first upward trend
+line, it has to angle upwards. So, we're
+going to use the lowest point we see on
+the screen while also angling our trend
+line upward. Now, what are some other
+rules for our trend line? When
+continuing to draw trend lines, we're
+going to have these set of guidelines to
+abide by. One, [music] every trend line
+has to connect to one another. Two, we
+try to capture as many touch points as
+possible. Three, price cannot have
+intersected or poked through the trend
+line. As long as we follow these three
+rules, you'll be able to correctly move
+through your top-down analysis. So,
+anytime you're unsure, just go back to
+those same rules. Make sure, okay, did
+my trend line connect to the last one?
+Am I trying to capture as many touch
+points as possible? And have I made sure
+that price hasn't crossed through or
+intersected my trend line? So, on our
+very first upward trend line, we were
+able to capture one, two, three touch
+points. Great. We captured as many touch
+points as possible. It's angled upward.
+Price hasn't poked through or
+intersected.
+>> [music]
+>> Now, when drawing our next trend line, a
+good rule of thumb here to figure out or
+to remember how to connect each one of
+our trendlines is Remember I said we
+have these two points here, a point A
+and a point B. We've got a pivot point,
+which is our initial starting touch
+point, and then we've got our point B,
+which locks in the angle or the degree
+of where we're drawing our trendline.
+I like to call this one point A, this
+one point B.
+When connecting trendlines, the previous
+point B will always be the new point A.
+So, drawing a new trendline here, we've
+got a new point A. It's going to start
+at the previous trendline's point B.
+Boom.
+Now, we're going to follow these same
+exact rules that we just
+followed in the last trendline. Try to
+capture as many touchpoints as possible.
+Make sure that the line connects to one
+another, and price cannot have poked
+through or intersected. Now, I want to
+give you an example of what it looks
+like to have had price intersect or poke
+through, and what's incorrect.
+>> [music]
+>> If this line was to go up any steeper
+like this,
+this line would be incorrect. Price has
+broken through the trendline already.
+So, you want to think of these
+trendlines as truly holding the price
+up. So, this would be the correct
+placement of our next trendline. So,
+we're working towards getting as close
+to real-time price action as possible.
+So, we're going to continue connecting
+and drawing these trendlines until we
+can get as close to here as we can. So,
+that means we have more trendlines to
+draw. So, let's keep going. Next
+trendline, same rules. Previous point B
+is new point A. Capture as many
+touchpoints as possible without price
+intersecting. Okay? We have followed all
+of our guidelines, and we are ready to
+draw yet one more upward trendline.
+Previous point B, new point A.
+And this is as far as we can go for this
+one. This is all of the upward
+trendlines that we can draw for the
+monthly timeframe on Bitcoin. We do need
+[music] a downward trendline. So, we
+want to track upward and downward
+trends, bullish and bearish trends.
+There's going to be some instances where
+on higher timeframes, there isn't a
+downward trendline to draw, but in this
+instance, we can here in Bitcoin. So,
+we're going to draw our very first
+downward trendline. So, remember we had
+some rules for our very first upward
+trend line. We're going to implement
+those same rules, same same but
+different, for the downward trend line.
+So, for our very first downward trend
+line that we're drawing on the monthly
+time frame, we're looking for the
+highest point that we see on the screen,
+and then we just continue to implement
+the same exact guidelines or the same
+exact rules as before.
+Try to capture as many touch points as
+possible without having price
+intersected or poked through. And I'm
+going to change the color of the
+downward trend lines just to
+differentiate the two. Now, we've got
+red downward and green upward. So, this
+is all we can do on the monthly time
+frame. We've gotten as close to
+real-time price action as we can. This
+is now our indication that we can
+continue this top-down process. So, we
+did everything that we need to do in the
+monthly. Now, we're going to do the same
+exact process in the weekly time frame.
+Weekly time [music] frame here. Quick
+tip here. So, when we go from the higher
+time frames to the lower time frames,
+think of it like we are looking at price
+with a magnifying glass or under a
+stronger and stronger lens. So, that
+means we're getting a little bit more
+precise and we're seeing more price
+action or more movement. So, when we go
+from the higher time frames to the lower
+time frames, you'll notice that things
+are just a little bit off or a little
+bit wonky. All we'll do is just simply
+make some adjustments to make sure we're
+still following those rules. So, price
+poked through just a little bit here.
+We'll take this line and adjust it.
+Price was a little bit off on this line
+here. We're going to take the line,
+simply adjust it, get it a little bit
+more accurate. There we go. And then
+same for the downward trend line. It's a
+little bit off, so we're just going to
+simply adjust it here and adjust this
+one here. There we go. So, this is just
+a tip to keep in mind when you're going
+to the lower time frames. You'll just
+need to make some slight adjustments
+every time. Okay, now we're in the
+weekly time frame. For the weekly time
+frame, there are no additional downward
+trend lines we can draw. We've gotten as
+close to real-time price action as
+possible in this time frame. But, there
+is some additional upward trend lines
+that we can draw to help get us closer.
+So, we're going to follow the same
+[music] steps, the same guidelines. When
+drawing another trend line, make sure it
+connects to one another. Previous point
+B is new point A. Capture as many touch
+points as possible without price
+intersecting. Now, I'm going to make
+this green again. There we go. And that
+is as far as we can go in the weekly
+time frame. So, not as many trend lines
+that we needed to draw on the weekly and
+that'll happen with different
+instruments that you do a top-down
+analysis on. But, for this one
+specifically, not too much we needed to
+do on the weekly. So, now it's our
+indication, we can continue to move
+down. We did monthly, we did weekly, now
+let's work our way down to the daily
+timeframe. And you'll see some
+adjustments need to be made, price poked
+through a little bit over here, we just
+need to make some adjustments.
+There we go.
+Adjust this one here, perfect.
+And adjust this [music] one
+here. Now, we can see a steeper upward
+trend line that we can draw. Previous
+point B is new point A.
+Try to capture as many touch points as
+possible without price intersecting.
+There are [music] still no additional
+downward trend lines we can draw. So,
+this is our indication, we can continue
+moving down. Now, let's go to the 4-hour
+timeframe. 4-hour timeframe, we need to
+make some slight adjustments here,
+slight adjustment here, and now we can
+finally come in with one more steeper
+downward trend line.
+>> [music]
+>> Capture as many touch points as
+possible, we're going to make it red,
+make sure price hasn't intersected, and
+we're going to reach our final
+destination. Now, we're going to move
+down to our final timeframe here, the
+1-hour timeframe. So, we're going to
+stop in the 1-hour timeframe for this
+video's example. It does not mean that
+you have to stop at the 1-hour
+timeframe. If you decide to trade a
+lower timeframe, you'll just continue
+these same steps with the same process
+working your way down to the lower. For
+example, if you trade a 5-minute
+timeframe, you will go from the 1-hour
+to the 30-minute to the 15 to the 10
+then to the five. That's where you'll
+stop. But, for today, we're going to
+stop at the 1-hour timeframe. Now, we
+have made it to the 1-hour timeframe and
+there are no additional lines that need
+to be drawn. We have completed our very
+first top-down analysis.
+Congratulations. Okay, now that you know
+how to do your top-down analysis, here's
+where we are. We have a chart, we have a
+bunch of trend lines, some are bullish,
+some are bearish, some are going up,
+some are going down, some are green,
+some are red. So, right now, they're
+just lines. It's just showing us what
+price has done in the past and [music]
+how it's gotten to where it's at now,
+how it's gotten to real-time price
+action. But, that brings me to my
+absolute favorite [music] part of this
+entire strategy. We don't ever have to
+guess where price is going next. It is
+one of the coolest parts and the most
+exciting part of the strategy and it
+gets me so excited and I don't know if
+you've ever heard of girlfriend brain,
+but this is like this strategy is
+girlfriend brain. We don't have to
+figure out what we're going to eat for
+dinner tonight, where we're going, what
+we want to wear. This is where it all
+comes together. The price [music] is the
+one in control. The price will tell us
+when to get in. The price will tell us
+what direction to take and the price
+will tell us when to get out. Our entire
+job in this whole system in this whole
+strategy is to simply follow the price.
+That is the strategy. Now, I'm going to
+introduce you to two terms that makes
+all of this come together, that makes
+all of this work. The two terms you need
+to know is action line and safety
+[music] line. So, let's start with the
+action line. The action line is yet
+another very literal term. [music] I
+love the literal, easy to understand
+terms of the strategy. Action line means
+it is time to take action, time to place
+a trade. This is when we enter a
+position. So, here's the logic and this
+part is super important. If [music]
+price breaks an upward trend line, that
+means the uptrend is being violated.
+Buyers aren't in control anymore, so we
+are taking a short position. We're
+betting the price continues down. If
+price breaks a downward trend line, that
+means that the downtrend is being
+violated. [music] Sellers are not in
+control anymore, so we take a long
+position. We are betting the price
+continues up. The line that price broke
+is our action line and the direction
+that price broke will tell us which
+direction to trade. That right there.
+Price breaks a line, we take a trade in
+the direction [music] of the break. That
+is your entry criteria, that is your
+foundation. Quick note, there are ways
+to get more picky about your There are
+things that you can layer on to help you
+get pickier about your setups. There's
+different playbooks that you can take,
+but in today's video we're going to go
+over the foundation of the entry model
+here. Now, the second term, the [music]
+safety line. The safety line is exactly
+what it sounds like. It is the line
+that's going to keep us safe in our
+trade. The safety line will always be
+the opposing trend line to the action
+[music] line. It is the line moving in
+the opposite direction of the action
+line. So, if we took a short position
+because price broke an upward trend
+line, our safety line is the downward
+trend line above price. If we took a
+long position because price broke a
+downward trendline, our safety line is
+the upward trendline below price. Now,
+here's how it works. As long as price
+[music] keeps moving in our direction
+and respects the safety line, we stay in
+the trade. The safety line is literally
+the line just keeping us safe in our
+trade. And it's always keeping us in
+profit. As soon as price violates the
+safety line, we are no longer safe in
+our trade, it is time to close our
+position. And that is our exit. So, just
+like our entry criteria, this is our
+exit criteria. We don't have to guess
+when to close our trade. Price will tell
+us exactly when to do that. Are there
+more layers? Yes. There is criteria,
+there are things that we can do to help
+us get more precise. There are filters
+that can help us look for the best
+setups, and there are a ton of different
+playbooks that you can use with this.
+But, the foundation is this. Action line
+gets us in, safety line gets [music] us
+out. You know when to enter because
+price told you, and you know when to
+exit because price told you. If I had to
+take everything that I have learned in
+the past 11 years of trading and boil it
+down into three words, it would be that:
+follow the price. [music] Now, let's get
+into a few advanced tips here. Let's get
+into position sizing, stop losses, and
+trade management. We now know when to
+enter and what direction to take [music]
+the trade in. But, that is only half the
+trade. The other half is how much to put
+into the trade. And this means how many
+shares, how many contracts, [music] how
+many lots, how big of a position size
+are we getting into this trade? And how
+much money are you willing to lose if
+this trade doesn't work out? That
+decision is on you. Unfortunately, there
+is some part of the strategy that does
+require your own discretion or your own
+decision. And that is [music] position
+sizing. But, it comes down to two
+things: position sizing and stop loss.
+Now, what is a stop loss? Stop loss is
+also exactly what it sounds like. It is
+a tool that stops your loss. Now, you
+will set this before you even get into
+your trade. So, this is what you decide.
+If you get into this position because of
+our action line, price moves against me
+and violates [music] my safety line, how
+much am I willing to lose? The stop loss
+closes the trade for you automatically.
+It is how you protect yourself from
+losing more than you planned. Now,
+[music] for us, we know our entry model,
+we know our exit model, and we know that
+our exit model is the safety line. So,
+the stop loss will always go on the
+other side of the safety line. So, if
+price hits that level, violates the
+safety line, that is where a [music]
+stop loss will be initiated. And that's
+how we know the trade is no longer
+working. That's how we know we're no
+longer safe in our position, close our
+trade. Now, position sizing. What is
+position sizing? Position sizing is how
+big your trade is. How many shares of a
+stock, how many contracts [music] of a
+future, how many lots of a forex pair,
+how many is the position sizing. Now,
+the bigger position sizing, the more
+money that you'll make if it moves in
+your favor or if the trade works out,
+but also the more money that you'll lose
+if it doesn't work out. So, how do you
+decide how big to go? You base it on how
+much you're willing to lose. That is
+essentially it. Now, we do have a rule
+of thumb for beginners. Never risk more
+than 1 to 2% of your capital on a single
+trade. Capital just means the amount of
+money that you have deposited in your
+account, the amount of money that you
+have to trade with. So, if you have
+$10,000 in your account and you're
+willing to [music] risk 1 to 2%, that
+means you're willing to lose 100 to $200
+per trade. So, that is the most that
+you're willing to risk on any [music]
+single trade. If you risk too much per
+trade, one bad trade could entirely wipe
+you out or take a huge hit to your
+account. So, [music] when it comes to
+trading, we're working with
+probabilities, so we want to keep that
+range of 1 to 2% so that you could take
+like 10 losses in a row,
+back-to-back-to-back, [music]
+and you still haven't made a huge dent
+on your account. And that allows
+probabilities to work in our favor.
+Small risk per trade [music] keeps you
+in the game, and that's why this is a
+great rule of thumb for beginners. It
+allows the beginners to stay in long
+enough to actually see it through. Now,
+quick side note before we keep going,
+you may be thinking, "I don't have
+$10,000 to trade with, so these numbers
+aren't even really clicking to me." But
+don't worry, that's not an issue. There
+is a solution. We'll get into it later
+in the video. But just keep that in the
+back of your mind, but for now, let's
+keep going. Now, here's one last concept
+to add to all of this, trailing your
+stop. The safety line isn't just where
+you place your initial stop loss. As
+price moves in your favor and respects
+your safety line, your stop will trail
+along that safety line. This allows you
+to maximize on profits when you're up
+instead of allowing price to come all
+the way back down to the original stop
+loss. So, you move it, it's dynamic. It
+moves along with the safety line. This
+is called your trailing stop. [music]
+Think of it this way, the safety line is
+a dynamic concept. Price will continue
+to ebb and flow and move along your
+safety line. The stop loss we will keep
+adjusting. [music]
+Your stop loss follows that same line.
+So, the longer that the trade is working
+out, the more [music] profits that
+you'll lock in along the way. Now, this
+part is hands-on. You will be manually
+moving your stop along the safety line
+as price [music] progresses. As price
+shifts and moves along with your safety
+line, you will take that stop loss and
+continue [music] to move it as price
+ebbs and flows along your safety line.
+So, that is essentially the stop loss
+placement [music] and safety line in
+one. Your safety line is your trailing
+stop. They are one in the same. And for
+some traders who have already been doing
+this for a while, the acronym SL, safety
+[music] line, same as stop loss, SL.
+But, it tells you exactly where your
+stop should be and how you should trail
+them and how you should move them.
+Everything is dictated by what price
+does. [music] If the price moves along
+and respects your safety line, so does
+your stop loss. If price moves along
+your safety line, [music] you're staying
+in your trade. As soon as price
+violates, you're closing your trade. All
+of our decision-making is done based on
+what the price is doing. Follow the
+price. Always come back to that phrase.
+Here's what every single trade looks
+like for us. One, top-down analysis.
+Make sure you mark up your charts.
+You've done your research on what price
+has done overall leading all the way up
+to real-time price action. Two, action
+line. Wait for price to break your trend
+line and then you get into a trade in
+the direction of the break. Three,
+pre-planned position sizing and stop
+loss [music] placement. This is our
+initial risk. How much are we willing to
+lose if we get into this position?
+Remember, 1 to 2% of your capital for
+beginners. Four, trail your safety line.
+And then five, price tells you when to
+exit. [music] as price violates the
+safety line, it's time to close the
+trade. That is the entire framework,
+step by step. And if you want to see the
+strategy be implemented on a live
+account, I've done plenty of trade
+breakdowns where I go over this exact
+strategy using my own personal live
+account. Click any of the videos over
+here. Later in this video, I'm going to
+show you exactly how we utilize these
+trend lines to place our trades. And I'm
+going to show you this process in real
+time, step by step, what the market is
+doing right now, today. Here's what to
+do next. Go on to TradingView and
+activate their paper trading account.
+You want to enter a number that is
+closer to the realistic amount that
+you're actually going to be trading
+with. This is how you get the reps in
+and this is where you start. You can
+enter $10,000, you can enter 20, 25, 50,
+100k, 200k, whatever you think would be
+more realistic to what you'd actually
+like to trade with. Paper trading is
+using fake money, but you've got real
+market conditions and real price action.
+So, you follow the same exact rules or
+the same exact system that we just went
+over. Same setups, same risk, same stop
+losses. This is where you're going to
+get the reps in, build the consistency,
+master the strategy. Once you've done
+that, once you have actually proven
+consistency to yourself that this
+strategy works, that's when you get to
+look into something called a prop firm.
+Prop firm is short for proprietary
+trading firm. This is a company that
+will give you access to trading capital.
+So, instead of risking your own $10,000,
+remember we talked earlier about if you
+don't have $10,000 to invest into a
+trading account, this is the
+alternative. They will give you access
+to trading 10,000, 25,000, 50,000, 100
+to even $200,000 worth of trading
+capital. Here's how it works. You pay a
+small fee to take an evaluation. The
+evaluation is a test, so come to the
+test prepared. They will give you a
+simulated account at the size that
+you're trying to get funded for, so
+you'll take an evaluation for a 10k
+account, you'll take an evaluation for a
+50k account, or a 100k account. So, you
+have to prove that you can trade
+profitably and consistently using their
+rules. Things like a daily loss limit,
+profit targets, etc. If you pass the
+evaluation, you get access to the funded
+account. Capital from the firm to trade
+with. And when you make money on that
+account, you and the prop firm split the
+profits. Most firms pay out between 70
+and 90% of profits to the trader. The
+reason that I love prop firms so much is
+that it is the lowest barrier to entry
+to get into trading. These evaluations
+cost anywhere between 50 to $100. So,
+think about this. If you want to trade a
+$100,000 in a futures account, you've
+got to deposit $100,000 in a futures
+account. Most people don't have that.
+With a prop firm, the only amount of
+money that you're risking is the amount
+that you paid for the evaluation, which
+is usually around $100. And that's it.
+Get funded and start trading. It is
+hands down the best path forward for
+anyone who's serious about trading that
+doesn't have that larger amount of
+capital to start with. Now, here's my
+recommendation, Alpha Futures. Alpha
+Futures has a 50K premium account that
+costs around $79 for the evaluation.
+That gets you access to $50,000 worth of
+futures capital. And if you enter code
+Tory at the checkout, you'll get a
+discount. And if you're not a futures
+trader, there's also Alpha Capital, and
+you can use code Tory for a discount
+there as well. So, if you want to take
+the next step, the link will be in the
+description below. Now, there's one more
+thing. If you have made it this far, it
+is the ongoing maintenance of our trend
+lines. What does that look like? If you
+do your top-down analysis, you wait for
+price to cross one of your lines, you
+close your screens, maybe a day goes by,
+you come back. How do you readjust your
+lines? How do you maintain the lines?
+So, I want to go over that example
+before we finish today's video. How do
+you continue to do this again and again
+after today? So, your chart is not a
+static picture. The price is not going
+to just stay where you left it when you
+do your top-down analysis. Price will
+continue to ebb and flow and move. So,
+as price moves through your old trend
+lines, you need to update your lines.
+You need to update to new touch points,
+new highs and new [music] lows. Markets
+are always changing directions, always
+creating new trends, so your trend lines
+need to adapt with them. Now, this is
+what you do regularly. This is not on a
+weekly basis or a monthly basis.
+Adjusting your lines is on a daily
+basis. So, you'll sit down, you'll go to
+your designated time frame, and see what
+lines need to be adjusted. Your daily
+routine is what separates you from
+traders who guess versus traders who
+have an actual system and an actual
+process. Now, let me show you what this
+looks like on the charts. Now, let's say
+that you go back to Bitcoin. You've done
+your top-down analysis already, but the
+price has since then crossed through. It
+has broken through and violated one of
+the trend lines. Now, you weren't able
+to get into a position when it crossed,
+so you need to modify or adjust your
+trend lines to prepare for the next
+move. This is what the ongoing
+maintenance looks like.
+If you open up your charts and price has
+already crossed through some of your
+trend lines, you're going to go back and
+abide by those same rules that we went
+over. Make sure price is not
+intersected. Make sure lines will always
+connect to one another, and try to
+capture as many touch points as
+possible.
+So, if I want to adjust this line
+>> [music]
+>> to the correct area based on what price
+has done now,
+I will take this point B and move it
+here. Now, price has not intersected and
+I've still followed all of my rules.
+This is what the ongoing maintenance
+looks like. Now, once price breaks one
+of these two lines, we understand that
+we've got an entry, we've got trade
+management, and we've got an exit. But,
+as you maintain your lines and as you
+continue to watch price day after day,
+you will need to adjust these lines. And
+this is what the ongoing maintenance
+looks like. So, now you have a clear
+idea of how to get in, how to manage a
+trade, how to get out, and what the
+ongoing maintenance looks like for trend
+lines. How do we adjust them when price
+breaks them and we didn't get in on the
+opportunity or we didn't get in on the
+trade. That's everything. So, there it
+is, the complete trend line system. No
+indicators, no noise, no confusion, a
+very clear step-by-step system and
+strategy. You start from the top,
+monthly, weekly, [music] daily, 4-hour,
+1-hour, or continue down to some lower
+time frames. You know exactly when to
+enter your trades, how to manage your
+trades, and when to exit. And you even
+know how to maintain your trend lines
+after price has already broken through.
+So, that is the whole system. It is
+simple, it is repeatable, it works on
+any market, [music] any instrument, and
+any time frame. This is purely a price
+action-based trend line system. [music]
+Thanks for watching, everybody. Hope
+this is helpful.

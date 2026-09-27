@@ -1,0 +1,1040 @@
+This is Mattio Conti. He's a 7-year
+market maker, member of world-class
+edge, and chief investment officer at
+SQR Capital, a quantitative [music]
+hedge fund. But I brought him in to
+answer one question. How would a quant
+hedge fund exploit the mathematics of
+prop firms? His answer was a systematic
+VWAP strategy he built that produced
+over 300%
+across more than 4,000 trades in
+historical testing.
+>> This one strategy that I would run is
+what I call the drift VWAP pullback. And
+this is a very simple long short
+strategy. Like the reason why this
+strategy is extremely good for prop
+firms is this number right here. So,
+this strategy uh profitability rate,
+which is of 64%.
+>> But VWAP alone isn't the real edge.
+Mattio specifically built this strategy
+around the execution algorithms used
+inside banks and brokerages. Using what
+he learned as a market maker to identify
+when institutional buying and selling
+pressure exposes itself. And by
+identifying this exact edge, he built a
+strategy with a simulated 93.6%
+chance of getting funded within only
+four attempts.
+>> The imbalance between
+uh the amount of algorithms that are
+selling and amount of algorithms that
+are buying gets actually revealed and
+you have like these sharp movements both
+in the downside or the upside. And this
+is what we are trying to exploit right
+here. We are trying to exploit exactly
+this behavior. By the time you use this
+exact same [music] strategy within four
+challenges, you have a 93.6%
+of passing at least one. And that's why
+the the people I work with, the people
+in my community, they call it prop firm
+golden ticket because if you change
+>> In this episode, Matteo reveals the
+exact day trading VWAP strategy his
+community calls the prop firm golden
+ticket live on the chart and exposes the
+number one discipline [music] that
+separates decent traders from great
+ones. Nothing in this video is financial
+advice. We're here to study how one of
+the most sophisticated traders we've
+ever interviewed actually executes. Now,
+let's see what Matteo is made of.
+Matteo, you spent years as a market
+maker at Nordea Markets and today you
+run systematic strategies at SQR
+Capital. Obviously, this is
+institutional experience that goes well
+beyond almost every guest I've had here.
+Now, what did this experience teach you
+about trading profitably that most
+retail traders fundamentally
+misunderstand?
+>> Yeah. First of all, thank you so much
+for having me here. It is truly a
+pleasure. Like every time that someone
+gives me a platform to talk about this,
+I find it extremely exciting.
+And the biggest misconception is that
+people are obsessed
+looking after trades. They want to find
+the next trade and they want that the
+next trade is profitable. On the other
+hand, institutional traders are obsessed
+going after profitable trading
+strategies. This is the whole difference
+between
+institutional trading and retail
+trading.
+>> So, fundamentally then focusing on a
+profitable strategy would be thinking
+over hundreds and hundreds and hundreds
+of trades over years potentially instead
+of looking for the next big setup,
+right? So, this kind of brings us into
+then, Matteo,
+How do you know that a a strategy is
+actually profitable or has an edge?
+>> Yeah, you need to test. And this is one
+of the steps that retail traders often
+skips because trading is actually about
+getting an idea around your trading
+strategy. It's about gathering data.
+It's about encoding your trading
+strategy and then applying that piece of
+code to historical data so that you can
+do your back test checking if in the
+past that strategy is profitable and
+afterwards running simulations.
+Simulations that give you the confidence
+that the strategy is truly profitable
+and can make you money in the future.
+>> Okay, so I want to unpack all of this
+later in specific and specifically when
+we get on the chart. You'll be able to
+show us an example of this approach when
+we get on the chart, right?
+>> Yeah, and to some degree because like
+one thing that I want to bring you here
+given the fact that it's like uh um
+um it's not that we want to have a
+strategy that is necessary going to make
+you money with your own capital and we
+are in a prop firm context. I decided to
+bring something here a strategy that
+maximize the probabilities of actually
+getting funded of passing a prop firm
+challenge.
+>> Excellent, Matteo. Thank you so much. I
+want to keep talking about this, but I
+think that we should get on the chart
+and see exactly how we can step into
+this arena that, you know, you've been
+trading in now for a while. So, if you
+don't mind, if you want to share your
+screen and let's see what you got.
+>> 100%
+>> Matteo, we're on the chart. This looks
+like multi-charts, which is a very
+sophisticated piece of software. But
+what exactly are you looking at here?
+>> So, right here is uh I just loaded uh
+two graphs. Uh one is uh Nasdaq 100
+futures using a 5-minute time frame.
+And here is Nasdaq 100 futures using a
+50-minute time frame. But then, let me
+give you a little bit of context because
+mhm the strategy that I want to bring
+here
+answers the question that I've been
+getting so many times. Like uh many
+people uh many retail traders have been
+asking me, "Mhm You as an institutional
+traders, what is that one strategy that
+you would run to pass prop firm
+challenges?" And that's what I want to
+bring here on this platform today. Uh
+the answer to that question. Um this one
+strategy that I would run is what I call
+the drift VWAP pullback.
+And this is a very simple long-short
+strategy
+which I specifically designed to pass
+prop firm challenges.
+>> Well, I'm excited to see it. I mean, I
+had no clue that this is what we we were
+going to do. So, please continue.
+>> Yeah, okay. And and specifically I this
+this strategy has been used by many
+people that are followed like young
+retail traders to actually getting
+funded. And um
+they're getting like so so many good
+results that actually we call it a day
+prop firm golden tickets and you will
+shortly see why. Um the beauty of this
+strategy as I say is like is extremely
+simple. And it has its foundation on the
+behavior of execution traders inside
+banks and brokerage.
+Mhm So, like the the why the why this
+strategy that I'm going to show you is
+actually working and it it it has like
+it is rooted on actual market
+microstructure. And that's what makes it
+look quite
+interesting and quite
+appealing for for this case.
+To trade it, we need to load the
+5-minute charts of Nasdaq 100 futures,
+and we need to load the 15-minute chart
+of Nasdaq 100 futures as well. The third
+component, given especially the name of
+the drift VWAP
+pullback, what we need to add is the
+VWAP.
+Which you will see appearing on our
+charts right here.
+>> [snorts]
+>> The VWAP, this specific VWAP, this
+specific VWAP displayed here, it is a
+VWAP based on the 15-minute
+chart, yet displayed on the top of the
+5-minutes. And this is why we loaded
+both the historical
+time series.
+First of all, like we need to to give
+some information as well, like
+what is the VWAP and why it matters. The
+VWAP is the average price of everything
+traded up to that specific point.
+Weighted by the volume. So, it's like um
+the price where the largest amount of
+money actually changed hands. Do you
+follow so far?
+>> Yes.
+>> Yeah, and why it is relevant.
+Not sure if you're aware, but like
+inside banks and brokerage houses, there
+is a figure called the execution trader.
+And the job of the execution trader is
+just taking the orders from the
+portfolio manager, which is the fund
+manager, the hedge fund manager, the
+actual person that is managing the
+capital, and executing their trades.
+Mhm, 90 to 95%
+of these orders are executed using VWAP
+execution algorithms. So, algorithms
+that they are targeting the execution
+around the VWAP.
+Mhm, this this behavior, the fact that
+so many execution traders are using this
+specific algorithm,
+has a very important consequence. So,
+when the price
+pulls back towards the VWAP,
+there is a very intense trading activity
+of these execution algorithms.
+And this activity has the tendency, if
+there is like if the sellers are in
+control, if there is more
+selling algorithms than buying
+algorithms, there is going to be a push
+down from the VWAP price. On the other
+the opposite, if we have like a pullback
+towards the VWAP, yet the buyers are in
+control, there is going to be a pushback
+uh on the upside. So, on a very high
+level, what this strategy is doing and
+what you should do as a trader is
+keeping an eye on the VWAP price, which
+is anchored at the uh market open, so
+9:30 Eastern Time,
+and
+using it
+using the VWAP to understand what is the
+bias of the day, if there is more
+selling pressure, so uh negative drift
+or a positive drift, and that's what is
+defined in this indicator with the red
+uh crosses versus the green crosses. And
+then once you have this pullback towards
+the VWAP, then if is from the upside,
+you go long. If is on the downside, you
+go short. This is on a very high level
+what the drift VWAP pullback is doing.
+If we need to put it down in just one
+sentence, it waits the
+uh
+for the 15-minutes charts to show a
+clear established move in one direction.
+For example, here we have a clear um
+downtrend.
+And um
+more specifically, to translate it this
+one into data, we use the VWAP tool to
+identify these these move and these
+downtrend.
+And then we buy or we sell at the first
+pullback towards the
+uh VWAP price. If again is from the
+lower side to
+uh towards the higher side, and we have
+this
+uh pullback, we go short. On the other
+side, if we have this pullback from the
+upside towards the VWAP, and there is
+a
+positive deep trend on the VWAP, we go
+long. This is like on a nutshell what is
+doing.
+>> These pullbacks and bounces off the
+VWAP, what is the exact mechanic going
+on there? Right when price
+hits VWAP and then bounces off of it,
+what is the mechanic?
+>> Yeah, the mechanic is really like uh
+once you get closer to the VWAP, there
+is a lot of trading activity. The
+trading activity of these algorithms is
+going to intensify because they are more
+certain than they're going to get filled
+closer to the VWAP, right? And that's
+why like it here around these points
+where we are closer to the VWAP, the
+imbalance between
+the amount of algorithms that are
+selling and the amount of algorithms
+that are buying gets actually revealed
+and you have like these sharp movements
+both in the downside or the upside.
+And and that this is and this is what
+we're trying to exploit right here.
+>> Now that we understand the philosophy
+and the why,
+are we able to systematically define an
+exact entry point
+in inside of this model? And how would
+you do that?
+>> This is this is my job. Like translating
+everything in a in a systematic
+quantitative systems. But yeah, so
+basically like every 15 minutes and here
+we go back to our 15-minute chart, we
+ask the question, is there a trend?
+And the three conditions that must be
+true
+to
+answer the question yes or no
+are going to be if we take like for the
+long side first. Let's take the long.
+For the long,
+we need to have the
+uh
+price
+above the VWAP.
+Condition number one. Condition number
+two, we need to have the VWAP that is
+rising
+over the past
+15 minutes.
+So that's why like when
+the cross is green, means that the VWAP
+from the past 15 minutes is increasing
+and that's uh condition number two. And
+condition number three is that over the
+past 1 hour
+the NQ price increased
+at least 0.
+1%.
+And these are the three conditions to
+that give tell us is there a positive
+trend, is there a drift that we should
+pay attention to. This one for the long.
+Equally like
+for the short
+it's going to be
+short. So, price below the VWAP, VWAP
+falling over the past 15 minutes,
+and over the past 1 hour the price of NQ
+decreased
+at least 0.1%. Let's change color to
+red. And that These are basically like
+just the condition that are telling us,
+"Okay, are we in this downtrend? Are we
+in on this uptrend?" And uh
+many of these, apart from the third one
+of the condition of the increase over
+the past uh
+4 15-minute bar, which is 1 hour,
+and needs to be higher of 0.1%
+or um
+smaller than minus 0.1%,
+like are all identified with these VWAP.
+And an additional very important rule is
+that on the first hour, so from 9:30
+Eastern Time to 10:30 Eastern Time, we
+are not going to trade because we want
+to give the market time to give us
+levels for the VWAP. We need to
+understand where is the money that
+actually exchange uh hands over the past
+first hour.
+Um say that once we identify the trend,
+so let's say it's after half past 10
+here,
+we wait
+so they trigger our trade.
+We call it trigger.
+It's going to be
+the
+first
+So, the trigger for the longs
+first um
+red candle
+towards the VWAP.
+So, as we have a as we have a red candle
+that pulls towards the VWAP,
+then we open our long position. And as
+opposite for the shorts,
+first
+green candle
+after all the three conditions have been
+satisfied, the three condition that
+we've seen.
+>> Real quick, for this long or this short,
+is this going to be on a limit order at
+the VWAP or at the close of the candle?
+>> At the At the it's going to be at the
+opening of the next candle. So, you as
+the candle closes, you send a market
+order.
+>> Excellent. Please continue.
+>> So, this one is going to be our trigger.
+Once we have the pullback, the first
+pullback, it doesn't matter how close it
+is to the VWAP. As we have the pullback,
+we try to get the short. Uh about risk
+management and exit conditions, this is
+>> Before we get there, I do have to have
+have to ask you this for the audience.
+>> Sure.
+>> These These three rules, right, and then
+the trigger. How did you come up with
+this as being a a good rule set to
+follow? Why these three specific rules?
+>> Ever thought about getting into prop
+trading? Perfect timing. Right now, we
+have a huge offer for you. You can grab
+a 50K futures challenge for just nine
+bucks. Or if that's still too much, the
+10K crypto challenge for only a single
+dollar. Links in the description. And
+now, back to the video.
+>> Because these three specific rules, they
+give you the level, they give you the
+direction, and they give you the speed.
+That's why I want that the three of them
+are going to be satisfied at the same
+time. And obviously, like again, I've
+been a market maker for 7 years, so like
+I do have a lot of understanding and
+knowledge behind of how
+things works, especially with the
+execution of view up. And I know that
+for these specific pullbacks, if we are
+below if the price closes often below
+the view up,
+um
+there is the present of high uh selling
+activity.
+Uh if um mm
+the view up keeps decreasing, means that
+we have a clear drift on the price. And
+uh obviously, like what is like uh the
+0.1%?
+Uh it has been defined doing doing an
+optimization in our in-sample data. We
+will get there as well to talk about it,
+because like uh this specific strategy
+has been developed using data between
+2020 to 2024. And this uh 0.1%
+was the
+um
+optimal parameters uh minimizing the
+risk of over fitting uh to to run this
+specific strategy. That's how you get
+them.
+>> You do have supporting data then for
+this model? And if you do, we'll talk
+about it later. We'll get into the exits
+first. But I just wanted to clarify if
+if there was.
+>> Yeah, yeah. Yeah, the uh this strategy
+has been developed using an in-sample
+data, as I said, between 2020 and 2024.
+And uh it has been used over the past 6
+months to pass many prop firm
+challenges. And we will get there as
+well why this one is so good to pass
+prop firm challenges. And the
+answer is behind the data. It's like
+it's a strategy that really fits well
+the mathematics of prop firms. It's
+exciting stuff if you're a nerd like me.
+>> [snorts]
+>> Okay, please. Let's Let's go over exits
+and risk management.
+>> Yes, sir. And about the exits,
+um we we left like
+for the longs or risk management. So,
+for the long we will put at risk
+80 points to make
+40 points.
+So, as you can see is a very low reward
+to risk ratio. And for the shorts, we
+have
+at risk 80 points to make for 50 points.
+So, here as well we have a
+negative
+RR, as the retail traders say.
+Um
+so, and let's uh
+Let's This one is going to be
+our conditions to open and close a day
+position. And lastly, we have importance
+uh
+guardrails.
+Cuz we need to have the last set of
+rules to make this strategy
+properly
+systematic, properly mechanical.
+So, guardrails.
+And these are one position at a time.
+Max four trades
+a day.
+Max two
+losses a day. So, if you have two
+consecutive trades that are losing
+trades for the day, we stop trading it.
+>> [snorts]
+>> And um, um, no new trades after
+3:30
+p.m.
+Eastern time.
+And uh, close all position
+at
+3:55
+p.m. Eastern time. So, before regular
+trading hours closes. And this is the
+last set of rules that we really want to
+include. Um,
+the maximum two losses a day, maximum
+four trades a day
+is because uh, it's very hard to snipe
+what is the exact moment that it will
+revert or like when you will have this
+pullback. And if number four, like in
+sample, again, during the development
+process of this strategy was showing
+that was the optimal um, number of
+trades to maximize the probabilities of
+passing a proper challenge. If we get
+uh, let's now
+um, get uh,
+the strategy in place like because one
+thing that is very important is like the
+fact that we set all these rules this
+clearly allow us to translate the
+strategy on a piece of code. This is so
+much key because at that point we
+translate the strategy in the piece of
+code, we can apply it to our data. In
+this case, I will only have uh, trading
+one single trade. So, like a maximum
+trade per day I put one, so we start
+seeing on a visual point of view how one
+trade will look.
+And if we open
+the list of trades,
+let's take someone.
+So, here you can see that we have this
+positive drift.
+So, we have the price above the view up
+price.
+Uh we have the VWAP that is increasing,
+right? So, over the past 15 minutes, it
+has been increasing. And we have the
+price of the underlying asset, so of um
+NASDAQ that over the past hour increased
+more than 0.1%. So, all we did here was
+waiting for the pullback towards the
+VWAP and opening a long at the
+at the
+beginning of this opening of this bar.
+And this one ended up in the in the
+money. If we Again, this one is like all
+the trades are applied over the our
+entire period because we encoded our
+strategy. So, it's not that we are
+backtesting manually like I've seen them
+doing it online. But,
+this is one of the advantages of
+coding everything.
+So, as you can see here, it's well.
+So, we have a negative trend, right?
+We have the
+VWAP that is decreasing.
+And here we have a very tiny pullback.
+But, it is a positive pullback because
+it's the first positive bar. So, we open
+the short position and ended up in the
+money. So, this one is like
+how it works
+how it looks visually. And
+it should give you a good grasp of this
+concept of like we get the pullback
+towards the VWAP. Then, if all the three
+conditions are met, we open the short or
+we open the long and we let the computer
+doing this magic. As I was saying,
+the optimal number of trades or maximum
+number of trades is four.
+So, let's change that parameters and
+let's apply. Here we have four trades in
+this consecutively, where we have like
+three wins and one loss. So, and the the
+beauty is that now we can have a look at
+how this strategy
+performed over the entire period. And
+this is the performance. This is the
+equity curve of this strategy since
+2021. And as I said, like this strategy
+has been developed only using data up to
+2024. So, like from 2024 to yesterday,
+the second of August 2026,
+all of these is completely out of sample
+performance.
+Um so, it's not a matter of overfitting
+and the entire strategy. And uh I
+>> Matteo, why you make that point right
+there though? In sample, out of sample,
+overfitting. I know there's going to be
+a lot of people watching who don't
+understand those three. Now, we could
+talk about it for 2 hours, but if you
+had to simply break it down, why is
+overfitting bad and why do you need to
+test in sample and out of sample?
+>> Yeah, so overfitting is bad because can
+fool you making you think that you have
+the best strategy in the world, like you
+have an equity curve that is a straight
+line that just keeps rising. When
+actually, the reason why you have that
+performance is because you added too
+many rules, too many conditions, and you
+over optimized your parameters. So, you
+cherry picked the values of your inputs,
+like what is the best take profit level,
+what is the best stop loss level that I
+should use to make this strategy looks
+very good
+in the past. But all it does overfitting
+is like making your strategy look in the
+past, but once you run it on unseen
+data, the strategy gets completely
+destroyed.
+Um on the other hand,
+if you take your data and you split your
+data, let's say we have data from 2021
+to 2026, we split the data exactly in
+the middle, and we only do the research.
+Like we add the our conditions. We
+change the parameters only on the first
+half. And then like we apply
+the parameters that we defined on the
+first half frozen in time on all the
+unseen data. And then we check what is
+the performance. And in this case like
+we applied the we did this research on
+data until 2024. We applied this
+the same inputs from 2024 to 2025. Back
+then was
+and was looking at good performance.
+Great.
+Uprising in sample, uprising out of
+sample. The probability that we are over
+fitting are little. This is the very
+first check that you should do in your
+development process. But say that like
+the reason why
+this strategy is extremely good for prop
+firms is this number right here. So this
+strategy has a profitability rate which
+is of 64%.
+Which is extremely high. And it is
+extremely high on the back obviously of
+the fact that we have a low reward to
+risk ratio. But
+even though this strategy has a very
+little average trade. So if you try to
+apply this strategy on a
+private account on running it with your
+own money, this strategy is unlikely
+that it's going to make you money with
+your own capital. Yet the fact that it
+has
+as an average winning rate when it is
+right 866,
+and when it loses 1,300,
+yet on the back of a 65%
+profitability rate, this strategy makes
+it extremely good to pass prop firm
+challenges.
+It's not Matteo that is just saying
+that, but is uh um
+is uh statistics and he's running
+simulations on the back of this data.
+Because what you can do is downloading
+all the trades since 2020, 2021
+and feed them to a um piece of code to
+to Python where you code that uh model
+to run simulations, understand what is
+the actual probability of passing a prop
+firm challenge. And this is what I did
+and this is what I'm going to show you
+on um right now. [clears throat] And
+here it is. Here is like what I did was
+just taking all the trades that you have
+just seen.
+I wrote a small piece of code on Python
+to run 20,000 simulations and give me as
+a feedback what is the actual
+probability that I pass a prop firm
+challenge using this specific strategy.
+And uh
+the single passing rate of any single
+prop firm challenge of this strategy is
+50% or 49.8%
+meaning that if you take uh
+one prop firm challenge and you run this
+exact set of rules, you have a 50%
+probability of passing it with an
+average time to pass of approximately 3
+days.
+Where it gets interesting though
+is that yes, using one contract of NQ or
+10 micro NQs,
+um you have a pass rate of 49.8%.
+You have an average days to pass 3.4, so
+you are way within the limits of the 20
+trading days. And um um
+what makes it interesting is that if you
+only take one challenge and you apply
+this specific strategy, you have a 49.8%
+probability.
+But you have a 74.8%
+to pass a prop firm challenge within two
+attempts. And a 87.3%
+to pass at least one challenge within
+three attempts.
+By the time you use this exact same
+strategy within four
+challenges, you have a 93.6%
+of passing at least one. And that's why
+the people I work with, the people in my
+community, they call it the
+prop firm golden ticket. Because if you
+change the way you approach with prop
+firm and you start looking at at it like
+as a
+business almost, you know that now,
+let's say each prop firm challenge costs
+$50.
+Now you're spending at maximum $200,
+you are almost guaranteed with a 93.6%
+to get funded on at least one of those
+accounts. And once you're funded,
+you will need to look for a strategy
+which maximizes the probabilities to get
+a payout. And that one is going to be a
+conversation maybe on the next
+interview.
+>> So so Mateo, let me clarify for the
+audience. You know, there's a lot of
+hoopla in the trading scene and people
+think there's like 90% win rates with
+like 10 to one reward risks. This
+doesn't happen. So if on your first
+challenge, you theoretically have a
+50/50 chance using a strategy, that is
+very that is very very good because I
+have the numbers, I've seen it all.
+Way less than 50% of people pass a
+challenge. It's beautiful. I love it.
+Trust me, I want to sit here and nerd
+out about it with you. This is the stuff
+I do, too, but so before we jump off the
+chart, Matteo, I
+>> Yes, sir.
+>> I want to make it clear to the audience,
+a lot of this is going to be beyond what
+they are naturally capable of doing.
+So,
+is this strategy able to be traded
+manually, or would you not recommend
+that?
+>> The issue of trading manually is that
+you really need to be very diligent, but
+um if you want to trade it manually, you
+can just still have it encoded
+and waiting for the trigger. That's how
+I would do it. Like in the in any case,
+like you have the trigger, you say,
+"Okay, I trade it." And then you enter
+your trade manually. Trying to beat
+there to
+eyeball it, it might work, it might not
+work, but you don't have the confidence
+of knowing that your strategy is going
+to have 50% probability of passing you
+the challenge. And that's what
+automation really gives you. This is the
+big advantage of like saying,
+"I have it encoded at least then." If
+you want to trade it manually on the
+back of the signal that you receive from
+your machine,
+that's already one step forward that
+virtually any retail trader in 2026
+can actually achieve.
+Um if you go a little bit further and
+you manage to even automate the entire
+full process,
+it's not that you're going to run one
+strategy, you're going to run a set of
+three, four trading strategies that will
+help you to make you money either on a
+prop firm context or with your own
+capital. And that's where you really
+start growing as a trader.
+>> So, Matteo, before we jump off the
+chart, if you're going to take this
+seriously, trading in general or a
+strategy like this, you should start
+working yourself up to being able to
+automate.
+>> 100%, but that's the trend. We will like
+as as retail traders understand that it
+makes no sense that you have a computer
+in front of you and you're leveraging
+the hell out of it.
+Like
+as people understand that that with few
+lines of code you can actually you're
+able to have your computer trading for
+you. You might be at work when US market
+opens
+and still having your your your prop
+firm challenge to be passed like it's
+going to be
+uh
+life-changing not just from a financial
+point of view, but like from literally
+like
+a way of trading
+for many many people.
+>> [snorts]
+>> And I have a one of the
+first guys that started following me on
+social media that this guy blew up like
+47 prop firm challenges. And I was like,
+"Dude, I I cannot pass. It's impossible
+that I pass." And we started using this
+approach of like, "Let's find a strategy
+that statistically is going to make you
+pass. Automate it and like not only was
+able to
+pass his first prop firm challenge with
+using this method, but he passed it
+while he was at work. And I was like
+that one was the thing that was was
+blowing up his mind. He was like, "I was
+spending 10 hours a day on front of the
+screen waiting for my entry conditions
+to be fulfilled." And the actual prop
+firm challenge that I passed was while I
+was at work and having my computer
+trading for me. Because the job of the
+institutional trader is 90% is research,
+development, and validation. 10% is
+monitoring risk and performance of your
+computer trading for you.
+>> Michio, thank you so much. Let's jump
+off the chart.
+I feel like me and you could sit here
+and talk for probably 8 hours, but let's
+jump off the Let's jump off the chart
+and I'm going to ask you just a couple
+more questions before we wrap it up
+here.
+Thank you so much for showing a
+validated system. The cumulative
+probability over time of passing a
+challenge while using this system as
+well as in sample out of sample
+performance metrics and things of this
+nature.
+Audience will surely highly appreciate
+it. So, Mateusz, if someone understood
+everything we just talked about in this
+interview and started applying it,
+what could still prevent them from being
+profitable or passing challenges?
+>> You need to have the control over the
+thinking that you know better than all
+the research that you have done before
+trading. Because once let's say you
+spend 10 hours developing one trading
+strategy, you find a trading strategy
+that looks profitable, looks like it's
+going to make you money, then you
+automate it, then you really need to
+stay away from the urge of thinking you
+can do a better job. I can move this
+take profit. I can move this stop loss.
+I can add this extra trade that will get
+a better result. No, you really did the
+work before. Right now you have your
+system trading for you. Just trust the
+work that you have done before. And that
+urge of like wanting to intervene,
+wanting to I think I can do better, that
+is something that you really need to
+have under control and you need to
+respect uh
+the the the machine uh
+to some degree. And that's why it's the
+hard part of systematic trading. That is
+the hard part of quantitative trading.
+That is the hard part of this mechanical
+and institutional trading. It has a
+whole like trust the research that you
+put down.
+You did a good job. You know what you're
+doing. Trust it and have let the
+computer trading for you.
+>> For anyone that comes straight out of
+this video and goes, "I'm going to
+automate." and they run their strategy,
+how do they know if the strategy is
+deployed and it starts doing bad? If
+it's just normal drawdown or regular
+variance in the return structure
+or if they actually messed something up
+and the strategy is overfit, it it's
+garbage.
+>> Yeah.
+>> Yeah, that's that's what the Monte Carlo
+is used for because Monte Carlo, when
+you run the simulation, gives you
+yardsticks. Like gives you, okay, you
+have only a 5% probability of get
+drawdown larger than $10,000
+over 10 trades. So, obviously, if you
+have a drawdown that is $5,000, all
+good. It is within the expected
+parameters. But if you have a drawdown
+of $15,000 over 10 trades, then you know
+that you have less than 5% probability
+of getting that type of drawdown, and
+you know that you need to stop the
+strategy. So, you have yardsticks that
+you get from the validation phase of all
+your trading strategies, and they really
+that is what really give you the
+confidence of even knowing, okay, I know
+that everything is within expected
+parameters, I don't need to be worried
+about it. On the other hand, once it
+gets outside the expected parameters,
+you need to be
+more cautious and you're like, okay,
+let's stop. Here, I it up.
+Cannot run it live. Let's remove it. And
+that's like
+a skill that you always obviously you
+acquire over time, but it's pure like
+following a specific process, following
+a specific protocol. It's like it's
+nothing fancy, you just need to know
+which are the steps that you need to
+follow between idea generation
+>> [snorts]
+>> to deployment. And once you deploy, what
+you need to do to monitor performance or
+risk.
+>> Matteo, is there any part of trading
+that you think should stay
+discretionary?
+>> It really depends. Like some parts like
+even let let's put it this way. Like
+let's say
+there is you want to keep being a
+discretionary trader. Completely cool.
+But knowing how to test what you're
+doing can only add you value. Like it's
+not that you need necessarily automate
+every single thing that you do. But for
+example, let's say you want to test a
+discretionary strategy. Cool. Like try
+to simplify it in a way that you can
+test and you can at least see if you
+have a positive drift in the past if you
+apply those type of set of rules. That
+can only add you value. That's why it's
+a skill set that every single modern
+trader should have. No matter if you
+want to trade manually, no matter if
+you're discretionary trading, there no
+matter if
+you want to automate 100% your trading
+process. And that's why it is important.
+It's like it's a skill set that you get,
+you make it yours, and how to use it if
+you want to use it to just do some
+validation, if you want to use it to
+just do some optimization because like
+yes, you usually have a tick profit at
+20 points, but you're wondering, "Okay,
+but what if all the trades that I took
+over the past 5 years, I used 100
+points, what would be my performance?"
+So really can can use it to extract
+insights that
+you wouldn't be able to get otherwise.
+>> Matteo, is there any final piece of
+advice you'd like to leave for anyone
+watching that might be struggling
+trading?
+>> If you don't know what you're doing,
+don't trade.
+If you want if if if you want to trade,
+first test what you're doing, understand
+if you are likely or not to make money
+with the strategy you're applying, and
+once you find validated statistical
+evidence,
+that's the moment that you deploy
+capital.
+>> Matteo, thank you so much for coming on,
+showing the data, showing a validated
+strategy, the prop firm Golden Ticket.
+I appreciate you coming on and it was an
+absolute great time.
+>> Thank you so much, brother. And uh let's
+do that again.
+>> IQ Capital, built by traders, for
+traders. You can start your first
+challenge for as little as $1. Check the
+link in the description below. Terms and
+conditions do apply. Thank you so much
+for watching. We'll see you in the next
+one.

@@ -1,0 +1,4044 @@
+a model that I actually built for
+proper.
+>> This is how to master proper.
+>> This is how to bring prop trading to a
+next level using math. This is so
+controversial because this method
+response to put advantage on losing
+traders and cap less on profitable
+traders. So what we can use we will use.
+This guy is a futures trading champion
+at just 20 years old with over 200% in
+total performance in just 9 months.
+Introducing Gian Luca Rooney. I was a
+discretionary trader. I lost money. I
+was [music] a mechanical trader that
+made me profitable. When I turn to
+statistical trading, that is what put me
+on a podium multiple times. I'm getting
+a 60% win rate with one to four week
+reward. First is my favorite one and
+it's the only metrics that can tell you
+if your strategy will make money or not.
+The model that I used in the
+championship that is called this is
+someone who traded ICT, traded
+discretionary setups and instead
+developed [music] a statistical trading
+model. He has created automation around
+his entire trading and for the first
+time he breaks down step by step the
+exact statistics and process to building
+your own automated trading model.
+>> Statistical trading doesn't make a
+strategy profitable. He take a strategy
+that [music] already works and put it on
+steroids. People will think that a
+strategy with a 75% loss rate is really
+bad. I think that this is a blessing.
+Why? Because not only that, he also
+shares specific models that he uses on
+profit firms and in this episode he
+shares them all with you.
+>> Let's go to the most advanced risk model
+that I built on my strategy. This is the
+part that breaks people brain. It go
+deeper on why I do some things. So, what
+you have to do,
+>> not only do we have a verified trader,
+but we have a world champion. Someone
+who is ranked three times [music] in the
+Robins World Cup of Trading in the Forex
+Division and actually won twice and in a
+9-month period has achieved over 200%
+return. And not only that, that's
+obviously an incredible accolade, but on
+top of which, he's also done payouts on
+prop firms, multiple six figures at that
+using this exact, and I say strategy,
+but that might not be the right word.
+I'll tell you why. Because everything
+we're going to cover today is extremely
+unique. This is someone who has really
+dived deep into the automation and more
+importantly mechanical trading systems.
+He actually was an SMC trader, but most
+of all, he found a way to make it all
+objective and make it all statistical.
+And we're going to find out how he did
+that. This is a master class. Make sure
+you're ready. And I think I you know who
+it is. And if you don't, you're about to
+know. It's the one and only Gian Luca
+Brun.
+>> Thank you so much for the introduction.
+It's really an honor for me to be here.
+And today we will deep dive into the
+model that took me from a losing trader
+to a world champion trader at 22. So it
+will be a little bit different from
+everything that you bring here because
+my approach I think that it's really
+unique. But I think that it will be very
+helpful for all the uh audience looking
+here. We will see basically three main
+things. How to take your prop trading
+level to a next level. So although you
+can gain although you can gain payout
+even if your strategy isn't doing well.
+The second model is the most advanced
+risk model that I ever built on my
+trading. And the third one will be a
+surprise but trust me you will know
+trust me trust me you'll want to stay
+for it because it's a really amazing
+method that I use. So let's start with
+the beginning. So I was I started as a
+losing trader as I told you as I told to
+you. I started as a discretionary trader
+and uh you know I started trading six
+years ago. [snorts] So when I was 16 or
+17 years old and uh it was so difficult
+at that time to find informations
+because you know now the educational uh
+word in trading is also thankful to you
+h is really a better place but when I
+started trading there were some guys
+telling me all different kind of things
+uh and it was so difficult to recognize
+what's true and what is not true what's
+right and what is not Right? In trading
+because you don't have a traditional
+path you don't have like to be a doctor
+you need a degree that's it in trader
+you can be profitable even with your
+feelings okay because you see the market
+you feel and I know some trader that
+does that like um Niku I don't know if
+you know it or Fabio is an incredible
+discretionary trader or even Andrea H
+but I always thought that it was um that
+it was not the good approach for me. So
+what was the problem with discretionary
+trading? That every educator, every
+YouTube channel was saying something
+different.
+>> One swore that the truth of trading was
+by harmonic scanner. I don't know if you
+remember that, but it's it was really a
+>> it was big thing. Yeah,
+>> big things.
+>> Uh another one said, "Forget harmonic
+scanner. It's all about Fibonacci and
+Eliot. So you just have to wait for the
+61.8 level. For sure you remember it. I
+know it
+>> as you [laughter] see. Okay. Okay. And
+uh another one say forget all forget all
+of that. Just use ICT.
+So I trusted all of them and I lost all
+the money that I have when I was a
+teenager and it was so bad because I was
+doing something and everyone was
+watching me losing money and um they
+thought that I was like a gambler or
+something like that and maybe they
+weren't wrong.
+>> So I understood one thing that every
+educator out there were selling you
+concept.
+>> Yeah. But I understood with my pain uh
+that concept are a scam. Why concept are
+a scam? Because a concept tell you
+nothing about how to be profitable in
+trading. It tells you really nothing
+because remember that a concept knowing
+a concept make you feel smart.
+>> A strategy instead makes you money. And
+that's the really difference. What's the
+point of knowing what is the fair value
+gap?
+>> No point. Okay, you understand that a
+concept can be useful once it's united
+to a strategy. So multiple concept into
+a strategy that can be tested across
+thousand of trades and this can be
+useful because you know a concept is
+something that we talk on a meeting on a
+trading meeting. Yeah, I use this
+concept. Yeah, it's good. you should try
+a strategy is something that we can help
+to another person, we can teach to
+another person and he can actually make
+money with that.
+>> Mhm.
+>> So that's the big difference.
+>> We say the difference between concept
+and strategy is that concept is
+subjective. You know there's an idea
+there but and you know it's open to
+interpretation.
+>> Yeah, it's open with strategy as you say
+you you have you build it it's based on
+statistic and data even if someone else
+has it it should be the exact same like
+for light.
+>> That's it. And I think also that a
+strategy h tells you so many thing like
+when you have to enter on a trade when
+you have to get out on a trade when you
+have to wait is a multiple concept
+united. Okay that's the big difference.
+So let's talk about discretionary
+trading and mechanical trading because
+we all saw this debate between uh
+discretionary mechanical and one say
+that discretionary is the future of
+trading. you should spend hours and hour
+on the chart until you fail it.
+>> That's for me is not working. But uh the
+other part is mechanical trader. But for
+me there is a third part statistical
+trader. Today I would define myself as a
+statistical trader. I was a
+discretionary trader. I lost money. I
+was a mechanical trader. I and that made
+me profitable. And when I turned to
+statistical trading, that is what put me
+on a podium multiple times. So after
+losing money for two for more than two
+year, I finally clicked.
+>> I started I started to understand what I
+need to make to make money actually in
+trading because you know I was always
+guessing on the chart. I was okay these
+setups look good. I saw so many times.
+Maybe it's time to go long. What does it
+mean? nothing. Okay. So, I needed
+objectivity.
+So, I had to turn all of my concept into
+an objective way that I can trade in the
+same way every time.
+>> And I thought that would be easy, but it
+wasn't for sure because take something
+that is discretionary and turn it like
+in a scheme of rules is not that easy.
+>> But I did it. And today I will show you
+how I did it in all the model that I
+actually use.
+>> Yes.
+>> Because once you objectify certain
+things, you can move on with the cooler
+things. And let's talk about the
+difference between mechanical and
+statistical because mechanical is
+objectify all the concept as I said you
+before
+>> and the mechanical made me profitable as
+I said you before. But I know but I knew
+that when I was trading mechanical I was
+just looking for the tip of the iceberg.
+>> Okay.
+>> What is the difference between
+statistical trading? Statistical trading
+doesn't make a strategy profitable. It
+take a strategy that already works and
+put it on steroids. M
+>> that's the big difference because
+mechanical asked response to the
+question you look like this and you
+follow always like this statistical
+response to the question oh you can
+squeeze your strategy to the limit
+>> okay
+>> that's the huge different that is
+between mechanical and statistical
+trading so why mechanical is also I
+think the best way to start trading or
+even to get profit able in trading
+because it also remove interpretation
+and emotion
+>> because once you are allowed to
+interpret something you can actually
+modifying it and you can mask it as
+interpretation
+>> in mechanical trading if a certain
+condition happen that we call A I just
+do B if I'm doing C I'm getting wrong
+okay that's the big the that's the huge
+difference. So mechanical is also good
+for your emotion. But later on we will
+talk about trading psychology and why is
+the most is the most controversial
+um not thing or I can say the most
+controversial topic in the trading
+industry. Let's take a break for a
+minute there guys cuz a quick word from
+our official platform sponsor Ninja
+Trader. If you've been following along
+on this channel you know how much time
+we spend breaking down charts and market
+structure. And Ninja Trader is an
+awardwinning futures trading platform
+built for exactly that. You get advanced
+charting, depth of market tools, and
+market replay, so you can work through
+historical sessions and practice in a
+fully simulated environment, all without
+risking real money. Here's how to get
+started. If you're new to the platform,
+use the link in the description below to
+download Ninja Trader and [music]
+explore it in the simulator. You get two
+full weeks for free to test everything
+out. And if you're already trading prop,
+choose Ninja Trader as your platform at
+checkout. It's the best platform for the
+job. So go check it out and let's get
+back to the episode. But let's talk
+about um all you objectifier strategy
+because you have to start from the
+beginning. How do you read market
+structure? Because it all started like
+that.
+>> Mh. And we will see on the whiteboard
+and uh we have to remember that market
+structure is an art. It's not like I
+like this setup. It's not like this. I
+think that is an IRI. We need a certain
+rule that objectify it. And we will
+start with this first one. I show you
+how I do it.
+>> Mhm.
+>> I need to understand that I need to get
+a context of the bias. So I will read
+the market structure in two layers.
+>> Okay.
+>> First one I can just do that. Okay.
+>> And would you say that even for yourself
+even as a statistical trader market
+structure is still the foundation still
+the foundation of everything because if
+you have market structure and if you
+know how to objectify it you can move
+on. If you interpret market structure,
+everything else will be I wouldn't say
+but
+>> I think so. I think so.
+>> Yeah. Okay. You understand? So first one
+we should know what is B and A.
+>> Okay.
+>> Um I think that maybe in the SMC concept
+is like the same because we look at the
+peripheral structure and actual
+structure. So we need to set up some
+rules. So when we see a market that is
+doing that,
+we need to follow the last shoe
+breakout. So we always follow
+I will call it BO.
+>> Mhm.
+>> So we don't see this. Okay. Because it's
+too far away from our dealing range.
+>> Okay.
+>> And we will see it just this point and
+this point. the last the latest true
+breakout.
+This is our context.
+>> Okay.
+>> Okay. We will start to trade here
+and we need to understand the latest
+breakout that is actual structure in
+this case it will be this and the
+peripherical the and the peripheral
+structure that it will be this. This
+sounds like easy right? I think that
+most of trader that is watching this
+they are doing like the same. We need we
+need to set up condition. Okay. So when
+to follow peripheral structure and when
+to follow actual structure
+>> because when they are the same it will
+be easy we just go along
+>> okay
+>> in this case we don't we never go
+against that
+>> but it get complicated when we have an
+actual structure that is not the same of
+the peripheral structure [snorts]
+>> so I will try to make another uh level
+so let's analyze for example
+this and another uh important structure
+is the internal that I forgot to
+mention.
+So what we can see here first we have to
+get the context. So this we don't look
+at it because we just look at the second
+of
+>> the last two
+>> the last two breakouts. In this case we
+have for the peripheral structure this
+and this.
+>> Yes.
+>> Okay. Because they broke that level and
+they broke that level.
+>> Mhm.
+>> But what we can see that this level has
+been actually broken.
+>> Yes.
+>> From here.
+>> Yes.
+>> Okay. So we know the concept. We know
+the context. And the context it will be
+like this. Mhm.
+>> It's important to not confuse time frame
+because this in a time frame can be this
+in another time frame can be another.
+Okay.
+>> Yeah.
+>> So what we can use we will use a monot
+time strategy that's what I do.
+>> Okay.
+>> Okay. If you need to objectify something
+you see the breakout at
+>> 15 minutes and you don't see it maybe in
+another time frame. So what which one do
+you follow? You need ones.
+>> You need one. Okay. That's it.
+>> You just stick to one. I'm stick to one
+totally and this is the 15 minute time
+frame.
+>> 15.
+>> Mhm.
+>> So what we actually do like this we
+follow actual or we follow peripheral.
+It depends on one concept that is
+directional potential.
+>> Okay. What does it mean? I write it.
+What does it mean? That we can follow
+the actual structure but we have a limit
+of it. So the rule is we follow the
+actual structure but we couldn't go
+against the peripheral structure.
+>> So in this case what we can do we have
+two main choices. First use the discount
+and premium zone.
+>> Yes
+>> that is really common with SMC or ICT
+spaces.
+>> Yes
+>> in this case is the easiest one because
+we just track a Fibonacci here and here
+and we s and we check where is the 75
+level.
+>> Okay. in this case can be this for
+example. So we perfectly know that we
+can follow in this case the this
+structure till this level.
+>> Okay.
+>> So we can take some kind of trait here.
+>> Okay.
+>> Okay.
+Once this level has been reached
+>> Mhm.
+>> what we can do our directional potential
+finished.
+>> Yes. So we need in this case to follow
+the peripheral structure and even if the
+actual structure is actually against us
+we can just take a trade from here
+>> for searching for a long
+>> okay
+>> that's the easiest one and I would say
+that is not the most precious one.
+>> Okay because the other tools that you
+can use is volume profile.
+>> Okay.
+>> Okay. So that's a prime example there
+where if the price is even though you're
+using one time frame but shorter term is
+doing a pullback potentially.
+>> Yeah.
+>> Because the overall peripheral bigger
+picture structure is still bullish in
+that example.
+>> Yeah.
+>> You're able to create that A and B
+scenario
+>> just in that simple format. So
+>> the most current the actual structure
+has gone bearish but until we reach said
+discount level so 75.
+>> Okay. Yeah. So you associate that 75. So
+you have your A and B options there. So
+it hasn't reached 75. So we're able to
+short or potentially have a trade down.
+But once we hit that 75, now the rules
+dictate we can't short now. We have to
+then focus on the uh peripheral
+structure, the larger picture. That's
+it.
+>> And so therefore potentially the long
+position can then come in
+>> because we can follow the actual
+structure but we have to deal with this.
+Yes.
+>> Directional potential. So we need to
+know that once this is finished, we have
+to go with the peripheral structure. So
+the most accurate model is using a
+volume profile. I'll show you how it
+works.
+>> Let's say for example this.
+>> So would you with the volume profile is
+this something in combination with what
+we just talked about? Oh,
+>> yeah. Is the you can either use the
+Fibonacci for see the discount and
+premium zone or you can
+>> if you want to be like more precise you
+can use the volume profile.
+>> Okay.
+>> So let's track a volume profile maybe we
+will see the value area here
+>> something like that. So in this case we
+know that we can follow the actual
+structure because what we can see that
+the value area low in this case is
+not taken yet. Yes,
+>> you see that this has arrived.
+>> So in this case we don't use Fibonacci
+but we use the value area high and the
+value area low as a target for this
+directional potential.
+>> Yes.
+>> Okay. So in this case for example we can
+go long and this in most case doesn't
+agree if we track the 75 maybe is this
+>> okay so it's a little bit a different
+concept that you can use and I tested
+all of it and the the result are not so
+>> different but this has get has got more
+result
+>> okay
+>> so we can still search for a trade okay
+for example short
+>> till here but once we get here we just
+follow the
+>> peripheral
+>> peripheral function. So is this a good
+example of the difference between
+mechanical being a mechanical trader and
+then the statistical bit putting it on
+steroids in a sense that mechanically
+you could say 75 but statistically the
+edges improved even if ever so slightly
+from the value area low
+>> statistically is more than that really
+more than that because all we built a
+statistical strategy we'll see later on
+on that video okay this is just
+>> I prefer this or I prefer this the
+result are similar But this should be
+better.
+>> Gotcha. Okay.
+>> Gotcha. Futures traders, it's time to
+hear about Apex Trader funding, the
+largest futures firm in the industry.
+They have completely changed the game
+with their new evaluations. So far,
+they've already paid out over $600
+million to traders around the world,
+just like me and you. And not only that,
+Apex actually holds the record for the
+largest payout to traders, which is of
+course with Jade Cap. no stranger to
+chart fanatics with $2.5 million in a
+single payout. And the person before
+that was Trader Kane with $2 million in
+payouts. Now, what sets Apex apart? Apex
+you can get up to 20 [music] accounts
+which no other firm offers. Now, not
+only that, they have extremely clear
+rules. With their revamp, there's no MAE
+rule, no 5:1 risk-to-reward rule, no
+hidden rules, no gray areas. clearly
+defined draw down models. So you have
+two options now. End of day draw down
+and intraday trailing draw down which
+means no payout denials, no payout
+reviews, no discretionary decisions
+[music] and no surprises. What sets them
+apart as well? Traders receive 100% of
+approved payout requests [music] up to
+20 accounts as I mentioned and one day
+to pass. Now the other thing that I love
+about Apex is not only can you get 20
+accounts but there's different account
+sizes. So they have 20K accounts all the
+way to 150K accounts. So you can get 20
+of any of the account sizes that you
+choose. Not only that, you have various
+trading platforms from Wealth Charts to
+Trade of Rhythmic. The choice is yours.
+So make sure you use the code CF to get
+up to 90% off on evaluations right now
+using the link in the description below.
+Trade at Apex today. Let's get back to
+the episode. Do you know in terms of the
+volume profile, one question that comes
+to mind and I'm sure will probably be
+easier to to show on the charts, but you
+know, with it being CFDs or forex uh in
+terms of volume, like what are you
+using? Is there a particular chart you
+will decide to use because there's no
+centralized data, right?
+>> Not centralized, but you can still get
+some good result with also volume
+profile of trading view. Of course, if
+you are trading index, for example, the
+Dow Jones, you can use the centralized
+volume profile and it will be better.
+>> And for my strategy, it doesn't run only
+on one pair.
+>> It's an edge. It's not an edge on that
+pair.
+>> I my strategy works on 33 asset.
+>> Wow.
+>> So when I trade, I trade multiple asset
+and it works on forex, it works on
+index. I I didn't got any good result in
+um metal.
+>> Okay. But beside that uh it work on
+mostly of the forex pair.
+>> Amazing.
+>> So this is what we look but we have to
+get some rule. Okay. Because we
+objectify peripherical peripher per
+peripheral and actual structure
+>> but there are some condition and uh when
+we follow like actual against peripheral
+or something like that and we need to
+know what is the internal structure. So
+let's take another example. First one
+the in this case it's easy to recognize
+peripheral and actual as I told you
+before this is peripheral this is actual
+but remember that actual is the latest
+breakout what does it mean that this has
+been broken by this
+>> if we have this okay the actual shift
+from here to here so this will not be a
+point that we consider okay
+>> and we have to know when the structure
+are aligned. Okay. So in this case what
+we can do let's put for example that the
+actual structure is this. Okay.
+>> And we have a breakout of this level.
+>> Yep.
+>> Okay. When I say breakout of course I
+mention with the body not with a week.
+>> That's really important.
+>> So you need the the body to close.
+>> Yeah. And uh also a certain level. So
+>> okay
+>> we need to get a number here but we will
+talk about numbers later. Okay? Because
+we need to make sure that we are trading
+with a breakout or without a breakout
+because we don't trade without a
+breakout.
+>> So in this case, let's put for example
+that the value area low is here. Okay.
+>> Mhm.
+>> And the actual structure is here and the
+peripheral structure is here. Okay. So
+they are aligned but we still have some
+kind of magnet here. Mhm.
+>> Okay. But it doesn't interest us because
+we have the peripheral and actual
+structure aligned. So if we can take
+like we have like asen session area I
+use mostly asan session for my uh
+trades. I have I codify different
+schematic in the post asan session. So
+London and New York and I trade that.
+Okay. We will see later on the target
+the trigger.
+>> Yeah.
+>> And we can see that maybe we can take a
+trade here. Okay. We will do that. And
+the next question is where do I put my
+target?
+And the response to this is statistical.
+We will see later on with a concept that
+I created. I don't know if I created
+someone already told you but it's called
+the optimal target.
+>> Okay.
+>> And so what we can do we just follow the
+structure. So in this case maybe we will
+have another breakout. And remember the
+main rule that I told you before lace
+two breakout.
+>> So in this case which is the latest
+latest two breakouts this
+>> y
+>> and this.
+>> Yeah.
+>> This is not the second breakout anymore.
+>> So we will stop consider this zone.
+>> Okay. And we will start to look at here.
+>> Yep.
+>> Okay.
+That's another example where peripheral
+ex actual structure they are always in
+one zone
+>> not true.
+>> So let's make for example another
+example of peripheral plus actual
+structure in only one zone. Uh we can do
+like this.
+Okay let's take this for example. What
+we can see that the latest two breakout
+were in this case this and this
+>> after what we had this has been broken
+by this and again this has been broken
+by this and this has been broken by
+this. Yeah.
+>> So let's contextualize it. The
+peripherical structure was that
+>> okay
+we need to also know where is the value
+area low or the 75 level in this case
+for example it was there.
+>> Okay.
+>> So they took it.
+>> Yep.
+>> That's that's the main difference.
+>> Mhm.
+>> And what we saw that the market came in
+this zone in the very in the peripheral
+structure.
+>> Yep. and changed structure.
+>> Yes.
+>> So in this case we can say that this
+zone has made it work because when the
+price came here we had a reaction.
+>> Mhm.
+>> In this case this level is more
+important than this. This is not
+important anymore because as I already
+did is work. In this case we will say
+that this zone is B plus A. Okay. So why
+this is important? Because once this
+level is broken the market shifts.
+>> So before we were in a long setup now we
+will be in a short setups. Also if this
+has not been broken. Mhm.
+>> Okay, that's the main difference because
+we have to follow the market always and
+it's not like less to breakout. This is
+a general okay condition. In this case,
+we have to recognize the most important
+breakout.
+>> Mhm.
+>> And this was the main important
+breakout. So, we just went from long to
+short and we can continue to look at
+this. So when the mindset of it being
+short that comes in once we break below
+this level because now at this point
+based on our conditions we shouldn't be
+breaking this level right this should
+sustain and if it does break now we've
+obviously got a bearish
+>> because we cannot count anymore on this
+because it has already been a result
+from this
+>> and do you find like if we're talking
+you know SMC or just discretionary
+traders they'll see this they they may
+have gotten in here or they may have
+missed it right
+>> yeah So let's say either one. When they
+get to here, people are either getting
+taken out break even or those who missed
+it are starting to try and get in.
+>> Yeah.
+>> It breaks, no problem. If it breaks
+because, you know, generally it's an
+okay area to look for longs.
+>> Once it breaks, however, because let's
+say if that hasn't been taken,
+>> they'll start loading up more because
+they're like, "Oh, it was a liquidity
+sweep."
+>> Yeah, we don't do that like that. If we
+have a breakout, we cannot guess if it's
+a breakout or if it's a liquidity sweep.
+But based on my test, if we look at this
+as a breakout, we will get best result
+than seeing this as a liquidity sweep
+and go still go long. Yes.
+>> Okay. So, every question that you can
+make has been verified across thousand
+and thousand of trades. That's the main
+difference. I don't guess. I execute my
+data. That's the difference. So, let's
+analyze this and let's follow for
+example the market. Maybe the market is
+doing like that.
+Okay, in this case for you the uh I
+would say the value area I in
+[clears throat] this in this case is
+here. Okay, so it has not been reached
+by the price
+what we will have we will have two zone
+or actually one zone. We will have two
+zone because here we have the last
+breakout
+>> and here we will have the peripheral
+breakout. So we can say that the
+peripheral didn't help this for gain a
+breakout because it will help only if
+it's reached that level.
+>> Okay.
+>> Okay. So we will still go with this.
+Let's make for example another one.
+In this case we have another breakout.
+The the value area high was here.
+>> Mhm.
+>> And what we can do we just shift the
+zone. This
+came here. Okay.
+>> Because because this will be the third
+breakout and we don't follow the third
+breakout, we follow the last two.
+>> So in this case we will have actual and
+peripheral structure.
+>> So it shifts down.
+>> Yeah.
+>> Mhm.
+>> That's correct. And if we have this,
+so the price re the price
+Andrea retraa retrace retrace just
+>> okay the price retraces and it gets our
+premium or discount or our value I was
+here.
+>> Yeah.
+>> In this case this zone helped this
+breakout.
+>> Yes,
+>> we can say that.
+>> Mhm.
+>> Okay. And in this case this will be plus
+B plus A.
+>> Now it's aligned.
+>> Yeah.
+>> It's aligned. Okay. Now we have to look
+for another kind of structure.
+>> Mhm.
+>> That is internal.
+>> Yeah.
+>> Okay. And it's a little bit more
+complicated but we will try to make it
+simple because our work is to take
+difficult concept and make it
+understandable for everything.
+>> Of course.
+>> Okay.
+>> Let's be honest. Most traders don't fail
+because of bad sells. They fail because
+they have no one in their corner telling
+them the truth. Tradezella gives you
+just that, and it never stops working.
+This isn't just a trading journal. It's
+the all-in-one platform built to make
+you profitable. Powered by an AI
+co-pilot that is literally by your side
+every single session, watching every
+trade, learning every pattern, [music]
+and guiding you toward consistency in
+real time. The second you close a trade,
+your AI has already captured it fully.
+Fully automated sync directly from your
+broker, nothing missed and nothing
+manual. It lets you replay any trade
+tick by tick, pit by pip, so you can see
+exactly where your mind went wrong or
+right. And it runs your strategies
+through years of real market data,
+[music] so you know your edge before you
+risk a single dot. And through all of
+it, your AI co-pilot is connecting the
+dots, flagging what's costing you,
+protecting your account, and doing the
+analytical work so you can focus on
+trading better. And that is what it
+feels like to have an AI working for
+you. Now, if you want that AI co-pilot
+and see your trading excel, the link for
+Tradzella is in the description below.
+Use the code CF20 for 20% off your
+yearly subscription or CF10 for 10% off
+your monthly subscription. If you're a
+trader, you have to know about Chart
+Academy. Chart Academy is the first
+all-in-one free trading education
+platform. That's right, absolutely free.
+No catch, no upsells, no links to sell
+you something. All free. Proven
+worldclass traders providing an A to Z
+masterass on their strategies, their
+concepts, and their processes that make
+them the best. From futures, options,
+crypto, stocks, and forex, everything is
+covered on chartacademy.com. Whether you
+want to fix your trading psychology or
+learn from a market wizard directly, you
+can do it all on Chart Academy. Not only
+that, by just spending time on Chart
+Academy and bettering yourself as a
+trader, you can get points that unlock
+exclusive discounts, free trials, and
+free accounts with your favorite prop
+firms and trading softwares. Don't take
+my word for it. Chart [music] Academy is
+live. The link is in the description
+below. Now, let's get back to the
+episode. Do you w to maybe keep this and
+we draw over this then we can like maybe
+translate it
+>> of course
+>> into internal
+>> course what we can see here
+>> okay this is a this is a week
+>> okay because the 75 the value area can
+be taken also by a week it's not
+important that it's a body yes
+>> okay
+>> so for a breakout you want a body
+>> for a breakout I want a body with a
+certain level we will later talk level
+we'll get to yeah In this case what we
+have we have the in this case a because
+this is was the breakout maybe when was
+like this.
+>> Okay. So it touched the 75 or the value
+area low in this case. So this is a plus
+b.
+>> Okay.
+>> Okay.
+But
+if we have an a plus b and we don't have
+any breakout here.
+>> Mhm. This is not actual structure. Look
+at the difference. This here we have
+another breakout
+>> and then retracement.
+>> Yeah.
+>> Here we don't have any breakout. We have
+just a retracement.
+>> Mhm.
+>> And it's a different concept. This is
+called internal structure. What we do
+with that? Easy. Let's take it simple.
+We just follow with the same rule. So we
+look at here the our value area low in
+this case
+>> and we see if price reach it.
+>> Okay.
+>> In this case for example the price does
+reach it and make a change of structure.
+>> Okay.
+>> Okay.
+>> And do you just uh for the audience is
+it still one time frame? So even when
+you're
+>> still one time frame we don't shift time
+frame because if we shift if we shift
+time frame this will not be a breakout.
+It will be something different etc etc.
+M
+>> so you have to marry one time frame
+>> and do you your for you it's 15 minute
+right? for me is 15 minutes but you can
+use also um
+>> we say 15
+>> 5 minutes 30 minutes um I tested all on
+15 minutes if I want to shift on 30
+minutes I need to get my test again it
+will be really long
+>> okay so you stick so I stick to this 15
+>> so let's analyze this what we have we
+have a breakout in the directional of
+the A plus B
+>> yes
+>> okay because we have a breakout of
+internal structure.
+>> Mhm.
+>> So this became the actual structure.
+>> Okay.
+>> Because it's the latest breakout.
+>> Yep.
+>> So even if we don't have a breakout on
+that level, we will have on the internal
+structure.
+>> Mhm.
+>> So this became the P
+and this became the A.
+>> Okay.
+>> Okay.
+What we have right now if we have like
+another breakout.
+>> Mhm.
+>> Okay. That follow the directional of
+long in this case that are aligned. We
+just follow the market. So we forgot
+about this zone.
+>> Okay.
+>> Because it will be the third breakout
+and this will be a and
+>> and this will be the P.
+>> Okay.
+>> Yeah. In Trading View it's easier
+because you can just delete it. I know
+>> here we have to cancel everything.
+>> Mhm.
+>> So this is B.
+>> Yeah.
+>> Okay. Let's assume that we have a
+breakout of this level. We do the same
+thing. So the actual structure will be
+short. So it will change the A will be
+here because the latest breakout will be
+here. The value area
+low in this case maybe can be here.
+>> Okay.
+>> Okay. So in this case for you what we
+follow if the price is here. Okay. It
+didn't break out the peripheral
+structure and the actual structure is
+short.
+>> Mhm.
+>> What we can do for you for maybe your
+trading you go long or short in this
+case?
+>> I think I know the answer for for yours
+but for mine um I you know probably be
+looking at long.
+>> Okay. same
+>> because my potential direction finish it
+once I reached the value area low
+>> in this case I won't um draw any time
+the
+>> volume profile because it will take so
+much time but let's assume that the
+value area was here okay
+>> so in this case we just go and search
+for a long trigger
+>> got you
+>> okay
+>> but I can imagine though a lot of people
+see this breakdown here they see equals
+they say this has been rejected the
+sellers are in Now they probably still
+especially if this high hasn't been
+taken probably go okay we'll buy down
+here after this low's taken.
+>> Yeah but we have to follow the price. If
+the price got two breakout without
+touching this level
+>> it means that it doesn't need to
+>> touch that level. It has a strong for
+gain two more breakouts and we follow
+the strong of the market always.
+>> So this looks easy because we are
+drawing lines on a whiteboard.
+>> You perfectly know that in trading is
+not like that. Of course,
+>> we have to deal with candles. We have to
+deal with um weak and it's not that
+easy.
+>> It will be good if it was that
+>> it will be good. And so we need to go
+one layer deeper.
+>> Mhm.
+>> Okay. Because once you have the market
+concept, the market context that is
+always like that. We don't guess, we
+don't do anything like that. We just see
+a market and we draw this.
+>> Mhm. Because our goal is to mark all the
+condition. So we cannot see a chart and
+say what I should do. I don't know it's
+choppy is not trading is not trending.
+And even with a choppy market you can
+recognize the P and A.
+>> Yep.
+>> Always.
+>> Mhm.
+>> Okay. When I went to Trading View
+>> Yeah.
+>> and it was so difficult for me to
+recognize demand and supply. Okay.
+>> And I show you why. I was looking for a
+setup. I was looking in a chart and I
+saw something like this.
+>> Okay.
+>> Mhm.
+>> That's strange because I was like, okay,
+this is the breakout, but this doesn't
+look like a breakout because it's small.
+This maybe can be the breakout. You see
+all these kind of zone and you doubt.
+>> Why? Because you say I'll take this.
+That is the beginning. I'll take this,
+this, this, this, this. What I should
+do? Okay. And if you want to become a
+mechanical or statistical trader, you
+can't have doubt.
+>> Yeah,
+>> that's really important. So you need to
+understand
+>> how to objectify every concept. And for
+do it, I needed to create my own
+concept.
+>> So I created this cool concept that is
+called
+triple print.
+This is a way to objectify at the 100%
+the way you take a demand of supply.
+>> Okay.
+>> Okay. So how we do this? It will be
+easier on the trading view because I'm
+not very good in drawing but uh we will
+try to do also here. First we have to
+understand one context.
+>> Mhm.
+>> A valid candle and a not valid candle.
+>> Okay.
+>> What does what what what I mean with
+that? We will say that a candle is valid
+if the length of his body
+let's assume that this is 10.
+>> Okay. Is higher than the longer week.
+>> Okay.
+>> Okay. So if let's do this because they
+look the same. Maybe the longer week
+between this and this it's this and this
+is nine.
+>> Okay.
+>> So in this case the body has been
+measured than the week.
+>> Yep.
+>> So this will be a valid candle.
+>> Okay.
+>> But what what I what does it mean with
+the mean 10 and 9? We need to understand
+how you can measure the market because
+you can easily do with two tools magnet
+and ruler.
+>> Okay. So you will have like how do you
+measure pips? Okay. That's it. It's the
+same. So you measure with a ruler this
+>> y
+>> this zone and this zone. Okay. That's
+really important to me because I need
+numbers and I need this for classify a
+valid candle. Instead if the candle
+looks like this.
+So we don't see this because this is are
+longer. This is longer than that.
+>> And then maybe the body is four. Okay.
+And this is seven.
+>> Yep.
+>> This would not be considered a valid
+candle.
+>> Okay.
+>> Okay. So the cons the idea between this
+is that I need a good pose for take
+zone.
+>> That's it. So let's analyze for example
+let's try to go deeper on a demand.
+Okay let's zoom on this.
+>> Okay.
+>> Okay.
+>> This can be true demand zone. Okay.
+>> But we need to see which one we have to
+take.
+>> Okay.
+>> Because this cannot be valid. This
+cannot be valid. And maybe the only
+valid is here and the breakout start
+from here.
+>> Mhm.
+>> So let's zoom this and we see that
+when we are looking for a uptrend we
+need to see the sell candle.
+>> Okay.
+>> So the sell candle we will do
+red. We see that in this pose. So this
+retracement
+>> y
+>> we have something like that
+one candle
+that is like this. We don't need to
+measure it. This is not valid. These are
+is bigger than that.
+>> Yep.
+>> So maybe we have another candle here
+and this time it's valid because this is
+bigger than that.
+>> Y
+>> and another candle that is like this
+and also this is valid.
+>> Later we have that part. Okay. So the
+impulse
+Mhm.
+>> Okay. So, this is the zoom in of this
+>> of course. Yeah. Mhm.
+>> Uh it's important that the this is
+bigger than this. Okay.
+>> Okay. Then the whole
+>> than the whole retracement of course.
+>> Okay.
+>> H
+>> in one it has to be one candle.
+>> No no no doesn't mean it doesn't need
+to. Okay. It can be multiple candles.
+>> But the rule is called triple print. So
+what does it mean that we need three
+valid candle okay to classify a zone in
+this case this is not valid this is
+valid this is valid so two out of three
+so this will not be our demand zone
+>> okay
+>> this will be nothing okay
+>> this will be just a little retracement
+and when we take a demand zone we need a
+bigger retracement okay so we zoom in in
+another part Okay,
+this let's zoom in and we see that maybe
+we found this, we found this
+and we found
+this. We will maybe have lots of more
+candles. Okay, but we can just measure
+three.
+>> These three are all valid. Okay, for the
+same concept. So this will be our zone.
+>> Okay, but let's say if that three
+>> Yeah. was in the middle of this
+>> middle. Yeah, it's okay. It can be it
+can be from here to here. Anywhere
+within
+>> anywhere. We just need three candles. If
+they are more, we don't need to count of
+them.
+>> Okay.
+>> Okay. It's really important to
+understand that.
+>> And is the zone the candles itself or
+just that whole pool?
+>> I'll show you. I'll show you.
+>> No, I'm rushing. I'm trying.
+>> No worries. No worries.
+>> Getting excited. That's what it is.
+>> Yeah, it's I know it's a little bit
+different. So,
+>> no, I like it. Don't listen.
+>> So, it's important. you're seeing the
+difference as you say is like getting
+specific you know and actual reasoning
+the numbers behind it and we're even I'm
+sure very early into this still
+>> um so yeah let's continue
+>> so
+all we have to take the zone is the next
+question okay we have to take the latest
+three candle closer to the impulse
+>> okay
+>> so in this case the zone will be from
+here to here
+>> okay
+>> okay
+>> this will be the zone So in reality we
+have to check from hold the candle and
+we will start from here here and we go
+upwards.
+>> Mhm.
+>> Okay. And we will take maybe here's the
+first here the second here the third we
+will take just this soon.
+>> Okay.
+>> So we won't take this. Okay. And the
+interesting point is this the level that
+once it has been breaked the market
+shifts. This is not really important
+where it starts.
+>> Okay.
+>> Okay. So in case just to go back to what
+I was saying in terms of free candles in
+here.
+>> Yeah.
+>> Uh that does the triple print.
+>> Yeah.
+>> But the zone will be the last free
+candles before the impulse.
+>> That's right.
+>> So it doesn't have to be the free the
+triple print candles, but it has to be
+the free candles before the impulse.
+>> Yeah. The latest free candle before the
+impulse.
+>> And those candles don't necessarily have
+to triple print.
+>> What do you mean?
+>> As in as uh
+>> the three valid candle. It's important
+to understand this. So if um we have a
+candle here that is not valid, we won't
+take it. We will take the three candle.
+Even if in the middle we have uh not
+valid candle, it's still okay because we
+are looking for a retracement. There are
+three candles and that's the important
+thing
+>> and it's the tricky because if you want
+to test it you have if you want to test
+as a mechanical or statistical trader
+you cannot have doubt as I said you
+before
+>> and if in this all impulse and I mean
+this will be always on the 50inut time
+frame this is really important
+>> we couldn't find any triple print we
+just go down
+>> the next one yeah
+>> we we saw if we have maybe here.
+>> Yes.
+>> Okay.
+>> Mhm.
+>> In this case, we don't we go down again,
+but it's really rare us.
+>> So, in this case, we take this example.
+Yeah. Right.
+>> We're up here. We're trying to work out
+where is our area u for us to get our
+pullback and where we can look for a
+valid setup. If we've seen there's no
+triple print here, that's already
+>> that's not a breakout. Yes. Okay.
+Because it's important because maybe see
+this and they say, "Oh, actual structure
+short." No, that's not correct. This is
+the actual structure and we have to see
+if here we have a triple print for gain
+a peripheral peripheral.
+>> Yeah. So then if we do that then we then
+have our PNA back.
+>> Yeah that's cool.
+>> So once we objectify it
+>> we we can test it. I don't know if
+there's some other question but the rule
+is always the same. It doesn't change.
+>> Okay let's analyze one more concept.
+So the next question maybe can be how do
+you create a concept? How do you
+objectify the demand and the supply?
+Because this I did it by myself.
+>> Yes.
+>> All that I did all that I will explain
+to you
+>> mostly of that I did all by myself.
+Okay. I also in the later on we will see
+an amazing risk model. It's not mine.
+Okay. because I didn't invent any of it
+and uh but I adapt it to my own
+strategy.
+>> Nothing.
+>> So
+all we create concept first we start
+with observation.
+So we look at the chart and see h this
+could be interesting.
+>> Mhm.
+>> Okay. This maybe can work. Okay.
+And that's what I did with the triple
+three with the triple print because I
+needed a way to objectify supply and
+demand.
+>> Second, we have the
+recognition.
+Okay. So let's move on and not just
+observate but recognize the pattern that
+you want to validate.
+>> Okay.
+>> Okay. Third one
+the scheme
+we have to make some rule for this
+pattern that we actually recognized
+>> like this. Okay. Okay. four
+test.
+So we just don't take a concept and we
+test the concept. We need the context.
+So we implement we try to implement that
+context in our strategy.
+>> Mhm.
+>> Once we do that we can test it. Okay.
+Five
+validation.
+We have to test it long enough that
+variance can't lie to us. Okay? Because
+you know that if you take a sample and
+you validate for like 50 trades, 100
+trades, variance can lie to you. Okay?
+That's an important things. So you need
+500,000
+sample for validation for validate it.
+>> What's your minimum? Would you say 500?
+>> I would say 1,000.
+>> 1,000.
+>> 1,000 is the minimum.
+>> Okay. Because below variance can still
+lie to you.
+>> That can still be a coincidence. It's
+rare. Okay, if you have 900 trades and
+it's rare that it can be a coincidence,
+but it can be.
+>> Six
+celebration.
+>> The the moment everyone skips to. Yeah.
+>> Yeah.
+If you found something that actually
+compound your strategy and get your
+strategy better, I will celebrate and
+say, "Okay, let's add this context, this
+concept to my strategy."
+>> This is all this is all the things that
+I do when I create a concept.
+>> In terms of testing, what does that look
+like?
+>> Boring. I would say totally boring
+because our work maybe people think as
+me as a trader
+of a guy that stare in front of the
+screen for hours
+>> and the reality is I did it. I stayed
+for like month locked in in my apartment
+building my strategy.
+>> Now my work is really different. I just
+read data and I just adapt my strategy
+when the market shift. That's what I do.
+Okay. And do you have to manually test
+this and collect the data or you have
+programs that you use
+>> for Yeah, for uh go to mechanical trader
+to forgo in a mechanical how we can say
+that uh for be a mechanical trader or a
+statistical trader you either have to be
+good in math or you either going to be
+good on Excel.
+>> Okay,
+>> I'm good in Excel.
+>> Okay, perfect.
+>> So I don't run the calculation. I know
+all of the formula that I use and we
+will later see home
+>> but um
+>> I don't run it for I don't run it
+manually. Okay. But my back test Yeah. I
+input the data manually.
+>> Okay.
+>> Okay. That's important because even if I
+am a mechanical trader, a statistical
+trader, there still a little layer of
+human interpretation on top of on top of
+the data. It's really important to
+understand that this because otherwise
+we can all we can always go statistic we
+can always go algorithm with algorithm.
+Oh
+>> cool.
+>> Okay.
+>> And uh be behind my strategy there's a
+brain that adapt it that take decision
+like that can there's a brain that
+changes something meanwhile. Okay. And
+the one algorithm just fire the same
+setup. It doesn't look at anything.
+>> Me I have lots of experience.
+>> Yes.
+>> So not I'm not a discretionary trader
+but I looked at the chart like every day
+till six year. So I think that I have
+that level of experience that can
+actually gave me I built a certain
+subjective edge on my statistical
+trading.
+>> Uh but this is not the main part of the
+strategy. It's a little layer. Okay. So
+would you say that there's to always be
+optimized and to try and always perform
+at your best, you will still even as a
+statistical trader look to leverage that
+experience if you notice I say patterns
+but more so maybe market cycles or
+volatility or slight changes within the
+market itself. Yeah.
+>> Uh where you know okay if this is
+starting to take place you still the
+actual execution and all your decisions
+is still going to be statistical based
+but you know that there's a slight
+shift. Yeah, that's correct. I know when
+I have to shift from a concept to
+another. I know when I have to move from
+a risk model to another.
+>> I know all of that. Okay.
+>> And those models are all based all on
+statistics.
+>> All on statistical. And trust me, it
+will be one of the coolest model that
+you ever bring here in the in chart
+fanatics.
+>> Uh let's talk about one more doubt that
+I had once I started trading my
+strategy. So that was the triple print.
+That was the way to objectify supply and
+demand.
+>> Let's start with another one. This
+model, this concept is not a model that
+I created is called wick gap.
+>> Wick gap.
+>> Mhm.
+So the problem was that while everyone
+else debate on what's liquidity on the
+charts
+>> because maybe someone see a double top
+and say ah it should whip or maybe
+someone looks and this and say this is a
+whip I need to objectify it okay so
+let's assume that I have all my context
+aligned okay and I want to take a trade
+this This is long candle.
+>> Mhm.
+>> This is longer candle.
+And this is the short candle.
+Okay. Let's try to understand
+that this can be maybe my setup. So
+where do I enter also where I enter is
+statistical but let's say the
+inefficiency here. Okay. So I would like
+to put a short here. Okay. So a a short
+position
+we would drag the target here.
+>> Mhm.
+>> And the stop loss here.
+Okay. Of course, all of my condition
+were aligned on that trade. What I saw
+left me speechless because it's
+something really interesting. I saw that
+when the closer week to my stop loss
+were close. So in this case, this is the
+higher wick. Okay.
+>> Yep.
+>> These two that are closer to my stop
+loss when the distance between them were
+close. Okay.
+>> Okay. Yeah.
+>> My setups tends to stop loss.
+>> Okay.
+>> Okay. So I will do it a little bit
+better because it's so small.
+So let's assume I'm um
+taking this
+when this two week were close enough
+even if my setups were valid.
+>> Mhm.
+>> So I have like my position here.
+>> Yeah. And stop lossable. Yeah.
+>> Yeah. When the distance between A and B
+were close. So in this case maybe they
+can be close my setups tend to stop
+loss. Do you have a specific amount that
+would be classed as close?
+>> Of course,
+>> because you know what does close and far
+mean?
+>> Nothing.
+>> Okay. You you cannot say this is close,
+this is far because it's based on
+intuition.
+>> Yeah.
+>> As a mechanical trader don't like
+intuition.
+>> So what I did instead is measuring it.
+>> Okay.
+>> So I would like to measure the distance
+between here and here.
+>> Mhm. We will do like with the ruler and
+the magnet same tools and we see
+different levels. For example, we see
+that the difference is 0.2 pips.
+>> Okay.
+>> Okay. What I saw that I tested all my
+strategy and I took all the setup that
+were 0.2 pips or above.
+>> Yep.
+>> So when they were closer, so like 0.2 or
+less, I wouldn't take the setup.
+>> Okay. because it tends to stop loss when
+they are higher. So minimum 0.3 I take
+the setup.
+>> Okay.
+>> This that's really important.
+>> That's how close you're talking.
+>> Yeah. That's how I objectify are close
+and far by numbers.
+>> Mhm.
+>> What I saw that the result of my
+strategy using this kind of range
+were not profitable.
+>> Okay.
+Okay. So, what I did is that I started
+to higher this range.
+>> And would you class the wick gap as more
+starting to identify your entry based on
+what we've covered so far?
+>> Yeah. Okay.
+>> That's what I'm doing.
+>> Would the entry go along with everything
+the triple print and the structure that
+we've covered?
+>> Of course, we have to every have
+everything aligned. the next step that's
+the like the trigger okay we are not
+looking at the trigger itself but we are
+looking on oh I classify a valid versus
+a not valid trigger
+>> so it's really bad this work because you
+have to test it from one range you see
+that is not profitable uh you feel bad
+you move on okay so let's assume that we
+do now 0.3 so what does it mean that if
+the difference between them is 0.3 or
+less we don't take the trade if they're
+higher than 0.3 we take the trade.
+>> When you say 0.3, do you mean 0.3 pips
+or you mean between 0 and three?
+>> I mean between 0 and no 0.3 pips. 0.3
+>> because 0.3 we have 0.2 0.1.4.
+>> Okay. That's pips.
+>> I that's what uh I mean uh so if uh the
+distance between this is 0.1 I don't
+take the trade.
+>> Or if it's 0.3 I don't take the trade.
+And the result were uh I would say
+break even.
+>> Okay.
+>> So we still left to go. We do higher. We
+don't do 0.3. We did 0.4.
+>> Oh, still at 0.3. Okay. When you say
+0.3, it's 0.3 pips.
+>> That's right.
+>> Right.
+>> Yeah.
+>> So like a decimal.
+>> Yeah. We will see later on the chart
+because
+>> it's a little bit difficult to
+understand this, but it's pips.
+>> Yeah. We will see that same result same
+test when there is 0.5 or less we don't
+take the trade above we take the trade
+and the result for the first time when
+profitable
+>> okay at 0 above 0.4 four.
+>> Yeah.
+>> Okay.
+>> This is B. Okay. But I need to know how
+much I can squeeze it because maybe with
+0.5 I have better result.
+>> Mhm.
+>> Okay. So I I won't stop here and say
+okay I'm profitable. Let's do it. I want
+to know which is my threshold of profit.
+Okay, my maximum profit that I can reach
+because once we go up, we will see worse
+result than maybe this. And that's where
+our limit is.
+>> Okay.
+>> So, we
+>> Okay. So, you then keep going until you
+where it starts to fail again.
+>> That's right.
+>> And then you find your threshold.
+>> That's right.
+>> So, we do 0.5 and we see better result
+than this.
+>> Okay.
+>> Okay. So, we can still move on because
+we have better
+>> Mhm.
+So we we move on. We just say 0.6
+at which 0.6 the result were worse than
+this.
+>> Okay.
+>> So I know where I reach my limit.
+>> Mhm.
+>> So
+when the of course this works for long
+and short I'm actually drawing a long
+setup but it works the same as in the
+opposite. So I need to understand that
+if two weeks and can be also this okay
+it can be also this week but the closer
+week. So if the distance between this
+and this are higher than this and this
+we will just consider this.
+>> Okay.
+>> Okay. So we need to get the two closest
+week to my stop loss.
+>> Okay.
+>> Okay. It doesn't need to be one uh buy
+candle and another by candle. It can be
+any candle.
+>> Mhm.
+>> Okay. But it has to be minimum true. So
+what I did I understood my limit of the
+strategy in liquidity. We can call it
+liquidity. I don't care how do you call
+a concept. You can call it liquidity.
+You can call and in any way that's not
+the purpose of this.
+>> Yeah.
+>> Okay. We are not we don't name things.
+We just execute things.
+>> That's how I objectified my own
+liquidity. Mhm.
+>> So now what we have we know the context
+we know how to read peripheral actual
+internal structure we know how to create
+a concept because it all started with
+observation. I saw that when the week
+were closer I take stop loss my my
+setups tend to stop loss. So I recognize
+it and I recognize that it's only two
+weeks the closest two weeks to my stop
+loss. So I build a scheme the 0.1, 0.2,
+0.3, etc., etc.
+>> I test it for every number and it's
+really a long test because imagine
+taking 1,000 trade for 0.2.
+>> The result sucks with you take 0.3 and
+you move on.
+>> And when you do the test,
+>> yeah,
+>> you're obviously testing the criteria we
+just talked about, but is that on top of
+the other criteras we've set out so far?
+>> Okay, does that make sense? So like
+you've already gotten the data for um
+the structural site
+>> of course
+>> and then the data for the uh triple
+print.
+>> Yeah. Why?
+>> So you're adding it all and then this is
+now added data.
+>> Added data. Why I say triple print? I
+tested I tested two double print. It
+wasn't working. Okay. I tested triple
+print. We got good result. I test four
+print. It wasn't
+>> same same thesis.
+>> Yeah. But the result were not like from
+unprofitable to profitable. Okay, for
+the triple print it was
+>> from good result to bad result. That's
+what I meant for here when the uh
+distance were so close like 02 we have
+not profitable result.
+>> That's the the main difference.
+>> Yeah.
+>> And that's how we classify a concept. We
+test it, we validate it. So we know
+where we are profitable. We know where
+is our limit and then we celebrate
+because we we now found a concept a
+>> a mechanical concept and we can add it
+to our strategy.
+>> Okay, let's talk about now what back
+test is,
+>> what back test really is and how to make
+your back test correct. Okay, because a
+lots of people dismiss back test. Okay.
+And if you want to be a mechanical
+trader or a statistical trader, you have
+to get data.
+>> It's the only thing that tells you if
+something work or if not works. That's
+what you need to understand. I can bet
+that you saw some guys that shows you is
+back test.
+>> Mhm.
+>> And their equity line looks like this.
+Okay.
+>> Mhm. And you see and maybe when I did
+education with Andre and Fabio, I had
+lots of students that shows me this this
+course. I said, "Bro, I'm getting a 60%
+we rate with one to four riskreward and
+say yes and I'm the two fairy."
+[laughter]
+>> Okay, because what is the problem? They
+do the back test.
+They get amazing result. But once they
+go live they b the account. Yes.
+>> And they say why why me? What is the
+problem? And they quit trading and they
+say trading does come.
+>> Okay. That's one of the main pattern of
+um losing trader. What is the problem?
+When you back test and you validate an
+edge you have a hidden enemy.
+>> Mhm.
+>> That is called overfitting.
+What is overfeitting is when you it's
+one of the trickiest concept in back
+testing because
+>> you see uh you optimize your strategy so
+good for the past that you don't let
+your strategy breathe.
+>> Mhm.
+>> Okay. So you build a perfect model based
+on the past but when you go live all
+changes.
+>> Yeah. because you don't know how to back
+test properly. Yep.
+>> Mhm.
+>> So we will today look at some model that
+avoid this.
+>> How to avoid overfitting and how do you
+know if you're overfeitting a strategy?
+>> Yeah.
+>> With back test.
+>> What is uh if you were to define back
+test for you? So I'm sure we'll look at
+you know on the chart and actually on
+the screen. But for a lot of traders
+back test to them is just bar replay
+right? They just go back and they press
+play and then they try and uh you know
+see their strategy and then they collect
+the data as best they can from that. But
+from your standpoint what is back test?
+>> Back test is everything is the
+validation of your edge is the response
+of what you were doing makes money or
+not. Okay. So you have to be really
+serious about that because back test is
+like your trust. You can trust your back
+test. You cannot trust a failing.
+>> Okay. So if you do back test for ex get
+experience in the market that's not what
+I do okay I just search for the
+condition as I told you before receive
+for market structure you objectify in
+order that in every back test it's the
+same
+>> so would you say your back test is more
+automated in the sense that you set the
+criteria and then let it present the
+result.
+>> Yeah it's not automated because I told
+to you
+>> you still have to manually
+>> manually input and you have also to
+judge it. Mhm.
+>> Okay. But mostly of the strategy is the
+same.
+>> But you're not having to go bar replay
+and then try and look for those
+conditions. Does that make sense?
+>> I do bar replay.
+>> Oh, you do it.
+>> You do bar replay because of course if
+you see the other part, you can have a
+look ahead bias.
+>> So you can get conditioned because maybe
+you are trying to back test the NASDAQ
+but you are also trading it. So you know
+that for the following three months it
+will go long. Yeah.
+>> So you are unconscious
+conditioned
+>> to go long.
+>> That's what I mean.
+>> H So you have to be fair when you do
+back test. Okay. But it's the main
+validation of the strategy. Okay.
+>> All we recognize that our edge is an
+actual edge and not a coincidence. So
+edge
+actual edge
+and not coincidence.
+How you can say if you got a profitable
+strategy or you got a good fantasy for
+you? I don't know how do you do it but
+for me it's a really strict process.
+>> Mhm.
+>> Okay. And uh I called chunk
+optimization.
+I don't know if this is a concept that I
+created or not because I don't really
+see so many
+training content. Okay, but it's it look
+like this. So chunk.
+So let's take our trades. Let's take the
+basic result. So we rate
+PF that is profit factor. Yep. and a
+error.
+>> Mhm.
+>> Maybe we have a thousand trades on it.
+Okay.
+And we see that the we have a certain we
+a certain profit factor and average
+riskreward. Later on we will also do a
+little bit of basic statistical analysis
+or on what profit factor is on what you
+should consider because if you look just
+like this on your back test
+>> you are not doing the things well. Okay
+because there's a lot of there's a lot
+more because with only this you can say
+that if you're profitable or not.
+>> But let's take for example just this to
+be to simplify and we know that we have
+10,000 trades. Okay, in one year
+let's take that the let's assume that
+the we rate let's take that the rate is
+60%.
+>> Okay,
+>> the profit factor is 1.5.
+>> Mhm.
+>> And the average reward is one to one.
+This on paper looks profitable
+>> because 101 I win 60% of the time. If we
+do this for,000 trades, we should get a
+good result. Okay, we not don't
+calculate yet. Profit factor.
+I will um explain you in a few words.
+Over one, you're profitable. If it's
+less than one, you're losing. You are
+donating money. You don't beat the the
+benchmark. You should invest it. Invest
+not trade.
+>> We just do that our 1,00 trade we split
+into 10 chunks.
+So we will have 10 different result.
+Okay. So for the first chunk we will do
+of course 100 trade per chunk. Okay.
+This is
+>> trades.
+So what we need to see if our edge is
+actually an edge and not a coincidence.
+Okay. That in each chunk
+in each chunk one two 3 4 5 6 7 8 9 10
+the result doesn't really move a lot.
+>> Okay.
+>> Okay. If in one chunk we are not
+profitable not profitable because you
+see if the W rate is below 50% of course
+we are not profitable.
+>> Mhm. And um not profitable, not
+profitable, not profitable. Maybe
+profitable.
+>> Yeah,
+>> profitable. Profitable because of course
+this is profitable in a bigger way
+because it compounds the where we are
+not profitable. Okay.
+So we see that here maybe we have 20%
+101.
+>> Mhm.
+>> 30% 101, 40% 101, 80% 101, 20% 101, 90%
+101. That's a beautiful coincidence.
+>> Okay.
+>> Okay. Okay.
+>> That's not an edge because in certain
+market condition our setup work but
+mostly in the all condition this does
+not work.
+>> Yes.
+>> So how do you know if you overfeited a
+strategy using this? Okay. If your
+result stays stable across the chunk it
+doesn't mean that you need to have 60%
+we rate oneonone every single time.
+Okay. or the profit factor that in this
+case we are just imagine this is not the
+right profit factor probably okay we are
+just uh putting some value okay if you
+see that maybe you go 50% we're even 160
+70 50 40 etc etc so the result shift but
+not so much
+>> then you have an actual edge
+>> okay
+>> okay
+>> how do you find that balance of like the
+overlap
+>> you know what I mean in terms of where
+it becomes coincidence and too far away
+>> so let's say if Like that same example
+it was 50 it was 70 it was or sorry 50
+it was 40 uh 45 50 again 70 and but then
+there's one month that is 20
+>> yeah you know how I do this of course
+I'm a methodical person so I look at the
+number if the rate
+shift more than 20%
+in 50 in the half of this
+>> first half okay yeah
+>> first
+If it shift more, we have the
+coincidence.
+>> Okay.
+>> If we if it stay in this range, so 40
+till 80.
+>> Yeah.
+>> It's okay.
+>> Okay.
+>> Okay. But it has to be on the majority.
+Okay. If you have only on shoe, it it's
+another thing.
+>> Yeah.
+>> Okay. That's the first thing to avoid
+overfeitting. So if you that you're
+watching this right now have an edge
+that looks like this but when you go
+live this actually falls apart
+>> what you should do you should do the
+chunk optimization and see if you had an
+edge or or if you have had a beautiful
+confidence on a period
+>> that's what I mean with chunk
+optimization
+okay
+second thing forget your result
+more likely to the live one.
+>> Yeah.
+>> Okay. First you are trading in CFD in
+futures. It's not this the problem. The
+problem is that when you trade you have
+cost.
+>> Mhm.
+>> This cost can be spread
+commission.
+>> Mhm.
+slipage
+and swap.
+Okay, these are the four common ones. I
+know that you that you're watching this
+right now, you don't put this on your
+back test. I perfectly know because you
+think that you are trading with the
+exact price without any cost and you
+think that commission are really low and
+they don't get your results so
+different.
+>> But you are probably wrong because if
+you
+compare all these and you united all of
+this, you will see that your profit will
+be cut. And even if you are on futures,
+you still have commissions, lipage, and
+you have like the order book. So you
+will fill maybe in another level. Yeah.
+Okay. So you don't have swap, but you
+have all of this. If you trade CFD and
+you take your position overnight, you
+have also swap. That can be a cost or a
+profit in the past.
+>> Can be a lot.
+>> Can be also a profit, but can be really
+can be bleed your account slowly.
+>> Yeah. So what you have to do with that
+first you are trading a prop firm or
+you're trading a broker that's the
+question
+because if we are trading this or this
+the condition change.
+>> Mhm.
+>> Let's assume that I'm taking I'm trading
+a broker. You perfectly know that a
+broker you have two types of account row
+and standard. Mhm.
+>> Okay. What is the difference? A row you
+have less spread and higher commission.
+In standard you have uh higher spread
+and no commission usually. It's not
+always like that. It depends on broker
+on broker.
+>> And uh there's one thing that we cannot
+calculate even in the profage.
+>> Yeah.
+>> We can't really know we can because we
+cannot predict the futures. Maybe if our
+trade it stop loss during a news this
+leage can be higher. Of course.
+>> Okay. The swap is a value. We can't
+calculate it.
+>> And you have to understand that
+some people maybe talk and say, "Oh,
+this time I got uh $10 of swap and one
+day I got triple." And they probably
+don't know that on
+>> there is triple swap.
+>> Uh Mercury the Wednesday that that on
+Wednesday there's the triple swap. Yeah.
+So you have to calculate if your trades
+if you take trades for multiple days
+that you can have also triple swap
+chair.
+>> Do you hold multiple days or
+>> Yeah. Yeah. I do. Uh my trades runs from
+few hours to maybe one to two days. So
+I'm not as wing trader on Friday I close
+all but it can be old.
+>> Yeah. And do you do you ever have to
+make a decision based on okay this trade
+might be a two-day hold?
+>> No.
+>> Is going to be over Wednesday. I
+>> over the triple swaps. Do you then have
+to just take into account?
+>> Yeah. Yeah, I know that I can handle
+triple swap.
+>> Okay.
+>> Okay. I know it. But I don't know if the
+glaze if the trades will close in 1 hour
+or two days. I don't know that.
+>> So, what you have to do in your back
+test first calculate your average
+spread.
+Let's assume you're trading a broker
+prof. You still have a spread on CFD1.
+Um so how I calculate my average spread
+it's so easy really you can take a clock
+you can take one minute in normal
+condition and you can see that maybe in
+that minute the spread went from six 0.6
+spread to one okay this is the range
+this is the minimum this is the maximum
+so you just do this plus this and you
+divide okay so you know that your
+average spread will be 0.8 eight. So
+every time you take a trade on that
+asset, you should know that you have to
+move your entry or your stop by this.
+>> Yes.
+>> Okay, that's really important.
+Commission we have a fixed value. So we
+perfectly know that per lot we need
+we have maybe $6. Okay, that's the
+>> That's okay. Okay,
+you have maybe $6. It depends if you are
+trading on a standard on a raw account.
+Uh because a standard you usually don't
+have a commission. But you should
+understand that if you open three, four,
+five lot, you will have commission if it
+goes to stop loss or to target. It
+doesn't care. Slipage is the only um
+>> thing that we cannot measure and we will
+measure in a percentage. So how we can
+objectify the
+>> how how the slippage will bleed our will
+bleed our account. I did this
+calculation based on experience. So
+usually if my data are um 60% with rate
+101
+>> Mhm. I just nerf it by 5%.
+>> Okay.
+>> All
+>> in terms of slippage.
+>> In terms of slippage. So I know that I
+can lose 5% of my gain. If I gain 100
+air in one year, I just know that I gain
+95 reality.
+>> Okay.
+>> Okay. That's how I classify sleep page.
+The swap is a cost and you have to
+understand it if you trade multiple
+nights. So also the spread
+>> you have to know. But the only problem
+is that you know don't know if the trade
+will take or gain spread or don't take
+spread at all. Maybe it will be an
+intraday trade.
+>> Mhm.
+>> Okay. So if your set if your equity line
+look like this and you didn't mention
+the average spread, the commission, the
+slip and the swap, this is not a
+strategy. This is a fantasy that forgot
+to pay his bills.
+>> Okay. So we have to understand this and
+the latest not the latest but you have
+to know the sample size. Okay.
+>> Yeah.
+>> Mhm.
+>> Because as I told you to you viance is a
+a really bad enemy for our for us.
+>> Mhm.
+>> And uh we have to
+>> even outside of statistical data you
+know would you say a thousand trades is
+a the sample size you want to go for? I
+higher is always better. You have to
+understand this that sample size
+and variance
+they are opposite correlated. So
+>> more sample I will have the less viance
+I will have.
+>> Yes.
+>> Okay. Mhm.
+>> So if you take a trade, if you back test
+a strategy, you show to your mentor the
+equity line and you have 100 trade, you
+don't have a strategy.
+>> Mhm.
+>> You have because the variance is so
+high.
+>> Mhm.
+>> And you won't put any money on something
+that can be variance.
+>> Yeah.
+>> Okay. That's one of the most important
+thing that you should understand. I know
+that it's boring. I know that it's not
+very good doing back test because being
+a discretionary trader is fire. Okay,
+when I trade is really boring. It's the
+same thing day after day. So you should
+understand that the difference between
+trader and gambler is that when I click
+buy, I feel bored. When maybe you click
+buy, you get excited.
+And this really important to understand.
+You should know all your trades can be
+the sequence of the trades. Okay.
+Because
+>> Yeah. Oh, cuz so like you know you might
+get one sequence with a certain win rate
+or certain Yeah. Uh you know winning
+trades like this.
+>> Let's assume I have one to one 60% win
+rate and we have,000 trades and we
+have,000 lines. Okay. What we will have?
+We will have 100 different condition of
+our trade shuffled together.
+>> When you say a thou, do you say a
+thousand lines?
+>> Uh, no. Thousand trades, 100 lines.
+>> 100. What do you mean by lines?
+>> Lines is the expectation like
+>> every different lines is a scenario.
+>> Okay.
+>> Okay.
+>> So, we will get like 1,000 scenario of
+our trade shuffled.
+>> Okay.
+>> Oh, so the 100 is the shuffled.
+>> Yeah. Okay.
+>> Yeah. So, what we will have? what we
+have no sorry the 100 is the not the
+shuffle the combination so the 100 is
+each one is a combination of result
+>> so it's a shuffle we can say that but we
+can press multiple time the Monte Carlo
+for get infinite shuffle maybe not
+infinite but the more we have
+>> because our worst case scenario that is
+the most important thing that you should
+get by Monte Carlo changes every shuffle
+>> okay
+>> but because they change the order of the
+trades.
+>> Okay.
+>> So, you know that you will get a lots of
+lines and you will have the average
+line.
+>> Mhm.
+>> That will be the most common result.
+Okay.
+>> And usually it will be the one in the
+center. Okay.
+>> And after we will have the best line,
+the best line.
+>> Yep.
+>> With the best result and the worst case
+scenario.
+>> Mhm. And when it's doing those those
+shuffles and getting those trades in
+order, is that all taken from the actual
+trade data?
+>> Yeah, the actual trade data. So, this is
+the final part. Okay.
+>> Mhm.
+>> Why I don't like it? Okay. Let's assume
+this
+>> because if your strategy has a 60% win
+rate and the oneonone riskreward.
+>> Yeah.
+>> This works only on the trades that you
+put. Okay.
+>> Yeah. But if you go you can see period
+when your strategy can be worse or
+better than that.
+>> Okay. So you cannot define a worst
+result because it's just this on the
+data. If you trade, you can use for
+example ev that is another method that
+calculate your worst case scenario based
+on not on your trades but on your
+possibility is another maybe most
+advanced one but the Monte Carlo usually
+work for the majority of traders and
+it's really important that you know this
+the worst case scenario if your strategy
+can survive this you can have a
+profitable strategy. Of course this will
+change based on risk that we put. Okay.
+>> If you put 1% these numbers will be
+>> of course yeah
+>> will be some kind of numbers. If we put
+less we will be another another case etc
+etc. So we can say that the Monte Carlo
+we can use it for choosing our risk.
+>> So like if you're say on 1% your worst
+case scenario is survivable and
+acceptable that's fine. But if you put
+two Yeah. And then that worst case
+scenario has dropped significantly to a
+point where it's no longer acceptable,
+you know, to adjust the risk of
+>> you can know also the longest streak,
+the longest winning streak and the
+longest
+losing streak. And that's so interesting
+because my strategy can lose up to 13
+losing trade in a row in the worst case.
+Okay.
+>> And uh I will use Monte Carlo just for
+that or the average losing streak, not
+for choosing the risk. for choosing the
+risk we have better model better and
+more advanced model that we will later
+on see
+>> once we started to understand oh we can
+get a bet a good back test
+>> and not an overfeed back test we should
+understand oh you can read your metrics
+okay so we will so we will study a
+little bit of the basic of statistical
+analysis because as I said you before if
+you look at your strategy and you check
+where eight
+PF
+and riskreward.
+That's a that's the really surface
+level. You can tell if you're profitable
+by only that.
+>> So we need to add more condition, more
+metrics. Yeah. Okay.
+>> Not too complicated. The complicated
+metrics we will later on see.
+>> And first is my favorite one. And it's
+the only metrics that can tell you if
+your strategy will make money or not.
+>> It's called expectancy.
+And this what does it look like? This
+represent the return of money per dollar
+risk.
+>> Yes. So for example, if we have an
+expectancy of
+010
+cents. Okay. It's cents, not
+dollar.0.10.
+>> Mhm.
+>> What does it mean? That per every dollar
+that we risk, we will get one plus 10.
+Okay. This will be our return
+>> on this. Okay.
+>> Yeah. Mhm. And uh this is so bad because
+usually the cost that I told you before
+eat this
+>> cost
+it.
+>> Mhm.
+>> So you won't be a unprofitable trader
+but you will be a break even trader if
+your expectancy look like this.
+>> Of course we can move on like uh the LT
+range is 0.10
+between 030.
+This is a healthy range in reality is
+not 10 is 20. Uh because you can be
+profitable with that. That means that
+>> would you say that's healthy or would
+you say that's on the lower end?
+>> It's you can be not too much profitable.
+You you can make you don't lose money.
+>> Yeah.
+>> Okay. And that's one of a good thing.
+Okay.
+>> You can later move on with another range
+that is 0.40 I think.
+>> Mhm.
+40 050 and this is a very strong
+expectancy. This is what you should aim
+for it.
+>> Okay.
+>> Okay. And
+if you have an expectancy that is above
+050, it's amazing. Okay. So, you have to
+understand that rate is just vanity.
+It's look it it looks cool when a guy
+comes to you and say I have a 70% win
+rate.
+>> Yeah.
+>> That's that's mean nothing.
+>> It's good for my titles and trailers.
+>> Say again down there. I'm different.
+[laughter]
+>> Yeah. Because for example, my strategy
+runs at 36% rate.
+>> Okay.
+>> Okay.
+>> Mhm.
+>> And I don't have a ner rate. And maybe
+the people judge the trader by rate.
+>> They do. Yeah,
+>> they do. Because that's the easiest
+thing to do. They should judge it about
+its expectancy because we rate is
+vanity. Expectancy is a truth.
+>> Yes.
+>> Of trading.
+>> Mhm.
+>> Once we understood this, we can move on
+with the next metrics that is profit
+factor.
+>> Yep.
+>> And I'll explain you why I don't really
+like it. Profit factor is so simple.
+It's basically your total profit
+divided by total loss.
+Okay.
+>> It can be in a range between one to
+three, etc., etc.
+>> I'm not sure. But if Okay. Yeah.
+>> If your profit factor is below one, you
+are losing a trader.
+>> Yeah.
+>> Okay.
+>> If it's above one, you make money. If
+it's above two, you are an excellent
+trader, etc., etc. You can move on. So,
+let's assume that in one year of trades,
+because you calculate it on dollar.
+>> Mhm. In one year of trading, you made
+$10,000,
+okay, profit. And your total loss were
+5,000.
+>> Okay,
+you understand that?
+>> Okay, it's you will have you have the
+double of it.
+>> So your profit factor will be two.
+>> Yeah.
+>> And two looks amazing on paper.
+>> Yes. But which is the limit of profit
+factor that consider that does not
+consider if in this $10,000 you had a
+lucky trade. For example, let's assume
+that in the in this $10,000 you made
+$17,000
+by only one trade, one trade that didn't
+follow your strategy.
+>> Mhm.
+>> That we can call it luck or you deviated
+from your edge.
+>> Okay.
+So if we try to remove the trade, we
+will have $3,000
+divided by 5,000.
+That is so if you remove your lucky
+trades, you have 0.6 of profit factor.
+And this means that you are not a
+profitable traitable
+trader because your profit factor is
+less than one.
+>> Yes.
+>> And with that lucky trade, you look
+amazing. Okay.
+>> Mhm. So this is a very tricky tricky
+matrix and for be sure that this is true
+you have to take out your best trait.
+You have to
+>> you have to you and if you survive so I
+mean okay if you have a profit factor
+that is higher than one
+>> without your best losing trade
+>> you have a solid winning yes best
+winning trade you have a solid edge
+>> and even let's say you reviewed that
+best winning trade
+>> and you you saw that it's not not lucky
+in the sense that it was with the plan
+you still take it out anyway to make
+sure
+>> you still make also if this is stick to
+the plan you still remove it
+>> okay
+>> because You need to understand because
+maybe you had a trade that were
+>> just one trade.
+>> Yeah, just one trade.
+>> One best trade. Okay.
+>> Because maybe you had the one trade that
+you take one times per year and you made
+a one to 20 but it's not common.
+>> Of course. Yes.
+>> You need to understand if
+>> conditions volatility like something
+everything would just work that day and
+it was a big trade even if it was
+unplanned but you remove it to try and
+see a more average look.
+>> Yeah. So if you use profit factor pay
+attention to this. Mhm.
+>> Now let's see another condition.
+It doesn't judge you on the result. So
+maybe we can assume that we made 30% on
+a year. Okay, we have two trader that
+made the same result. We will call them
+and Andrea and Fabio. Okay.
+>> Andrea made 30% in a year and Fabio made
+the same result.
+>> Okay.
+>> Mhm.
+>> What does share pressure measure? It
+mean sure the how clean the path was to
+get there because maybe Fabio was smooth
+controlled. Okay. He made 30% in a very
+linear way.
+>> Yeah.
+>> Okay.
+You see this X line looks good.
+>> Mhm. Maybe Andrea got the same result
+but meanwhile he had three earth attack
+because his equity line look
+>> very uh
+>> okay
+>> volatile.
+>> The result is the same but the share
+ratio is totally different.
+>> So we can say that the share ratio
+measure the consistence of your returns
+>> because you can judge a traed by result.
+You have to judge it but by Oakan the
+ride was to get there. Yeah.
+>> Okay.
+>> So, usually the share pressure will be
+higher with Fabio and will be um
+lower with Andrea. This doesn't mean
+that Andrea is a bad trader. This mean
+that Andrea had a different path in a in
+a type of period.
+>> Yeah.
+>> Okay. And usually we uh we have a range
+for profit factor
+that is below one is shaky. So it's not
+very smooth
+>> above one
+>> for for sharp ratio
+>> for sharp pressure. Ah I forgot to say
+the formula of sharp ratio because even
+if you calculate with Excel
+>> Mhm.
+>> for me you should know what you're using
+for. So how you measure share ratio is
+so simple we can call it SP is just your
+return.
+Oh yes.
+>> How much does it ring?
+>> Mhm.
+>> So it's really important to understand
+if your profit factor is higher or lower
+than one.
+>> Yes. Once we have this, we have the
+basic matrix of statistical analysis and
+we can move on with the career part
+because if you combine all of this, you
+can have a good result. Okay. You can
+have a good picture. If you have just
+this,
+>> you won't have it.
+>> Yes. So then you add these layers on the
+sharp ratio, profit factor. Yeah.
+>> Um what was the first one we we went
+over?
+>> Expectancy, profit factor and share
+ratio.
+>> Yes. Now let's talk about target.
+>> Okay. How do you actually know how much
+you have to put as a target? Okay.
+>> Mhm.
+>> Because uh as a statistical trader there
+is a number for always.
+>> Okay.
+>> So let's assume that you're trading with
+a fixed risk reward.
+>> Okay. And I do it I trade with a fixed
+not I don't vary it.
+>> Okay. And uh I called it optimal target
+>> that is very different from optimal f
+that is totally another thing and um oh
+we calculate this let's assume that I'm
+taking five straits okay
+we analyze five trades. Of course you
+have to analyze lots of trades but we
+are here just for the example and they
+are hold long and you get to the target
+in all in all the trade. This is the
+target. This is the stop loss.
+You feel happy because you won five
+trades in a row. Okay. And uh maybe you
+go and you celebrate for it. Okay. But
+you don't know how much money did you
+left on the table? Because you should
+know your RR max.
+>> Yes.
+>> What does it mean that you need to
+understand how much the trades go
+upwards on your target?
+>> Mhm.
+>> Maybe all of the five trades
+reach one to two.
+>> Mhm.
+>> Okay. So you gain five.
+Okay. But you closed it too early
+because all the trades went to 1.2. So
+if your target was 1 to2, you would have
+make made 10 error. Okay? And you will
+find a limit of it because maybe you see
+that three of these trades went to three
+R.
+>> Of course we are talking about three.
+You have to talk about 100 and 100
+trades
+>> of course. And if you do the calculation
+this will when will go to break even
+because once we are in one to one we
+usually go to break even. H let's assume
+that they were in on break even. So we
+made three R
+three
+zero zero because they went up
+and they instead went to break even.
+>> Okay.
+>> Okay. Yeah. Yeah. So which is our best
+result with one two three when you with
+one two we made 10R
+>> with one two three
+>> we made ner.
+>> Mhm.
+>> So you know as I told you before with
+the uh wig gap that this is our limit
+>> and the optimal target is one to two not
+one to one not one to three. Okay
+>> that that example is so interesting
+because you look at it you would go yeah
+the one to three must be better. Yeah,
+because of the just the higher number it
+sounds better.
+>> It sounds better. But it's a combination
+of win rate also.
+>> So you maybe if you have different
+result you can see that maybe one to
+three can be better. Not in this case
+>> and you will go upwards and you see okay
+which is my limit. Let's do let's assume
+one to four 1 to 5 1 to six and you find
+you will find your optimal target. So in
+every asset that I trade I calculated
+this and in some asset I trade one to
+one because it's the best target for me.
+I don't really go one to one one to two
+one to three. I go 1 to one 1 to 5 2 to
+5 3 etc. So 1 to2 one to 2.5 1 to three
+1 to 3.5. Okay.
+>> And in some assets in mostly asset I
+trade like this. Okay. In a different
+asset I want go one to three but never
+more than one to three.
+>> There's all data back
+>> all data back tested because I can go
+also one to four but the data were
+shifts so they are against me. So why do
+something that
+>> is not supported by data.
+>> Yeah.
+>> Okay. That's how I choose my optimal
+target.
+>> Okay.
+>> Okay.
+>> Based on all the data you've collected
+you what are your thoughts on uh
+risktoreward? Have you seen because a
+lot of people I've seen especially
+within the prop firm industry uh will
+trade a negative riskreward.
+>> Yeah, they can trade negative
+riskreward. Of course, you will have a
+higher win rate. It's the same. Okay.
+You can do with these kind of method
+also with a negative risk reward. Okay.
+Uh for me it's not the optimal target. I
+tested the negative riskreward
+>> and uh it's not the optimal target for
+me. I know that I can go one to two
+usually.
+>> Mhm.
+>> Okay. But if your calculation works
+better on a negative riskreward, you can
+do one to 0.5 etc and etc. and see how
+many hair you gain on a 100 on a
+thousand trades.
+>> Understood? Yeah.
+>> So this is what I do but you can do also
+with a negative word.
+>> Okay. So now let's go to the coolest
+part of the video. one of the coolest
+part of the video that is the most
+advanced risk model that I built on my
+strategy. But first I have to convince
+you why it work.
+>> Okay? Because uh I traded without this
+concept for years later I discovered
+that and I was it was my first aa
+moment. Okay. I was like wow
+>> let's put this on my strategy for
+explain you this concept. I need a coin.
+Mhm.
+>> Okay. This is the head. This is the
+tail. Choose head or tail?
+>> Heads.
+>> Okay.
+I have to put here or
+>> Yeah. Yeah. Yeah.
+>> Okay.
+It went head.
+>> Mhm.
+>> Okay. Now that it went head, what are
+the alts or the next flip of of the next
+flip?
+>> Uh 50/50.
+>> Still 50/50, right? So it doesn't mean
+anything if you took had on the previous
+trade.
+>> Yeah.
+>> How do you use this concept on the
+market for you? I'll ask you this for
+you. If I have a one to one
+16%
+uh we rate and I took a losing trader, a
+losing trade, the next trade will have
+the same W rate or it will change for
+you. How do you think about that?
+>> Uh for me it's all variance, right? So
+it's all random. So
+>> okay. So you think that it's like the
+same every trade if even if you take a
+losing trade, you still have the same
+odds on the next trade, the same data.
+>> Yeah, I would say so.
+>> Okay. The difference is this. When we
+flip a coin,
+>> Mhm.
+>> if we take a coin,
+>> as we can see,
+>> the table where we can flip the coin is
+flat.
+>> It doesn't tense through head or through
+tails.
+>> Okay.
+>> Okay. But when we take a trade,
+we don't bet on the trade itself. We bet
+on the market condition itself.
+>> And we perfectly know that market
+condition they don't switch in every
+time.
+>> Yeah,
+>> I'll explain you better. If for example,
+we we know that market follow regimes.
+>> Yeah.
+>> Okay. This is a uh I think a well-known
+con concept and when we took a trades
+and when we took another trades that
+regimes stays it doesn't shift we
+perfectly know that cal
+>> follow calm usually and I'm talking
+about also volatile
+>> mhm
+>> volatile
+>> volatility
+>> volat I'm talking about volatility so
+what does it mean for our risk model.
+>> Mhm.
+>> That that the condition stick and if for
+example we trade a strategy uh that
+works really better in uh trending in a
+trending market. Okay,
+>> we are in a trending market. So we know
+that the condition is not flat is
+trending and we have a trending
+strategy. So if we take a trades here
+and we took target Okay.
+>> Mhm.
+And the next trade we take a trade and
+we took target. It's not because it's
+because the strategy likes the condition
+>> of the market.
+>> Okay.
+>> Okay. So a win in this case will make a
+win more likely.
+>> Yes.
+>> So it tells you something about the next
+trade. If for example we we we shift
+from a trending market that is the best
+um condition for our uh entry for our
+strategy and we switch into a choppy
+market
+>> Mhm.
+>> we will lose and we will tend to lose.
+So what does it mean is that when we
+when we flip a coin we don't have
+regimes.
+>> Okay. When we trade in we have regimes.
+So if we lose and we lose again, we will
+be more likely to lose again because the
+strategy doesn't like the ro gems.
+>> Mhm.
+>> Okay, that's what I mean. And when a win
+when when I win and the next trade is a
+win and it will be more likely that it
+will be a win, it has a name and it's
+called positive
+autocorrelation.
+What does it mean that our strategy that
+our sequence come in cluster?
+>> So when this kind of regimes happens we
+tends to win win win.
+When this kind of regimes happens we
+tend to lose lose lose lose. You see the
+sequence. This is called positive
+autocorrelation. And in my strategy I
+have a positive autocorrelation. This is
+a really an amazing concept that was
+discovered by law em.
+>> Okay. And the paper is called stock
+market prices do not follow a random
+work because we have this kind of debate
+that market is a is random that there is
+a random work and of course for me
+there.
+>> So would you say that's wrong? Would you
+say that the statement markets are
+random and each trade is a random
+outcome?
+>> I don't think so. I totally don't think
+so because
+this would mean that you cannot be
+profitable
+for a long time. You can be it can be
+luck. If I'm profitable, I'm lucky.
+>> I'm lucky. And luck doesn't resist time.
+Okay. So for me it's not like this. And
+they demonstrate in a scientific way
+that the return are autocorrelated.
+>> Okay. And that's really interesting
+because I know that when my strategy is
+in a certain regimes, I will have a
+sequence. If I win, I win. If I the
+strategy turns in another regimes that
+my strategy doesn't like, I will lose
+lose lose. I will tends to lose. So
+imagine that if we um threw a um a coin,
+this will be like this. Okay. Yes. And
+it tends to heads and this will tend to
+tails and if I drop it there
+>> it will be more higher chance to make
+head.
+>> Mhm.
+>> And the same in the opposite. Okay.
+>> In that scenario so that this scenario
+>> you know say you have a system that is
+working in trending markets. So you have
+a more likely chance of the wins.
+>> Yeah. when let's say it comes to a
+condition which isn't suited for that
+and would it be a case where you switch
+that off where you obviously don't look
+to apply that but would you then have a
+system that might be suited for
+>> we will see later on okay because yeah
+we will have a reply for thising but we
+have to understand that the returns our
+returns are autocorrelated it can be
+positive it can be negative and it can
+be zero autocorrelation each one it has
+a really important meaning.
+>> So if you that you are watching this
+right now, you don't know your
+autocorrelation and you are varying your
+risk size on every trade, you can be a
+gambler and didn't know that
+>> because autocorrelation
+responds to one thing. How much should I
+risk per trade? If I have to use not not
+much but if I have to use fixed risk
+sizing or varying my risk sizing each
+trade.
+>> So this is really what dictates. So when
+people talk about A+ setup,
+>> Yeah.
+>> should that really relate to positive
+autocorrelation?
+>> Yeah.
+>> Not towards like a setup, you know, like
+I don't know if you hear people talk
+about, oh, I'll risk more on an A+
+setup.
+>> Yeah.
+>> Like normally when they say that, they
+say that's something that has a higher
+positive expectancy. But I've never
+really heard anyone positive. Because
+when you say this is a a plus setup, you
+mean that you like the setup so much
+that you saw that setup so much and you
+risk more. But this can be also
+your uh how I can say that
+>> downfall
+>> your beginning of the downfall because
+if you like the setup, what does I like
+the setup means? We are still talking
+about discretionary trading here. You
+can be experienced enough to find a
+subjective way of of advantage as Fabio
+do. Okay, Fabio did this. But if you
+look at this setup and you say and you
+say this is a plus setups and you don't
+know your your autocorrelation and maybe
+you calculate it and you see that your
+autocorrelation is zero, you are
+gambling because fixed size is the only
+thing that you can do.
+>> The math say use fixed size. Don't vary
+your risk size. You can be an amazing
+trader and you can still be a gambler on
+how much do you risk.
+>> And now we will do the scale. We will
+calculate autocorrelation because it's a
+little bit more complicated. You have to
+understand two concept and we will see
+what autocorrelation look like and what
+we can do about it. Okay. So
+once I convinced you I convinced you
+that returns are autocorrelated. Yes.
+Okay. because uh it's really important
+to understand this and why this concept
+work.
+We need to calculate this and we need
+the only the win and lose. We don't need
+riskreward but of course with a less
+riskreward it will be better. Okay. And
+we should take a sequence of uh 10
+trades for example.
+Okay. This is my win and loss sequence
+on 10 trades. Of course, autocorrelation
+is a coincidence of 10 trades. You have
+to do with 100 or thousand. But this we
+we will just explain this how it works.
+First you have to know two metrics.
+First unconditional win rate. Okay. And
+conditional we rate. This is the easiest
+one. This is the normal we rate. Out of
+all your trades, how many were winners?
+We can just calculate it. This is 10
+trades. One, two, three, four. So four
+out of 10. This mean that my W rate is
+40%.
+>> Yeah.
+>> Okay. This is the easiest one. The co
+the conditional we rate I think that
+nobody use this.
+>> Okay. And this is a little bit more
+complicated because you have to ask
+yourself one question. After every
+losing trader, after every losing
+trades, what is the outcome? It is a
+winner or is it or it is a loser? So I
+will do it the sample for you. This is a
+losing trades.
+>> After this the trades is a losing or a
+winner is a losing. So
+>> we will just say one. Okay. For
+calculate how many trades this is a
+losing trades. After this we have a
+losing or a winner.
+>> Losing. Mhm.
+>> True. This is
+this came after a losing trades. This is
+a winner or a loser. Winner. So it's
+been the third and it win and it will be
+a winner.
+>> Okay.
+>> This doesn't came after a loser. So we
+don't calculate this. This doesn't came
+after a loser. This calculate this came
+after a winner. So we don't loses.
+>> Okay.
+>> This
+did
+>> did. Okay. So we calculate this the
+result is a loser
+>> we say four this same came after a loser
+but it's not a winner. So we will say
+this and uh this came actually after a
+loser and is a winner. Okay. And we have
+a six and we have two. So the result is
+two winner out of six trades.
+>> Mhm.
+>> Okay.
+And this should be 23%.
+>> Yeah. Yeah. Yeah.
+>> Okay.
+Okay. Uh let's see.
+>> I'm I'm staying in there. I'm staying in
+there.
+>> Okay. So, two out of six. Now, we have
+to understand one rule. Okay. We
+calculate our will rate and we calculate
+our we calculate our unconditional and
+conditional will rate.
+So now what we have to do we have to
+compare this matrix for see if we have a
+positive or negative autocorrelation.
+>> We talk about positive autocorrelation
+that is the easiest one and the most
+common ones.
+>> What does negative autocorrelation mean
+wins? It means
+negative means that my strategy
+alternates. So when I win I will tend to
+have a losing trade after after win
+after losing after win. So this is not
+coming in sequence. Okay this come
+sequence and this is the positive one.
+Yeah,
+>> when I have a strong negative
+autocorrelation, my strategy will tend
+to reverse.
+>> And this is so common in the mid reverse
+strategy.
+Mid in the mid reverse strategies like
+if I trade here not with a trending
+following strategy, it's more likely
+that I will have a negative
+autocorrelation instead of of a positive
+one. So the rule is if your UC rate is
+higher than a CO we rate you will have a
+positive autocorrelation.
+>> Okay.
+>> Okay. If this is higher than this, okay,
+and this the most common, if the UC we
+rate
+will be lower than your co-working rate,
+you will conditional rate, you will have
+negative.
+If these are basically the same,
+>> yeah,
+>> it will have zero correlation. And
+knowing that you have zero relation is
+really important also. So we compare
+this and we can see or I can also cancel
+that.
+We can see that the UC rate is higher
+and the difference between them is
+seven. Okay. So we are in a positive
+autocorrelation zone and we have to
+scale it. Okay. So we have to know what
+we have to get with what we have to do
+with the seven. Seven is a good or bad
+result. Let's see the range is this 0.2
+Sure. No auto. I will say just no auto.
+H.
+So what this scale mean that if our
+result is between 0 to two, we don't
+have an auto relation. If it's 3 to four
+is weak, 5 to six is solid, 7 to 8 is
+stronger, and 9 to 10 is extreme. We
+have to pay attention if our
+autocorrelation lands on this
+>> because either you found a gold mine or
+either either you made a error with the
+data.
+>> Yeah.
+>> Okay. And if you have a autocorrelation
+like this and you didn't commit any
+error, contact me because I want to give
+you money. [laughter]
+>> Okay. It's really uncommon. I tried in
+so many strategy. uh my autocorrelation
+is always in this level. Okay.
+>> Yeah.
+>> So what does it mean? The higher is the
+strongest senior. So for example, if I
+have an autocorrelation of 10. Okay. And
+my strategy comes in straight as I told
+you. So after I win, I have like not
+100% but 90% of possibility that the
+next trade will be also winner.
+>> So that's where you bring your variable
+risk in.
+>> Yeah. Mhm.
+>> And if I take a losing trade and I have
+a relation of 10 and it's correct, I
+shouldn't take the other trade because
+90% will be a loser again.
+>> So it's the same both sides.
+>> Both sides. So I don't take the if I
+have a loser, I don't take the next
+trade because it will be a loser. Loser
+loser after it shifts. When it will be a
+winner, I will higher my risk
+>> because I know that it's it will be more
+probable.
+>> Mhm. that it will be a winner again.
+Okay, this is for positive and in this
+case we are in the positive zone even
+with seven is a really strong signal. So
+it will look like this. Okay, and we
+know that we can shift our risk.
+>> Mhm.
+>> And we can higher or lower or don't take
+the trades if we have this. Okay. So
+this is how autocorrelation works. If we
+had for example a seven but with a
+negative what we have we know that after
+a win we shouldn't take the trade
+because in with negative as I told you
+before it's alternates yeah
+>> so we don't take the trade or we risk
+really less after a lose we higher our
+risk because we expect a winner okay etc
+etc etc what is the problem with
+riskreward this does not count the
+riskreward you can have the
+autocorrelation with the even one to
+four riskreward average but it will be
+less correlated because if you have a
+higher riskreward the probability that
+this number will be higher it's it will
+be really uh small so if I am trading
+with one to four riskreward it will
+probably lands here
+>> okay
+>> okay it's not totally sure it totally
+always like this but it's more probable
+and that's what we trade
+>> okay now let's assume assume that my
+result were this one. That does not mean
+that I'm not a profitable trader. I can
+still be a really amazing trader with
+one autocorrelation,
+>> one autocorrelation. What does it mean
+that your result does not tell anything
+about the next one?
+>> Mhm.
+>> Okay. So you should be fixed in your
+risk
+>> because if you now that you're watching
+this video you calculate your own
+autocorrelation and you see that this
+number lends to one the math is says is
+saying something clearly don't varying
+your race size that's it okay that's
+what we need to understand about it this
+and if you're doing this you are
+basically gambling as I told you before
+>> yes
+>> and that's how autocorrelation works
+Okay.
+>> Mhm.
+>> Do you have any question about that?
+>> No. Perfect sense. Yeah, it's great. And
+like I said, you know, a big talk over
+the last, you know, year, two years is
+about A+ setups and learning how to size
+in and that's how you're going to make a
+lot more money.
+>> Um, but in reality, now that we've gone
+over this and really dived into the data
+side of things and uh most trading
+decisions, if not I guess for you, all
+trading decisions should be guided by
+data.
+>> Yeah. Um, this is how you truly figure
+out if your edge is providing you a
+setup that you can then look to variable
+uh use variable risk or increase risk
+versus something that you you know
+believe to have a higher win rate.
+>> Yeah. Because if you see some guy that
+is teaching you and he say this is a a
+plus setups there are either two
+possible way. The first one he built
+through experience a subjective
+um
+advantage
+>> like Fabio or Andrea. The second one it
+does not really know what
+autocorrelation is and is gambling.
+>> Mhm.
+>> Okay. So when a guy say you that just
+two possibility okay
+>> that's what I use and that's what I used
+in the championship. But now we have to
+response to another question. I said
+that you can higher or you can lower
+your risk size by
+uh this number. Yes.
+>> Okay. If you have an higher number, you
+can risk more and if you don't have a
+like if you have a weak signal, you can
+risk less.
+>> Mhm.
+>> But the question is how much? Because we
+always need a number in every
+conversation. So what we do is we know
+we use another formula.
+We use another formula that does not
+tell you
+you should risk more or you should risk
+less. It tells you you should risk this
+or this.
+>> Yeah.
+>> Okay.
+And this formula is called Cali.
+>> I'm sure that you heard about it.
+>> I have. Yeah. I had a
+semi mechanical trader. So I got to hear
+about Monte Carlo and Kelly.
+>> They're the only two I heard of.
+>> Only two.
+>> The only two. Yeah.
+I never which is shocking really. Right.
+Yeah.
+>> Okay. No worries.
+>> I should have by now. [laughter]
+>> Okay. No worries.
+>> Well, we're glad that's why that's why
+you're here. You know, you're
+>> Yeah. I know that.
+>> Teaching so much more.
+>> It's a little different approach, but
+that's what I do.
+>> Mhm.
+>> And that's how I became not profitable
+but to a next level I would say because
+mechanical trading.
+>> Have you seen people I don't know if you
+teach or anything but like have people
+implemented this that you know that then
+seen that same change?
+>> I don't teach anymore. So I did
+education with the Andrea Fabio like two
+years ago. Since two years I stopped
+teaching because I like trading. I will
+probably start again because I now want
+I know would like would love to but uh I
+just uh say this to two of my friends
+and they got amazing result and the cool
+things is that you don't change anything
+in your strategy because people think
+that for getting a better strate better
+result with your strategy you should you
+just should change the how do you enter
+in a trade maybe the condition of your
+entry.
+>> The reality for me is that the risk
+model that you use is more important
+than the strategy itself. And this for
+me is the truth. And um I totally sure
+that if you have an autocorrelation for
+example or a model that we will see
+later h and you have a losing strategies
+like one to one 40 45% we rate. So buy a
+math that's lose money. With the right
+risk model, you can turn it into
+profitable.
+>> And that's so interesting because people
+are so focused on changing things. When
+the only thing they should change is how
+much they risk per trade.
+>> Yeah.
+>> So for response to the question, we have
+a signal, but how much should they risk?
+We use the Kelly criterion is a formula
+that was initially invented by some guys
+for beat blackjack in the casino in Las
+Vegas. I think blackjack I'm not sure
+about the which game
+>> and the which and later is has been
+implemented in the trading space
+>> and it tells you one thing how much
+should I risk per trade before blowing
+up my account.
+>> Yeah.
+>> Okay. The formula is pretty simple we
+will see now. And it's uh your win
+percentage. So we rate minus loss rate
+percentage
+uh
+divided by average
+error. That's basically the formula of
+the cali. But there are lots of
+calculate of calculator online. So you
+can basically put this and you will find
+the Kelly
+>> which is the problem of Kelly. Kelly is
+really too aggressive. Okay. Because it
+it's right that it's survivable on math.
+It pretend that your strategy cannot
+shift
+>> and we perfectly know that market
+shifts.
+>> Yeah.
+>> So we use a fraction of it. Which kind
+of fraction? It depends of the signal.
+>> Yeah. So I will tell you now some
+example because how much should I risk
+it's really it vary on if you're trading
+proper if you're trading a championship
+account if you're trading broker if you
+have any limit per risk for example in a
+prop firm
+>> and um it depends okay so what I use is
+this
+with the here you cannot use Kelly we
+use fixed risk
+when I have a weak signal Now I will use
+maybe one
+um
+one point Kelly
+here 14.
+>> Mhm.
+>> One three and uh here I don't calculate
+it because uh it's too rare. Yeah.
+>> Okay. So what does it mean that you
+divided your Kelly five times, four
+times, three times?
+>> Okay. That's how much you should risk
+per trade. But that's not a theory
+theory that's depends on your style.
+>> You can use different. That's what I use
+for trading the championship.
+>> Okay.
+>> And that's what I did and that's
+response to the question how much should
+I risk?
+>> Yeah.
+>> Okay. On a model that I actually built
+for proper not for
+>> So this is how to master problem.
+>> Yeah. This is to how to bring your prop
+trading to a next level using math.
+>> Mhm.
+>> And this is so controversial because
+this method that I'm about to teach you
+responds to put advantage on losing
+traders and cut legs on profitable
+traders. So the question that you can
+ask it now is if you that you are a
+profitable trader that you live up with
+with trading why do you use this model?
+And the response as I say the response
+is easy. If you want to live up your
+with if you want to live up with trading
+you would like to get a paycheck every
+month.
+>> Mhm. But you perfectly know that we
+trading is impossible unless you apply
+this. But you have to apply only if
+certain condition are verified that we
+will see later. And um so I would prefer
+to
+cut a little bit of my profit but get
+consistently pay out even with my even
+when my strategy isn't performing well.
+And why? because it can be helpful if
+you that you are watching right now have
+maybe some kind of psychological problem
+like a mindset maybe you uh deviate from
+your strategy after a losing streak
+because you can't resist in a losing
+month
+>> okay and for apply this edge you have to
+actually study one thing your equity
+line
+>> so I looked at mine because it's the
+same I I created this model so it's the
+same observation etc etc. So I looked
+out of my equity line in the past three
+years and it looked like that.
+Okay, that's what a real equity line
+should look like. Mhm.
+>> Okay. What I found left me speechless
+and
+uh gave me the idea of two things.
+>> Mhm.
+>> First, I started analyzing
+all of this.
+Hold. Of course, it's not exactly like
+this. I'm just droning this. But I
+started analyzing
+>> all of my draw down over the last three
+years, almost three years of trading.
+Yeah.
+>> And what I found let me speechless
+because I found that my draw down
+does not come in sequence. Okay. So for
+example uh if I close a month in uh 4%
+draw down. Okay.
+What I found is really interesting
+because if I have to classify my draw
+down in week
+so for example week one, week two, week
+three, week four. Okay. Uh it's not like
+this means one means one minus one. My
+draw down does not never look like this.
+I still have one or two profitable week
+in a losing month. So my draw down looks
+like this. Minus 7 uh plus three
+minus 4 and uh what's the
+four and four? It looks right. The total
+is M4.
+>> Mhm. [snorts]
+>> Um, no.
+>> Yeah, that's right.
+>> Yeah.
+>> Yeah. So, the result is still the same.
+I closed the month at minus 4, but I had
+two winning week in the month.
+>> Yeah.
+>> Okay. what I can use what I can do with
+that it's so interesting because first
+I saw I built this model that is called
+draw down shield
+so let's compare
+of course I see this in all my throwdown
+yeah not only once
+>> so let's assume that
+We compare two traders.
+>> Uh the first one is trading normally. So
+for example with a 200k account
+okay me instead I'm applying the draw
+down shield. Okay. So instead of having
+one 200 account I have 450k.
+What I do if for example here I risk 1%
+okay
+>> mhm
+>> uh
+forget the same result I will still lose
+I will still risk 1% yeah okay
+>> in every account but the difference is
+this I will trade one account per week
+>> okay
+>> let's assume that I closed a month at
+minus 4 okay because my strategy went
+into draw down that month.
+>> Mhm.
+>> What I add I add - 7% on the first week
+on that account plus 3% on that account
+minus4 and plus 4 here instead I just
+gain a minus 4. So what my equity line
+should look like here%
+is 3,500 right?
+>> Yeah.
+>> So it will be 46.5. Mhm.
+>> After one month here, I gained a payout
+because I made profit.
+>> Yeah.
+>> So, uh I got still 50K because I got
+$1,500
+and 80% of that is uh
+>> 1.2 1.3
+>> 1.2. So, I gain 1.2K in a losing month.
+>> Mhm.
+>> Uh this went to 48K.
+This went to 2,000 profit that 80%
+usually because it's from 70 to 80 is
+1.6.
+>> Yeah.
+>> So in a losing month I made
+to $2.8k 8k
+and I still have two account that they
+are safe.
+>> Mhm.
+>> Instead here I
+I will be at 192k.
+>> How much did I earn that month? Zero.
+How much I earned? 2.8K. Of course, this
+will reward me just if the strategy
+lose. If the strategy wins here, I will
+get more money.
+>> Mhm. Okay. But what is the interesting
+thing about this method? Let's assume
+that this trader is called B and this
+traders that's me is called A. What is
+the power of B of making money the next
+month?
+>> Slower.
+>> Slower because it needs to recover draw
+down first.
+>> So is buying power we can say that.
+>> Yeah.
+>> Is low. Mhm.
+>> The trader A still have two account in
+Bilan. So he has more chance more chance
+to make money the other month. Even if
+we take another month of minus 5%.
+This will go almost u down. We will
+almost lose the account because it will
+go minus 9%. So it will have like 182k
+left.
+>> Mhm. If we split this down and for
+example we have
+minus 4% here. Let's assume
+uh plus 4% here
+uh minus 2.5
+and minus 2.5%
+>> what we will have this will
+be lost.
+>> Yeah.
+>> Okay.
+This will gain 2k. So another 1.6k to
+add.
+>> Mhm.
+>> And it will be a break even.
+Of course, it's not exactly this because
+we will uh lose this account and some of
+the down will be transferred here
+because you need at least I think for
+losing this account one
+5%. That's right. because after you will
+lose. So we'll start trading the next
+account and you will get a little bit
+less than that.
+>> But it's the concept that you need to
+understand
+>> and the
+>> so if you lose an account in this
+>> using this method keep trading on the
+next one.
+>> So in the reality you will have uh you
+will lose this account as minus 1.5%.
+>> And you will gain four minus uh the
+rest. Yeah. Okay. But
+>> let's calculate this and let's ignore
+this. Here you will have
+uh 2.5% is uh
+>> 1250
+>> what
+>> 1,250. Yeah.
+>> Yeah. So we will have like 46 something
+like that.
+>> Yeah.
+>> 46 point something
+>> 750.
+>> And here same you will get in draw down
+but still if you lost money you got
+1.6k. Okay. So in total in two months of
+losing 9% you made more than $3,000.
+>> Mhm.
+>> Okay. And here you almost account and
+got zero.
+>> That's the draw down shield. That's what
+I use for trade prof. And that's for me
+what you that you're looking this right
+now you should use. And also we have an
+interesting really interesting part of
+this because you will keep your payout
+lower. Yeah,
+>> because you will gain here 2k and you
+perfectly know that if you gain 2k in a
+50k account or you gain uh 4% on a 200k
+account, the size of the payout it's
+higher. And if you maybe broke a little
+rule here, they will probably still gave
+you a payout. If you break a little rule
+on a 20k payout, 16k out, they will
+probably be attached to that and refuse
+that payout.
+>> Mhm.
+>> We need to understand that you are the
+revenue of the profer. I'm not here to
+say you that. You know that. And uh so
+keep your payout uh smaller it always a
+good uh good things and you will keep
+your payout consistent.
+>> Yeah. Plus on this side your lot size
+will be smaller because of the account
+size. So less slippage, less
+>> you know all around it's the execution
+and chances of getting to that pay and
+having that pay and having smoother
+conditions are going to be higher than
+potentially over here.
+>> Yeah, of course if we try to run it on a
+winning month. So if we for example
+change this here we will make we will
+make less money than that.
+>> Mhm. But if for which case in which in
+some case we made an error and we made a
+nice payout here and they refuse that
+it's still better this okay because here
+for example if you close a month of 4%
+you will get you will gain 8k
+>> m
+>> and the 80% is 6.4
+>> and here you will get maybe little bit
+more than half.
+>> Okay. So you have to consider which
+model you have to use and if you have
+some psychological problem you
+>> uh find difficult to stick to the plan
+when you're losing because you can't
+handle a losing month maybe the drone is
+the model that I created that can work
+for you.
+>> Yeah looks
+>> that would be interesting is very
+>> it's very interesting and uh that's the
+first thing that I noticed. The other
+thing is a little bit a layer a deeper
+layer of autocorrelation.
+>> And um I will show you now when I saw
+that my streak of losing month were not
+like this but more like this. I started
+to go deeper on the autocorrelation and
+I built a model that I called variance
+accelerator model
+>> that is uh the model that I used in the
+championship and it uh takes one concept
+that is a modern version of um the
+theory of the autocorrelation.
+>> It was made by Hamilton James Hamilton
+and it was called mark of switching
+autoag aggression. Mhm.
+>> This is the name just for little bit of
+paper paper works.
+>> This assume that if you analyze your
+draw down and yours data in different
+state you know you can get multiple
+autocorrelation in different in the same
+strategy. What does it mean that if I'm
+analyzing my whole equity line, I know
+that in all my data I have the positive
+autoation and that's it. If I analyze
+some kind of data, this trick for
+example,
+I can get a totally different number of
+autocorrelation. Mhm.
+>> And they saw that if I analyze this, my
+autocorrelation shift from
+um positive to negative.
+>> Mhm.
+>> So I started to test
+when the tricks will most likely comes
+to an end by using the negative
+autocorrelation. For example, uh I
+analyzed that after a losing threat of
+seven to eight trades. Okay. My
+autocorrelation
+became strongly.
+What does it mean that the shift of the
+sequence will be more likely? So if the
+seven and eight are losses,
+>> yeah,
+>> my autocorrelation shift. So I will
+probably get a winner. Okay. And this I
+used combined with Kelly for understand
+how much my strip my strip go deeper in
+my data.
+>> Mhm.
+>> So you can also have two kind of
+autocorrelation. You should get enough
+sample for this. You cannot analyze on
+100 trades
+>> but you can also understand when your
+strategy reverse
+>> and when your stricks gets more. you can
+actually get a better indication of
+>> when they can take place or how long
+they'll last and when you're getting
+towards the peak
+>> potentially.
+>> Yeah.
+>> And that's what I noticed and that's
+what I applying these two model the VAM
+I would call it because it's a
+combination of this concept and Kelly
+>> for understand how much should they risk
+and for example if I my auto relation is
+really high I can go from 0.5% risk that
+I'm using
+>> to 3%.
+>> Mhm.
+>> Okay. because the math says so
+and that's what I use. Okay.
+>> Mhm. And um in the beginning of of the
+video I say to you that I had a surprise
+a really interesting model that you can
+also use u you that you are watching
+this right now and um let's see this
+final model and after this we're done
+okay because I understand that this new
+things and it's really complicated
+>> h but I'm trying to explaining as simple
+as possible
+>> I don't know if I'm going doing good
+>> no you did a great job amazing job yeah
+there's a lot of things that really open
+your eyes into how much you can dive
+into data and why data is so important.
+I know a lot of people talk about data
+and usually that just refers to you know
+collecting the data on your trades and
+journaling that this is a whole new
+world.
+>> Yeah. Um which to be fair if we see the
+industry and in one side you see
+obviously the sort of unprofessional
+side but we don't really talk about that
+but on this side of things we are seeing
+such a rise in yes more professional
+tools from like order flow or even
+options flow now but even mechanical
+trading automated trading statistical
+trading. So this is needed necessary you
+know this the only way that we can start
+to see a more of a shift is more
+awareness more education like you're
+presenting right here. So but it has
+been you've done a great job of of going
+through start to finish so far and it's
+really eye opening as well. Thank you so
+much because people maybe ask me some
+sometimes why you don't your you don't
+use orderflow and the reason is that I
+don't need to okay I use math I don't
+use footprint for example because I
+don't need to understand a context of an
+indicator I don't basically use any
+indicator beside aan session that is not
+an indicator it's just a range
+>> and uh for me the people who trust more
+indicator
+then the strategy or the risk model
+itself is not so good. You understand
+that?
+>> So we will see this final model and this
+is where and I think that this is the
+part part where uh that breaks people
+brain really because uh h it go deeper
+on why I do some things. So every trader
+is trying to predict price if the price
+will go up or down.
+>> Mhm. Okay, I don't need to predict
+price. I don't care about price. I care
+about the weather of the price. As I
+told you to market moves in regimes,
+okay? And uh this is a verified concept
+and most of edge found use this concept
+and there is this tool called gar.
+What does G what does Gash tells you
+exactly?
+The concept behind is the volat
+volatility
+cluster.
+So I know that if the one session were
+so violent, the next session can be the
+same. Okay, this is probability and GASH
+is the tool that tells me exactly what
+to expect about the weather of the next
+session. Not if the price go up or down,
+but how violent or calm it will be.
+That's how you use Gash. We won't see
+the formula of Gash because it's so
+complicated and compared to uh
+autocorrelation for example is simple
+compared to Gash. But you just need to
+know the g is the tool that tells me
+what to expect for the next session.
+>> So what I did is basically simple
+because I codified for gems.
+I did it. So you won't find this in any
+paper or something like that. And uh we
+can set it in range.
+The first we will call cal.
+Okay. The second one is
+middle.
+This is Ike
+>> and this
+is extreme.
+>> Mhm.
+>> Why I bucket this? because I need to
+know all my strategy perform in each
+regimes and the concept between uh
+behind regimes is the concept that is
+between also autocorrelations because we
+know that a strategy can the the
+sequence of a of our trades is different
+here and here this is basically
+autocorrelation.
+>> Yeah.
+>> Yeah. But here what really stunn me
+because ears is where 75% of my trade
+happens. Okay.
+>> Okay.
+And let's assume that we are talking
+with a strategy that is one to one
+riskreward because it's easier to
+understand for you that you are watching
+this right now. So we are using a
+onetoone strategy riskreward and we have
+a uh win rate of 65%.
+>> Mhm.
+>> Okay.
+Here I usually have a break even result.
+I'm not very profitable here and I
+usually have a break even result. Okay.
+>> And when you have a break even result,
+you cannot do much about this. Okay. So,
+we have break even. What left me
+speechless is that when I follow my
+strategy in a calm regimes, my win rate
+shifts. I gain 75%
+loss rate.
+>> Wow. And it's so interesting because I
+lose so much money here. Okay. And I
+perfectly know with gar when this will
+happen. Okay. So people will think that
+a strategy with a 75% loss rate is
+really bad. I think that this is a
+blessing. Why? Because if you are
+trading with a 75 loss rate and your
+strategy tells you, okay, in this
+condition you need to go long,
+you can just flip it. So when the
+strategy said go long
+and you know that if you follow your
+strategy, you have a 75% loss rate, you
+will just go short.
+>> That's what I do. And people can ask me
+why this happened and the reply is I
+don't know. I don't care why my strategy
+is so bad here. My work is not to
+understand the market is to be on the
+right side of it.
+>> Mhm.
+>> Okay. So I'm I don't care why price is
+doing this thing. I only care about
+building edges and I don't care if the
+market structure is long and I'm doing
+the opposite. I'm doing what data tells
+me. If I have 75 loss rate with one to
+one, I will have a 75% win rate going in
+the opposite side.
+>> Mhm.
+>> And that's what I do. Mostly of my
+trades doesn't follow actual or not
+mostly because here like the like 50 or
+20% of my trades up in years. But I
+later before I told you how to read
+market structure, how to use this
+concept and you will use it and when you
+find the signal or of long here you just
+go short. Okay.
+>> Mhm.
+>> And that's I think the most
+controversial part because what I do is
+not following the market is following
+the data.
+>> Okay. And uh asking why does this
+happen? I think that's not useful
+because once you know why this happen,
+how do you how do you deal with it? It
+just happen. Okay, you cannot predict
+it. So don't ask you why something work.
+Let's see if it work and do what the
+data says.
+>> And that's I think the latest model that
+I will put here. I have to tell you that
+there is so so much more when you run a
+statistical strategy. You have a another
+part that is called um optimization.
+>> Mhm.
+>> Because as you perfectly know the market
+shifts, you have to monitor the data.
+You have to adapt it. You have to judge
+it and and say in a discretionary way
+how to stop it or how to change it
+because data
+>> is a bigger part. But remember that
+there's a brain behind it and that's
+what I do basically. Okay, that's all of
+my that's that's not all of my arsenal.
+But this is one
+they are lots of I can say this and the
+other model that I show you are one of
+the best model that I ever found on my
+own career I think.
+>> And um yeah that's it. How much would
+time would you say is spent on the data
+and optimizing and sort of refining and
+understanding versus execution?
+>> So I would say response by my own
+experience I would say uh few years okay
+because I I took maybe six or seven
+months to switch from discretionary to
+mechanical. So objectifying all the rule
+when you have to go deeper and you want
+to be a statistical trader you have to
+search first for the risk model that you
+want to use that can be it's not only
+GACH okay Garch is a you see this do
+this the risk model can be
+autocorrelation and you have to find for
+a good one because I explain you this
+okay and this works but uh I really like
+to read so I wrote a lots of books
+basically of statistical analysis. They
+tried so many of this and maybe seven
+didn't work out well and I tried it and
+I lost so many times doing it. So you
+need to understand the what work and
+what doesn't work and you have to gain
+data for it. So I would say that is a
+really long process. you don't actually
+need to do it because you I became
+profitable just with a mechanical way,
+just with a mechanical strategy and um
+yes, that's it. I think that we live now
+in um a trading content while everyone
+is searching for the better strategy,
+the coolest indicator, the coolest way
+to analyze a chart. And uh I instead
+think
+uh that the whole secret of trading is
+that admit you have there is no secret.
+Okay. People always try to find the
+shortcut to uh profitability.
+>> Mhm.
+>> But the only real shortcut is stop
+searching for a shortcut.
+>> Literally. Yeah.
+>> Yeah. This trust me this is really uh
+true.
+>> Mhm. If I have to give an advice uh for
+a trader that is not profitable yet, I
+would say find something that proves you
+that it work by data because most people
+trust other people worth and they put
+their money on trust.
+>> But is it really a good idea? Even if
+I'm saying you if it I say to you
+tomorrow trade this because it works,
+you shouldn't trust me. you should test
+it and if it work across large enough
+sample that variance can lie to you, you
+can put your money in it. So I think uh
+that's the best advice. Don't search for
+trust, don't just listen to words and
+verify all that uh you find online in
+the trading space.
+>> Definitely man. Well, you know, as you
+said, I love the the closing statement
+there in terms of it will take time.
+There is no shortcut. That is the
+reality. A lot of people don't like to
+hear it, but I feel like I always lean
+on you can get into trading for the
+money. That's fine. That's natural.
+We're human.
+But you have to stay in trading for the
+markets, for the intellectual side, the
+puzzle, if you will, needs to p you need
+to have that passion for the puzzle
+pieces of the markets. And then also,
+>> your goal might be money, but your goal
+is also long-term, right? And as you
+mentioned at the very beginning, is to
+live off trading.
+>> Yeah. And to do that it takes immense
+work. It takes immense understanding. So
+whether you transition to be a
+statistical uh trader or mechanical
+trader, this is the foundation that
+you've laid out for everyone here. So I
+thank you for that. Well, there you have
+it guys. Here we are in London. We
+finished the studio. You might have seen
+a segment in Dubai. You might have seen
+a segment in another studio. Um but that
+is just the depth that we've gone into
+today. And I thank you uh Jeian Luka for
+bro breaking this down in such a
+step-by-step process with the statistics
+to go along with it. And you know I'm
+very interested for people to then
+follow up and see the feedback as well.
+So drop a comment with your biggest
+takeaway from this episode. We said it
+from the beginning. Very very different.
+But the levels that we're seeing in
+terms of the guests coming on to the
+podcast, we're talking world trading
+champions, verified traders. It's
+different. It's not the same as what you
+see on social media usually. And that's
+what we're trying to do here. and we're
+trying to bridge a gap and it's thanks
+to our guests that allow that to happen.
+So, I thank you again. The links for
+Gian Luca will be in the description
+below. So, make sure you check them out
+right now. Hit like, comment your
+biggest takeaway. Let us know what you
+want to hear. If there were any
+questions you had that I didn't ask,
+drop them in the comments below so we
+can look to maybe cover them in a future
+video as well. But other episodes are on
+screen right now. This has been Char
+Fanatics. Take a

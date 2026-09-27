@@ -1,0 +1,618 @@
+Most traders stay confused not because
+they don't know smart money concepts,
+but because they don't know the sequence
+for using them. They see a liquidity
+sweep, they see an order block, they see
+a fair value gap, but they don't know
+how to put the story together to catch
+sniper entries, to trade with precision.
+My name is Brett Goll. I've been trading
+for 7 years, and last quarter alone, I
+made 1.5 million dollars in trading
+[music] profits with every single trade
+documented live on my second channel,
+Brett Trades. I'm also the founder of 1%
+Club, which is a mentorship program
+that's helped hundreds of students
+become profitable funded traders. And
+I'm also the founder of Edge Flow, the
+trading super app that I personally use
+to plan, execute, journal, and review my
+trades with more discipline and
+structure. So, quite simply put, I don't
+want your money. I want you to become a
+better trader.
+Now that you know who I am, let's get
+right into it.
+Now, I want to preface this by saying
+that this strategy, this trade plan,
+this model is not just for Forex.
+Whether you trade futures, stocks,
+indices, or crypto, the logic is exactly
+the same. Price seeks liquidity,
+displaces from key areas, and then often
+retraces before continuing. Once you
+understand the sequence, you can apply
+the same framework across different
+markets instead of thinking that you
+need a different strategy for every
+chart you look at. Now, before I show
+you the entire trading framework, the
+entire entry model, let me break down
+the role of each one of these three
+concepts. First of all, liquidity sweep.
+Liquidity sweep shows you where the trap
+happens. This is where price runs above
+a high or below a low and take out all
+the stop orders, all the stop losses
+that were sitting there, giving the
+illusion that it wants to continue in
+that direction. When in reality, it's
+just a trap for smart money to grab some
+liquidity to fuel the reversal in the
+opposite direction. So, a lot of retail
+traders get caught entering the breakout
+right here.
+When in reality, that is simply just a
+liquidity sweep for the market to grab
+liquidity before the real move actually
+happens. Next, you got the order block.
+The order block gives you the point of
+interest. It's the location in which you
+can look for entries. It shows me the
+area where the real displacements came
+from. This is the exact place where
+institutions most likely step into the
+market and just place a large amount of
+buy orders. And it's also the point of
+interest where price may want to return
+before continuing to the upside. So,
+when price gets all the way up here,
+instead of chasing the move that's
+already happened, you know, entering for
+a buy right here, what I want to do is
+to wait for price to pull back to a
+meaningful area on the chart that I can
+pay attention to, which in this case is
+the order block. Next, you got the fair
+value gap, which is also known as
+imbalance.
+These give me the refinement. It helps
+me narrow down the entry within that
+overall area. So, rather than blindly
+entering on the order block, what I can
+do is to use the imbalance left behind
+by the impulsive move to find a cleaner
+retracement and a more precise
+execution. So, the way I personally
+think about it is very simple. The
+liquidity sweep is the trap. The order
+block is the zone. The fair value gap or
+imbalance is the entry. And that's
+pretty much how I stopped looking at
+them as three separate concepts and
+start using them as one complete entry
+model.
+Ah, that's hot. As usual, we got the
+green tea. Can't have a chart breakdown
+without green tea, you know what I'm
+saying? So, now that you've understood
+the basic concepts, right? How you can
+combine these three different concepts
+together to form one mechanical
+strategy, let me walk you through the
+entire framework step-by-step on the
+charts.
+So, right now we got EURUSD and
+obviously price has just broke structure
+to the upside, right? So, clear as day,
+this is where price take out the last
+structural high giving us a bullish
+break of structure telling us that we
+are actually in this bullish trend
+direction. And just by doing that alone,
+you can identify this as your swing low
+and then this as your swing high. And
+this becomes the swing range in which we
+are trading within.
+Now, next thing is I want to look for
+some form of liquidity sweep. So, at
+this point of time, I'm looking at the
+chart, I'm looking at the past price
+action, I'm trying to identify equal
+highs, equal lows, swing highs, swing
+lows, any obvious resting liquidity,
+right? Because all of these are
+essentially the liquidity points in
+which we can use to get price to
+continue to the upside, right? So, over
+here, this is where I'm looking at a
+blank chart just like this. I'm looking
+at the past to see whether there have
+been any liquidity sweep recently.
+So, in this case, what happens that
+price came down and went up. And then
+came down and goes up and sweep the
+liquidity below this low right here.
+Once again, all the stop losses, all the
+stop orders. So, the clear as day, this
+can be our good old liquidity sweep
+right there.
+So, that's the first step, just to
+identify the liquidity sweep to know
+where institutions or smart money or big
+banks or whatever you like to call them
+has entered into EURUSD in the past. So,
+we know this is where price is going to
+gravitate towards next when it's pulling
+back. Now, the second step is obviously
+to wait for the liquidity sweep if it
+has not happened yet. So, in this case
+it's already happened, so I can just
+identify this as the liquidity sweep.
+But, if you are like somewhere like
+around here, right, where there is no
+liquidity sweep whatsoever, you don't
+want to be doing anything until you get
+a liquidity sweep. Until you see price
+clearly run through a certain level and
+then rejects it or displaces from it.
+The third step is to mark the order
+block.
+Once again, the order block is the
+origin point
+which caused this huge move to the
+upside. Right? So, you want to trace it
+all the way back to the origin, the
+starting point of this entire leg to the
+upside. Right? Like, where is the price
+point that smart money swept liquidity
+and caused this massive reversal?
+Where's the price point that caused this
+huge amount of imbalance to the upside?
+This is where you can identify the range
+that started this entire impulsive move.
+So, in this case, since this is where
+the liquidity sweep started, I can mark
+this candlestick right here, all the way
+down from the high to of this
+candlestick, all the way down to the low
+of this candlestick, and this entire
+thing becomes my order block. Right? So,
+I can literally just mark that out as my
+order block right there.
+So, this is one way of identifying order
+block is to find the entire range before
+the impulsive move. What you can do to
+take things one step further is to
+refine the order block. Right? So,
+instead of drawing the entire range just
+like this, perhaps you want to refine it
+by looking at the origin candle before
+the impulsive move. Right? So, before
+this huge move to the upside, which is
+the candle that resulted in this
+reversal? Like, which is the reversal
+candle? And in this case, price went
+down, started consolidating around here,
+giving us a doji candlestick just like
+this, and then resulting in a move to
+the upside. So, this right here becomes
+the origin candle. So, if you want to
+refine your order block, right, have
+like a much more precise and a much more
+smaller point of interest,
+you can just map that up just like this.
+So, this becomes the true origin of the
+displacement. That is step three, which
+is to identify the order blocks. Now, I
+will highly advise you to just stick to
+one method. If you prefer the range
+method just like this, stick to it.
+Don't use the candlestick method
+sometimes and then the range method
+other times. You want to stick to one
+mechanical approach, right? So, for the
+simplicity's sake, I'm just going to
+stick to the range approach for this
+video itself, right? So, this entire
+range right here becomes my order block.
+So, this tells me that the next time
+price actually pull back to this area, I
+can expect the smart money, the big
+banks to actually pile on more buy
+orders for price to continue to the
+upside. So, ideally somewhere within
+this area right here is where I want to
+look for longs to trade the continuation
+of this move. Step [snorts] four is to
+mark the fair value gap.
+Now, this is pretty much the imbalance
+that's left by the strong move. Okay, so
+you can see this huge move to the upside
+right here.
+And when price actually moved to the
+upside, it moved up very aggressively,
+leaving us a lot of imbalance. What I
+basically mean by imbalance is a gap.
+All right? So, if you zoom in at the
+price action right here, and you look at
+the candlesticks right here, more often
+than not when candlestick move in a very
+efficient manner, what tends to happen
+is something just like this, where price
+just goes down like very like
+consolidaty way, like very slowly.
+But, when there's inefficient price
+action, which means that there's a lot
+of sudden large amount of buy orders
+stepping to the market, what tends to
+happen is that they leave behind a gap.
+And that gap is what we call imbalance.
+And that is where we can locate the fair
+value gap. So, in this case itself, what
+happened was that price went up,
+creating this candlestick right here.
+And you can see when this candlestick
+was created, you can identify a gap by
+finding the high of the previous
+candlestick and finding the low of the
+next candlestick right here. You can see
+this is the low and then this is the
+high. And this
+entire right here becomes our fair value
+gap.
+The larger the gap, the more imbalance
+that is, which means that there's a
+higher chance for price to pull back and
+fill up the imbalance. Because that's
+just how the market move. The market
+move from imbalance to balance to
+imbalance to balance again. So, in this
+case, that is the first fair value gap
+that I can identify. Another fair value
+gap, which is really, really obvious, is
+this one right here. You can see this
+candlestick, huge move to the upside,
+big bullish candlestick, and you can
+mark the high of the previous
+candlestick and the low of the next
+candlestick just like this. You can see
+this is a very, very obvious and
+significant fair value gap.
+Now that you've identified a fair value
+gap, this is where you get an idea on
+where price is most likely going to pull
+back to. So, just to make things even
+clearer for you guys, I'm going to make
+this fair value gap blue color.
+And we can keep the order block as gray
+color. So, you know exactly like which
+one is the fair value gap and which one
+is the order block. So, that is step
+four.
+Step five is to wait for the re-entry.
+It's to wait for price to come back into
+either the order block or the fair value
+gap area and then look for your entry
+from there. So, in this case, we just
+got a break of structure, which means
+that price is going to start pulling
+back soon. And the moment price starts
+pulling back, you might be wondering
+where is price going to pull back to
+what? And this is where you can identify
+your order block after you know you got
+your liquidity sweep, identify your fair
+value gaps or imbalances, and this is
+where you get an ideal on the zones
+where price is going to gravitate
+towards next, which is also the zones in
+which you can look for your long
+position. So, in this case, if price is
+somewhere around here, in the middle of
+nowhere, I'm not going to be entering
+for longs because this is extremely low
+probability. Right? Because there's room
+for price to drop down even further
+before the real move actually happens. I
+want to try to capture the low of the
+reversal. I want to try to capture the
+start of the continuation move. And it's
+most likely going to happen within one
+of these areas down here. So, I'm going
+to be very patient. I'm going to sit on
+my hands and do nothing until price
+mitigate the zone. The minute price
+enters into a fair value gap just like
+this, this is where you can look for
+your long positions.
+You can either look for confirmation
+or you can just enter
+right away once price mitigated a fair
+value gap, which is a little bit more
+aggressive.
+All right. So, once again, you'd want to
+have a very systematic approach for
+this. Either go for the confirmation
+version of this entry or go for the
+aggressive version of the entry. The
+conservative version requires you to
+wait for some form of structural shift
+like a market shift, and then you
+actually enter for the trade itself.
+Once again, I've went through this
+countless of times in my other YouTube
+videos. So, if you're unsure on what
+this means, check out the other YouTube
+videos. Ideally, you want to look for
+some form of market shift to the upside,
+which signal to you that internal
+structure has shifted from bearish to
+bullish. Then you make your entry from
+that.
+For the aggressive version of the entry
+model, you can just enter the minute
+price actually mitigated a order block
+or a fair value gap. And ideally, I want
+the fair value gap to be within the
+order block itself. So, [snorts] in this
+case, I can enter upon the mitigation of
+this area right here. And this is where
+I'm going to be placing my stop loss
+below the fair value gap, below the
+point of interest in which I'm entering
+the trade from, and placing my take
+profit at 2R. To keep things simple in
+this video, I'm just going to stick to
+2R. So, this is where you can just let
+the trade play out, and you can see this
+is where I tap into the trade, and you
+hit TP within 10 minutes. Right?
+Literally, as simple as that. That is
+the aggressive entry where you enter
+right upon the mitigation of the fair
+value gap itself. Now, let's just
+continue to play price forward and see
+what price does. Right? So, eventually,
+price did pull back to this fair value
+gap again and mitigated it and swept
+some liquidity and then pushed to the
+upside just like this.
+And then, later on, price came back and
+mitigate this other fair value gap that
+was unmitigated the first time round.
+So, this is why I say you can never ever
+really go wrong if you actually enter at
+the fair value gap that is within the
+order block.
+But, try not to enter at like a random
+fair value gap that is in the middle of
+nowhere. It could work out if you're
+scalping just like this, but as much as
+possible to catch high probability
+setups, you want to wait for price to
+pull back to a fair value gap that is
+within the order block and then make
+your entry from there. Right? So, in
+this case, another point of entry which
+could potentially be at this fair value
+gap. Right? So, in this case, price has
+already made its move right here. You do
+nothing. You wait for price to come to
+you very patiently. You don't chase
+price. And the minute price step you in,
+when price mitigate this fair value gap
+right here, your stop loss is below this
+low right here. You target 2R just like
+this, and you get out within 10 minutes.
+Literally, as simple as that. Now, let's
+look at another example. This is a
+bearish scenario on Nasdaq futures. I
+wanted to show you that it works for
+other asset classes as well. So, this is
+futures, Nasdaq, all right? And what you
+want to do is to once again just apply
+the entire five step. So, now let's try
+to apply the entire five step on this
+chart right here. So, the first step is
+to identify liquidity. What happens the
+price went up there, pull back, goes up
+there, and then starts coming down. So,
+we know that there's available liquidity
+right here, and the second step is to
+wait for the liquidity sweep. So, in
+this case, price is already swept
+liquidity above this high right here.
+And then the third step is to mark the
+order block, right? So, once again, find
+the origin point that led to this
+significant move to the downside after
+the liquidity sweep, and it's going to
+be somewhere around here, right? So,
+that becomes the order block. And then
+the fourth step is to mark the fair
+value gap. So, in this case, after the
+order block has actually been
+identified, price moved to the downside,
+and this is where I'm looking for fair
+value gap and imbalance in this entire
+move right here. So, let's observe the
+candlesticks to see whether we can find
+any imbalance or gap. So, big bearish
+candlestick right here, cool. Is there a
+gap? Well, if you look at the previous
+candle, which is this low right here,
+and you look at the next candle, which
+is this high right here, there's
+actually no gap whatsoever. So, there's
+no fair value gap right here. And if you
+look at the next candle, is there a fair
+value gap? No. Is there one here? No.
+No. No, right? So, there's pretty much
+no fair value gap right here. So, in
+this case, what you want to do instead
+is to enter upon the mitigation of the
+order block.
+Once again, write this down somewhere.
+Ideally, we want to enter upon the
+mitigation of a fair value gap that is
+within or near the order block.
+But if there's no fair value gap that's
+present, then you can just enter upon
+the mitigation of the order block
+itself. So, in this case, since we
+cannot do step four, which is to mark
+the fair value gap, we've decided that
+we We to enter upon the mitigation of
+the order block. So, this is where when
+price is pulling back to this order
+block right here, I'm doing nothing. I'm
+doing nothing. I'm doing nothing. I'm
+waiting very patiently for price to
+mitigate the order block. Right? So,
+chew, chew, chew, boom. The minute price
+mitigate the order block, once again,
+you can look for your entry from here,
+and up on the mitigation of the order
+block, place a stop loss above this
+order block itself, and then you can
+place your take profit at 2R just like
+this.
+So, in this case, because we are
+entering upon the mitigation of the
+order block instead of a fair value gap,
+this is where your stop loss will be a
+little bit wider. Right? But, let's see
+where the price actually goes in our
+way. No, it doesn't. So, in this case,
+if you were to actually place your stop
+loss above the point of interest, which
+is a little bit wide, and you place your
+take profit right here, you would not
+have smashed your TP.
+Let me teach you how to rectify this.
+So, now, this is a tip for more of the
+intermediate and advanced traders out
+there who want to refine their entries
+when they are trying to enter on a zone
+that is this wide. So, for this
+scenario, instead of placing a stop loss
+above the order block itself, what you
+can do is to place your stop loss above
+the candlestick in which you enter the
+trade on. Right? So, in this case, I can
+potentially place my stop loss a few
+pips above this candlestick right here,
+and target 2R. If I did that, my TP
+would have been smashed beautifully. So,
+once again, why would I place my stop
+loss above this candlestick right here?
+It's because price has essentially swept
+liquidity above these equal highs on the
+left-hand side right here,
+giving us a protected high, and this is
+where we know for a fact that this is
+the price point which invalidated the
+trade idea, which means that if later on
+price went up there and take out this
+high, this means that the structure is
+shifting bullish, and we can get out
+with like a small loss. Right? So, in
+this case, once again, this is more
+advanced. If you found yourself in a
+situation where there's a wide point of
+interest just like this
+and you want to refine your entry, make
+a stop loss a little bit tighter, you
+want to place it a few pips above the
+candlestick in which you are entering
+the trade on and ensure that when you're
+doing that
+it must be some form of high that have
+swept liquidity because that is a
+protected high. And then just target 2R
+as usual. Now, before you go and start
+marking every liquidity sweep, every
+order block, and every fair value gap on
+the chart there's something very
+important that you must understand. Not
+every liquidity sweep is worth trading.
+Not every order block is valid. And not
+every fair value gap should be used as
+an entry. Once again, this is where so
+many traders go wrong. They learn these
+concepts and then suddenly every chart
+starts looking like a setup. They see
+one little liquidity sweep and they
+think it means something. They mark
+random candles as order blocks. They try
+to enter on every fair value gap that
+they can find on the charts.
+And that's exactly how you go from
+having a structured framework to just
+forcing trades
+as and when you feel like it.
+What actually matters is the story, is
+the narrative, is the context.
+I want to see the liquidity sweep happen
+at a meaningful level.
+I want to see the displacement after the
+sweep to be strong and obvious. I want
+the order block to be the true origin of
+the move, not just some random
+candlestick in the middle of a messy
+consolidation.
+And most importantly, I want the fair
+value gap to refine the setup, not
+become an excuse to jump into a bad
+trade.
+The entry matters as much as the
+context.
+If the market is choppy, if the
+liquidity sweep is weak, if there is no
+clear displacement, or if price is
+reversing from a level that doesn't
+really matter,
+I'm not interested. Once again, trading
+is not about spotting more patterns.
+It's about filtering. The goal is to not
+to find the most setups. The goal is to
+find the cleanest ones. Quality over
+quantity. So, when you're using this
+entry model, using this framework, I
+don't want you to think of it like a
+checklist that you have to force into
+every chart.
+I want you to think of it like a story
+that has to make sense from start to
+finish, from higher time frame bias to
+lower time frame structure, from the
+overall trend direction to understanding
+who's in control of price. Everything
+needs to add up, and everything needs to
+align for you to use this entry model
+properly. That's when the liquidity
+sweep, the order block, the fair value
+gap stop being random concepts, and
+start becoming a real trading model that
+you can deploy in any and every market
+condition.
+With that being said, if you want to
+learn more about each one of these
+concepts in more depth, in more detail,
+in excruciating detail, and you want to
+learn how to build your own mechanical
+trade plan step-by-step using my market
+mechanics concepts, check out this
+playlist right here, where you get
+access to all my free courses and
+lessons. Yep, absolutely free. Because,
+like I said, I don't want your money. I
+don't need your money. I want you to
+become a better trader. This is why I
+break down everything in a much more
+structured way, so you can actually
+understand how to apply it to your own
+trading. And as always, remember you're
+just one trade away. Mwah.

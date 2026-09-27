@@ -1,0 +1,1163 @@
+1
+00:00:00,080 --> 00:00:11,920
+What's up, guys? This is my updated strategy video. I have made over $700,000 from this strategy alone, from this year. So, I decided I haven't made one of these in a while. Might as well
+
+2
+00:00:11,920 --> 00:00:22,400
+go over my exact strategy step by step, bar for bar, and back test it with you guys so you guys can understand it completely. First, what I want to do is before we get on the charts, show you
+
+3
+00:00:22,400 --> 00:00:37,120
+guys proof. So, this here is Trade Zela. As we can see, this was from January 1st of 2026 to June 1st of 2026. Um, in the month of January, I made around $41,000. In the month of February, I made
+
+4
+00:00:37,120 --> 00:00:49,360
+$148,000. In the month of March, I made $293,000. It actually could have been a lot more had I not uh upped the risk at the end. I was doing really well at the start of
+
+5
+00:00:49,360 --> 00:01:02,320
+this month, but um and then in April made around $230,000. And then finally, this was last month. I didn't do the best last month, uh, but I made around $34,000. And I know what you
+
+6
+00:01:02,320 --> 00:01:12,080
+guys are saying. You guys are probably saying, "Oh, well, Tradezella, Tradzella, you can manually input trades." Well, this is actually directly connected to my broker. So, whenever I
+
+7
+00:01:12,080 --> 00:01:27,680
+take a trade, it automatically gets uploaded to Tradzella. But, I can go ahead and go on here and show you guys on this account. Boom. This is a live account as you guys can see down here. Okay.
+
+8
+00:01:27,680 --> 00:01:39,200
+And if we see this year I've made $874,782. And you're probably saying, "Well, oh, those numbers are different than what was on Tradezella." Well, that's right.
+
+9
+00:01:39,200 --> 00:01:51,040
+Because on Trade Zella, it subtracts the fees and the swap. So if you subtract the fees from the broker and you subtract the swap, then you get the exact same amount that I have made on
+
+10
+00:01:51,040 --> 00:02:01,439
+Tradzella. So again, literally every single one of these trades are directly uploaded to Tradzella. Tradzella is just the journaling platform that helps me see it in a little bit of a cleaner way.
+
+11
+00:02:01,439 --> 00:02:14,400
+And it also helps me see my win rate and my average risk-to-reward, which as we can see here, if we look at my overall win rate and my average risk-to-reward, my daily win rate is around 64% or
+
+12
+00:02:14,400 --> 00:02:26,080
+64.29% and my average risk-to-reward on a trade is a 123.3, which is pretty good. So, pretty much every single winning trade I'm making on average $22,000. And every single losing
+
+13
+00:02:26,080 --> 00:02:41,200
+trade, I'm losing around $16,000. And actually, this win rate should be a little bit higher. Um, because some of the break even trades, I'll show you guys the most recent one. This trade got
+
+14
+00:02:41,200 --> 00:02:54,160
+stopped out at break even, but sometimes break even trades end up being a loss. So, it counts it as a loss because again, I didn't lose se or I did lose 780 bucks on this, but this was a
+
+15
+00:02:54,160 --> 00:03:05,840
+technically me getting stopped out at break even. you know, you take this plus the fee, you're getting a negative one uh $1,180 in P&L, so it counts it as a loss. So,
+
+16
+00:03:05,840 --> 00:03:18,239
+my win rate is actually a little bit higher than what it says on here. Uh the risk-to-reward is pretty on on on target, but as we can see, this year I've been trading incredible. Um I
+
+17
+00:03:18,239 --> 00:03:28,879
+haven't had a single losing month. Oops, this that goes into June. Um but I haven't had a single losing month. I have had some months where, you know, it's been a little bit rickety. You
+
+18
+00:03:28,879 --> 00:03:39,840
+know, like in January, I only made $41,000. In February, I did good. March I did good. April, I did good. And then this past month of May, I didn't um didn't trade the best. It was kind of
+
+19
+00:03:39,840 --> 00:03:49,920
+back and forth. I honestly thought I was going to end the month red. But I'm still yet to have a red month this year. So, with all of that being said, I'm going to explain to you guys the
+
+20
+00:03:49,920 --> 00:04:04,480
+strategy that I use throughout trading this entire year. And this is pretty much pretty similar to what I've been trading um historically. It's using all of the same concepts, but I do think
+
+21
+00:04:04,480 --> 00:04:17,120
+that there's a couple tweaks that I should let you guys know about. Um that has just made my strategy, in my opinion, safer, more efficient, and has helped me actually take less trades. I
+
+22
+00:04:17,120 --> 00:04:28,560
+know you guys are probably thinking, "We don't want to take less trades." we want to take more trades. And that's actually not what you guys want to do. Um, in fact, if you guys end up taking less
+
+23
+00:04:28,560 --> 00:04:38,880
+trades, uh, it just means that you're protecting yourself from more losses. I'm sure a lot of you guys have probably taken a lot of losses in trading and you guys realize that the more you trade,
+
+24
+00:04:38,880 --> 00:04:50,080
+the more you lose. So, strategy, I'm going to break down essentially what our trading strategy is supposed to be um before we get into actually breaking everything down step by step because I
+
+25
+00:04:50,080 --> 00:05:00,639
+think that's super important. So, first of all, we need to break down what is trading like what is trading supposed to be? And in my head, trading is supposed to be
+
+26
+00:05:00,639 --> 00:05:12,000
+getting onto the markets every single day over a long period of time and accurately predicting where price wants to go with a high probability on a daily basis. So, let's break that down. If we
+
+27
+00:05:12,000 --> 00:05:24,960
+get into the markets and we're able to accurately predict where this little price movement wants to go with a high probability on a daily basis, we are going to end up making money. Now, what
+
+28
+00:05:24,960 --> 00:05:38,240
+does our strategy help us do? Does our strategy help us predict where price wants to go? Yes, to an extent. But what does our strategy actually help us most in? It helps us not take low probability
+
+29
+00:05:38,240 --> 00:05:47,919
+trades because there's a trade to be taken every single second. I could say, "Hey, I want to buy this right now." And then price could go down and then boom, I lost that trade. Technically, there's
+
+30
+00:05:47,919 --> 00:06:00,400
+an opportunity to trade from 9:30 a.m. in the morning, Eastern time, all the way until 5 until market closes. So, what does the strategy actually help us do? It helps us not to take trades and
+
+31
+00:06:00,400 --> 00:06:11,840
+it helps us give us, I guess you could say, signals of when we are actually going to get a high probability trade. Now, you're probably saying, well, how do we know it's a high probability
+
+32
+00:06:11,840 --> 00:06:25,680
+trade? Well, we collect data. So, that's exactly why I showed you guys this at the beginning of the video, because I have data backing my strategy. So, I have proven that over just from this
+
+33
+00:06:25,680 --> 00:06:38,800
+year up until now that my strategy when I take the trades following my step-by-step strategy, it gives me around a little bit over a 64% win rate. And when I win, I'm making around 1 to
+
+34
+00:06:38,800 --> 00:06:51,600
+1.33 risk to uh risk-to-reward ratio, meaning my wins are going to be bigger than my losses and also meaning I'm going to win more than I lose. So imagine trading is like a coin flip.
+
+35
+00:06:51,600 --> 00:07:00,880
+Okay? So we have a coin and you know obviously the coin is either going to land on heads or tails. You're going to have pretty much a 50/50 chance of whether it's going to land on heads or
+
+36
+00:07:00,880 --> 00:07:10,720
+tails. That's what trading is without a strategy. If you're trading without a strategy, you're pretty much just taking a guess of, hey, I think price is going to go up or price is going to go down.
+
+37
+00:07:10,720 --> 00:07:20,240
+You have no edge. You have no probability. You have no data backing whether or not this is actually going to be the case. But when we have a strategy, we have a coin that is
+
+38
+00:07:20,240 --> 00:07:32,479
+weighted on our side. Does it mean we are going to win every single time? No, of course not. Because anybody that says they have a 100% win rate strategy is just straight up lying to you. But what
+
+39
+00:07:32,479 --> 00:07:44,160
+we do know is when I execute on this strategy and when I follow my strategy to a te, I know that probability is on my side. Meaning, I'm going to win more than I lose. And when I do win, I'm
+
+40
+00:07:44,160 --> 00:07:55,919
+going to make more money than when I do lose. So I win more than when I lose. And I make more money when I win than when I lose. So those are two probabilities that I'm personally going
+
+41
+00:07:55,919 --> 00:08:09,199
+to want to take every single time I see my strategy present itself. So when I see my strategy present itself, you guys are probably saying, you know, obviously psychology plays a lot into this where
+
+42
+00:08:09,199 --> 00:08:21,280
+people are like, "Oh man, like how do you have the confidence to take a trade?" The confidence is in the data. So if you guys haven't connected either your demo account to some sort of
+
+43
+00:08:21,280 --> 00:08:28,879
+trading platform and you don't even have to use you don't even have to use Tradzella. Tradzella just does it for you. It just connects to the broker and then every time you take a trade, it
+
+44
+00:08:28,879 --> 00:08:39,039
+just boom syncs it up and gives you spits out this data for you. But you guys can use a spreadsheet. If your broker offers it, awesome. Then you guys can look at that. But you need to be
+
+45
+00:08:39,039 --> 00:08:54,080
+collecting data on your strategy because if you guys aren't collecting data, then your strategy very well could be like a 30% win rate with a z one to 0.5 risk-to-reward ratio. And that means,
+
+46
+00:08:54,080 --> 00:09:04,080
+well, one, you suck at trading. And and two, why are you using that strategy? Because the data isn't backing it. You're you're going to lose more than you win. And when you lose, you're
+
+47
+00:09:04,080 --> 00:09:15,279
+losing more money than when you when you win the trades. So, obviously, you're not going to be profitable long term. So, we need to understand all of these things before actually establishing our
+
+48
+00:09:15,279 --> 00:09:25,120
+strategy. Now, for me, I've already established this and I kind of did the dirty work for you guys. But if you guys watch this video, I by all means, I don't want you guys to watch this video
+
+49
+00:09:25,120 --> 00:09:36,880
+and just say like, "Yeah, TJR strategy, he already back tested it for me, so it's going to work for me." You know? I mean, I did do the dirty work and I've been doing this for a really long time,
+
+50
+00:09:36,880 --> 00:09:50,640
+but I highly recommend you guys do your own due diligence and just back test whatever strategy you guys are planning on using and finding the actual data behind it. Whether you guys are putting
+
+51
+00:09:50,640 --> 00:10:03,120
+it into a spreadsheet, whatever you guys need to do to know for a fact that the math is going to end up over a long period of time, you are going to be green, right? Cuz if if we just say, "Oh
+
+52
+00:10:03,120 --> 00:10:14,800
+yeah, I found this strategy online and I watched this YouTube video and this YouTube video in the thumbnail it says like 80% win rate and then you just like blindly follow it, but then you go back
+
+53
+00:10:14,800 --> 00:10:24,800
+and you look at the stats and then you see, oh damn, when I follow this strategy, I end up losing more than I win and my win rate sucks and my risk-to-reward sucks." Then obviously
+
+54
+00:10:24,800 --> 00:10:39,040
+you shouldn't be trading that strategy. So, I wanted to clarify all of that before we get into this because I think a lot of people will get one like  just a little bit discouraged because
+
+55
+00:10:39,040 --> 00:10:51,760
+they'll take a couple trades learning this new strategy that they learned online from a YouTube video and they just are blindly following it because they see this person is making x amount
+
+56
+00:10:51,760 --> 00:11:00,240
+of dollars or is like doing great for themselves and then they're just like, "Oh yeah, this should work for me. But if it doesn't work for you, then you need to find a strategy that actually
+
+57
+00:11:00,240 --> 00:11:13,120
+does work for you. Um, so again, in this video, I'm going to be going over my strategy, which works for me, but it might not work for you. I mean, granted, I have the data backing that my strategy
+
+58
+00:11:13,120 --> 00:11:25,519
+works for me. And if you guys follow it to a tea, which I do for the most part, you guys should be able to get similar results. But you guys should do your own due diligence and back test this. and
+
+59
+00:11:25,519 --> 00:11:35,440
+actually like upload all of that information to some sort of tracker, some sort of spreadsheet for you guys to be able to see the data yourself. And then that leads me into the last thing
+
+60
+00:11:35,440 --> 00:11:43,839
+that I want to go over before we actually start talking about the strategy is a lot of people deal with psychological issues. This video isn't about psychology, but this is something
+
+61
+00:11:43,839 --> 00:11:54,720
+that I will say about trading psychology. A lot of people have fear in the markets and then a lot of people people will lack confidence in the markets. The only way to remove that
+
+62
+00:11:54,720 --> 00:12:05,600
+fear and the only way to actually gain confidence in the markets, it's not by watching a YouTube video like this, it's by actually practicing and getting those shots or getting those repetitions up
+
+63
+00:12:05,600 --> 00:12:18,000
+yourself. So, obviously, I have the confidence to take the trades that I do. Not only because I have the data backing it, but also because I've been doing this for a long time and I've taken
+
+64
+00:12:18,000 --> 00:12:30,560
+these trades so many times to the point where I know over a long period of time I'm going to make money in the market. But if you guys just watch a YouTube video and say, "Okay, TJR told me this
+
+65
+00:12:30,560 --> 00:12:39,440
+is a fact, but you guys haven't gotten any reps in." And then you guys immediately start risking your own money. You guys are probably going to be pretty scared about risking your own
+
+66
+00:12:39,440 --> 00:12:48,880
+money. Why? because you guys haven't felt you guys haven't felt that before. You guys haven't actually put risk on the table using a strategy before. So that's something that you guys need to
+
+67
+00:12:48,880 --> 00:12:59,279
+break in. And then the last thing that I want to tell you guys is again when it comes to fear in the markets, you guys will have no fear in the markets when you guys have data backing your
+
+68
+00:12:59,279 --> 00:13:10,240
+strategy. So again, that's why I'm able to take the trades that I do without any fear. And that's why I'm also able to take losses that I do because I know, hey, when I take a loss, awesome. that's
+
+69
+00:13:10,240 --> 00:13:22,000
+just a drop in my probability bucket of my win rate or that's just going to be a drop in my probability bucket of my risk-to-reward and I know that over a longer period of time like if we look
+
+70
+00:13:22,000 --> 00:13:35,680
+back at this month of March right I had an in insane first trading week a great second trading week not the best third trading week and then not the best fourth trading week but I still ended up
+
+71
+00:13:35,680 --> 00:13:48,480
+green on the month so when we look at this what a lot of People mis misconcept what trading is like they think trading is just like green day green day green day green day but what trading actually
+
+72
+00:13:48,480 --> 00:14:01,760
+is is like green week green week red week red week still green on the month and then let me look at or we can even just look at this month the month of May so this month the month of May right
+
+73
+00:14:01,760 --> 00:14:16,320
+this was like a very back and forth back and forth month where I made money the first week I lost 10k the second week and then I lost 70k the the third week and then I made 84k the fourth week. But
+
+74
+00:14:16,320 --> 00:14:27,199
+what a lot of people will do is they'll focus on the day-to-day outcomes or they'll just say like, "Oh, I've had two losing weeks in a row. This strategy doesn't work. I need to stop everything
+
+75
+00:14:27,199 --> 00:14:38,880
+and I need to go look at another strategy." But what will help you stay away from doing something like that is again when you have the data backing that hey these two losing weeks should
+
+76
+00:14:38,880 --> 00:14:50,480
+mean nothing to you because we know that even if I lose two weeks in a row does that mean I I need to change anything? No. It's just a drop in our probability bucket of hey I know I'm going to lose
+
+77
+00:14:50,480 --> 00:15:00,880
+trades using this strategy. There's no strategy that gives me a 100% win rate. And I know that when I do lose I'm losing less than what I make when I win trades. And I know that when I lose, I
+
+78
+00:15:00,880 --> 00:15:12,079
+know that over time I'm going to win more than I that and I know over time I'm going to win more than when I lose. So if I have two losing weeks, I'm not sweating it. I'm not scared about it
+
+79
+00:15:12,079 --> 00:15:25,920
+whatsoever because I know that my strategy is giving me this probability in the market. So again, a lot of people get super super caught up or like they're so focused on the individual
+
+80
+00:15:25,920 --> 00:15:35,519
+outcomes, they'll lose one trade and they'll just be like, "Oh, that's it. The strategy doesn't work. I quit." And it's like, "No, that's not the case." And some people will have a losing week
+
+81
+00:15:35,519 --> 00:15:45,040
+and just be like, "I must be doing something wrong." And you know, I could show you guys a freaking million losing weeks. I had a losing week here, losing week here, but I still ended the month
+
+82
+00:15:45,040 --> 00:15:57,680
+very green. I had a losing week here, losing week here, still ended the month green. I had a losing week here, still ended the month green, losing week, losing week, and then boom, back-to-back
+
+83
+00:15:57,680 --> 00:16:08,800
+winning weeks, and I still ended the month green. So, what you guys need to do is you guys need to zoom out on the long timeline of what your trading journey is. And you guys need to
+
+84
+00:16:08,800 --> 00:16:18,959
+understand that losing weeks are just a part of trading. Just like point blank period, they are a part of trading. And once you guys can accept that and you guys can accept just that trading is a
+
+85
+00:16:18,959 --> 00:16:29,920
+game of probabilities, your goal is to win more than you lose. And when you do win, the goal is for that dollar amount to be more than the dollar amount than when you lose. And if you get both of
+
+86
+00:16:29,920 --> 00:16:36,959
+those things correct, you got a strategy that works for you and you are going to be able to consistently make money from the markets over a long period of time.
+
+87
+00:16:36,959 --> 00:16:52,160
+So with that being said, we are going to jump into this strategy video. So, I'm going to write down essentially what I'm looking for within my strategy before showing it on the charts. So, step
+
+88
+00:16:52,160 --> 00:17:05,119
+number one, I'm looking for draws and liquidity. So, draws and liquidity are essentially going to be session highs, session lows, 1 hour highs, 1 hour lows, 4 hour highs,
+
+89
+00:17:05,119 --> 00:17:23,919
+4 hour lows. So, we have session highs or we'll just do sesh 1 hour, 4 hour, highs and lows. Okay, so I need an area that price is going to want to draw towards in order for that to be my
+
+90
+00:17:23,919 --> 00:17:34,720
+target. And I also need draws and liquidity for me to be able to enter into a trade. So I'm looking for draws on liquidity for price to take out a draw in liquidity. And then from there,
+
+91
+00:17:34,720 --> 00:17:44,240
+I'm looking for price to manipulate and then reverse off of that. So we're looking to manipulate these draws on liquidity and then reverse off of it. So draws and liquidity are just high time
+
+92
+00:17:44,240 --> 00:17:55,280
+frame highs and lows. What lies above high time frame highs and lows? Resting orders. So when we have highs and lows in the market, let's just imagine there's just a bunch of buy orders
+
+93
+00:17:55,280 --> 00:18:05,600
+sitting above highs and a bunch of sell orders sitting below lows. Now occasionally what the market will do when it wants to reverse, which is typically the trades that I'm trying to
+
+94
+00:18:05,600 --> 00:18:16,960
+catch, is it will push above a high and it will activate all of these buy orders. Why? Because there's people during this move down that were selling or shorting the market and their stop
+
+95
+00:18:16,960 --> 00:18:27,679
+loss is above this high. So when price pushes above this high, what happens? They get stopped out and they get forced to buy back that stock or whatever the asset is for a higher price, they lose
+
+96
+00:18:27,679 --> 00:18:37,200
+that trade. So that's some people buying. And then also, if we're in an uptrend and we push past this high, what also is that causing people to do? It's causing people to buy because they say,
+
+97
+00:18:37,200 --> 00:18:46,000
+"Hey, we're in an uptrend. We just pushed past a high, so we're going to continue higher. So, they're entering into the market right here. Now, what does that give the market the
+
+98
+00:18:46,000 --> 00:18:58,480
+opportunity to do? Emphasis on the word opportunity because price doesn't always just push above a high and then instantly reverse. But it does give the market the opportunity because there's a
+
+99
+00:18:58,480 --> 00:19:10,080
+massive amount of buy orders getting filled right here. It gives the market the opportunity to fill a massive amount of sell orders. Why? Because if we think back to just basic e economics, if I
+
+100
+00:19:10,080 --> 00:19:21,440
+want to buy a stock, there has to be somebody that is willing to sell it to me for that same exact price. So when the market is moving, how can it reverse price? It will have to push price above
+
+101
+00:19:21,440 --> 00:19:32,559
+a high to enter a whole bunch of people into buy positions so that it can fill their massive amounts of sell orders to then reverse the market. Okay, so same thing to the downside. Okay, when we
+
+102
+00:19:32,559 --> 00:19:41,919
+push underneath a low, what is happening during this point in time? There are people who were buying on this move up who have their stop losses underneath this low. So, when price pushes
+
+103
+00:19:41,919 --> 00:19:51,840
+underneath this low, all the people that were pressing buy throughout this move up are getting stopped out. Now, also, what are people doing when we push underneath this low? People are shorting
+
+104
+00:19:51,840 --> 00:20:01,120
+the market. People are pressing sell. So, when we push underneath this low, what does that give the market the opportunity to do? It gives the market the opportunity to fill a massive amount
+
+105
+00:20:01,120 --> 00:20:12,960
+of buy orders to then push price higher. Okay, so that's why we want draws on liquidity because we know that that gives the market the opportunity to fill orders. That is step number one. Now,
+
+106
+00:20:12,960 --> 00:20:23,440
+step number two, what am I looking for? I'm looking for potential for orders get to get filled, which is what? Sitting above highs and lows in the market. I'm looking for a high or a low to get push
+
+107
+00:20:23,440 --> 00:20:36,720
+above or below in order to potentially fill orders. Then what am I looking for? I'm looking for confirmation that those orders were filled through a change in trend. So what does that typically look
+
+108
+00:20:36,720 --> 00:20:46,960
+like? I'm looking for a fiveminut break of structure or a 5minute inverse fair value gap. And I'll show you guys examples of what that looks like on the chart if you guys aren't familiar with
+
+109
+00:20:46,960 --> 00:20:58,640
+those two confluences. So again, if we think think to the two steps right now, we have a high and we have a low in the market. Let's say the market boom pushes above a high. What does that give the
+
+110
+00:20:58,640 --> 00:21:09,919
+market the opportunity to do? Fill orders. Fill their sell orders to push price to the downside. So awesome. We have the opportunity to do that with step number one. Then I'm looking for
+
+111
+00:21:09,919 --> 00:21:20,159
+confirmation that price actually is going to do that. So, I'm going to be looking for a break of structure to the downside on the five minute time frame to show confirmation that hey, we had
+
+112
+00:21:20,159 --> 00:21:32,400
+the opportunity to fill orders to push price lower. And now we're actually seeing a change in trend to the downside. Okay. Same thing with lows. So, when we pu when price pushes
+
+113
+00:21:32,400 --> 00:21:42,880
+underneath a low in the market, what does that give the market the opportunity to do? Fill buy orders. How do I know that buy orders have been filled? by seeing a change in trend to
+
+114
+00:21:42,880 --> 00:21:55,200
+the upside. So, I'm looking for either a breakup structure or an inverse fair for value gap to the upside. From there, what am I looking for? Is that just going to be boom, green bean,
+
+115
+00:21:55,200 --> 00:22:07,039
+enter the market? No. I'm looking for actual confirmation that this trend is going to continue. Okay. So step number three is going to be a five-minute continuation confluence which is either
+
+116
+00:22:07,039 --> 00:22:18,320
+going to be equilibrium or a fair value gap getting filled. Okay. So if we go back to our drawing one more time we have opportunity to fill orders above here. Price comes up and then it does
+
+117
+00:22:18,320 --> 00:22:27,360
+what? It takes advantage of that opportunity and says hey we actually want to go lower. So awesome we get step one. Step two we push above a draw on liquidity. Then we got to break the
+
+118
+00:22:27,360 --> 00:22:39,280
+structure to the downside. Then what am I looking for? I'm looking for continuation of this trend. So, I'm going to mark out fair value gaps or I'm going to mark out equilibrium
+
+119
+00:22:39,280 --> 00:22:52,000
+on the five-minute chart to see price push into that continuation confluence and then continue the trend lower because that is going to s signal three different things to me. One, price had
+
+120
+00:22:52,000 --> 00:23:03,440
+the opportunity to reverse. That's step number one. Step number two, price actually took that opportunity and is changing the trend on the low time frame. Then step number three, price is
+
+121
+00:23:03,440 --> 00:23:15,280
+actually continuing that trend on the low time frame. And that is going to give me a high conviction to be able to place that trade. So that's step one. Step two, step three. The last step is
+
+122
+00:23:15,280 --> 00:23:25,039
+actually when we are within these confluences to help us get a better entry is we are going to scale down to the one minute time frame and we're going to look for a break of structure
+
+123
+00:23:25,039 --> 00:23:35,760
+to the downside or an inverse for value gap to show confirmation that hey we're actually going to continue continue down and I'll just show you guys examples of step number four on the charts because
+
+124
+00:23:35,760 --> 00:23:45,600
+it'll make more sense when I'm explaining it on the charts than just trying to put it on the drawings. And you guys are probably sick of the drawings by now. So, let's go on the
+
+125
+00:23:45,600 --> 00:24:02,080
+charts. So, today we actually didn't get an opportunity. That's why you guys can see today I didn't make any money. I didn't place any trades. But if we go to previous days price
+
+126
+00:24:02,080 --> 00:24:32,960
+action, well, today's Monday, so we'll have to go over to Friday's price action. We'll see if we got anything here. Yeah. So, this this was perfect. Friday's price action was perfect. So, where we at?
+
+127
+00:24:32,960 --> 00:24:46,559
+So, this this was literally like step by step. Absolutely perfect. So, what do we see price do off rip? Okay, we see market open. Let me just move this to like right here.
+
+128
+00:24:46,559 --> 00:24:59,520
+Okay, so market opens. What do we what do we do? Boom. We rip to the upside. Step one, manipulation, right? We push above London session highs on the S&P 500. We push above London session highs.
+
+129
+00:24:59,520 --> 00:25:09,840
+Okay, so on both the indexes, we push above session highs. That's step number one. What does price have the opportunity to do? Fill sell orders. So now we're looking for confirmation that
+
+130
+00:25:09,840 --> 00:25:18,960
+those sell orders were actually filled. So we see move up. That's step number one. We got the manipulation. Step number two, what are we looking for? We're either looking for a break of
+
+131
+00:25:18,960 --> 00:25:30,559
+structure to the downside. Whoa. We're either looking for a break of structure to the downside or an inverse fair value gap to the downside. What do we see right here? What does
+
+132
+00:25:30,559 --> 00:25:44,159
+price do on this fivem minute gap? Again, we're looking on the fivem minute. We inverse this bullish gap to the downside. Awesome. What do we do on NASDAQ? We inverse this five-minute gap
+
+133
+00:25:44,159 --> 00:25:58,159
+to the downside. Beautiful. So, we get manipulation. Step number one. We get reversal. Step number two. Now, what are we looking for? We're looking for some form of a continuation of this trend.
+
+134
+00:25:58,159 --> 00:26:11,760
+So, I'm not just going to enter right here when I see the inverse value gap. No, I want to see some form of a retrace. And in this case, we see a 5minute retrace. So, I want to see a
+
+135
+00:26:11,760 --> 00:26:23,120
+5minute retrace. Right? So, how can we how can we tell when we're getting a 5minute retrace? We scale down to the one minute time frame. On the one minute time frame, what I like to do is I like
+
+136
+00:26:23,120 --> 00:26:34,080
+to classify five minute retraces as a break of structure to the upside on the one minute because if you guys remember step number four, we need a break of structure or an inverse for value gap
+
+137
+00:26:34,080 --> 00:26:45,360
+back in this case down towards the direction that we want to be that we want to favor. So, in order for that to happen, we in order for us to be looking for a break of structure down, we need
+
+138
+00:26:45,360 --> 00:26:55,120
+to look for a break of structure up because why would we be looking for a break of structure down if we're already in a downtrend, a breaking structure to the downside while we're already in a
+
+139
+00:26:55,120 --> 00:27:04,400
+downtrend? That just doesn't it that that's like not even a real thing because we're not actually breaking structure. We would just be continuing the trend. So, what we want to look for
+
+140
+00:27:04,400 --> 00:27:16,000
+is a break of structure to the upside. Where do we get that break of structure to the upside on the one minute? We get it right here. Okay? So, we break one minute structure to the upside. What's a
+
+141
+00:27:16,000 --> 00:27:27,360
+break of structure? A break of structure is when we are in a current trend. So, let's say we're in an uptrend and we close underneath the most recent low. That's a break of structure to the
+
+142
+00:27:27,360 --> 00:27:39,360
+downside. If we're looking for a break of structure to the upside, we are in a current downtrend and we want to see a candlestick closure above the most recent high. So, a break
+
+143
+00:27:39,360 --> 00:27:49,279
+of structure to the upside is a candlestick closure above the most recent high that was made within the market. And then a break of structure to the downside is when we see a candle
+
+144
+00:27:49,279 --> 00:28:02,640
+closure underneath the most recent low. And before we get into the actual entry, let me explain inverse for value gaps really quick and why that's actually important. So breakup structure is
+
+145
+00:28:02,640 --> 00:28:15,520
+pretty simple, right? Breakup structure is just how do trends move? Trends move in uptrends, higher highs and higher lows. When does that trend or structure get broken? When we end up closing
+
+146
+00:28:15,520 --> 00:28:27,440
+underneath one of the lows because then that breaks the trend. That breaks the market structure that we're in. And then that puts us in a downtrend. In a downtrend, we're moving from higher
+
+147
+00:28:27,440 --> 00:28:39,120
+or sorry, from lower highs to lower low. So, we have a high, then we have a low, then we have a lower high, then we have a lower low. What would be a break of this structure? If we push up and close
+
+148
+00:28:39,120 --> 00:28:48,720
+above this high, why is that a break of structure? Because we just broke the current trend that we're in. So, when we come down, we're going to end up pushing higher. Why? Because we broke out of
+
+149
+00:28:48,720 --> 00:29:00,559
+this downtrend that we're in. Simple break of structure. An inverse fair value gap is I have plenty video plenty of videos on fair value gaps if you guys want to look at them on my channel but
+
+150
+00:29:00,559 --> 00:29:11,120
+so I don't really want to like get super super deep into this but it's essentially a fair value gap that gets disrespected. So in this case we see this is the lowest fair value gap that
+
+151
+00:29:11,120 --> 00:29:26,720
+price could push to to continue this bullish trend. What does price do to it? We close underneath it. So ha whoa. So had this trend wanted to maintain its bullish structure, it should have just pushed
+
+152
+00:29:26,720 --> 00:29:41,760
+into this and then pushed higher. But did it do that? No. It closed underneath it, disrespecting the the current order flow and the current market structure of price action, right? Because if it
+
+153
+00:29:41,760 --> 00:29:53,120
+wanted to push higher, this is a bullish confluence, right? If price wanted to push higher, it would have filled this gap and it would have pushed price higher, but it didn't. It
+
+154
+00:29:53,120 --> 00:30:05,039
+closed underneath the gap, pretty much signaling to us that, hey, we want price to go lower. So, awesome, we have an inverse gap to the downside. If we go over our strategy one more time, we got
+
+155
+00:30:05,039 --> 00:30:14,799
+manipulation to the upside, potential for sell orders to get filled. Boom. Whole bunch of sell orders. How do we know the sell orders were filled? because we disrespected bullish market
+
+156
+00:30:14,799 --> 00:30:27,760
+structure with this inverse fair value gap. Now what are we looking for? We are looking for continuation of this 5m minute downtrend that we just got ourselves into. So, in order for us to
+
+157
+00:30:27,760 --> 00:30:38,880
+see a continuation of the 5-minute downtrend, we need to see a 5-minut retrace, meaning a one minute break of structure to the upside and then for the one minute then for the 1 minute to
+
+158
+00:30:38,880 --> 00:30:54,080
+break back down, confirming that we are going to go lower. So, in this case, we can see on the S&P 500, we get manipulation inverse of the fair value gap. Awesome. A lot of people will probably enter
+
+159
+00:30:54,080 --> 00:31:04,559
+here, but that's going to cause you guys to get a horrible entry and probably get you guys scared when we end up making this retrace. That's not what we want. We want to get optimal entries. Okay.
+
+160
+00:31:04,559 --> 00:31:15,840
+So, what do we see? We see that happen. We say, "Awesome. Now, I want to wait for a five-minute retrace. How can I see a five-minute retrace? By a one minute break of structure to the upside." Okay,
+
+161
+00:31:15,840 --> 00:31:31,200
+we see the one minute break to the upside right here. Then we say, boom, 5m minute retrace complete. What am I now looking for? Step number four is a break of structure back down to the downside
+
+162
+00:31:31,200 --> 00:31:46,080
+to confirm that this 5minut trend is going to continue. So again, manipulation reversal, then I'm looking for continuation of the trend. So we see price broke structure to the upside and
+
+163
+00:31:46,080 --> 00:31:55,279
+then boom, price breaks structure to the downside. That is where I would have entered short. And I'm pretty sure I took this exact same trade. I took this on the S&P 500. And then where do we
+
+164
+00:31:55,279 --> 00:32:05,760
+target? We target our other draws on liquidity. So again, if you guys remember on step number one, we're looking at draws on liquidity. Okay, this is a pretty bad risk-to-reward
+
+165
+00:32:05,760 --> 00:32:15,440
+ratio, but it's still a good example of the trade, right? So because we had a massive candlestick closure to the downside on this uh breaker structure to the downside. But still this shows our
+
+166
+00:32:15,440 --> 00:32:31,760
+strategy per winning and executing perfectly. Um but what what was I saying on step number one? We understood that hey, not only does price have the opportunity to manipulate price and fill
+
+167
+00:32:31,760 --> 00:32:47,440
+orders to the upside, but also price is going to draw towards these session lows in these hourly highs and lows. once it fills those orders because if we filled sell orders up here,
+
+168
+00:32:47,440 --> 00:33:00,240
+we are also going to be looking for a spot to be able to get rid of these sell orders or be able to make a profit off of these sell orders. So, if the market filled sell orders up here, it needs to
+
+169
+00:33:00,240 --> 00:33:13,519
+push price down to an area where it can liquidate and where it can get rid of those sell orders. So, where is that going to be a good spot? the same exact spot that the same exact the same exact
+
+170
+00:33:13,519 --> 00:33:22,960
+highs and lows that we were looking for an entry. That's going to be our exits. So, we have a session low right here. We have a session low right here. We probably had some hourly lows within
+
+171
+00:33:22,960 --> 00:33:37,519
+here. Okay. So when we're looking for entries off of these manipulations and then we're also looking for exits off of these draws and liquidity as draws and liquidities as well because just like
+
+172
+00:33:37,519 --> 00:33:48,559
+how we were able to fill our massive amounts of sell orders up here, we also need to push price down to an area where it can empty off and it can take profit off of those sell orders. So, it needs
+
+173
+00:33:48,559 --> 00:33:58,399
+to push price towards a draw in liquidity where down here, what are people going to be doing? They're going to be selling, right? So, people are going to be pressing the sell button
+
+174
+00:33:58,399 --> 00:34:14,560
+when we push underneath these session lows. So, if we're in sell orders up here and we're trying to buy back these sell orders for a lower price, which is how you make money on a short,
+
+175
+00:34:14,560 --> 00:34:25,119
+where is price going to want to push? it's going to want to push to where a whole bunch of sell orders are. Why? Because if if the market entered into a short up here, it's going to want to buy
+
+176
+00:34:25,119 --> 00:34:37,679
+back those orders for a lower price. And if it filled a massive amount of orders up here, where's the next spot that price has the opportunity to be able to buy back a bunch of orders when a bunch
+
+177
+00:34:37,679 --> 00:34:49,199
+of people are looking for sells? It's going to be underneath these lows. So, our exit and our entries are based off of the same exact thing. And that's why we need to set take profits based off of
+
+178
+00:34:49,199 --> 00:35:06,800
+these draws in liquidity. Okay, so that is a good example. I'll show you guys on the NASDAQ really quickly. Same exact thing happened. We got manipulation to the upside. We inverse this 5minute gap.
+
+179
+00:35:06,800 --> 00:35:17,920
+We go down to the one minute time frame. Let's look. Okay. Do we get an actual solid breaker structure to the upside right here? Yes, we do. Awesome. Then when do we get the break of structure to
+
+180
+00:35:17,920 --> 00:35:28,800
+the downside? Right here. We get a closure underneath the low. This is where we want to short. Awesome. We can put our stop above the second high and then we can target. Boom.
+
+181
+00:35:28,800 --> 00:35:38,000
+Really any of these lows within here. Boom. This is a really good risk-reward ratio. This is a 1:3 1 to 3.4 risk-to-reward ratio. Boom. We have an hourly low right here. Boom. We
+
+182
+00:35:38,000 --> 00:35:50,000
+have some lows right here. And then we also have London lows, Asia lows. All of these lows that we can look for partial profits throughout the way. Okay, super super simple. Again, if we think
+
+183
+00:35:50,000 --> 00:36:01,680
+about our strategy, we're looking for a liquidity sweep, meaning a higher low that gets a high or a low that gets pushed above or below. Then we're looking for a 5m minute break of
+
+184
+00:36:01,680 --> 00:36:14,160
+structure or an inverse fair value gap. Then we're looking for a five minute equilibrium or fair value gap getting filled. Or just I mean we can even make this even simpler. Instead of just
+
+185
+00:36:14,160 --> 00:36:22,240
+saying, "Oh yeah, I want equilibrium or a fair value gap getting filled." We can just say we want a one minute break of structure to the upside or to the downside. So we can look for a one
+
+186
+00:36:22,240 --> 00:36:32,240
+minute break of structure or an inverse fair for value gap to the upside or the downside. And then we just want to look for the same exact thing in the direction in the direction that
+
+187
+00:36:32,240 --> 00:36:42,720
+we're looking to push price. Super simple. We're looking for a liquidity sweep, 5m minute break of structure. Then we're looking for a one minute break of structure to the upside
+
+188
+00:36:42,720 --> 00:36:52,480
+and then one minute break of structure to the downside. Awesome. We're entering right there. And then we're using our other draws and liquidity as targets to be able to exit. Super super simple. Let
+
+189
+00:36:52,480 --> 00:37:38,640
+me show you guys maybe one or two more examples of this.  All right, let's see. So, on this we didn't really we didn't really get too much. I mean, I actually I did take longs here on NASDAQ, so I
+
+190
+00:37:38,640 --> 00:37:51,599
+can go over this, but I mean, it's decent. So, again, what are we looking for? We get market opens. We're looking for some form of form of a manipulation. Price comes down, manipulates these
+
+191
+00:37:51,599 --> 00:38:05,119
+lows. Awesome. That's step number one. Okay, we get boom, push down. On ES, we don't take out these lows, but on NASDAQ, we do. So, awesome. As long as one of the indexes is doing it for us,
+
+192
+00:38:05,119 --> 00:38:16,880
+that's all we need. Okay, so we get boom manipulation. Then, what are we looking for? We're looking for a change in order flow, either a breakup structure or an inverse for value gap where to the
+
+193
+00:38:16,880 --> 00:38:28,800
+upside because we manipulated to the downside, right? We had a whole bunch of sell orders getting filled underneath here. So, what does that give the market the opportunity to do? Fill buy orders.
+
+194
+00:38:28,800 --> 00:38:41,520
+Okay, so price pushes underneath a low. Then from there, what am I looking for? I'm either looking for a breaker structure to the upside or an inverse for value gap. In this case, we get the inverse
+
+195
+00:38:41,520 --> 00:38:53,839
+for value gap first. Okay, we inverse this top gap to the upside. Step one and step two done. We got manipulation. Then we got confirmation that those orders were filled. Now, what do we need to
+
+196
+00:38:53,839 --> 00:39:05,280
+see? We need to see a continuation. So, how do we see continuation? Well, we can just scale down to the 1 minute time frame. Look for a break of structure to the downside. then look for a break back
+
+197
+00:39:05,280 --> 00:39:16,880
+up. So in this case, and also in this case, we have a fiveminute fair value gap that gets filled. Again, you guys can use either just the one minute break to the downside or you guys can actually
+
+198
+00:39:16,880 --> 00:39:28,079
+look for these these confluences confluences to get filled. We do have this fiveminute gap right here that ends up getting filled. But right here, okay, we get one minute move
+
+199
+00:39:28,079 --> 00:39:39,839
+down, move up, and then awesome. Where do we break structure to the downside? Boom. Right here we get a candlestick closure from there. My eyes light up. Why? Because we got manipulation.
+
+200
+00:39:39,839 --> 00:39:51,680
+Boom. Reversal. Now I'm looking for this trend to continue. Okay. So price broke structure to the downside. Now what am I looking for? Price to break structure back to the upside or give us a fair
+
+201
+00:39:51,680 --> 00:40:01,280
+value gap. Inverse fair for value gap, right? To confirm that price is going to move higher. So where do we get that? Well, there's a couple opportunities here. Is this a
+
+202
+00:40:01,280 --> 00:40:14,240
+gap? This is a tiny tiny tiny little gap. So, we're going to want to mark this one out. It's like literally the tiniest bullish gap ever created. But boom. So, we do have that bullish gap
+
+203
+00:40:14,240 --> 00:40:29,839
+right there, but we end up inversing this gap and breaking structure on the same exact candle, which is going to be this one right here. Okay. So, we get manipulation, reversal, continuation,
+
+204
+00:40:29,839 --> 00:40:38,800
+and then boom. This right here, we get a break of structure to the upside. Awesome. I want to long that. I want my stops underneath the second low. And then what can we
+
+205
+00:40:38,800 --> 00:40:48,960
+look for? We can look for our other draws on liquidity to the upside that price is probably going to want to take out. So, in this case, we had these highs that were all the way up here. Do
+
+206
+00:40:48,960 --> 00:40:59,200
+I really want to sit and wait 10 freaking years for these highs to get taken out? No, I don't. The the highs ended up getting taken out on the on the following trading day. But
+
+207
+00:40:59,200 --> 00:41:08,880
+realistically, am I going to want to do that? No. So, I'll look for intermediate highs that can be taken out. We have these highs right here for an approximate 1:1 risk-to-reward ratio. We
+
+208
+00:41:08,880 --> 00:41:19,040
+have highs right here, good risk-to-reward. We have highs right here. We have this big gap that we could get filled all the way through here. Regardless, price moves up and in our
+
+209
+00:41:19,040 --> 00:41:33,359
+direction for another winning trade. Okay, we can look at the same exact thing on the S&P 500. I'll kind of I'll just super super skim through this. Okay, even though we
+
+210
+00:41:33,359 --> 00:41:46,319
+didn't get the manipulation on ES, that's why I actually took the trade on NASDAQ. I guess can actually show you guys that I took this trade. We can see these were my buys on NASDAQ.
+
+211
+00:41:46,319 --> 00:41:59,359
+So, let's see what day was this? This was on the 28th. So, I entered buys on NASDAQ. I can't reme remember how much I made on this day, but as we can see, oops, I'm covering it up. But right
+
+212
+00:41:59,359 --> 00:42:12,720
+here, this was on the 28th of May. Okay. So, I entered buys on NASDAQ. Boom. We bought NASDAQ. And as you can see, we made money on these buy orders on NASDAQ. And actually, I can even show
+
+213
+00:42:12,720 --> 00:42:28,720
+you guys on the freaking chart that I took that trade. Okay, so as you guys can see, I took the exact trade that I just showed you guys. I took the exact same trade that I
+
+214
+00:42:28,720 --> 00:42:40,160
+showed you guys, and I took profit here, took profit here, and took profit all the way up here. Okay, so again, I'm telling you guys this strategy because it's actually what I use. And
+
+215
+00:42:40,160 --> 00:42:51,920
+again, I have the data backing it. It's for a reason. Okay, so again, I took the same exact trade on NASDAQ and exited like all throughout here and then ended up finally exiting for my full
+
+216
+00:42:51,920 --> 00:43:04,480
+take profit all the way up here and made money on the day. Um ES it was similar situation. So even though ES didn't get the manipulation, NASDAQ did. Um but ES ends up breaking five-minute structure
+
+217
+00:43:04,480 --> 00:43:19,440
+to the upside right here. ES comes down, fills this gap, and then ends up pushing higher. Simple. All right, we'll do one more example. Now, again, I just went back to the past
+
+218
+00:43:19,440 --> 00:43:28,880
+two trading days. It worked. It worked perfectly the past the past two trading days, okay? And again, when you guys are watching this, you guys are like probably like, "Holy this is the
+
+219
+00:43:28,880 --> 00:43:40,240
+best strategy in the world. I'm going to have a 100% win rate." Understand that that is not the case, okay? There are losing days that are involved with this. Sometimes we lose, okay? Sometimes we
+
+220
+00:43:40,240 --> 00:43:52,160
+lose. So, even though the last two days that we went over were winning days, I would honestly like to find a losing day so that I can show you that losing is a part of this. Um, let's see. So, that
+
+221
+00:43:52,160 --> 00:44:26,000
+was Thursday. Let's go and see Wednesday. Okay. Yeah, Wednesday worked too. So, I mean, I'm trying to find an example where this doesn't end up happening, but in this case, I mean,
+
+222
+00:44:26,000 --> 00:44:36,160
+this is a good example to go over. In this case, we get the manipulation during pre-market, right? So, we see boom, massive legs up, manipulating these highs during pre-market and then
+
+223
+00:44:36,160 --> 00:44:46,960
+we see the reversal start happening during pre-market. Do we want to be entering during pre-market? The answer is always going to be no. I want to wait until price actually until market
+
+224
+00:44:46,960 --> 00:45:01,200
+actually opens and like gives us some real volume. Okay, so we get manipulation, we get the reversal. So really all I'm going to be looking for is going to be our continuation confluence. Okay.
+
+225
+00:45:01,200 --> 00:45:11,680
+On NASDAQ, if we go in here again, what are we looking for? We're looking for a one minute breakup structure or an inverse for value gap to the upside. I mean, this should be this should be
+
+226
+00:45:11,680 --> 00:45:19,839
+clockwork to you guys at this point. When do we get the breakup structure to the upside? We get it right here. Now, what are we waiting for? We're waiting for a breaker structure to the downside.
+
+227
+00:45:19,839 --> 00:45:36,000
+Okay. When do we get that? Boom. Right here. This is where we want to short. Boom. Stops above this high. Come on, bro. There you go. Stops above this high. And then you guys can target
+
+228
+00:45:36,000 --> 00:45:51,359
+these lows. I think I took this trade as well. So, it's proof in the freaking pudding. I took the same exact trade that I showed you guys, and I exited at the same exact spot. We can see I entered
+
+229
+00:45:51,359 --> 00:46:02,160
+right here and then boom, exited right here. So again, it's clear that I'm using this strategy and we just went over three days back to back to back where this has where this played out in
+
+230
+00:46:02,160 --> 00:46:11,680
+our favor. Again, we get boom manipulation, we get reversal. What are we looking for? We're looking for the gap to get filled and then boom, we end up getting the breakup structure to the
+
+231
+00:46:11,680 --> 00:46:20,640
+downside right here. Awesome. That's where we're looking to enter. And then we're looking to exit underneath hourly draws on liquidity, 4hour draws on liquidity, all of that. This is
+
+232
+00:46:20,640 --> 00:46:30,880
+obviously a significant low. So, this is where I'm going to want to take some profit at. I did have extended takeprofits at this daily low and then at these lows down here, but I took my
+
+233
+00:46:30,880 --> 00:46:44,240
+first profit and then I moved my stop loss to break even. Obviously, the rest got stopped out at break even, but we still won. We still won and we still made money on the day. So, I mean,
+
+234
+00:46:44,240 --> 00:46:57,280
+I'll let's let's keep trying to find like a losing day so I can like convince you guys that this isn't just like a 100% hit rate. Um, I'm lit I'm literally just going back over the days
+
+235
+00:46:57,280 --> 00:47:11,280
+um just unfortunately the past three days. Or maybe I show you guys today's price action on how there wasn't a trade. We Well, let's see if Tuesday was a losing day. Um,
+
+236
+00:47:11,280 --> 00:47:28,720
+let's see if Tuesday was a losing day. I'm like trying to convince you guys. God damn it. It was a winning day. All right. The strategy is good. I guess the strategy is good. Um,
+
+237
+00:47:28,720 --> 00:47:43,760
+yes. Oh my god. It's too good. The strategy is good. The strategy um it clearly works. What? like we'll we'll skim through this, but  it works. Um, okay, market open. What do
+
+238
+00:47:43,760 --> 00:47:54,240
+we do? We manipulate these hourly lows. Then what? We get this 5m minute inverse for value gap to the upside. Then what? We get the five minute for value gap fill. And then there's an there's the
+
+239
+00:47:54,240 --> 00:48:10,079
+entry. Okay, within here target these draws and liquidity, you would have won. You would have won on that day as well. So,  we need to find a losing day. Let me just show you guys today's price action
+
+240
+00:48:10,079 --> 00:48:23,920
+because I didn't take a trade today and our strategy didn't present itself. So, I can like like maybe just make myself seem worse. Um, okay. Today's price action. Today's price
+
+241
+00:48:23,920 --> 00:48:41,200
+action. Bad bad bad. Okay. Why is it bad bad bad? So, let's look at this. We have boom. This is market open. This is market open. Okay. We get market open. Do we get any sort
+
+242
+00:48:41,200 --> 00:48:50,480
+of manipulation? Yes. Awesome. We get manipulation to the downside. Boom. Price comes down, manipulates this, and awesome. We get a break of structure to the upside on the fiveminut time frame
+
+243
+00:48:50,480 --> 00:49:04,800
+right here. Right on NASDAQ. On the S&P 500 though, do we get a break of structure to the upside? No. Uh uh. No, we don't get a break of structure to the upside. This is something. Thank
+
+244
+00:49:04,800 --> 00:49:19,839
+you. Perfect. We found a a bad day to trade so I can remember this. Okay. I do not like and I would highly recommend you guys don't take trades when the two indexes are not aligned. So
+
+245
+00:49:19,839 --> 00:49:43,520
+what does that mean? I forgot. I forgot about this. Okay. When the two indexes are not aligned like if ES is bullish on the fivem minute bulls bulls balls okay if ES is bullish and NASDAQ is bearish
+
+246
+00:49:43,520 --> 00:49:59,119
+bearish be am I high bearish bearish I don't want to take the trade okay now why is that because if both the indexes are telling us two different things, then the market is probably indecisive.
+
+247
+00:49:59,119 --> 00:50:10,079
+Okay, so if we look at today, right, ES is maintaining bearish order flow, right? We get a big move down, but do we get a break structure to the upside on the 5minute? No. On NASDAQ, we get a big
+
+248
+00:50:10,079 --> 00:50:20,640
+move down and then we do get a breakup structure to the upside on the 5minute. So, what index is right? If ES is bearish but NASDAQ is bullish, how do we decide which one to trade? Well, that's
+
+249
+00:50:20,640 --> 00:50:31,440
+the awesome thing. Remember what I was telling you guys? What I was telling you guys at the start of this video? Jeez. What I was telling you guys at the start of this video is that less trades
+
+250
+00:50:31,440 --> 00:50:41,280
+are better. So, even though we just went over three or like four trading days where this ended up working out and you guys are like, "Oh my gosh, this is the best strategy ever."
+
+251
+00:50:41,280 --> 00:50:51,920
+Sometimes there's going to be days where we don't want to trade. And today is a perfect example of that where ES was bearish and NASDAQ was bullish on the fiveminut time frame. Meaning the market
+
+252
+00:50:51,920 --> 00:51:07,760
+is indecisive. The market does not know where it wants to go. And until these two indexes are correlated, meaning both ES is in either a 5minute uptrend and NASDAQ is in a 5minute uptrend or NASDAQ
+
+253
+00:51:07,760 --> 00:51:18,160
+is in a 5minute downtrend and ES is in a fiveminute downtrend, I don't want to take a trade because if ES is telling us one thing and NASDAQ is telling us another thing and NASDAQ is saying,
+
+254
+00:51:18,160 --> 00:51:31,200
+"Hey, we want to go down." But the S&P 500 is saying, "Hey, we want to go up." Cue the LAR song. We could go up. Right? So if if both of the indexes are telling us two different things then why should
+
+255
+00:51:31,200 --> 00:51:41,520
+we take a trade if ES is saying hey we want to go higher and NASDAQ is say saying hey we want to go lower we should not be taking a trade under these market circumstances until both of them can be
+
+256
+00:51:41,520 --> 00:51:54,960
+aligned okay so in this case ES was it bullish no we didn't get a fiveminute break structure to the upside on NASDAQ were we bullish yes so NASDAQ is bullish but ES is bearish okay so I don't want
+
+257
+00:51:54,960 --> 00:52:09,839
+anything to do with this today. Why? Because we we don't get we don't get we we Okay, neither of the indexes are aligned. So, let's just say like awesome. If the indexes weren't aligned
+
+258
+00:52:09,839 --> 00:52:18,559
+at the start at the start of the session, that's fine. They can still get aligned later in the session. So, let's look for it. Awesome. NASDAQ gets a break structure to the downside at 950.
+
+259
+00:52:18,559 --> 00:52:32,079
+Beautiful. Okay. At 950. Awesome. NASDAQ breaks pressure to the downside and ES is still in its downtrend. Beautiful. We can potentially look for a trade here, right? Wrong. NASDAQ dumps all the way
+
+260
+00:52:32,079 --> 00:52:43,920
+down and doesn't give us the opportunity to be able to enter into any sort of continuation trade, right? It just moves all the way down. We don't get any sort of a fiveminute retrace. We don't get
+
+261
+00:52:43,920 --> 00:52:55,119
+any sort of a one minute break of structure to the upside. But then you're probably saying, "Well, TJR, we broke one minute structure to the upside right here at 10:07." Okay, you're right. I'll
+
+262
+00:52:55,119 --> 00:53:04,800
+I'll let you in. Okay, we got a one minute break of structure to the upside at 10:07. And awesome. We got draws and liquidity to the downside. We got boom, we got all of these lows stacked up.
+
+263
+00:53:04,800 --> 00:53:13,920
+Perfect, right? Looks like great draws and liquidity. But what do we need? We need the 1 minute to break structure back down to the downside. Do we see that happen? No. This is the low that
+
+264
+00:53:13,920 --> 00:53:22,640
+we're looking at. Nope. This is the low that we're looking at. Nope. This is the low that we're looking at. Nope. This is the low that we're looking at. And then before you freaking know it,
+
+265
+00:53:22,640 --> 00:53:35,839
+what has NASDAQ done? It has broken five minute structure back to the upside. And at this point in time, it's 10:20. By 10:30, I'm done for the freaking day. If neither of the indexes are aligned and
+
+266
+00:53:35,839 --> 00:53:46,640
+it's 10:20 on the freaking timer on the Eastern Eastern time zone, call it a freaking day because we're going to have a whole bunch of going on. And as you can see following that, what did
+
+267
+00:53:46,640 --> 00:53:57,200
+we have? A whole bunch of right? Nobody wants to be trading this price action. This is ugly, ugly, ugly, ugly on the on the S&P 500. Does anybody want to be trading this? No. This looks
+
+268
+00:53:57,200 --> 00:54:10,960
+like piano keys across our freaking across our freaking board. Okay? Nobody wants to be trading this. This is not optimal price action whatsoever. So, we just call it a day. All right. That was
+
+269
+00:54:10,960 --> 00:54:24,640
+that's good that we went over today because if the S&P 500 and the NASDAQ on the five minute are not aligned, I do not want to be taking a trade. Okay? If the S&P 500 and the NASDAQ are not
+
+270
+00:54:24,640 --> 00:54:36,720
+aligned, I do not want to be taking a trade. Okay? So on the 5m minute, even though NASDAQ broke structure to the upside, ES did not. So I'm not looking for longs until ES can actually break
+
+271
+00:54:36,720 --> 00:54:51,440
+structure to the upside. And it doesn't end up doing that all the way until like right here. And I mean technically, when was this? This was 11:05. I mean, yeah, technically at 11:05,
+
+272
+00:54:51,440 --> 00:55:04,000
+boom, we were already in a bullish trend on the 5m minute on NASDAQ because we broke structure to the upside. Sure. At 11:05, if you're able to find a freaking entry, awesome. Go for it. We get a
+
+273
+00:55:04,000 --> 00:55:12,880
+freaking one minute break of structure to the downside right here. And then we end up breaking to the upside. Boom. That's your freaking entry. Your stops under are underneath here. And then you
+
+274
+00:55:12,880 --> 00:55:21,359
+end up targeting whatever all of these highs that are throughout here. Boom. High right here. High right here. High right here. High right here. And it ends up working out in your favor.
+
+275
+00:55:21,359 --> 00:55:32,720
+But do you really want to be sitting on the chart for that freaking long? Personally, I do not. We can see when was this? This is 11:05. This is when we get the break to the upside. Awesome. We
+
+276
+00:55:32,720 --> 00:55:44,640
+inverse this gap to the downside and then boom, we get the break structure to the upside. So yeah, this would this would technically be when you would want to enter using our strategy and sure
+
+277
+00:55:44,640 --> 00:55:57,280
+we can target these highs for like a 1 to1 risk-toreward ratio. Sure, it played sure it played out in our favor. But me personally, I'm not willing to sit through all of this chop and all of this BS
+
+278
+00:55:57,280 --> 00:56:11,359
+to to take this trade at 1120. And and more often than not, you're just again, the less trades, the better. Because if we think back to what our strategy does, our strategy helps us, its steps to help
+
+279
+00:56:11,359 --> 00:56:26,799
+us not take bad trades. Our strategy is less about what trade to take and more about what trades it stops us from taking. Holy bar. Holy bars. So, if you guys made it this far in the
+
+280
+00:56:26,799 --> 00:56:41,680
+video, drop a freaking subscribe for that absolute bar of a trading. Wow. I'm going to make a Tik Tok on that literally right now. Your strategy is Hold on. Hold on. Let
+
+281
+00:56:41,680 --> 00:56:53,920
+me redo this. You guys are seeing this happen in real time. Your strategy is less Sorry. You guys are seeing this happen in real time. What What was it? Your strategy is less
+
+282
+00:56:53,920 --> 00:57:08,160
+about telling Oh, yeah. Your strategy is less about telling you guys what trade to take and more about telling you guys what trades not to take. I don't really know what else I'm going
+
+283
+00:57:08,160 --> 00:57:18,160
+to say in this Tik Tok to be completely honest. I just thought that was smart. Okay, I'll finish it later. But anyways, long story short, your strategy is pres preventing you guys because again within
+
+284
+00:57:18,160 --> 00:57:29,040
+our strategy, there's a lot of steps that we need to get through. And I mean on this day, this is a perfect example, right? If our if we didn't have our strategy, we would have seen
+
+285
+00:57:29,040 --> 00:57:39,040
+manipulation, awesome fiveminute breaking structure to the upside. If we just had those two steps, boom, we would have we would have gotten crushed. Okay? We would we would have gotten stopped
+
+286
+00:57:39,040 --> 00:57:53,680
+out on this trade. Okay? So, our strategy has these steps built in to help give us probability in the market. Okay? Because without probability, trading is literally nothing. And you guys might as
+
+287
+00:57:53,680 --> 00:58:03,119
+you you guys literally are better off hitting the casino. I mean, that it sounds lit to be honest. Like, I would I would much rather just like take the trading day off and just spin that
+
+288
+00:58:03,119 --> 00:58:12,400
+you know? Like, if I don't trade, awesome. You know exactly where I'm going, bro, cuz I need to get my fill. But if the strategy does present itself, you know that probability is on your
+
+289
+00:58:12,400 --> 00:58:22,480
+side, so you might as well take that risk. So, that's going to wrap it up for today's video. We went literally a whole freaking hour dissecting my strategy that has given me probability in the
+
+290
+00:58:22,480 --> 00:58:34,960
+markets um and has continued to help me make money from trading over the past couple years now. So, if you guys enjoyed this, grop a freaking like or whatever the heck is involved with that.
+
+291
+00:58:34,960 --> 00:58:41,680
+Give me a freaking subscribe button. I love and appreciate you guys. I'll catch you guys in the next one.
