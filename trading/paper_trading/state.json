@@ -6,9 +6,27 @@
       "qty": 2,
       "entry_date": "2026-09-25",
       "strategy": "VWAP Pullback"
+    },
+    "ICICIBANK": {
+      "action": "SELL",
+      "entry_price": 1326.800048828125,
+      "qty": 22,
+      "entry_date": "2026-09-25",
+      "strategy": "Donchian 20 Breakout"
+    },
+    "BHARTIARTL": {
+      "action": "SELL",
+      "entry_price": 1785.4000244140625,
+      "qty": 16,
+      "entry_date": "2026-09-25",
+      "strategy": "Donchian 20 Breakout"
     }
   },
   "closed_trades": [],
   "capital": 100000,
-  "last_run": "2026-09-28 03:46"
+  "last_run": "2026-09-28 06:32",
+  "psych_state": {
+    "consecutive_losses": 0,
+    "dd_pct": 0
+  }
 }

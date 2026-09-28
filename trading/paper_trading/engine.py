@@ -295,6 +295,9 @@ def update_excel(state, stock_signals):
         ws3.cell(20,1,"📈 MONTHLY P&L"); ws3.cell(20,1).font = Font(bold=True, size=12)
         ws3.cell(21,1,"Month"); ws3.cell(21,2,"Start"); ws3.cell(21,3,"End"); ws3.cell(21,4,"P&L"); ws3.cell(21,5,"Cumulative")
         for r in [4,5,6,7,8,9,10,13,14,15,16,17,18]: ws3.cell(r,1).font = Font(bold=True)
+    else:
+        ws3 = wb["Account Overview"]
+        for mr in list(ws3.merged_cells.ranges): ws3.unmerge_cells(str(mr))
 
     ws3 = wb["Account Overview"]
     total_pnl = sum(t['pnl'] for t in state.get("closed_trades", []))
