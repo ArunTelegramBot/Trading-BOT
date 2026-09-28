@@ -5,7 +5,7 @@ from openpyxl.styles import PatternFill,Font,Border,Side
 from datetime import datetime,timezone,timedelta
 warnings.filterwarnings('ignore')
 B="/home/ubuntu/Trading-BOT/trading/paper_trading"
-E=f"{B}/paper_trading.xlsx"; S=f"{B}/state.json"; P="/home/ubuntu/Trading-BOT/trading/stocks_100.txt"
+E=f"{B}/paper_trading.xlsx"; S=f"{B}/state.json"; P="/home/ubuntu/Trading-BOT/trading/stocks_100.txt"; N=f"{B}/news.json"
 I=500000; C=I//50; R=0.02; SL=1.5; TP=3.0
 
 ST=[
@@ -287,6 +287,31 @@ def ux(state):
     w3.cell(14,1,f"{len(ST)} STRATS | {len(KK)} STOCKS | SL {SL}x TP {TP}x | 10MIN").font=Font(bold=True,size=11)
     wb.save(E); return tc
 
+def fetch_news(state):
+    import urllib.request,re,html,json,time
+    KK=[s.strip() for s in open(P).readlines() if s.strip() and not s.startswith('#')]
+    all_news=state.get("news_cache",[]); now=datetime.now().strftime("%Y-%m-%d %H:%M")
+    news={}
+    for s in KK[:100]:
+        try:
+            q=f"{s.replace('.NS','')} NSE stock"
+            url=f"https://news.google.com/rss/search?q={urllib.request.quote(q)}&hl=en-IN&gl=IN"
+            req=urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0'})
+            resp=urllib.request.urlopen(req,timeout=10)
+            data=resp.read().decode('utf-8',errors='replace')
+            titles=[html.unescape(t.strip()) for t in re.findall(r'<title[^>]*>([^<]+)</title>',data)]
+            relevant=[t for t in titles if s.replace('.NS','') in t.upper() and 'Google' not in t and len(t)>40]
+            if relevant: news[s.replace('.NS','')]=relevant[:2]
+        except: pass
+    news["_time"]=now
+    all_news.append(news)
+    if len(all_news)>50: all_news=all_news[-50:]
+    state["news_cache"]=all_news
+    try: json.dump(all_news,open(N,'w'))
+    except: pass
+    print(f"📰 News for {len(news)} stocks fetched")
+    return all_news
+
 def go():
     import pandas as pd,numpy as np,yfinance as yf
     state=ls(); ni=datetime.now(timezone(timedelta(hours=5,minutes=30)))
@@ -296,6 +321,9 @@ def go():
         return
     tc=sum(state['strategies'][s]['capital'] for s in ST)
     print(f"RUN {ds} {ts} | ₹{tc:,.0f} | {len(KK)}×{len(ST)}={len(KK)*len(ST)} checks/run")
+    if mn < 15:
+        try: fetch_news(state)
+        except Exception as e: print(f"📰 News fetch error: {e}")
     ps=state.get("psych",{"dd":0,"loss_streak":0,"trades_today":0})
     dd=(I-tc)/I*100 if tc<I else 0; cooloff=ps.get("loss_streak",0)>=3; psize=0.5 if dd>10 else 1.0
     nt=0
