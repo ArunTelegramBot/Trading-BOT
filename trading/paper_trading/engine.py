@@ -240,6 +240,7 @@ def ux(state):
     wb=openpyxl.load_workbook(E) if os.path.exists(E) else openpyxl.Workbook()
     if "Trade Log" not in wb.sheetnames:
         w1=wb.create_sheet("Trade Log")
+        if "Sheet" in wb.sheetnames: del wb["Sheet"]
         for i,h in enumerate(["Date","Time","Stock","Strategy","Action","Entry","Exit","Qty","P&L","Exit Reason"],1): w1.cell(1,i,h)
     w1=wb["Trade Log"]; log=set()
     for r in range(2,w1.max_row+1):
@@ -321,8 +322,10 @@ def go():
         return
     tc=sum(state['strategies'][s]['capital'] for s in ST)
     print(f"RUN {ds} {ts} | ₹{tc:,.0f} | {len(KK)}×{len(ST)}={len(KK)*len(ST)} checks/run")
-    if mn < 15:
-        try: fetch_news(state)
+    # News once per hour: check last news hour
+    last_news = state.get("last_news_hour", -1)
+    if last_news != ni.hour:
+        try: fetch_news(state); state["last_news_hour"] = ni.hour
         except Exception as e: print(f"📰 News fetch error: {e}")
     ps=state.get("psych",{"dd":0,"loss_streak":0,"trades_today":0})
     dd=(I-tc)/I*100 if tc<I else 0; cooloff=ps.get("loss_streak",0)>=3; psize=0.5 if dd>10 else 1.0
