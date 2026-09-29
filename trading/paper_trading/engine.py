@@ -52,8 +52,8 @@ def calc(d):
     mf=c.ewm(12).mean(); ms=c.ewm(26).mean(); mc=mf-ms; msig=mc.ewm(9).mean(); mh=mc-msig
     bm=c.rolling(20).mean(); bs=c.rolling(20).std(); bu=bm+2*bs; bl=bm-2*bs; bw=(bu-bl)/bm
 
-    def st(atr_p,a14_v,mult):
-        u=h2+mult*a14_v; dn=h2-mult*a14_v; st=[1]
+    def st(atr_p,close_p,mult):
+        u=h2+mult*atr_p; dn=h2-mult*atr_p; st=[1]
         for i in range(1,n):
             if c.iloc[i]<=u.iloc[i-1]: st.append(-1)
             elif c.iloc[i]>=dn.iloc[i-1]: st.append(1)
