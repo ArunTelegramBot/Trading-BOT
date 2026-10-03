@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """NSE v4 — 10-min intraday, 100 stocks, 50 strats, ₹5L, auto SL/TP, psychology rules."""
 import json,os,warnings,openpyxl
-from openpyxl.styles import PatternFill,Font,Border,Side
+from openpyxl.styles import PatternFill,Font,Border,Side,Alignment
 from datetime import datetime,timezone,timedelta
 warnings.filterwarnings('ignore')
 B="/home/ubuntu/Trading-BOT/trading/paper_trading"
@@ -238,54 +238,105 @@ def calc(d):
 
 def ux(state):
     wb=openpyxl.load_workbook(E) if os.path.exists(E) else openpyxl.Workbook()
+    TB=Border(left=Side('thin',color='D1D5DB'),right=Side('thin',color='D1D5DB'),
+              top=Side('thin',color='D1D5DB'),bottom=Side('thin',color='D1D5DB'))
+    G=PatternFill("solid",fgColor="C6EFCE"); Rf=PatternFill("solid",fgColor="FFC7CE")
+
+    # ── Trade Log ──────────────────────────────────
     if "Trade Log" not in wb.sheetnames:
         w1=wb.create_sheet("Trade Log")
         if "Sheet" in wb.sheetnames: del wb["Sheet"]
-        for i,h in enumerate(["Date","Time","Stock","Strategy","Action","Entry","Exit","Qty","P&L","Exit Reason"],1): w1.cell(1,i,h)
-    w1=wb["Trade Log"]; log=set()
+        for i,h in enumerate(["Stock","P&L ₹","Reason","Strategy","Action","Entry","Exit","Qty","Date","Time"],1): w1.cell(1,i,h)
+    w1=wb["Trade Log"]
+    w1.column_dimensions['A'].width=12; w1.column_dimensions['B'].width=9
+    w1.column_dimensions['C'].width=7; w1.column_dimensions['D'].width=12
+    w1.column_dimensions['E'].width=7; w1.column_dimensions['F'].width=10
+    w1.column_dimensions['G'].width=10; w1.column_dimensions['H'].width=5
+    w1.column_dimensions['I'].width=11; w1.column_dimensions['J'].width=7
+    log=set()
     for r in range(2,w1.max_row+1):
-        v=w1.cell(r,1).value
-        if v: log.add(f"{w1.cell(r,1).value}_{w1.cell(r,3).value}_{w1.cell(r,4).value}")
+        v=w1.cell(r,9).value  # Date col (I)
+        if v: log.add(f"{v}_{w1.cell(r,1).value}_{w1.cell(r,4).value}")
     for t in state.get("closed_trades",[]):
         k=f"{t['exit_date']}_{t['stock']}_{t['strategy']}"
-        if k not in log:
-            r=w1.max_row+1; w1.cell(r,1,t['exit_date']); w1.cell(r,2,t['exit_time'])
-            w1.cell(r,3,t['stock']); w1.cell(r,4,t['strategy'])
-            w1.cell(r,5,"SELL" if t['action']=='BUY' else "COVER"); w1.cell(r,6,t['entry']); w1.cell(r,7,t['exit']); w1.cell(r,8,t['qty'])
-            p=w1.cell(r,9,t['pnl']); p.fill=G if t['pnl']>=0 else Rf; w1.cell(r,10,t.get('exit_reason',''))
-            for c in range(1,11): w1.cell(r,c).border=T
+        if k in log: continue
+        r=w1.max_row+1
+        w1.cell(r,1,t['stock']); w1.cell(r,2,t['pnl'])
+        p=w1.cell(r,2); p.fill=G if t['pnl']>=0 else Rf
+        w1.cell(r,3,t.get('exit_reason','')); w1.cell(r,4,t['strategy'])
+        w1.cell(r,5,"SELL" if t['action']=='BUY' else "COVER")
+        w1.cell(r,6,t['entry']); w1.cell(r,7,t['exit']); w1.cell(r,8,t['qty'])
+        w1.cell(r,9,t['exit_date']); w1.cell(r,10,t['exit_time'])
+        for c in range(1,11): w1.cell(r,c).border=TB
+    # ── Strategy Performance ───────────────────────
     if "Strategy Performance" not in wb.sheetnames:
         w2=wb.create_sheet("Strategy Performance")
-        for i,h in enumerate(["Strategy","Trades","Wins","Losses","Win%","P&L","Avg RR","Now","Return%"],1): w2.cell(1,i,h)
     w2=wb["Strategy Performance"]
+    w2.column_dimensions['A'].width=14; w2.column_dimensions['B'].width=10
+    w2.column_dimensions['C'].width=10; w2.column_dimensions['D'].width=8
+    w2.column_dimensions['E'].width=8; w2.column_dimensions['F'].width=7
+    w2.column_dimensions['G'].width=8; w2.column_dimensions['H'].width=9
+    w2.column_dimensions['I'].width=11
     for i,s in enumerate(ST,2):
         td=[t for t in state.get("closed_trades",[]) if t['strategy']==s]
         w=sum(1 for t in td if t['pnl']>=0); l=sum(1 for t in td if t['pnl']<0); pn=sum(t['pnl'] for t in td)
         aw=sum(t['pnl'] for t in td if t['pnl']>=0)/w if w>0 else 0
         al=abs(sum(t['pnl'] for t in td if t['pnl']<0))/l if l>0 else 1
-        cr=state["strategies"][s]['capital']+pn; rr=(cr-C)/C*100
-        w2.cell(i,1,s); w2.cell(i,2,len(td)); w2.cell(i,3,w); w2.cell(i,4,l)
-        w2.cell(i,5,round(w/(w+l)*100,1) if (w+l)>0 else 0)
-        w2.cell(i,6,pn).fill=G if pn>=0 else Rf; w2.cell(i,7,round(aw/al,2) if al>0 else 0)
-        w2.cell(i,8,f"₹{cr:,.0f}"); w2.cell(i,9,f"{rr:+.1f}%")
-        for c in range(1,10): w2.cell(i,c).border=T
-    if "Account Overview" in wb.sheetnames:
-        w3=wb["Account Overview"]
-        for m in list(w3.merged_cells.ranges): w3.unmerge_cells(str(m))
-    else: w3=wb.create_sheet("Account Overview")
+        cr=state["strategies"][s]['capital']+pn
+        w2.cell(i,1,s); w2.cell(i,3,pn); w2.cell(i,5,len(td))
+        w2.cell(i,6,w); w2.cell(i,7,l); w2.cell(i,8,round(aw/al,2) if al>0 else 0)
+        w2.cell(i,9,round(cr,0))
+        for c in [1,3,5,6,7,8,9]: w2.cell(i,c).border=TB
+    if w2.cell(54,5).value is None: w2.cell(54,5,C)
+    w2.cell(55,1,"Return = Now ₹ ÷ start capital − 1. Start capital inferred from original file (₹10,000/strategy).")
+
+    # ── Account Overview ───────────────────────────
+    if "Account Overview" not in wb.sheetnames:
+        w3=wb.create_sheet("Account Overview")
+    w3=wb["Account Overview"]
     tc=sum(state['strategies'][s]['capital'] for s in ST); tp=tc-I
-    op=sum(len(state['strategies'][s]['positions']) for s in ST); tr=len(state.get("closed_trades",[]))
-    ps=state.get("psych",{})
-    w3.cell(1,1,"ACCOUNT OVERVIEW").font=Font(bold=True,size=14)
-    for i,(k,v) in enumerate([("Start",f"₹{I:,}"),("Capital",f"₹{tc:,.0f}"),("P&L",f"₹{tp:+,}"),("Trades",tr),("Open",op),("Return",f"{tp/I*100:+.2f}%")],2):
-        w3.cell(i,1,k).font=Font(bold=True); w3.cell(i,2,v); w3.cell(i,2).border=T
-    w3.cell(4,2).fill=G if tp>=0 else Rf
-    w3.cell(9,1,f"🧠 PSYCHOLOGY RULES").font=Font(bold=True,size=12)
-    w3.cell(10,1,"Max 2% risk/trade ✓ | Max 5 pos ✓ | Trend filter ✓")
-    w3.cell(11,1,"Cool-off 3 losses ✓ | Half-size on 10% DD ✓ | No avg-down ✓")
-    w3.cell(12,1,"DD%"); w3.cell(12,2,f"{ps.get('dd',0):.1f}%")
-    w3.cell(13,1,"Loss streak"); w3.cell(13,2,ps.get("loss_streak",0))
-    w3.cell(14,1,f"{len(ST)} STRATS | {len(KK)} STOCKS | SL {SL}x TP {TP}x | 10MIN").font=Font(bold=True,size=11)
+    tr=len(state.get("closed_trades",[])); ps=state.get("psych",{})
+    all_trades=state.get("closed_trades",[])
+
+    # B4: Starting capital (write once)
+    if w3.cell(4,2).value is None: w3.cell(4,2,I)
+    # B5: Running capital
+    w3.cell(5,2,round(tc,0))
+    # B11-B14: Win/Loss
+    wins=sum(1 for t in all_trades if t['pnl']>=0); losses=sum(1 for t in all_trades if t['pnl']<0)
+    win_amt=sum(t['pnl'] for t in all_trades if t['pnl']>=0); loss_amt=sum(t['pnl'] for t in all_trades if t['pnl']<0)
+    w3.cell(11,2,wins); w3.cell(12,2,round(win_amt,0))
+    w3.cell(13,2,losses); w3.cell(14,2,round(loss_amt,0))
+    # B16-B17: DD% and loss streak
+    w3.cell(16,2,round(ps.get("dd",0)/100,4))
+    w3.cell(17,2,ps.get("loss_streak",0))
+
+    # Monthly: count months in closed_trades, clear and rewrite
+    from collections import Counter,defaultdict
+    mdata=defaultdict(lambda:{"trades":0,"wins":0,"losses":0,"pnl":0})
+    for t in all_trades:
+        d=str(t.get('exit_date',''))[:7]
+        if d:
+            mdata[d]["trades"]+=1
+            mdata[d]["pnl"]+=t['pnl']
+            if t['pnl']>=0: mdata[d]["wins"]+=1
+            else: mdata[d]["losses"]+=1
+    ms=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]
+    # Find row 20, write monthly data, clear old monthly rows beyond
+    r=20; rows_used=0
+    for mkey in sorted(mdata.keys()):
+        ys,mon=mkey.split('-')
+        label=f"{ms[int(mon)-1]} {ys}"
+        md=mdata[mkey]
+        w3.cell(r,1,label); w3.cell(r,2,round(md['pnl'],0))
+        w3.cell(r+1,1,"Trades"); w3.cell(r+1,2,md['trades'])
+        w3.cell(r+2,1,"Wins"); w3.cell(r+2,2,md['wins'])
+        w3.cell(r+3,1,"Losses"); w3.cell(r+3,2,md['losses'])
+        rows_used=max(rows_used, r+3)
+        r+=4
+    # Clear remaining monthly rows after last data
+    for cr in range(rows_used+1, w3.max_row+1):
+        w3.cell(cr,1).value=None; w3.cell(cr,2).value=None
     wb.save(E); return tc
 
 def fetch_news(state):
@@ -330,6 +381,10 @@ def go():
     ps=state.get("psych",{"dd":0,"loss_streak":0,"trades_today":0})
     dd=(I-tc)/I*100 if tc<I else 0; cooloff=ps.get("loss_streak",0)>=3; psize=0.5 if dd>10 else 1.0
     nt=0
+    # Calculate locked capital per strategy
+    for st in ST:
+        sd=state["strategies"][st]
+        sd['locked']=sum(p['entry']*p['qty'] for p in sd['positions'].values())
     for sym in KK:
         try:
             d=yf.download(sym,period="5d",interval="15m",progress=False)
@@ -355,7 +410,7 @@ def go():
                         state['closed_trades'].append({'exit_date':ds,'exit_time':ts,'stock':nm,'strategy':st,
                             'action':p['action'],'entry':round(p['entry'],2),'exit':round(ep,2),'qty':p['qty'],
                             'pnl':round(pnl),'exit_reason':er})
-                        sd['capital']+=pnl; sd['pnl']+=pnl; del sd["positions"][nm]; nt+=1
+                        sd['capital']+=pnl; sd['pnl']+=pnl; sd['locked']-=p['entry']*p['qty']; del sd["positions"][nm]; nt+=1
                         if pnl<0: ps["loss_streak"]=ps.get("loss_streak",0)+1
                         else: ps["loss_streak"]=0
                         ic="✅" if pnl>=0 else "❌"
@@ -363,13 +418,18 @@ def go():
                 if nm not in sd["positions"] and sg and sg[0]!="NEUTRAL" and not cooloff:
                     ac,pc=sg
                     if (ac=="BUY" and d['Close'].iloc[-1]<e50.iloc[-1]) or (ac=="SELL" and d['Close'].iloc[-1]>e50.iloc[-1]): continue
+                    free=max(0,sd['capital']-sd.get('locked',0))
+                    if free<pc: continue
                     av=a14.iloc[-1] if len(a14)>0 else pc*0.01; sd_=SL*av if av>0 else pc*0.015
-                    q=max(1,int((sd['capital']*R*psize)/sd_))
-                    if q*pc>sd['capital']*0.3: q=max(1,int(sd['capital']*0.3/pc))
-                    if q<1: continue
+                    q=max(1,int((free*R*psize)/sd_))
+                    if q*pc>free*0.3: q=max(1,int(free*0.3/pc))
+                    q=max(1,min(q,int(free*0.5/pc)))
+                    if q*pc>free or q<1: continue
                     sl=pc-SL*av if ac=="BUY" else pc+SL*av
                     tp=pc+TP*av if ac=="BUY" else pc-TP*av
+                    cost=q*pc
                     sd["positions"][nm]={'action':ac,'entry':float(pc),'qty':q,'entry_date':ds,'entry_time':ts,'sl':float(sl),'tp':float(tp)}
+                    sd['locked']=sd.get('locked',0)+cost
                     nt+=1; print(f"  🟢 {st:7s} ENTR {ac} {nm} @{round(pc):.0f} x{q} SL@{round(sl):.0f} TP@{round(tp):.0f}")
         except Exception as e: print(f"  ⚠️ {sym.split('.')[0]}: {e}")
     ps["dd"]=dd; ps["trades_today"]=ps.get("trades_today",0)+nt; state["psych"]=ps
