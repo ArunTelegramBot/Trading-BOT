@@ -546,7 +546,6 @@ def go():
     cl=len(state['closed_trades']); op=sum(len(state['strategies'][s]['positions']) for s in ST)
     tc=sum(state['strategies'][s]['capital'] for s in ST)
     print(f"DONE: ₹{tc:,.0f} | P&L ₹{tc-I:+,} | Trades {cl} | Open {op} | New {nt}")
-    if cooloff: print("⚠️ COOL-OFF ACTIVE (3+ consecutive losses)")
     state['last_run']=ni.strftime("%Y-%m-%d %H:%M"); ss(state)
 if __name__=="__main__":
     import pandas as pd,numpy as np; go()
