@@ -8,22 +8,30 @@ B="/home/ubuntu/Trading-BOT/trading/paper_trading"
 E=f"{B}/paper_trading.xlsx"; S=f"{B}/state.json"; P="/home/ubuntu/Trading-BOT/trading/stocks_100.txt"; N=f"{B}/news.json"
 I=500000; C=I//50; R=0.02; SL=1.5; TP=3.0
 
+# ── JEV AI decision layer (ACTIVE: WAIT blocks entry, LONG/SHORT pass through) ──
+JEV_ON = True                 # False = full revert to original engine behavior
+JEV_MODEL = "typesafe/jev-1.13"
+JEV_URL = "https://openrouter.ai/api/alpha/decisions"
+JEV_LOG = f"{B}/jev_log.json"
+
+# ── Kept 30 best strategies (dropped worst 20 from 11118-trade analysis) ──
+# Dropped: ATR1.5(-1449), VWAPPull(-999), D55(-954), MHist/MACross(-863),
+#    ATR2(-872), VClimax(-799), BBExt(-794), RSI75(-623), KBreak(-569),
+#    S7/2(-537), BBSqz(-529), MACDV(-466), ROCV(-434), ROCS(-264),
+#    VSurge(-259), S10/3(-249), H9/18(-548), BB%<.2(-155), Confluence(-304)
 ST=[
-"S7/2","S10/2","S10/3","S14/3","S20/4",           # Supertrend 5
-"E5/13","E6/30","E8/21","E10/50","E20/50",         # EMA Cross 5
-"RSI30","RSI25","RSI75","RSIDiv",                   # RSI 4
-"MHist","MACross","MACDV",                           # MACD 3
-"BBSqz","BB%<.2","BB%>.8","BBNar","BBExt",          # BB 5
-"ADX25","ADX30","ADX20",                             # ADX 3
-"D20","D10","D55",                                   # Donchian 3
-"VSurge","VClimax","VAccum","VDist",                 # Volume 4
-"KBreak","KCTouch","KReject",                         # Keltner 3
-"StrBreak","InBar","Engulf","3Bar",                  # PA 4
-"ATR1.5","ATR2","ATRAve",                            # ATR 3
-"H9/18","H9/50",                                     # Hull 2
-"VWAPPull","VWAPDiv",                                 # VWAP 2
-"ROCS","ROCV","PRIROC",                               # Momentum 3
-"Confluence"                                          # Multi 1
+"S10/2","S14/3","S20/4",                # Supertrend 3
+"E5/13","E6/30","E8/21","E10/50","E20/50", # EMA Cross 5
+"RSI30","RSI25","RSIDiv",                # RSI 3
+"BB%>.8","BBNar",                        # BB 2
+"ADX25","ADX30","ADX20",                 # ADX 3
+"D20","D10",                             # Donchian 2
+"VAccum","VDist",                        # Volume 2
+"KCTouch","KReject",                     # Keltner 2
+"StrBreak","InBar","Engulf","3Bar",      # PA 4
+"H9/50",                                 # Hull 1
+"VWAPDiv",                               # VWAP 1
+"PRIROC"                                 # Momentum 1
 ]
 
 G=PatternFill("solid",fgColor="C6EFCE"); Rf=PatternFill("solid",fgColor="FFC7CE")
@@ -35,6 +43,62 @@ def ls():
     for s in ST: r["strategies"][s]={"capital":C,"positions":{},"pnl":0}
     return r
 def ss(x): os.makedirs(B,exist_ok=True); json.dump(x,open(S,'w'),indent=2)
+
+def jev_key():
+    """OpenRouter key: env first, else .env file."""
+    k=os.environ.get("OPENROUTER_API_KEY")
+    if k: return k
+    try:
+        for line in open("/home/ubuntu/.hermes/.env"):
+            if line.startswith("OPENROUTER_API_KEY="):
+                return line.strip().split("=",1)[1].strip().strip('"').strip("'")
+    except: pass
+    return None
+
+def jev_decide(sym,st,ac,pc,d):
+    """Ask Jev (System One) for LONG/SHORT/WAIT on this signal. Returns dict or None."""
+    import urllib.request,time
+    try:
+        key=jev_key()
+        if not key: return None
+        la=d.iloc[-1]; pr=d.iloc[-2]
+        v20=d['Volume'].rolling(20).mean().iloc[-1] if len(d)>=20 else d['Volume'].mean()
+        hi=d['High'].max(); lo=d['Low'].min()
+        e50=d['Close'].ewm(50).mean().iloc[-1]
+        a14=(d['High']-d['Low']).rolling(14).mean().iloc[-1]
+        snap={
+            "market":"NSE intraday 15m","stock":sym.replace('.NS',''),"signal":ac,
+            "strategy":st,"close":round(float(pc),2),
+            "change_pct":round(float((la['Close']/pr['Close']-1)*100),2),
+            "above_ema50":bool(la['Close']>e50),
+            "atr14_pct":round(float(a14/pc*100),2) if a14>0 else 0,
+            "volume_ratio":round(float(la['Volume']/v20),2) if v20>0 else 0,
+            "range_position":round(float((la['Close']-lo)/(hi-lo)),2) if hi>lo else 0.5,
+        }
+        body=json.dumps({
+            "model":JEV_MODEL,
+            "state":snap,
+            "questions":{
+                "trade":{
+                    "type":"choice",
+                    "instructions":"A rule-based strategy fired this trade signal. Decide the best action.",
+                    "criteria":{
+                        "LONG":"Enter long now — signal is bullish and conditions favor upside.",
+                        "SHORT":"Enter short now — signal is bearish and conditions favor downside.",
+                        "WAIT":"Skip — setup is weak, fakeout risk high, or conditions unclear."
+                    }
+                }
+            }
+        }).encode()
+        req=urllib.request.Request(JEV_URL,data=body,headers={
+            "Authorization":f"Bearer {key}","Content-Type":"application/json"})
+        r=json.loads(urllib.request.urlopen(req,timeout=20).read().decode())
+        a=r["answers"]["trade"]
+        return {"vote":a.get("choice"),"probs":a.get("probabilities",{}),
+                "conf":a.get("confidence"),"cost":r.get("usage",{}).get("cost",0)}
+    except Exception as e:
+        print(f"  🤖 JEV ERR {st} {sym.split('.')[0]}: {e}")
+        return None
 
 def calc(d):
     import pandas as pd,numpy as np
@@ -373,13 +437,23 @@ def go():
         return
     tc=sum(state['strategies'][s]['capital'] for s in ST)
     print(f"RUN {ds} {ts} | ₹{tc:,.0f} | {len(KK)}×{len(ST)}={len(KK)*len(ST)} checks/run")
+    # ── NIFTY daily regime filter ──
+    nifty_trend="BULL"
+    try:
+        import yfinance as yf2
+        nd=yf2.download("^NSEI",period="6mo",interval="1d",progress=False)
+        if not nd.empty and len(nd)>=50:
+            ne50=nd['Close'].ewm(50).mean().iloc[-1]
+            nifty_trend="BULL" if nd['Close'].iloc[-1]>ne50 else "BEAR"
+    except: pass
+    print(f"  📊 NIFTY regime: {nifty_trend}")
     # News once per hour: check last news hour
     last_news = state.get("last_news_hour", -1)
     if last_news != ni.hour:
         try: fetch_news(state); state["last_news_hour"] = ni.hour
         except Exception as e: print(f"📰 News fetch error: {e}")
     ps=state.get("psych",{"dd":0,"loss_streak":0,"trades_today":0})
-    dd=(I-tc)/I*100 if tc<I else 0; cooloff=ps.get("loss_streak",0)>=3; psize=0.5 if dd>10 else 1.0
+    dd=(I-tc)/I*100 if tc<I else 0; psize=0.5 if dd>10 else 1.0
     nt=0
     # Calculate locked capital per strategy
     for st in ST:
@@ -392,6 +466,19 @@ def go():
             if isinstance(d.columns,pd.MultiIndex): d.columns=[c[0] for c in d.columns]
             nm=sym.replace('.NS',''); la=d.iloc[-1]; pr=d.iloc[-2]
             ss_d=calc(d); e50=d['Close'].ewm(50).mean(); a14=(d['High']-d['Low']).rolling(14).mean()
+            # ── ATR% filter: skip too-dead (<0.5%) or too-wild (>5%) ──
+            atrpct=float(a14.iloc[-1]/la['Close']*100) if a14.iloc[-1]>0 else 0
+            if 0<atrpct<0.5 or atrpct>5: continue
+            # ── Daily trend per stock for higher timeframe bias ──
+            stock_trend=nifty_trend
+            try:
+                import yfinance as yf3
+                sdaily=yf3.download(sym,period="1mo",interval="1d",progress=False)
+                if not sdaily.empty and len(sdaily)>=20:
+                    se50=sdaily['Close'].ewm(50).mean().iloc[-1] if len(sdaily)>=50 else None
+                    if se50 is not None:
+                        stock_trend="BULL" if sdaily['Close'].iloc[-1]>se50 else "BEAR"
+            except: pass
             for st in ST:
                 sd=state["strategies"][st]; p=sd["positions"].get(nm); sg=ss_d.get(st)
                 if p:
@@ -411,13 +498,19 @@ def go():
                             'action':p['action'],'entry':round(p['entry'],2),'exit':round(ep,2),'qty':p['qty'],
                             'pnl':round(pnl),'exit_reason':er})
                         sd['capital']+=pnl; sd['pnl']+=pnl; sd['locked']-=p['entry']*p['qty']; del sd["positions"][nm]; nt+=1
-                        if pnl<0: ps["loss_streak"]=ps.get("loss_streak",0)+1
-                        else: ps["loss_streak"]=0
+                        if pnl<0: sd['loss_streak']=sd.get('loss_streak',0)+1
+                        else: sd['loss_streak']=0
                         ic="✅" if pnl>=0 else "❌"
                         print(f"  {ic} {st:7s} {er:4s} {nm} @{round(ep):.0f} ₹{pnl:+,}")
-                if nm not in sd["positions"] and sg and sg[0]!="NEUTRAL" and not cooloff:
+                if nm not in sd["positions"] and sg and sg[0]!="NEUTRAL":
                     ac,pc=sg
-                    if (ac=="BUY" and d['Close'].iloc[-1]<e50.iloc[-1]) or (ac=="SELL" and d['Close'].iloc[-1]>e50.iloc[-1]): continue
+                    # Per-strategy cooloff (3 consecutive losses)
+                    if sd.get('loss_streak',0)>=3: continue
+                    # Direction filter: trade WITH market regime
+                    if ac=='BUY' and (nifty_trend!='BULL' or stock_trend!='BULL'): continue
+                    if ac=='SELL' and (nifty_trend!='BEAR' or stock_trend!='BEAR'): continue
+                    # Trend filter: price vs EMA50
+                    if (ac=='BUY' and d['Close'].iloc[-1]<e50.iloc[-1]) or (ac=='SELL' and d['Close'].iloc[-1]>e50.iloc[-1]): continue
                     free=max(0,sd['capital']-sd.get('locked',0))
                     if free<pc: continue
                     av=a14.iloc[-1] if len(a14)>0 else pc*0.01; sd_=SL*av if av>0 else pc*0.015
@@ -425,6 +518,22 @@ def go():
                     if q*pc>free*0.3: q=max(1,int(free*0.3/pc))
                     q=max(1,min(q,int(free*0.5/pc)))
                     if q*pc>free or q<1: continue
+                    # ── JEV AI vote (ACTIVE: WAIT blocks entry) ──
+                    if JEV_ON:
+                        jv=jev_decide(nm,st,ac,pc,d)
+                        if jv:
+                            if jv["vote"]=="WAIT":
+                                print(f"  🤖 JEV WAIT conf={jv['conf']:.2f} blocked {ac} {st} {nm.split('.')[0]} ₹{round(pc):.0f}")
+                                continue
+                            jd=json.load(open(JEV_LOG)) if os.path.exists(JEV_LOG) else []
+                            jd.append({"date":ds,"time":ts,"stock":nm.replace('.NS',''),
+                                "strategy":st,"signal":ac,"jev_vote":jv["vote"],
+                                "conf":jv["conf"],"entry":round(float(pc),2),
+                                "agree":((jv["vote"]=="LONG" and ac=="BUY") or (jv["vote"]=="SHORT" and ac=="SELL")),
+                                "probs":jv["probs"],"cost":round(jv["cost"],6)})
+                            json.dump(jd[-2000:],open(JEV_LOG,'w'),indent=1)
+                            agree="AGREE" if ((jv["vote"]=="LONG" and ac=="BUY") or (jv["vote"]=="SHORT" and ac=="SELL")) else "DIFFER"
+                            print(f"  🤖 JEV {jv['vote']:5s} conf={jv['conf']:.2f} {agree} vs {ac} — {st} {nm.split('.')[0]} ₹{round(pc):.0f} (${jv['cost']:.5f})")
                     sl=pc-SL*av if ac=="BUY" else pc+SL*av
                     tp=pc+TP*av if ac=="BUY" else pc-TP*av
                     cost=q*pc
