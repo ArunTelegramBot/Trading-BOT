@@ -55,7 +55,7 @@ def jev_key():
     except: pass
     return None
 
-def jev_decide(sym,st,ac,pc,d):
+def jev_decide(sym,st,ac,pc,d,news=""):
     """Ask Jev (System One) for LONG/SHORT/WAIT on this signal. Returns dict or None."""
     import urllib.request,time
     try:
@@ -68,7 +68,7 @@ def jev_decide(sym,st,ac,pc,d):
         a14=(d['High']-d['Low']).rolling(14).mean().iloc[-1]
         snap={
             "market":"NSE intraday 15m","stock":sym.replace('.NS',''),"signal":ac,
-            "strategy":st,"close":round(float(pc),2),
+            "strategy":st,"news":news[:200],"close":round(float(pc),2),
             "change_pct":round(float((la['Close']/pr['Close']-1)*100),2),
             "above_ema50":bool(la['Close']>e50),
             "atr14_pct":round(float(a14/pc*100),2) if a14>0 else 0,
@@ -479,6 +479,11 @@ def go():
                     if se50 is not None:
                         stock_trend="BULL" if sdaily['Close'].iloc[-1]>se50 else "BEAR"
             except: pass
+            # ── News context for this stock ──
+            news_ctx=""
+            for nc in state.get("news_cache",[])[-3:]:
+                if nm in nc and "_time" not in nm:
+                    news_ctx=" | ".join(nc[nm][:2]) if nm in nc else ""
             for st in ST:
                 sd=state["strategies"][st]; p=sd["positions"].get(nm); sg=ss_d.get(st)
                 if p:
@@ -520,7 +525,7 @@ def go():
                     if q*pc>free or q<1: continue
                     # ── JEV AI vote (ACTIVE: WAIT blocks entry) ──
                     if JEV_ON:
-                        jv=jev_decide(nm,st,ac,pc,d)
+                        jv=jev_decide(nm,st,ac,pc,d,news_ctx)
                         if jv:
                             if jv["vote"]=="WAIT":
                                 print(f"  🤖 JEV WAIT conf={jv['conf']:.2f} blocked {ac} {st} {nm.split('.')[0]} ₹{round(pc):.0f}")
