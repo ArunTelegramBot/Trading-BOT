@@ -5,10 +5,10 @@ from openpyxl.styles import PatternFill,Font,Border,Side,Alignment
 from datetime import datetime,timezone,timedelta
 warnings.filterwarnings('ignore')
 B="/home/ubuntu/Trading-BOT/trading/paper_trading"
-E=f"{B}/paper_trading.xlsx"; S=f"{B}/state.json"; P="/home/ubuntu/Trading-BOT/trading/stocks_100.txt"; N=f"{B}/news.json"
+E=f"{B}/paper_trading.xlsx"; S=f"{B}/state.json"; P="/home/ubuntu/Trading-BOT/trading/stocks_all.txt"; N=f"{B}/news.json"
 I=500000; C=I//50; R=0.02; SL=1.5; TP=3.0
 
-# ── JEV AI decision layer (ACTIVE: WAIT blocks entry, LONG/SHORT pass through) ──
+# ── JEV AI decision layer (FULL CONTROL: WAIT blocks, direction must match) ──
 JEV_ON = True                 # False = full revert to original engine behavior
 JEV_MODEL = "typesafe/jev-1.13"
 JEV_URL = "https://openrouter.ai/api/alpha/decisions"
@@ -506,9 +506,9 @@ def go():
                     ac,pc=sg
                     # Per-strategy cooloff (3 consecutive losses)
                     if sd.get('loss_streak',0)>=3: continue
-                    # Direction filter: trade WITH market regime
-                    if ac=='BUY' and (nifty_trend!='BULL' or stock_trend!='BULL'): continue
-                    if ac=='SELL' and (nifty_trend!='BEAR' or stock_trend!='BEAR'): continue
+                    # Direction filter: follow NIFTY regime (stock trend is advisory)
+                    if ac=='BUY' and nifty_trend!='BULL': continue
+                    if ac=='SELL' and nifty_trend!='BEAR': continue
                     # Trend filter: price vs EMA50
                     if (ac=='BUY' and d['Close'].iloc[-1]<e50.iloc[-1]) or (ac=='SELL' and d['Close'].iloc[-1]>e50.iloc[-1]): continue
                     free=max(0,sd['capital']-sd.get('locked',0))
@@ -524,6 +524,10 @@ def go():
                         if jv:
                             if jv["vote"]=="WAIT":
                                 print(f"  🤖 JEV WAIT conf={jv['conf']:.2f} blocked {ac} {st} {nm.split('.')[0]} ₹{round(pc):.0f}")
+                                continue
+                            # Full JEV control: direction must match strategy signal
+                            if (ac=="BUY" and jv["vote"]=="SHORT") or (ac=="SELL" and jv["vote"]=="LONG"):
+                                print(f"  🤖 JEV MISMATCH {jv['vote']} vs {ac} conf={jv['conf']:.2f} blocked {st} {nm.split('.')[0]} ₹{round(pc):.0f}")
                                 continue
                             jd=json.load(open(JEV_LOG)) if os.path.exists(JEV_LOG) else []
                             jd.append({"date":ds,"time":ts,"stock":nm.replace('.NS',''),
