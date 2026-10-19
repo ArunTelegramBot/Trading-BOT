@@ -50,19 +50,9 @@
     },
     "E6/30": {
       "capital": 10164.944768633171,
-      "positions": {
-        "GULFOILLUB": {
-          "action": "BUY",
-          "entry": 1071.5,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "12:11",
-          "sl": 1060.153568812779,
-          "tp": 1094.192862374442
-        }
-      },
+      "positions": {},
       "pnl": 164.94476863316123,
-      "locked": 1071.5,
+      "locked": 0.0,
       "cool_off": 0,
       "loss_streak": 0
     },
@@ -76,37 +66,17 @@
     },
     "E10/50": {
       "capital": 9989.723188127791,
-      "positions": {
-        "GODREJCP": {
-          "action": "BUY",
-          "entry": 864.0499877929688,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "11:30",
-          "sl": 858.48390851702,
-          "tp": 875.182146344866
-        }
-      },
+      "positions": {},
       "pnl": -10.27681187221026,
-      "locked": 864.0499877929688,
+      "locked": 0.0,
       "cool_off": 0,
       "loss_streak": 0
     },
     "E20/50": {
       "capital": 10324.149678911477,
-      "positions": {
-        "LICHSGFIN": {
-          "action": "SELL",
-          "entry": 541.2999877929688,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "11:20",
-          "sl": 547.8785356794085,
-          "tp": 528.1428920200893
-        }
-      },
+      "positions": {},
       "pnl": 324.14967891148143,
-      "locked": 541.2999877929688,
+      "locked": 0.0,
       "cool_off": 0,
       "loss_streak": 0
     },
@@ -144,37 +114,17 @@
     },
     "MHist": {
       "capital": 9136.815565926689,
-      "positions": {
-        "CANFINHOME": {
-          "action": "BUY",
-          "entry": 734.5499877929688,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "14:30",
-          "sl": 730.7517721993582,
-          "tp": 742.1464189801898
-        }
-      },
+      "positions": {},
       "pnl": -863.1844340733114,
-      "locked": 734.5499877929688,
+      "locked": 0.0,
       "cool_off": 0,
       "loss_streak": 0
     },
     "MACross": {
       "capital": 9136.815565926689,
-      "positions": {
-        "CANFINHOME": {
-          "action": "BUY",
-          "entry": 734.5499877929688,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "14:30",
-          "sl": 730.7517721993582,
-          "tp": 742.1464189801898
-        }
-      },
+      "positions": {},
       "pnl": -863.1844340733114,
-      "locked": 734.5499877929688,
+      "locked": 0.0,
       "cool_off": 0,
       "loss_streak": 0
     },
@@ -196,19 +146,9 @@
     },
     "BB%<.2": {
       "capital": 9844.782000950403,
-      "positions": {
-        "JSL": {
-          "action": "BUY",
-          "entry": 720.0499877929688,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "14:50",
-          "sl": 713.6642695835659,
-          "tp": 732.8214242117746
-        }
-      },
+      "positions": {},
       "pnl": -155.21799904959516,
-      "locked": 720.0499877929688,
+      "locked": 0.0,
       "cool_off": 0,
       "loss_streak": 0
     },
@@ -238,19 +178,9 @@
     },
     "ADX25": {
       "capital": 10323.11064692906,
-      "positions": {
-        "LICHSGFIN": {
-          "action": "SELL",
-          "entry": 541.2999877929688,
-          "qty": 2,
-          "entry_date": "2026-10-14",
-          "entry_time": "11:20",
-          "sl": 547.8785356794085,
-          "tp": 528.1428920200893
-        }
-      },
+      "positions": {},
       "pnl": 323.1106469290597,
-      "locked": 1082.5999755859375,
+      "locked": 0.0,
       "cool_off": 0,
       "loss_streak": 0
     },
@@ -264,100 +194,33 @@
     },
     "ADX20": {
       "capital": 13739.910485676332,
-      "positions": {
-        "LICHSGFIN": {
-          "action": "SELL",
-          "entry": 540.6500244140625,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "10:40",
-          "sl": 546.5696476527622,
-          "tp": 528.8107779366629
-        },
-        "NATCOPHARM": {
-          "action": "SELL",
-          "entry": 783.5,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "13:10",
-          "sl": 786.9178532191685,
-          "tp": 776.6642935616629
-        }
-      },
+      "positions": {},
       "pnl": -140.04566519600996,
-      "locked": 1324.1500244140625,
+      "locked": 0.0,
       "cool_off": 0,
       "loss_streak": 0
     },
     "D20": {
       "capital": 9321.67825208389,
-      "positions": {
-        "GODREJAGRO": {
-          "action": "SELL",
-          "entry": 630.25,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "14:00",
-          "sl": 634.3214285714286,
-          "tp": 622.1071428571429
-        },
-        "NATCOPHARM": {
-          "action": "SELL",
-          "entry": 782.8499755859375,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "14:20",
-          "sl": 785.8124847412109,
-          "tp": 776.9249572753906
-        }
-      },
+      "positions": {},
       "pnl": -678.3217479160882,
-      "locked": 1413.0999755859375,
+      "locked": 0.0,
       "cool_off": 0,
       "loss_streak": 0
     },
     "D10": {
       "capital": 9277.917193821473,
-      "positions": {
-        "GODREJAGRO": {
-          "action": "SELL",
-          "entry": 630.25,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "14:00",
-          "sl": 634.3214285714286,
-          "tp": 622.1071428571429
-        },
-        "NATCOPHARM": {
-          "action": "SELL",
-          "entry": 782.8499755859375,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "14:20",
-          "sl": 785.8124847412109,
-          "tp": 776.9249572753906
-        }
-      },
+      "positions": {},
       "pnl": -722.0828061785038,
-      "locked": 1413.0999755859375,
+      "locked": 0.0,
       "cool_off": 0,
       "loss_streak": 0
     },
     "D55": {
       "capital": 4422.018499646854,
-      "positions": {
-        "NATCOPHARM": {
-          "action": "SELL",
-          "entry": 782.8499755859375,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "14:20",
-          "sl": 785.8124847412109,
-          "tp": 776.9249572753906
-        }
-      },
+      "positions": {},
       "pnl": -954.4753712245432,
-      "locked": 782.8499755859375,
+      "locked": 0.0,
       "cool_off": 0,
       "loss_streak": 0
     },
@@ -379,109 +242,25 @@
     },
     "VAccum": {
       "capital": 4944.3607515607555,
-      "positions": {
-        "SHRIRAMFIN": {
-          "action": "BUY",
-          "entry": 951.0999755859375,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "11:30",
-          "sl": 941.5160522460938,
-          "tp": 970.267822265625
-        }
-      },
+      "positions": {},
       "pnl": -108.42315346854093,
-      "locked": 951.0999755859375,
+      "locked": 0.0,
       "cool_off": 0,
       "loss_streak": 0
     },
     "VDist": {
       "capital": 13885.169124330776,
-      "positions": {
-        "TEAMLEASE": {
-          "action": "SELL",
-          "entry": 1064.0,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "14:00",
-          "sl": 1070.8571297781807,
-          "tp": 1050.2857404436384
-        },
-        "NATCOPHARM": {
-          "action": "SELL",
-          "entry": 783.7999877929688,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "14:50",
-          "sl": 786.9124995640346,
-          "tp": 777.5749642508371
-        },
-        "LICHSGFIN": {
-          "action": "SELL",
-          "entry": 535.0,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "15:00",
-          "sl": 538.375,
-          "tp": 528.25
-        }
-      },
+      "positions": {},
       "pnl": 5.212973458426632,
-      "locked": 2382.7999877929688,
+      "locked": 0.0,
       "cool_off": 0,
       "loss_streak": 0
     },
     "KBreak": {
       "capital": 9430.509272984102,
-      "positions": {
-        "MONTECARLO": {
-          "action": "BUY",
-          "entry": 524.5999755859375,
-          "qty": 1,
-          "entry_date": "2026-10-13",
-          "entry_time": "11:50",
-          "sl": 520.324953351702,
-          "tp": 533.1500200544085
-        },
-        "LICHSGFIN": {
-          "action": "SELL",
-          "entry": 541.2999877929688,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "11:20",
-          "sl": 547.8785356794085,
-          "tp": 528.1428920200893
-        },
-        "BRIGADE": {
-          "action": "BUY",
-          "entry": 588.25,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "11:20",
-          "sl": 582.8125130789621,
-          "tp": 599.1249738420759
-        },
-        "GODREJCP": {
-          "action": "BUY",
-          "entry": 864.0499877929688,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "11:30",
-          "sl": 858.48390851702,
-          "tp": 875.182146344866
-        },
-        "WHIRLPOOL": {
-          "action": "BUY",
-          "entry": 851.0,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "12:30",
-          "sl": 830.3482142857143,
-          "tp": 892.3035714285714
-        }
-      },
+      "positions": {},
       "pnl": -569.4907270159031,
-      "locked": 3369.199951171875,
+      "locked": 0.0,
       "cool_off": 0,
       "loss_streak": 0
     },
@@ -503,37 +282,9 @@
     },
     "StrBreak": {
       "capital": 9734.775695800767,
-      "positions": {
-        "JSWENERGY": {
-          "action": "BUY",
-          "entry": 483.70001220703125,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "10:40",
-          "sl": 478.1285836356027,
-          "tp": 494.8428693498884
-        },
-        "INTELLECT": {
-          "action": "BUY",
-          "entry": 635.4500122070312,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "10:40",
-          "sl": 626.4125148228237,
-          "tp": 653.5250069754464
-        },
-        "NATCOPHARM": {
-          "action": "SELL",
-          "entry": 782.8499755859375,
-          "qty": 2,
-          "entry_date": "2026-10-14",
-          "entry_time": "14:20",
-          "sl": 785.8124847412109,
-          "tp": 776.9249572753906
-        }
-      },
+      "positions": {},
       "pnl": -265.22430419922006,
-      "locked": 2684.8499755859375,
+      "locked": 0.0,
       "cool_off": 0,
       "loss_streak": 0
     },
@@ -547,46 +298,17 @@
     },
     "Engulf": {
       "capital": 10066.583988734656,
-      "positions": {
-        "NESCO": {
-          "action": "BUY",
-          "entry": 1050.699951171875,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "12:31",
-          "sl": 1043.9071044921875,
-          "tp": 1064.28564453125
-        },
-        "CANFINHOME": {
-          "action": "BUY",
-          "entry": 735.1500244140625,
-          "qty": 2,
-          "entry_date": "2026-10-14",
-          "entry_time": "14:20",
-          "sl": 731.2232360839844,
-          "tp": 743.0036010742188
-        }
-      },
+      "positions": {},
       "pnl": 66.58398873465393,
-      "locked": 2521.0,
+      "locked": 0.0,
       "cool_off": 0,
       "loss_streak": 0
     },
     "3Bar": {
       "capital": 9866.726597377226,
-      "positions": {
-        "ERIS": {
-          "action": "SELL",
-          "entry": 1155.9000244140625,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "14:20",
-          "sl": 1160.9678737095423,
-          "tp": 1145.7643258231026
-        }
-      },
+      "positions": {},
       "pnl": -133.27340262276834,
-      "locked": 1155.9000244140625,
+      "locked": 0.0,
       "cool_off": 0,
       "loss_streak": 0
     },
@@ -600,19 +322,9 @@
     },
     "ATR2": {
       "capital": 4438.8709269932415,
-      "positions": {
-        "JSWENERGY": {
-          "action": "BUY",
-          "entry": 483.70001220703125,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "10:40",
-          "sl": 478.1285836356027,
-          "tp": 494.8428693498884
-        }
-      },
+      "positions": {},
       "pnl": -871.6634608677505,
-      "locked": 483.70001220703125,
+      "locked": 0.0,
       "cool_off": 0,
       "loss_streak": 0
     },
@@ -626,19 +338,9 @@
     },
     "H9/18": {
       "capital": 9452.33529118129,
-      "positions": {
-        "ADANIGREEN": {
-          "action": "BUY",
-          "entry": 1308.800048828125,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "12:11",
-          "sl": 1296.3393031529017,
-          "tp": 1333.7215401785713
-        }
-      },
+      "positions": {},
       "pnl": -547.6647088187086,
-      "locked": 1308.800048828125,
+      "locked": 0.0,
       "cool_off": 0,
       "loss_streak": 0
     },
@@ -668,46 +370,17 @@
     },
     "ROCS": {
       "capital": 9736.393584115138,
-      "positions": {
-        "LICHSGFIN": {
-          "action": "SELL",
-          "entry": 541.3499755859375,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "10:20",
-          "sl": 546.7928118024554,
-          "tp": 530.4643031529018
-        },
-        "INTELLECT": {
-          "action": "BUY",
-          "entry": 635.9000244140625,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "11:30",
-          "sl": 628.158952985491,
-          "tp": 651.3821672712054
-        }
-      },
+      "positions": {},
       "pnl": -263.606415884839,
-      "locked": 1177.25,
+      "locked": 0.0,
       "cool_off": 0,
       "loss_streak": 0
     },
     "ROCV": {
       "capital": 9566.104018075104,
-      "positions": {
-        "LICHSGFIN": {
-          "action": "SELL",
-          "entry": 540.6500244140625,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "10:40",
-          "sl": 546.5696476527622,
-          "tp": 528.8107779366629
-        }
-      },
+      "positions": {},
       "pnl": -433.8959819248769,
-      "locked": 540.6500244140625,
+      "locked": 0.0,
       "cool_off": 0,
       "loss_streak": 0
     },
@@ -721,28 +394,9 @@
     },
     "Confluence": {
       "capital": 9696.414232526495,
-      "positions": {
-        "MAYURUNIQ": {
-          "action": "BUY",
-          "entry": 793.5,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "10:50",
-          "sl": 785.8392791748047,
-          "tp": 808.8214416503906
-        },
-        "SBIN": {
-          "action": "BUY",
-          "entry": 951.7000122070312,
-          "qty": 1,
-          "entry_date": "2026-10-14",
-          "entry_time": "14:00",
-          "sl": 947.3660757882254,
-          "tp": 960.3678850446429
-        }
-      },
+      "positions": {},
       "pnl": -303.5857674734939,
-      "locked": 1745.2000122070312,
+      "locked": 0.0,
       "cool_off": 0,
       "loss_streak": 0
     }
