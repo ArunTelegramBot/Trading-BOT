@@ -25,7 +25,6 @@ ST=[
 "RSI30","RSI25","RSIDiv",                # RSI 3
 "BB%>.8","BBNar",                        # BB 2
 "ADX25","ADX30","ADX20",                 # ADX 3
-                             # Donchian 2
 "VAccum","VDist",                        # Volume 2
 "KCTouch","KReject",                     # Keltner 2
 "StrBreak","InBar","Engulf","3Bar",      # PA 4
