@@ -12748,23 +12748,5 @@
    "WAIT": 0.11
   },
   "cost": 2e-05
- },
- {
-  "date": "2026-10-15",
-  "time": "09:50",
-  "stock": "CIPLA",
-  "strategy": "E5/13",
-  "signal": "BUY",
-  "jev_vote": "LONG",
-  "conf": 0.35,
-  "entry": 1325.6,
-  "agree": true,
-  "probs": {
-   "LONG": 0.57,
-   "SHORT": 0.01,
-   "WAIT": 0.42
-  },
-  "cost": 2e-05
  }
-]}
 ]
