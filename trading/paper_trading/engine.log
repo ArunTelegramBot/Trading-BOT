@@ -6342,3 +6342,941 @@ Closed. 11118 total trades.
 Closed. 11118 total trades.
 Closed. 11118 total trades.
 Closed. 11118 total trades.
+Closed. 11118 total trades.
+Closed. 11118 total trades.
+Closed. 11118 total trades.
+Closed. 11118 total trades.
+RUN 2026-10-19 09:20 | ₹276,680 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  🤖 JEV WAIT conf=0.28 blocked BUY BBNar ACC ₹1201
+  🤖 JEV WAIT conf=0.34 blocked BUY ADX30 ACC ₹1201
+  🤖 JEV WAIT conf=0.34 blocked BUY ADX20 ACC ₹1201
+  🤖 JEV WAIT conf=0.30 blocked BUY StrBreak ACC ₹1201
+  🤖 JEV WAIT conf=0.25 blocked BUY PRIROC ACC ₹1201
+  🤖 JEV WAIT conf=0.27 blocked BUY BBNar CGPOWER ₹858
+  🤖 JEV WAIT conf=0.30 blocked BUY ADX30 CGPOWER ₹858
+  🤖 JEV WAIT conf=0.28 blocked BUY ADX20 CGPOWER ₹858
+  🤖 JEV WAIT conf=0.31 blocked BUY VAccum CGPOWER ₹858
+  🤖 JEV WAIT conf=0.30 blocked BUY PRIROC CGPOWER ₹858
+  🤖 JEV LONG  conf=0.83 AGREE vs BUY — S10/2 CHENNPETRO ₹1448 ($0.00002)
+  🟢 S10/2   ENTR BUY CHENNPETRO @1448 x2 SL@1437 TP@1471
+  🤖 JEV LONG  conf=0.85 AGREE vs BUY — S14/3 CHENNPETRO ₹1448 ($0.00002)
+  🟢 S14/3   ENTR BUY CHENNPETRO @1448 x2 SL@1437 TP@1471
+  🤖 JEV LONG  conf=0.83 AGREE vs BUY — S20/4 CHENNPETRO ₹1448 ($0.00002)
+  🟢 S20/4   ENTR BUY CHENNPETRO @1448 x2 SL@1437 TP@1471
+  🤖 JEV LONG  conf=0.80 AGREE vs BUY — ADX30 CHENNPETRO ₹1448 ($0.00002)
+  🟢 ADX30   ENTR BUY CHENNPETRO @1448 x2 SL@1437 TP@1471
+  🤖 JEV LONG  conf=0.83 AGREE vs BUY — PRIROC CHENNPETRO ₹1448 ($0.00002)
+  🟢 PRIROC  ENTR BUY CHENNPETRO @1448 x1 SL@1437 TP@1471
+  🤖 JEV LONG  conf=0.53 AGREE vs BUY — E5/13 CYIENT ₹1196 ($0.00002)
+  🟢 E5/13   ENTR BUY CYIENT @1196 x2 SL@1187 TP@1214
+  🤖 JEV LONG  conf=0.49 AGREE vs BUY — E6/30 CYIENT ₹1196 ($0.00002)
+  🟢 E6/30   ENTR BUY CYIENT @1196 x2 SL@1187 TP@1214
+  🤖 JEV LONG  conf=0.56 AGREE vs BUY — BBNar CYIENT ₹1196 ($0.00002)
+  🟢 BBNar   ENTR BUY CYIENT @1196 x2 SL@1187 TP@1214
+  🤖 JEV LONG  conf=0.49 AGREE vs BUY — ADX30 CYIENT ₹1196 ($0.00002)
+  🟢 ADX30   ENTR BUY CYIENT @1196 x1 SL@1187 TP@1214
+  🤖 JEV LONG  conf=0.48 AGREE vs BUY — ADX20 CYIENT ₹1196 ($0.00002)
+  🟢 ADX20   ENTR BUY CYIENT @1196 x3 SL@1187 TP@1214
+  🤖 JEV LONG  conf=0.53 AGREE vs BUY — PRIROC CYIENT ₹1196 ($0.00002)
+  🟢 PRIROC  ENTR BUY CYIENT @1196 x2 SL@1187 TP@1214
+  🤖 JEV WAIT conf=0.41 blocked BUY BBNar GODREJAGRO ₹627
+  🤖 JEV WAIT conf=0.46 blocked BUY VAccum GODREJAGRO ₹627
+  🤖 JEV WAIT conf=0.43 blocked BUY VWAPDiv GODREJAGRO ₹627
+  🤖 JEV WAIT conf=0.41 blocked BUY PRIROC GODREJAGRO ₹627
+  🤖 JEV LONG  conf=0.64 AGREE vs BUY — S10/2 IIFL ₹628 ($0.00002)
+  🟢 S10/2   ENTR BUY IIFL @628 x3 SL@622 TP@640
+  🤖 JEV LONG  conf=0.64 AGREE vs BUY — S14/3 IIFL ₹628 ($0.00002)
+  🟢 S14/3   ENTR BUY IIFL @628 x3 SL@622 TP@640
+  🤖 JEV LONG  conf=0.56 AGREE vs BUY — BBNar IIFL ₹628 ($0.00002)
+  🟢 BBNar   ENTR BUY IIFL @628 x3 SL@622 TP@640
+  🤖 JEV LONG  conf=0.64 AGREE vs BUY — ADX30 IIFL ₹628 ($0.00002)
+  🟢 ADX30   ENTR BUY IIFL @628 x2 SL@622 TP@640
+  🤖 JEV LONG  conf=0.61 AGREE vs BUY — ADX20 IIFL ₹628 ($0.00002)
+  🟢 ADX20   ENTR BUY IIFL @628 x4 SL@622 TP@640
+  🤖 JEV LONG  conf=0.66 AGREE vs BUY — StrBreak IIFL ₹628 ($0.00002)
+  🟢 StrBreak ENTR BUY IIFL @628 x4 SL@622 TP@640
+  🤖 JEV LONG  conf=0.55 AGREE vs BUY — PRIROC IIFL ₹628 ($0.00002)
+  🟢 PRIROC  ENTR BUY IIFL @628 x2 SL@622 TP@640
+  🤖 JEV WAIT conf=0.41 blocked BUY ADX30 INDHOTEL ₹768
+  🤖 JEV WAIT conf=0.38 blocked BUY ADX20 INDHOTEL ₹768
+  🤖 JEV WAIT conf=0.38 blocked BUY VAccum INDHOTEL ₹768
+  🤖 JEV WAIT conf=0.37 blocked BUY VWAPDiv INDHOTEL ₹768
+  🤖 JEV WAIT conf=0.41 blocked BUY ADX30 JUBLPHARMA ₹946
+  🤖 JEV WAIT conf=0.36 blocked BUY ADX20 JUBLPHARMA ₹946
+  🤖 JEV WAIT conf=0.34 blocked BUY VAccum JUBLPHARMA ₹946
+  🤖 JEV WAIT conf=0.43 blocked BUY ADX30 JUSTDIAL ₹718
+  🤖 JEV WAIT conf=0.46 blocked BUY ADX20 JUSTDIAL ₹718
+  🤖 JEV WAIT conf=0.40 blocked BUY VAccum JUSTDIAL ₹718
+  🤖 JEV WAIT conf=0.41 blocked BUY PRIROC JUSTDIAL ₹718
+  🤖 JEV LONG  conf=0.49 AGREE vs BUY — ADX20 JYOTIRES ₹865 ($0.00002)
+  🟢 ADX20   ENTR BUY JYOTIRES @865 x2 SL@854 TP@886
+  🤖 JEV LONG  conf=0.51 AGREE vs BUY — VAccum JYOTIRES ₹865 ($0.00002)
+  🟢 VAccum  ENTR BUY JYOTIRES @865 x1 SL@854 TP@886
+  🤖 JEV LONG  conf=0.52 AGREE vs BUY — PRIROC JYOTIRES ₹865 ($0.00002)
+  🟢 PRIROC  ENTR BUY JYOTIRES @865 x1 SL@854 TP@886
+  🤖 JEV LONG  conf=0.31 AGREE vs BUY — ADX20 KPITTECH ₹544 ($0.00002)
+  🟢 ADX20   ENTR BUY KPITTECH @544 x3 SL@539 TP@553
+  🤖 JEV WAIT conf=0.43 blocked BUY ADX30 NITINSPIN ₹649
+  🤖 JEV WAIT conf=0.52 blocked BUY ADX20 NITINSPIN ₹649
+  🤖 JEV WAIT conf=0.49 blocked BUY VAccum NITINSPIN ₹649
+  🤖 JEV WAIT conf=0.37 blocked BUY ADX30 NUCLEUS ₹679
+  🤖 JEV WAIT conf=0.34 blocked BUY ADX20 NUCLEUS ₹679
+  🤖 JEV WAIT conf=0.37 blocked BUY VAccum NUCLEUS ₹679
+  🤖 JEV WAIT conf=0.30 blocked BUY PRIROC NUCLEUS ₹679
+  🤖 JEV WAIT conf=0.48 blocked BUY ADX30 TEAMLEASE ₹1131
+  🤖 JEV WAIT conf=0.52 blocked BUY ADX20 TEAMLEASE ₹1131
+  🤖 JEV WAIT conf=0.49 blocked BUY VAccum TEAMLEASE ₹1131
+DONE: ₹276,680 | P&L ₹-223,320.417270388 | Trades 11118 | Open 22 | New 22
+RUN 2026-10-19 09:30 | ₹276,680 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  🤖 JEV LONG  conf=0.45 AGREE vs BUY — BBNar ACC ₹1189 ($0.00002)
+  🟢 BBNar   ENTR BUY ACC @1189 x1 SL@1175 TP@1216
+  🤖 JEV LONG  conf=0.40 AGREE vs BUY — ADX30 ACC ₹1189 ($0.00002)
+  🟢 ADX30   ENTR BUY ACC @1189 x1 SL@1175 TP@1216
+  🤖 JEV LONG  conf=0.38 AGREE vs BUY — ADX20 ACC ₹1189 ($0.00002)
+  🟢 ADX20   ENTR BUY ACC @1189 x1 SL@1175 TP@1216
+  🤖 JEV LONG  conf=0.40 AGREE vs BUY — VAccum ACC ₹1189 ($0.00002)
+  🟢 VAccum  ENTR BUY ACC @1189 x1 SL@1175 TP@1216
+  🤖 JEV LONG  conf=0.46 AGREE vs BUY — PRIROC ACC ₹1189 ($0.00002)
+  🟢 PRIROC  ENTR BUY ACC @1189 x1 SL@1175 TP@1216
+  🤖 JEV LONG  conf=0.38 AGREE vs BUY — E20/50 CGPOWER ₹854 ($0.00002)
+  🟢 E20/50  ENTR BUY CGPOWER @854 x3 SL@845 TP@873
+  🤖 JEV LONG  conf=0.30 AGREE vs BUY — ADX25 CGPOWER ₹854 ($0.00002)
+  🟢 ADX25   ENTR BUY CGPOWER @854 x3 SL@845 TP@873
+  🤖 JEV LONG  conf=0.31 AGREE vs BUY — ADX30 CGPOWER ₹854 ($0.00002)
+  🟢 ADX30   ENTR BUY CGPOWER @854 x1 SL@845 TP@873
+  🤖 JEV LONG  conf=0.25 AGREE vs BUY — ADX20 CGPOWER ₹854 ($0.00002)
+  🟢 ADX20   ENTR BUY CGPOWER @854 x1 SL@845 TP@873
+  🤖 JEV LONG  conf=0.30 AGREE vs BUY — VAccum CGPOWER ₹854 ($0.00002)
+  🟢 VAccum  ENTR BUY CGPOWER @854 x1 SL@845 TP@873
+  🤖 JEV WAIT conf=0.28 blocked BUY VWAPDiv CGPOWER ₹854
+  🤖 JEV LONG  conf=0.34 AGREE vs BUY — PRIROC CGPOWER ₹854 ($0.00002)
+  🟢 PRIROC  ENTR BUY CGPOWER @854 x1 SL@845 TP@873
+  🤖 JEV LONG  conf=0.40 AGREE vs BUY — VAccum CYIENT ₹1190 ($0.00002)
+  🟢 VAccum  ENTR BUY CYIENT @1190 x1 SL@1181 TP@1208
+  🤖 JEV WAIT conf=0.34 blocked BUY VAccum IIFL ₹623
+  🤖 JEV LONG  conf=0.28 AGREE vs BUY — ADX30 INDHOTEL ₹763 ($0.00002)
+  🟢 ADX30   ENTR BUY INDHOTEL @763 x1 SL@754 TP@781
+  🤖 JEV LONG  conf=0.34 AGREE vs BUY — ADX20 INDHOTEL ₹763 ($0.00002)
+  🟢 ADX20   ENTR BUY INDHOTEL @763 x1 SL@754 TP@781
+  🤖 JEV LONG  conf=0.30 AGREE vs BUY — VAccum INDHOTEL ₹763 ($0.00002)
+  🟢 VAccum  ENTR BUY INDHOTEL @763 x1 SL@754 TP@781
+  🤖 JEV LONG  conf=0.30 AGREE vs BUY — BBNar JUBLPHARMA ₹943 ($0.00002)
+  🟢 BBNar   ENTR BUY JUBLPHARMA @943 x1 SL@935 TP@958
+  🤖 JEV LONG  conf=0.33 AGREE vs BUY — ADX30 JUBLPHARMA ₹943 ($0.00002)
+  🟢 ADX30   ENTR BUY JUBLPHARMA @943 x1 SL@935 TP@958
+  🤖 JEV LONG  conf=0.27 AGREE vs BUY — PRIROC JUSTDIAL ₹726 ($0.00002)
+  🟢 PRIROC  ENTR BUY JUSTDIAL @726 x1 SL@717 TP@745
+  ❌ ADX20   SL   JYOTIRES @854 ₹-10.698224748883945
+  🤖 JEV WAIT conf=0.46 blocked BUY ADX20 JYOTIRES ₹857
+  ❌ VAccum  SL   JYOTIRES @854 ₹-10.698224748883945
+  🤖 JEV WAIT conf=0.45 blocked BUY VAccum JYOTIRES ₹857
+  🤖 JEV WAIT conf=0.37 blocked BUY VWAPDiv JYOTIRES ₹857
+  ❌ PRIROC  SL   JYOTIRES @854 ₹-10.698224748883945
+  🤖 JEV WAIT conf=0.45 blocked BUY VAccum KPITTECH ₹542
+  🤖 JEV WAIT conf=0.30 blocked BUY ADX20 NITINSPIN ₹647
+  🤖 JEV WAIT conf=0.33 blocked BUY VAccum NITINSPIN ₹647
+  🤖 JEV WAIT conf=0.25 blocked BUY ADX20 TEAMLEASE ₹1139
+  🤖 JEV LONG  conf=0.31 AGREE vs BUY — PRIROC TEAMLEASE ₹1139 ($0.00002)
+  🟢 PRIROC  ENTR BUY TEAMLEASE @1139 x1 SL@1123 TP@1172
+DONE: ₹276,647 | P&L ₹-223,352.51194463467 | Trades 11121 | Open 33 | New 22
+RUN 2026-10-19 09:40 | ₹276,647 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  🤖 JEV WAIT conf=0.34 blocked BUY VWAPDiv CGPOWER ₹851
+  🤖 JEV LONG  conf=0.28 AGREE vs BUY — BBNar GODREJAGRO ₹628 ($0.00002)
+  🟢 BBNar   ENTR BUY GODREJAGRO @628 x1 SL@623 TP@639
+  🤖 JEV LONG  conf=0.31 AGREE vs BUY — VAccum GODREJAGRO ₹628 ($0.00002)
+  🟢 VAccum  ENTR BUY GODREJAGRO @628 x1 SL@623 TP@639
+  🤖 JEV LONG  conf=0.31 AGREE vs BUY — PRIROC GODREJAGRO ₹628 ($0.00002)
+  🟢 PRIROC  ENTR BUY GODREJAGRO @628 x1 SL@623 TP@639
+  🤖 JEV WAIT conf=0.43 blocked BUY VWAPDiv IIFL ₹619
+  🤖 JEV LONG  conf=0.35 AGREE vs BUY — ADX20 INDIANB ₹867 ($0.00002)
+  🟢 ADX20   ENTR BUY INDIANB @867 x1 SL@860 TP@881
+  🤖 JEV LONG  conf=0.40 AGREE vs BUY — H9/50 INDIANB ₹867 ($0.00002)
+  🟢 H9/50   ENTR BUY INDIANB @867 x3 SL@860 TP@881
+  🤖 JEV LONG  conf=0.80 AGREE vs BUY — S10/2 JUSTDIAL ₹737 ($0.00002)
+  🟢 S10/2   ENTR BUY JUSTDIAL @737 x2 SL@727 TP@759
+  🤖 JEV LONG  conf=0.82 AGREE vs BUY — S14/3 JUSTDIAL ₹737 ($0.00002)
+  🟢 S14/3   ENTR BUY JUSTDIAL @737 x4 SL@727 TP@759
+  ✅ ADX30   TP   JUSTDIAL @734 ₹+35.42143903459828
+  🤖 JEV LONG  conf=0.82 AGREE vs BUY — ADX30 JUSTDIAL ₹737 ($0.00002)
+  🟢 ADX30   ENTR BUY JUSTDIAL @737 x1 SL@727 TP@759
+  ✅ ADX20   TP   JUSTDIAL @734 ₹+53.13215855189742
+  🤖 JEV LONG  conf=0.82 AGREE vs BUY — ADX20 JUSTDIAL ₹737 ($0.00002)
+  🟢 ADX20   ENTR BUY JUSTDIAL @737 x1 SL@727 TP@759
+  ❌ PRIROC  SL   JUSTDIAL @717 ₹-9.375006539480978
+  🤖 JEV LONG  conf=0.85 AGREE vs BUY — PRIROC JUSTDIAL ₹737 ($0.00002)
+  🟢 PRIROC  ENTR BUY JUSTDIAL @737 x1 SL@727 TP@759
+  🤖 JEV WAIT conf=0.27 blocked BUY ADX30 NITINSPIN ₹651
+  🤖 JEV WAIT conf=0.31 blocked BUY ADX20 NITINSPIN ₹651
+  🤖 JEV WAIT conf=0.35 blocked BUY ADX30 TEAMLEASE ₹1138
+  🤖 JEV WAIT conf=0.38 blocked BUY ADX20 TEAMLEASE ₹1138
+DONE: ₹276,727 | P&L ₹-223,273.33335358766 | Trades 11124 | Open 40 | New 13
+RUN 2026-10-19 09:50 | ₹276,725 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  🤖 JEV WAIT conf=0.38 blocked BUY VWAPDiv CYIENT ₹1193
+  🤖 JEV WAIT conf=0.27 blocked BUY BBNar GODREJAGRO ₹632
+  🤖 JEV WAIT conf=0.48 blocked BUY ADX30 HDFCLIFE ₹550
+  🤖 JEV WAIT conf=0.40 blocked BUY VWAPDiv HDFCLIFE ₹550
+  ❌ S10/2   SL   IIFL @619 ₹-24.08564104352672
+  ❌ BBNar   SL   IIFL @619 ₹-18.06423078264504
+  🤖 JEV WAIT conf=0.31 blocked BUY BBNar IIFL ₹619
+  ❌ ADX30   SL   IIFL @619 ₹-18.06423078264504
+  🤖 JEV WAIT conf=0.33 blocked BUY ADX30 IIFL ₹619
+  ❌ ADX20   SL   IIFL @619 ₹-24.08564104352672
+  🤖 JEV WAIT conf=0.35 blocked BUY ADX20 IIFL ₹619
+  ❌ StrBreak SL   IIFL @619 ₹-24.08564104352672
+  ❌ PRIROC  SL   IIFL @619 ₹-18.06423078264504
+  🤖 JEV WAIT conf=0.48 blocked BUY ADX20 JUBLPHARMA ₹942
+  ✅ S10/2   SIG  JUSTDIAL @748 ₹+5.4000244140625
+  ✅ S14/3   SIG  JUSTDIAL @748 ₹+8.10003662109375
+  ✅ S20/4   SIG  JUSTDIAL @748 ₹+10.800048828125
+  🤖 JEV WAIT conf=0.45 blocked BUY ADX30 NITINSPIN ₹650
+  🤖 JEV WAIT conf=0.41 blocked BUY ADX20 NITINSPIN ₹650
+  🤖 JEV WAIT conf=0.43 blocked BUY ADX30 TEAMLEASE ₹1134
+  🤖 JEV WAIT conf=0.45 blocked BUY ADX20 TEAMLEASE ₹1134
+DONE: ₹276,623 | P&L ₹-223,376.8828225818 | Trades 11134 | Open 31 | New 9
+RUN 2026-10-19 10:00 | ₹276,650 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+📰 News for 101 stocks fetched
+  🤖 JEV WAIT conf=0.51 blocked BUY ADX30 BHARATRAS ₹1012
+  🤖 JEV WAIT conf=0.48 blocked BUY ADX20 BHARATRAS ₹1012
+  🤖 JEV WAIT conf=0.52 blocked BUY ADX30 CHENNPETRO ₹1447
+  🤖 JEV WAIT conf=0.30 blocked BUY BBNar GODREJAGRO ₹633
+  🤖 JEV WAIT conf=0.45 blocked BUY ADX20 HCLTECH ₹1387
+  🤖 JEV LONG  conf=0.27 AGREE vs BUY — BBNar IIFL ₹618 ($0.00002)
+  🟢 BBNar   ENTR BUY IIFL @618 x2 SL@612 TP@629
+  🤖 JEV WAIT conf=0.27 blocked BUY ADX30 IIFL ₹618
+  🤖 JEV WAIT conf=0.30 blocked BUY ADX20 IIFL ₹618
+  🤖 JEV LONG  conf=0.34 AGREE vs BUY — BBNar INDHOTEL ₹769 ($0.00002)
+  🟢 BBNar   ENTR BUY INDHOTEL @769 x1 SL@760 TP@787
+  🤖 JEV WAIT conf=0.37 blocked BUY BBNar JUBLPHARMA ₹945
+  🤖 JEV WAIT conf=0.38 blocked BUY ADX20 JUBLPHARMA ₹945
+  ✅ S10/2   TP   JUSTDIAL @769 ₹+45.92143903459828
+  ✅ ADX30   TP   JUSTDIAL @769 ₹+22.96071951729914
+  🤖 JEV WAIT conf=0.31 blocked BUY ADX30 JUSTDIAL ₹759
+  ✅ ADX20   TP   JUSTDIAL @769 ₹+22.96071951729914
+  🤖 JEV WAIT conf=0.38 blocked BUY ADX20 JUSTDIAL ₹759
+  🤖 JEV WAIT conf=0.30 blocked BUY VWAPDiv JUSTDIAL ₹759
+  ✅ PRIROC  TP   JUSTDIAL @769 ₹+22.96071951729914
+  🤖 JEV WAIT conf=0.28 blocked BUY PRIROC JUSTDIAL ₹759
+  🤖 JEV WAIT conf=0.48 blocked BUY ADX20 JYOTIRES ₹852
+  🤖 JEV WAIT conf=0.36 blocked BUY ADX30 NITINSPIN ₹650
+  🤖 JEV WAIT conf=0.38 blocked BUY ADX20 NITINSPIN ₹650
+  🤖 JEV WAIT conf=0.27 blocked BUY ADX30 PRESTIGE ₹1489
+  🤖 JEV WAIT conf=0.34 blocked BUY ADX20 PRESTIGE ₹1489
+  🤖 JEV WAIT conf=0.30 blocked BUY E6/30 SUNTV ₹645
+  🤖 JEV WAIT conf=0.30 blocked BUY E8/21 SUNTV ₹645
+  🤖 JEV WAIT conf=0.35 blocked BUY E20/50 SUNTV ₹645
+  🤖 JEV WAIT conf=0.28 blocked BUY ADX25 SUNTV ₹645
+  🤖 JEV WAIT conf=0.33 blocked BUY PRIROC SUNTV ₹645
+  🤖 JEV WAIT conf=0.30 blocked BUY ADX30 TEAMLEASE ₹1134
+  🤖 JEV WAIT conf=0.31 blocked BUY ADX20 TEAMLEASE ₹1134
+  ❌ PRIROC  SIG  TEAMLEASE @1134 ₹-5.2000732421875
+  🤖 JEV WAIT conf=0.40 blocked BUY ADX20 WHIRLPOOL ₹844
+Traceback (most recent call last):
+  File "/home/ubuntu/Trading-BOT/trading/paper_trading/engine.py", line 559, in <module>
+    import pandas as pd,numpy as np; go()
+                                     ~~^^
+  File "/home/ubuntu/Trading-BOT/trading/paper_trading/engine.py", line 553, in go
+    ux(state); ss(state)
+    ~~^^^^^^^
+  File "/home/ubuntu/Trading-BOT/trading/paper_trading/engine.py", line 303, in ux
+    wb=openpyxl.load_workbook(E) if os.path.exists(E) else openpyxl.Workbook()
+       ~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/reader/excel.py", line 348, in load_workbook
+    reader.read()
+    ~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/reader/excel.py", line 303, in read
+    self.read_worksheets()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/reader/excel.py", line 237, in read_worksheets
+    ws_parser.bind_all()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/worksheet/_reader.py", line 465, in bind_all
+    self.bind_cells()
+    ~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/worksheet/_reader.py", line 368, in bind_cells
+    for idx, row in self.parser.parse():
+                    ~~~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/worksheet/_reader.py", line 156, in parse
+    for _, element in it:
+                      ^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/xml/etree/ElementTree.py", line 1262, in iterator
+    data = source.read(16 * 1024)
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/zipfile/__init__.py", line 1105, in read
+    data = self._read1(n)
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/zipfile/__init__.py", line 1173, in _read1
+    data += self._read2(n - len(data))
+            ~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/zipfile/__init__.py", line 1208, in _read2
+    raise EOFError
+EOFError
+RUN 2026-10-19 10:10 | ₹276,760 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  🤖 JEV LONG  conf=0.45 AGREE vs BUY — VWAPDiv AVANTIFEED ₹723 ($0.00002)
+  🟢 VWAPDiv ENTR BUY AVANTIFEED @723 x4 SL@717 TP@737
+  🤖 JEV WAIT conf=0.53 blocked BUY ADX30 BHARATRAS ₹1010
+  🤖 JEV WAIT conf=0.55 blocked BUY ADX20 BHARATRAS ₹1010
+  🤖 JEV WAIT conf=0.55 blocked BUY PRIROC BHARATRAS ₹1010
+  🤖 JEV LONG  conf=0.61 AGREE vs BUY — VWAPDiv CGPOWER ₹854 ($0.00002)
+  🟢 VWAPDiv ENTR BUY CGPOWER @854 x2 SL@843 TP@875
+  🤖 JEV LONG  conf=0.69 AGREE vs BUY — ADX30 CHENNPETRO ₹1453 ($0.00002)
+  🟢 ADX30   ENTR BUY CHENNPETRO @1453 x1 SL@1437 TP@1483
+  🤖 JEV LONG  conf=0.74 AGREE vs BUY — PRIROC CHENNPETRO ₹1453 ($0.00002)
+  🟢 PRIROC  ENTR BUY CHENNPETRO @1453 x1 SL@1437 TP@1483
+  ❌ E6/30   SL   CYIENT @1185 ₹-18.55713762555797
+  ❌ BBNar   SL   CYIENT @1185 ₹-18.55713762555797
+  ❌ ADX30   SL   CYIENT @1185 ₹-18.55713762555797
+  ❌ ADX20   SL   CYIENT @1185 ₹-27.835706438336956
+  ❌ PRIROC  SL   CYIENT @1185 ₹-18.55713762555797
+  🤖 JEV WAIT conf=0.38 blocked BUY ADX30 GULFOILLUB ₹1077
+  🤖 JEV WAIT conf=0.38 blocked BUY ADX20 GULFOILLUB ₹1077
+  🤖 JEV WAIT conf=0.31 blocked BUY ADX20 HCLTECH ₹1387
+  🤖 JEV WAIT conf=0.30 blocked BUY PRIROC HCLTECH ₹1387
+  🤖 JEV WAIT conf=0.34 blocked BUY ADX30 IIFL ₹617
+  🤖 JEV WAIT conf=0.37 blocked BUY ADX20 IIFL ₹617
+  🤖 JEV WAIT conf=0.28 blocked BUY PRIROC IIFL ₹617
+  🤖 JEV WAIT conf=0.69 blocked BUY ADX20 INFY ₹1145
+  🤖 JEV LONG  conf=0.58 AGREE vs BUY — E5/13 INTELLECT ₹644 ($0.00002)
+  🟢 E5/13   ENTR BUY INTELLECT @644 x4 SL@638 TP@656
+  🤖 JEV WAIT conf=0.46 blocked BUY ADX20 JUBLPHARMA ₹945
+  🤖 JEV LONG  conf=0.66 AGREE vs BUY — ADX30 JUSTDIAL ₹773 ($0.00002)
+  🟢 ADX30   ENTR BUY JUSTDIAL @773 x1 SL@756 TP@807
+  🤖 JEV LONG  conf=0.66 AGREE vs BUY — ADX20 JUSTDIAL ₹773 ($0.00002)
+  🟢 ADX20   ENTR BUY JUSTDIAL @773 x2 SL@756 TP@807
+  🤖 JEV WAIT conf=0.37 blocked BUY ADX30 NITINSPIN ₹651
+  🤖 JEV WAIT conf=0.35 blocked BUY ADX20 NITINSPIN ₹651
+  🤖 JEV WAIT conf=0.38 blocked BUY ADX30 PRESTIGE ₹1490
+  🤖 JEV WAIT conf=0.43 blocked BUY ADX20 PRESTIGE ₹1490
+  🤖 JEV WAIT conf=0.52 blocked BUY ADX20 PVRINOX ₹1395
+  🤖 JEV WAIT conf=0.34 blocked BUY E6/30 SUNTV ₹644
+  🤖 JEV WAIT conf=0.35 blocked BUY E8/21 SUNTV ₹644
+  🤖 JEV WAIT conf=0.35 blocked BUY E20/50 SUNTV ₹644
+  🤖 JEV WAIT conf=0.34 blocked BUY ADX25 SUNTV ₹644
+  🤖 JEV WAIT conf=0.28 blocked BUY PRIROC SUNTV ₹644
+  🤖 JEV WAIT conf=0.35 blocked BUY ADX30 TEAMLEASE ₹1133
+  🤖 JEV WAIT conf=0.43 blocked BUY ADX20 TEAMLEASE ₹1133
+  🤖 JEV WAIT conf=0.27 blocked BUY ADX20 WHIRLPOOL ₹848
+DONE: ₹276,657 | P&L ₹-223,342.54375049053 | Trades 11143 | Open 33 | New 12
+RUN 2026-10-19 10:20 | ₹276,657 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  🤖 JEV WAIT conf=0.37 blocked BUY VWAPDiv ACC ₹1187
+  🤖 JEV LONG  conf=0.27 AGREE vs BUY — ADX30 AVANTIFEED ₹724 ($0.00002)
+  🟢 ADX30   ENTR BUY AVANTIFEED @724 x1 SL@718 TP@737
+  🤖 JEV WAIT conf=0.25 blocked BUY PRIROC AVANTIFEED ₹724
+  🤖 JEV LONG  conf=0.58 AGREE vs BUY — ADX30 BHARATRAS ₹1006 ($0.00002)
+  🟢 ADX30   ENTR BUY BHARATRAS @1006 x1 SL@997 TP@1024
+  🤖 JEV LONG  conf=0.56 AGREE vs BUY — ADX20 BHARATRAS ₹1006 ($0.00002)
+  🟢 ADX20   ENTR BUY BHARATRAS @1006 x1 SL@997 TP@1024
+  🤖 JEV LONG  conf=0.69 AGREE vs BUY — 3Bar BHARATRAS ₹1006 ($0.00002)
+  🟢 3Bar    ENTR BUY BHARATRAS @1006 x2 SL@997 TP@1024
+  🤖 JEV WAIT conf=0.34 blocked BUY E10/50 GODREJAGRO ₹630
+  🤖 JEV WAIT conf=0.38 blocked BUY ADX20 GODREJAGRO ₹630
+  🤖 JEV WAIT conf=0.28 blocked BUY VWAPDiv GODREJAGRO ₹630
+  🤖 JEV WAIT conf=0.33 blocked BUY PRIROC GODREJAGRO ₹630
+  🤖 JEV WAIT conf=0.36 blocked BUY ADX30 GULFOILLUB ₹1077
+  🤖 JEV WAIT conf=0.41 blocked BUY ADX20 GULFOILLUB ₹1077
+  🤖 JEV WAIT conf=0.35 blocked BUY PRIROC HCLTECH ₹1390
+  🤖 JEV WAIT conf=0.31 blocked BUY ADX30 IIFL ₹617
+  🤖 JEV WAIT conf=0.38 blocked BUY ADX20 IIFL ₹617
+  🤖 JEV WAIT conf=0.33 blocked BUY VWAPDiv IIFL ₹617
+  🤖 JEV WAIT conf=0.25 blocked BUY PRIROC INDHOTEL ₹774
+  🤖 JEV WAIT conf=0.53 blocked BUY ADX20 INFY ₹1148
+  🤖 JEV WAIT conf=0.37 blocked BUY PRIROC INTELLECT ₹644
+  🤖 JEV WAIT conf=0.34 blocked BUY ADX30 JSL ₹746
+  🤖 JEV WAIT conf=0.35 blocked BUY ADX20 JSL ₹746
+  🤖 JEV WAIT conf=0.30 blocked BUY H9/50 JSL ₹746
+  🤖 JEV LONG  conf=0.25 AGREE vs BUY — PRIROC JSL ₹746 ($0.00002)
+  🟢 PRIROC  ENTR BUY JSL @746 x1 SL@740 TP@758
+  🤖 JEV WAIT conf=0.52 blocked BUY ADX20 JUBLPHARMA ₹944
+  ✅ PRIROC  TP   JUSTDIAL @790 ₹+30.471431187221015
+  🤖 JEV LONG  conf=0.77 AGREE vs BUY — PRIROC JUSTDIAL ₹789 ($0.00002)
+  🟢 PRIROC  ENTR BUY JUSTDIAL @789 x1 SL@770 TP@826
+  🤖 JEV WAIT conf=0.35 blocked BUY ADX20 JYOTIRES ₹855
+  🤖 JEV LONG  conf=0.82 AGREE vs BUY — H9/50 MANINDS ₹874 ($0.00002)
+  🟢 H9/50   ENTR BUY MANINDS @874 x2 SL@862 TP@899
+  🤖 JEV LONG  conf=0.80 AGREE vs BUY — PRIROC MANINDS ₹874 ($0.00002)
+  🟢 PRIROC  ENTR BUY MANINDS @874 x1 SL@862 TP@899
+  🤖 JEV WAIT conf=0.41 blocked BUY ADX20 NITINSPIN ₹649
+  🤖 JEV WAIT conf=0.40 blocked BUY ADX30 PRESTIGE ₹1488
+  🤖 JEV WAIT conf=0.40 blocked BUY ADX20 PRESTIGE ₹1488
+  🤖 JEV WAIT conf=0.31 blocked BUY PRIROC PRESTIGE ₹1488
+  🤖 JEV WAIT conf=0.43 blocked BUY ADX30 SBICARD ₹575
+  🤖 JEV WAIT conf=0.41 blocked BUY ADX20 SBICARD ₹575
+  🤖 JEV WAIT conf=0.41 blocked BUY VWAPDiv SBICARD ₹575
+  🤖 JEV WAIT conf=0.40 blocked BUY PRIROC SBICARD ₹575
+  🤖 JEV LONG  conf=0.53 AGREE vs BUY — ADX30 SUNTV ₹642 ($0.00002)
+  🟢 ADX30   ENTR BUY SUNTV @642 x1 SL@637 TP@654
+  🤖 JEV LONG  conf=0.53 AGREE vs BUY — ADX20 SUNTV ₹642 ($0.00002)
+  🟢 ADX20   ENTR BUY SUNTV @642 x2 SL@637 TP@654
+  ⚠️ SUNTV: Expecting value: line 1 column 1 (char 0)
+  🤖 JEV WAIT conf=0.28 blocked BUY ADX30 TEAMLEASE ₹1133
+  🤖 JEV WAIT conf=0.34 blocked BUY ADX20 TEAMLEASE ₹1133
+  🤖 JEV LONG  conf=0.27 AGREE vs BUY — ADX20 WHIRLPOOL ₹848 ($0.00002)
+  🟢 ADX20   ENTR BUY WHIRLPOOL @848 x1 SL@840 TP@863
+DONE: ₹276,688 | P&L ₹-223,312.0723193033 | Trades 11144 | Open 43 | New 12
+RUN 2026-10-19 10:30 | ₹276,688 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  🤖 JEV LONG  conf=0.48 AGREE vs BUY — ADX30 AVANTIFEED ₹726 ($0.00002)
+  🟢 ADX30   ENTR BUY AVANTIFEED @726 x1 SL@720 TP@739
+  🤖 JEV LONG  conf=0.45 AGREE vs BUY — H9/50 AVANTIFEED ₹726 ($0.00002)
+  🟢 H9/50   ENTR BUY AVANTIFEED @726 x1 SL@720 TP@739
+  🤖 JEV LONG  conf=0.43 AGREE vs BUY — PRIROC AVANTIFEED ₹726 ($0.00002)
+  🟢 PRIROC  ENTR BUY AVANTIFEED @726 x1 SL@720 TP@739
+  🤖 JEV LONG  conf=0.37 AGREE vs BUY — ADX20 GODREJAGRO ₹631 ($0.00002)
+  🟢 ADX20   ENTR BUY GODREJAGRO @631 x1 SL@626 TP@640
+  🤖 JEV LONG  conf=0.40 AGREE vs BUY — PRIROC GODREJAGRO ₹631 ($0.00002)
+  🟢 PRIROC  ENTR BUY GODREJAGRO @631 x1 SL@626 TP@640
+  🤖 JEV WAIT conf=0.33 blocked BUY VWAPDiv HCLTECH ₹1390
+  🤖 JEV LONG  conf=0.34 AGREE vs BUY — ADX20 IIFL ₹619 ($0.00002)
+  🟢 ADX20   ENTR BUY IIFL @619 x1 SL@614 TP@630
+  ✅ ADX30   SIG  INDHOTEL @773 ₹+10.20001220703125
+  🤖 JEV LONG  conf=0.31 AGREE vs BUY — VWAPDiv INDHOTEL ₹773 ($0.00002)
+  🟢 VWAPDiv ENTR BUY INDHOTEL @773 x1 SL@766 TP@789
+  🤖 JEV WAIT conf=0.51 blocked BUY ADX20 INFY ₹1146
+  🤖 JEV LONG  conf=0.28 AGREE vs BUY — ADX20 JSL ₹742 ($0.00002)
+  🟢 ADX20   ENTR BUY JSL @742 x1 SL@736 TP@754
+  🤖 JEV WAIT conf=0.52 blocked BUY ADX20 JUBLPHARMA ₹943
+  🤖 JEV WAIT conf=0.37 blocked BUY VWAPDiv JUSTDIAL ₹793
+  🤖 JEV LONG  conf=0.51 AGREE vs BUY — E5/13 MANINDS ₹876 ($0.00002)
+  🟢 E5/13   ENTR BUY MANINDS @876 x2 SL@864 TP@900
+  🤖 JEV LONG  conf=0.34 AGREE vs BUY — ADX20 NITINSPIN ₹651 ($0.00002)
+  🟢 ADX20   ENTR BUY NITINSPIN @651 x1 SL@644 TP@664
+  🤖 JEV LONG  conf=0.37 AGREE vs BUY — H9/50 PRESTIGE ₹1490 ($0.00002)
+  🟢 H9/50   ENTR BUY PRESTIGE @1490 x1 SL@1479 TP@1513
+  🤖 JEV WAIT conf=0.31 blocked BUY ADX30 SBICARD ₹575
+  🤖 JEV WAIT conf=0.27 blocked BUY ADX20 SBICARD ₹575
+  🤖 JEV LONG  conf=0.27 AGREE vs BUY — ADX20 TEAMLEASE ₹1137 ($0.00002)
+  🟢 ADX20   ENTR BUY TEAMLEASE @1137 x1 SL@1120 TP@1171
+DONE: ₹276,698 | P&L ₹-223,301.87230709626 | Trades 11145 | Open 56 | New 13
+RUN 2026-10-19 10:40 | ₹276,698 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  🤖 JEV WAIT conf=0.28 blocked BUY VWAPDiv ACC ₹1188
+  🤖 JEV WAIT conf=0.40 blocked BUY VWAPDiv CHENNPETRO ₹1453
+  🤖 JEV WAIT conf=0.35 blocked BUY VWAPDiv GODREJAGRO ₹630
+  🤖 JEV WAIT conf=0.43 blocked BUY VWAPDiv HCLTECH ₹1387
+  🤖 JEV WAIT conf=0.30 blocked BUY ADX30 IIFL ₹614
+  ❌ ADX20   SL   INDIANB @860 ₹-6.782141549246603
+  🤖 JEV WAIT conf=0.35 blocked BUY ADX20 INDIANB ₹860
+  ❌ H9/50   SL   INDIANB @860 ₹-20.34642464773981
+  ❌ PRIROC  SL   INDIANB @860 ₹-6.782141549246603
+  🤖 JEV WAIT conf=0.64 blocked BUY ADX20 INFY ₹1144
+  🤖 JEV WAIT conf=0.30 blocked BUY ADX20 JSL ₹741
+  🤖 JEV LONG  conf=0.31 AGREE vs BUY — VWAPDiv JSL ₹741 ($0.00002)
+  🟢 VWAPDiv ENTR BUY JSL @741 x1 SL@735 TP@753
+  🤖 JEV WAIT conf=0.45 blocked BUY ADX20 JUBLPHARMA ₹943
+  🤖 JEV WAIT conf=0.45 blocked BUY ADX20 NITINSPIN ₹644
+  🤖 JEV WAIT conf=0.51 blocked BUY ADX20 PRESTIGE ₹1488
+  🤖 JEV WAIT conf=0.52 blocked BUY VWAPDiv PRESTIGE ₹1488
+  🤖 JEV WAIT conf=0.51 blocked BUY ADX20 PVRINOX ₹1394
+  🤖 JEV WAIT conf=0.45 blocked BUY ADX30 SBICARD ₹573
+  🤖 JEV WAIT conf=0.43 blocked BUY ADX20 SBICARD ₹573
+  🤖 JEV WAIT conf=0.38 blocked BUY VWAPDiv SBICARD ₹573
+DONE: ₹276,664 | P&L ₹-223,335.78301484254 | Trades 11148 | Open 50 | New 4
+RUN 2026-10-19 10:50 | ₹276,664 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  🤖 JEV WAIT conf=0.41 blocked BUY ADX30 IIFL ₹613
+  ❌ ADX20   SL   IIFL @613 ₹-5.346418108258945
+  🤖 JEV WAIT conf=0.45 blocked BUY PRIROC INTELLECT ₹645
+  🤖 JEV WAIT conf=0.37 blocked BUY Engulf JSL ₹742
+  🤖 JEV LONG  conf=0.58 AGREE vs BUY — VWAPDiv JUSTDIAL ₹786 ($0.00002)
+  🟢 VWAPDiv ENTR BUY JUSTDIAL @786 x1 SL@767 TP@823
+  🤖 JEV WAIT conf=0.40 blocked BUY 3Bar SBICARD ₹573
+DONE: ₹276,659 | P&L ₹-223,341.12943295075 | Trades 11149 | Open 53 | New 2
+RUN 2026-10-19 11:00 | ₹276,659 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+📰 News for 100 stocks fetched
+  🤖 JEV WAIT conf=0.25 blocked BUY VWAPDiv ACC ₹1189
+  ❌ VWAPDiv SIG  AVANTIFEED @722 ₹-3.60009765625
+  ❌ VAccum  SL   CYIENT @1181 ₹-9.23570905412953
+  🤖 JEV LONG  conf=0.30 AGREE vs BUY — VAccum HCLTECH ₹1390 ($0.00002)
+  🟢 VAccum  ENTR BUY HCLTECH @1390 x1 SL@1379 TP@1412
+  🤖 JEV LONG  conf=0.43 AGREE vs BUY — ADX30 IIFL ₹614 ($0.00002)
+  🟢 ADX30   ENTR BUY IIFL @614 x1 SL@608 TP@624
+  ❌ PRIROC  SIG  INDHOTEL @772 ₹-0.89996337890625
+  🤖 JEV WAIT conf=0.33 blocked BUY H9/50 INTELLECT ₹645
+  🤖 JEV WAIT conf=0.34 blocked BUY PRIROC INTELLECT ₹645
+  ❌ H9/50   SL   JSL @740 ₹-17.88750784737738
+  ❌ PRIROC  SL   JSL @740 ₹-5.962502615792459
+  🤖 JEV WAIT conf=0.40 blocked BUY VWAPDiv PRESTIGE ₹1494
+  🤖 JEV WAIT conf=0.34 blocked BUY Engulf PVRINOX ₹1395
+DONE: ₹276,621 | P&L ₹-223,378.71521350322 | Trades 11154 | Open 50 | New 7
+RUN 2026-10-19 11:10 | ₹276,621 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  🤖 JEV WAIT conf=0.38 blocked BUY VWAPDiv ACC ₹1190
+  ❌ E10/50  SIG  AVANTIFEED @721 ₹-15.800048828125
+  ❌ ADX20   SIG  AVANTIFEED @721 ₹-3.95001220703125
+  ❌ PRIROC  SIG  AVANTIFEED @721 ₹-5.54998779296875
+  🤖 JEV WAIT conf=0.43 blocked BUY VWAPDiv HCLTECH ₹1389
+  🤖 JEV WAIT conf=0.28 blocked BUY Engulf IIFL ₹614
+  🤖 JEV WAIT conf=0.33 blocked BUY Engulf INDIANB ₹861
+  🤖 JEV WAIT conf=0.37 blocked BUY H9/50 INTELLECT ₹646
+  🤖 JEV WAIT conf=0.37 blocked BUY H9/50 JSWSTEEL ₹1226
+  ❌ ADX20   SL   KPITTECH @538 ₹-9.117841448102581
+  🤖 JEV WAIT conf=0.51 blocked BUY VWAPDiv PRESTIGE ₹1493
+  🤖 JEV LONG  conf=0.49 AGREE vs BUY — E5/13 PVRINOX ₹1405 ($0.00002)
+  🟢 E5/13   ENTR BUY PVRINOX @1405 x1 SL@1393 TP@1430
+  🤖 JEV LONG  conf=0.53 AGREE vs BUY — Engulf PVRINOX ₹1405 ($0.00002)
+  🟢 Engulf  ENTR BUY PVRINOX @1405 x2 SL@1393 TP@1430
+DONE: ₹276,587 | P&L ₹-223,413.1331037794 | Trades 11158 | Open 48 | New 6
+RUN 2026-10-19 11:20 | ₹276,596 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  ❌ BBNar   SIG  ACC @1185 ₹-4.0999755859375
+  ❌ PRIROC  SIG  ACC @1185 ₹-4.0999755859375
+  ❌ PRIROC  SIG  AVANTIFEED @722 ₹-4.699951171875
+  ❌ ADX30   SL   CHENNPETRO @1437 ₹-15.17143903459828
+  ❌ PRIROC  SL   CHENNPETRO @1437 ₹-15.17143903459828
+  🤖 JEV WAIT conf=0.41 blocked BUY VWAPDiv GODREJAGRO ₹630
+  ❌ PRIROC  SIG  GODREJAGRO @630 ₹-0.79998779296875
+  🤖 JEV WAIT conf=0.52 blocked BUY VWAPDiv INTELLECT ₹645
+  ❌ VWAPDiv SIG  JUSTDIAL @773 ₹-10.5999755859375
+  ❌ PRIROC  SL   JUSTDIAL @771 ₹-18.66429356166293
+  ❌ PRIROC  SIG  MANINDS @867 ₹-5.70001220703125
+  🤖 JEV WAIT conf=0.41 blocked BUY ADX30 PRESTIGE ₹1494
+  ❌ ADX30   SIG  TEAMLEASE @1120 ₹-14.0
+DONE: ₹276,503 | P&L ₹-223,496.5902265822 | Trades 11167 | Open 39 | New 10
+RUN 2026-10-19 11:30 | ₹276,514 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  🤖 JEV WAIT conf=0.40 blocked BUY VWAPDiv GODREJAGRO ₹629
+  🤖 JEV LONG  conf=0.34 AGREE vs BUY — VWAPDiv HCLTECH ₹1384 ($0.00002)
+  🟢 VWAPDiv ENTR BUY HCLTECH @1384 x1 SL@1373 TP@1407
+  🤖 JEV LONG  conf=0.37 AGREE vs BUY — H9/50 IIFL ₹623 ($0.00002)
+  🟢 H9/50   ENTR BUY IIFL @623 x4 SL@617 TP@634
+  🤖 JEV LONG  conf=0.28 AGREE vs BUY — S10/2 KSCL ₹726 ($0.00002)
+  🟢 S10/2   ENTR BUY KSCL @726 x4 SL@720 TP@737
+  🤖 JEV LONG  conf=0.34 AGREE vs BUY — S14/3 KSCL ₹726 ($0.00002)
+  🟢 S14/3   ENTR BUY KSCL @726 x4 SL@720 TP@737
+  🤖 JEV LONG  conf=0.37 AGREE vs BUY — S20/4 KSCL ₹726 ($0.00002)
+  🟢 S20/4   ENTR BUY KSCL @726 x4 SL@720 TP@737
+  🤖 JEV LONG  conf=0.27 AGREE vs BUY — ADX30 PRESTIGE ₹1492 ($0.00002)
+  🟢 ADX30   ENTR BUY PRESTIGE @1492 x1 SL@1481 TP@1515
+  🤖 JEV LONG  conf=0.25 AGREE vs BUY — H9/50 PVRINOX ₹1406 ($0.00002)
+  🟢 H9/50   ENTR BUY PVRINOX @1406 x1 SL@1394 TP@1432
+  🤖 JEV WAIT conf=0.34 blocked BUY VWAPDiv PVRINOX ₹1406
+DONE: ₹276,514 | P&L ₹-223,485.9402632033 | Trades 11167 | Open 47 | New 7
+RUN 2026-10-19 11:40 | ₹276,518 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  🤖 JEV WAIT conf=0.49 blocked BUY 3Bar BHARATRAS ₹1005
+  🤖 JEV WAIT conf=0.28 blocked BUY 3Bar GODREJAGRO ₹629
+  🤖 JEV WAIT conf=0.35 blocked BUY VWAPDiv GODREJAGRO ₹629
+  🤖 JEV WAIT conf=0.34 blocked BUY VWAPDiv IIFL ₹619
+  ❌ VWAPDiv SL   INDHOTEL @766 ₹-7.558940342494452
+  🤖 JEV WAIT conf=0.40 blocked BUY VWAPDiv JSWSTEEL ₹1221
+  ❌ VWAPDiv SL   JUSTDIAL @765 ₹-18.841075352260077
+  ✅ S10/2   SIG  KSCL @726 ₹+1.60009765625
+  ✅ S14/3   SIG  KSCL @726 ₹+1.60009765625
+  ✅ S20/4   SIG  KSCL @726 ₹+1.60009765625
+  🤖 JEV WAIT conf=0.30 blocked BUY ADX30 SBIN ₹970
+  ❌ ADX20   SL   TEAMLEASE @1120 ₹-17.271436418805706
+DONE: ₹276,479 | P&L ₹-223,521.21156883246 | Trades 11174 | Open 39 | New 6
+RUN 2026-10-19 11:50 | ₹276,481 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  🤖 JEV WAIT conf=0.33 blocked BUY 3Bar DLF ₹673
+  🤖 JEV LONG  conf=0.49 AGREE vs BUY — E20/50 GODREJAGRO ₹635 ($0.00002)
+  🟢 E20/50  ENTR BUY GODREJAGRO @635 x3 SL@629 TP@647
+  ❌ ADX30   SL   JUSTDIAL @760 ₹-16.96071951729914
+  ❌ ADX20   SL   JUSTDIAL @760 ₹-33.92143903459828
+  🤖 JEV LONG  conf=0.41 AGREE vs BUY — H9/50 JYOTIRES ₹852 ($0.00002)
+  🟢 H9/50   ENTR BUY JYOTIRES @852 x2 SL@840 TP@877
+  🤖 JEV WAIT conf=0.52 blocked BUY StrBreak SBICARD ₹581
+DONE: ₹276,430 | P&L ₹-223,570.29373959143 | Trades 11177 | Open 38 | New 4
+RUN 2026-10-19 12:00 | ₹276,430 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+📰 News for 101 stocks fetched
+  🤖 JEV WAIT conf=0.69 blocked BUY H9/50 KSCL ₹728
+  🤖 JEV WAIT conf=0.34 blocked BUY StrBreak PVRINOX ₹1415
+  ❌ PRIROC  SIG  SUNTV @642 ₹-0.54998779296875
+Traceback (most recent call last):
+  File "/home/ubuntu/Trading-BOT/trading/paper_trading/engine.py", line 559, in <module>
+    import pandas as pd,numpy as np; go()
+                                     ~~^^
+  File "/home/ubuntu/Trading-BOT/trading/paper_trading/engine.py", line 553, in go
+    ux(state); ss(state)
+    ~~^^^^^^^
+  File "/home/ubuntu/Trading-BOT/trading/paper_trading/engine.py", line 303, in ux
+    wb=openpyxl.load_workbook(E) if os.path.exists(E) else openpyxl.Workbook()
+       ~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/reader/excel.py", line 348, in load_workbook
+    reader.read()
+    ~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/reader/excel.py", line 303, in read
+    self.read_worksheets()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/reader/excel.py", line 237, in read_worksheets
+    ws_parser.bind_all()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/worksheet/_reader.py", line 465, in bind_all
+    self.bind_cells()
+    ~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/worksheet/_reader.py", line 368, in bind_cells
+    for idx, row in self.parser.parse():
+                    ~~~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/worksheet/_reader.py", line 156, in parse
+    for _, element in it:
+                      ^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/xml/etree/ElementTree.py", line 1262, in iterator
+    data = source.read(16 * 1024)
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/zipfile/__init__.py", line 1105, in read
+    data = self._read1(n)
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/zipfile/__init__.py", line 1173, in _read1
+    data += self._read2(n - len(data))
+            ~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/zipfile/__init__.py", line 1208, in _read2
+    raise EOFError
+EOFError
+RUN 2026-10-19 12:10 | ₹276,429 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  🤖 JEV WAIT conf=0.34 blocked BUY Engulf DLF ₹673
+  ❌ VAccum  SL   HCLTECH @1379 ₹-11.142844063895154
+  🤖 JEV WAIT conf=0.70 blocked BUY H9/50 KSCL ₹727
+DONE: ₹276,418 | P&L ₹-223,581.73657144827 | Trades 11179 | Open 36 | New 1
+RUN 2026-10-19 12:20 | ₹276,418 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  ❌ ADX30   SL   AVANTIFEED @720 ₹-6.51964024135043
+  ❌ H9/50   SL   AVANTIFEED @720 ₹-6.51964024135043
+  🤖 JEV LONG  conf=0.64 AGREE vs BUY — E5/13 MANINDS ₹874 ($0.00002)
+  🟢 E5/13   ENTR BUY MANINDS @874 x2 SL@861 TP@900
+  🤖 JEV WAIT conf=0.38 blocked BUY Engulf PVRINOX ₹1410
+  ❌ VWAPDiv SIG  SUNTV @640 ₹-4.199951171875
+  🤖 JEV WAIT conf=0.41 blocked BUY RSI25 TEAMLEASE ₹1115
+DONE: ₹276,401 | P&L ₹-223,598.9758031029 | Trades 11182 | Open 34 | New 4
+RUN 2026-10-19 12:30 | ₹276,401 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  🤖 JEV LONG  conf=0.34 AGREE vs BUY — RSI25 KPITTECH ₹538 ($0.00002)
+  🟢 RSI25   ENTR BUY KPITTECH @538 x8 SL@532 TP@549
+  🤖 JEV WAIT conf=0.43 blocked BUY RSI25 TEAMLEASE ₹1116
+DONE: ₹276,401 | P&L ₹-223,599.07590075908 | Trades 11182 | Open 37 | New 1
+RUN 2026-10-19 12:40 | ₹276,401 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  🤖 JEV WAIT conf=0.34 blocked BUY 3Bar HCLTECH ₹1375
+  🤖 JEV WAIT conf=0.55 blocked BUY RSI25 INFY ₹1133
+  🤖 JEV WAIT conf=0.38 blocked BUY RSI25 KPITTECH ₹538
+  🤖 JEV WAIT conf=0.31 blocked BUY StrBreak KSCL ₹730
+  🤖 JEV LONG  conf=0.33 AGREE vs BUY — RSI25 TEAMLEASE ₹1117 ($0.00002)
+  🟢 RSI25   ENTR BUY TEAMLEASE @1117 x3 SL@1105 TP@1140
+DONE: ₹276,401 | P&L ₹-223,599.07590075908 | Trades 11182 | Open 37 | New 1
+RUN 2026-10-19 12:50 | ₹276,390 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  🤖 JEV WAIT conf=0.30 blocked BUY RSI25 BHARATRAS ₹1007
+  ✅ ADX30   SIG  BHARATRAS @1007 ₹+2.5
+  ❌ H9/50   SIG  IIFL @618 ₹-15.39990234375
+  🤖 JEV WAIT conf=0.46 blocked BUY Engulf INTELLECT ₹645
+  🤖 JEV WAIT conf=0.52 blocked BUY ADX30 JSWSTEEL ₹1243
+  🤖 JEV WAIT conf=0.41 blocked BUY ADX30 JUSTDIAL ₹742
+  🤖 JEV WAIT conf=0.30 blocked BUY E6/30 MANINDS ₹883
+  🤖 JEV WAIT conf=0.34 blocked BUY E8/21 MANINDS ₹883
+  ✅ ADX30   SIG  SBICARD @573 ₹+0.75
+DONE: ₹276,377 | P&L ₹-223,622.51864978258 | Trades 11186 | Open 32 | New 3
+RUN 2026-10-19 13:00 | ₹276,373 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+📰 News for 101 stocks fetched
+  🤖 JEV LONG  conf=0.40 AGREE vs BUY — RSI25 BHARATRAS ₹1006 ($0.00002)
+  🟢 RSI25   ENTR BUY BHARATRAS @1006 x4 SL@998 TP@1022
+  🤖 JEV WAIT conf=0.38 blocked BUY ADX30 JUSTDIAL ₹748
+  ✅ VWAPDiv SIG  SBICARD @573 ₹+0.5999755859375
+Traceback (most recent call last):
+  File "/home/ubuntu/Trading-BOT/trading/paper_trading/engine.py", line 559, in <module>
+    import pandas as pd,numpy as np; go()
+                                     ~~^^
+  File "/home/ubuntu/Trading-BOT/trading/paper_trading/engine.py", line 553, in go
+    ux(state); ss(state)
+    ~~^^^^^^^
+  File "/home/ubuntu/Trading-BOT/trading/paper_trading/engine.py", line 303, in ux
+    wb=openpyxl.load_workbook(E) if os.path.exists(E) else openpyxl.Workbook()
+       ~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/reader/excel.py", line 348, in load_workbook
+    reader.read()
+    ~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/reader/excel.py", line 303, in read
+    self.read_worksheets()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/reader/excel.py", line 237, in read_worksheets
+    ws_parser.bind_all()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/worksheet/_reader.py", line 465, in bind_all
+    self.bind_cells()
+    ~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/worksheet/_reader.py", line 368, in bind_cells
+    for idx, row in self.parser.parse():
+                    ~~~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/worksheet/_reader.py", line 156, in parse
+    for _, element in it:
+                      ^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/xml/etree/ElementTree.py", line 1262, in iterator
+    data = source.read(16 * 1024)
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/zipfile/__init__.py", line 1105, in read
+    data = self._read1(n)
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/zipfile/__init__.py", line 1173, in _read1
+    data += self._read2(n - len(data))
+            ~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/zipfile/__init__.py", line 1208, in _read2
+    raise EOFError
+EOFError
+RUN 2026-10-19 13:10 | ₹276,374 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  ✅ ADX20   TP   INTELLECT @648 ₹+10.692862374441916
+  🤖 JEV WAIT conf=0.34 blocked BUY ADX30 JSWSTEEL ₹1246
+  🤖 JEV WAIT conf=0.35 blocked BUY ADX20 JSWSTEEL ₹1246
+  🤖 JEV LONG  conf=0.41 AGREE vs BUY — ADX30 JUSTDIAL ₹754 ($0.00002)
+  🟢 ADX30   ENTR BUY JUSTDIAL @754 x2 SL@731 TP@800
+  🤖 JEV LONG  conf=0.43 AGREE vs BUY — ADX20 JUSTDIAL ₹754 ($0.00002)
+  🟢 ADX20   ENTR BUY JUSTDIAL @754 x2 SL@731 TP@800
+  🤖 JEV LONG  conf=0.89 AGREE vs BUY — Engulf MANINDS ₹891 ($0.00002)
+  🟢 Engulf  ENTR BUY MANINDS @891 x2 SL@879 TP@914
+  🤖 JEV WAIT conf=0.45 blocked BUY ADX20 PVRINOX ₹1408
+  🤖 JEV WAIT conf=0.40 blocked BUY VWAPDiv PVRINOX ₹1408
+DONE: ₹276,384 | P&L ₹-223,615.62583623623 | Trades 11188 | Open 34 | New 4
+RUN 2026-10-19 13:20 | ₹276,384 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  ❌ ADX30   SIG  JUSTDIAL @752 ₹-12.0
+  🤖 JEV LONG  conf=0.74 AGREE vs BUY — VWAPDiv MANINDS ₹890 ($0.00002)
+  🟢 VWAPDiv ENTR BUY MANINDS @890 x2 SL@879 TP@912
+  🤖 JEV WAIT conf=0.49 blocked BUY ADX20 PVRINOX ₹1408
+  🤖 JEV WAIT conf=0.49 blocked BUY VWAPDiv PVRINOX ₹1408
+DONE: ₹276,372 | P&L ₹-223,627.62583623623 | Trades 11189 | Open 35 | New 2
+RUN 2026-10-19 13:30 | ₹276,376 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  🤖 JEV WAIT conf=0.25 blocked BUY ADX20 PVRINOX ₹1405
+DONE: ₹276,376 | P&L ₹-223,624.0258606503 | Trades 11189 | Open 36 | New 0
+RUN 2026-10-19 13:40 | ₹276,376 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+DONE: ₹276,376 | P&L ₹-223,624.0258606503 | Trades 11189 | Open 37 | New 0
+RUN 2026-10-19 13:50 | ₹276,376 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  ✅ VWAPDiv SIG  CGPOWER @857 ₹+3.4000244140625
+  🤖 JEV WAIT conf=0.33 blocked BUY RSI25 JUSTDIAL ₹750
+DONE: ₹276,379 | P&L ₹-223,620.62583623623 | Trades 11190 | Open 36 | New 1
+RUN 2026-10-19 14:00 | ₹276,379 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+📰 News for 101 stocks fetched
+  🤖 JEV LONG  conf=0.37 AGREE vs BUY — RSI25 JUSTDIAL ₹746 ($0.00002)
+  🟢 RSI25   ENTR BUY JUSTDIAL @746 x4 SL@729 TP@782
+  🤖 JEV LONG  conf=0.28 AGREE vs BUY — ADX30 MANINDS ₹889 ($0.00002)
+  🟢 ADX30   ENTR BUY MANINDS @889 x1 SL@878 TP@910
+  🤖 JEV WAIT conf=0.25 blocked BUY VWAPDiv MANINDS ₹889
+Traceback (most recent call last):
+  File "/home/ubuntu/Trading-BOT/trading/paper_trading/engine.py", line 559, in <module>
+    import pandas as pd,numpy as np; go()
+                                     ~~^^
+  File "/home/ubuntu/Trading-BOT/trading/paper_trading/engine.py", line 553, in go
+    ux(state); ss(state)
+    ~~^^^^^^^
+  File "/home/ubuntu/Trading-BOT/trading/paper_trading/engine.py", line 303, in ux
+    wb=openpyxl.load_workbook(E) if os.path.exists(E) else openpyxl.Workbook()
+       ~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/reader/excel.py", line 348, in load_workbook
+    reader.read()
+    ~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/reader/excel.py", line 303, in read
+    self.read_worksheets()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/reader/excel.py", line 237, in read_worksheets
+    ws_parser.bind_all()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/worksheet/_reader.py", line 465, in bind_all
+    self.bind_cells()
+    ~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/worksheet/_reader.py", line 368, in bind_cells
+    for idx, row in self.parser.parse():
+                    ~~~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/worksheet/_reader.py", line 156, in parse
+    for _, element in it:
+                      ^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/xml/etree/ElementTree.py", line 1262, in iterator
+    data = source.read(16 * 1024)
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/zipfile/__init__.py", line 1105, in read
+    data = self._read1(n)
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/zipfile/__init__.py", line 1173, in _read1
+    data += self._read2(n - len(data))
+            ~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/zipfile/__init__.py", line 1208, in _read2
+    raise EOFError
+EOFError
+RUN 2026-10-19 14:10 | ₹276,379 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  🤖 JEV WAIT conf=0.35 blocked BUY 3Bar CGPOWER ₹854
+  🤖 JEV LONG  conf=0.51 AGREE vs BUY — VWAPDiv MANINDS ₹890 ($0.00002)
+  🟢 VWAPDiv ENTR BUY MANINDS @890 x2 SL@879 TP@912
+DONE: ₹276,379 | P&L ₹-223,621.0258606503 | Trades 11190 | Open 39 | New 1
+RUN 2026-10-19 14:20 | ₹276,379 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  🤖 JEV LONG  conf=0.25 AGREE vs BUY — E20/50 MANINDS ₹890 ($0.00002)
+  🟢 E20/50  ENTR BUY MANINDS @890 x1 SL@880 TP@912
+  🤖 JEV LONG  conf=0.27 AGREE vs BUY — ADX25 MANINDS ₹890 ($0.00002)
+  🟢 ADX25   ENTR BUY MANINDS @890 x2 SL@880 TP@912
+DONE: ₹276,379 | P&L ₹-223,621.0258606503 | Trades 11190 | Open 41 | New 2
+RUN 2026-10-19 14:30 | ₹276,379 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  🤖 JEV WAIT conf=0.31 blocked BUY VWAPDiv PVRINOX ₹1408
+DONE: ₹276,379 | P&L ₹-223,621.0258606503 | Trades 11190 | Open 39 | New 0
+RUN 2026-10-19 14:40 | ₹276,379 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  🤖 JEV WAIT conf=0.33 blocked BUY VWAPDiv PVRINOX ₹1406
+DONE: ₹276,379 | P&L ₹-223,621.0258606503 | Trades 11190 | Open 39 | New 0
+RUN 2026-10-19 14:50 | ₹276,379 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  ❌ ADX20   SL   JUSTDIAL @735 ₹-46.917885916573596
+  🤖 JEV WAIT conf=0.45 blocked BUY ADX20 JUSTDIAL ₹737
+  🤖 JEV WAIT conf=0.45 blocked BUY VWAPDiv PVRINOX ₹1405
+DONE: ₹276,332 | P&L ₹-223,667.94374656683 | Trades 11191 | Open 38 | New 1
+RUN 2026-10-19 15:00 | ₹276,332 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+📰 News for 101 stocks fetched
+  🤖 JEV WAIT conf=0.37 blocked BUY ADX20 JUSTDIAL ₹734
+Traceback (most recent call last):
+  File "/home/ubuntu/Trading-BOT/trading/paper_trading/engine.py", line 559, in <module>
+    import pandas as pd,numpy as np; go()
+                                     ~~^^
+  File "/home/ubuntu/Trading-BOT/trading/paper_trading/engine.py", line 553, in go
+    ux(state); ss(state)
+    ~~^^^^^^^
+  File "/home/ubuntu/Trading-BOT/trading/paper_trading/engine.py", line 303, in ux
+    wb=openpyxl.load_workbook(E) if os.path.exists(E) else openpyxl.Workbook()
+       ~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/reader/excel.py", line 348, in load_workbook
+    reader.read()
+    ~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/reader/excel.py", line 303, in read
+    self.read_worksheets()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/reader/excel.py", line 237, in read_worksheets
+    ws_parser.bind_all()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/worksheet/_reader.py", line 465, in bind_all
+    self.bind_cells()
+    ~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/worksheet/_reader.py", line 368, in bind_cells
+    for idx, row in self.parser.parse():
+                    ~~~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/worksheet/_reader.py", line 156, in parse
+    for _, element in it:
+                      ^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/xml/etree/ElementTree.py", line 1262, in iterator
+    data = source.read(16 * 1024)
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/zipfile/__init__.py", line 1105, in read
+    data = self._read1(n)
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/zipfile/__init__.py", line 1173, in _read1
+    data += self._read2(n - len(data))
+            ~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/zipfile/__init__.py", line 1208, in _read2
+    raise EOFError
+EOFError
+RUN 2026-10-19 15:10 | ₹276,332 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  ❌ RSI25   SL   JUSTDIAL @729 ₹-70.67146519252219
+  🤖 JEV WAIT conf=0.46 blocked BUY ADX20 JUSTDIAL ₹731
+DONE: ₹276,261 | P&L ₹-223,738.6152117594 | Trades 11192 | Open 37 | New 1
+RUN 2026-10-19 15:20 | ₹276,261 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  🤖 JEV WAIT conf=0.33 blocked BUY ADX20 JUSTDIAL ₹730
+  ❌ VWAPDiv SIG  PVRINOX @1404 ₹-0.800048828125
+DONE: ₹276,261 | P&L ₹-223,739.41526058753 | Trades 11193 | Open 37 | New 1
+RUN 2026-10-19 15:30 | ₹276,260 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  🤖 JEV LONG  conf=0.69 AGREE vs BUY — Engulf JUSTDIAL ₹746 ($0.00002)
+  🟢 Engulf  ENTR BUY JUSTDIAL @746 x2 SL@728 TP@782
+DONE: ₹276,260 | P&L ₹-223,739.91526058753 | Trades 11193 | Open 39 | New 1
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
