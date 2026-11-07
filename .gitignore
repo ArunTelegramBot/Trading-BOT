@@ -8,3 +8,4 @@ venv/
 .env
 bot.log
 .DS_Store
+ENV_BACKUP*
