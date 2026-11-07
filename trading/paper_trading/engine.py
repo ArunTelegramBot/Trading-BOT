@@ -6,7 +6,22 @@ from datetime import datetime,timezone,timedelta
 warnings.filterwarnings('ignore')
 B="/home/ubuntu/Trading-BOT/trading/paper_trading"
 E=f"{B}/paper_trading.xlsx"; S=f"{B}/state.json"; P="/home/ubuntu/Trading-BOT/trading/stocks_all.txt"; N=f"{B}/news.json"
-I=500000; C=I//50; R=0.02; SL=1.5; TP=3.0
+I=500000; C=I//50; TP=3.0
+
+# ── NIFTY regime gate: True = strict (entries must match regime), False = advisory ──
+# False (fix): SELL entries allowed in BULL regime when stock trend/EMA50 supports;
+#              prevents the deadlock where regime=BULL but stocks below EMA50 block both sides.
+REGIME_GATE = False
+
+# ── Per-strategy cooloff: True = skip strategy after 3 consecutive losses, False = always trade pattern ──
+# False (user preference): take the trade whenever the strategy pattern fires — no per-strategy count limit.
+COOLOFF_ON = False
+
+# ── Risk per trade (% of strategy free capital) — bumped from 0.02 (2%) to use total capital meaningfully ──
+# With 50 strategies each on ₹10K, R=0.02 = only ₹190 risk/trade → tiny qty.
+# R=0.10 = 10% = ₹950 risk/trade → larger, meaningful positions from ₹5L capital.
+R = 0.10
+SL = 1.5  # ATR multiplier for stop distance
 
 # ── JEV AI decision layer (FULL CONTROL: WAIT blocks, direction must match) ──
 JEV_ON = True                 # False = full revert to original engine behavior
@@ -436,16 +451,47 @@ def go():
         return
     tc=sum(state['strategies'][s]['capital'] for s in ST)
     print(f"RUN {ds} {ts} | ₹{tc:,.0f} | {len(KK)}×{len(ST)}={len(KK)*len(ST)} checks/run")
-    # ── NIFTY daily regime filter ──
-    nifty_trend="BULL"
-    try:
-        import yfinance as yf2
-        nd=yf2.download("^NSEI",period="6mo",interval="1d",progress=False)
-        if not nd.empty and len(nd)>=50:
-            ne50=nd['Close'].ewm(50).mean().iloc[-1]
-            nifty_trend="BULL" if nd['Close'].iloc[-1]>ne50 else "BEAR"
-    except: pass
+    # ── NIFTY daily regime filter — cached per day, no repeat downloads ──
+    nifty_trend = state.get("nifty_trend", "BULL")
+    if state.get("regime_date") != ds:
+        try:
+            nd=yf.download("^NSEI",period="6mo",interval="1d",progress=False)
+            if not nd.empty and len(nd)>=50:
+                ne50=nd['Close'].ewm(50).mean().iloc[-1]
+                nifty_trend="BULL" if nd['Close'].iloc[-1]>ne50 else "BEAR"
+                state["nifty_trend"]=nifty_trend; state["regime_date"]=ds
+        except: pass
     print(f"  📊 NIFTY regime: {nifty_trend}")
+    # ── BATCH download all 15m data in ONE call (threads) — no per-symbol hammering ──
+    data={}
+    for attempt in range(2):
+        try:
+            raw=yf.download(KK, period="5d", interval="15m", group_by="ticker",
+                            progress=False, threads=True)
+            if raw is not None and not raw.empty:
+                for sym in KK:
+                    try:
+                        d = raw[sym].dropna(how="all") if isinstance(raw.columns,pd.MultiIndex) else raw
+                        if not d.empty:
+                            data[sym]=d
+                    except: pass
+                break
+        except Exception as e:
+            print(f"  ⚠️ batch data attempt {attempt+1}: {e}")
+            data={}
+    print(f"  📦 Data loaded {len(data)}/{len(KK)} symbols")
+    # ── Fallback: fetch any symbol the batch dropped (yfinance intermittently skips some) ──
+    missing=[s for s in KK if s not in data]
+    if missing:
+        print(f"  🔁 Fallback fetch for {len(missing)} dropped symbols...")
+        for sym in missing:
+            try:
+                d=yf.download(sym,period="5d",interval="15m",progress=False)
+                if d is not None and not d.empty:
+                    if isinstance(d.columns,pd.MultiIndex): d.columns=[c[0] for c in d.columns]
+                    data[sym]=d
+            except: pass
+        print(f"  📦 After fallback: {len(data)}/{len(KK)} symbols")
     # News once per hour: check last news hour
     last_news = state.get("last_news_hour", -1)
     if last_news != ni.hour:
@@ -460,24 +506,13 @@ def go():
         sd['locked']=sum(p['entry']*p['qty'] for p in sd['positions'].values())
     for sym in KK:
         try:
-            d=yf.download(sym,period="5d",interval="15m",progress=False)
-            if d.empty or len(d)<30: continue
-            if isinstance(d.columns,pd.MultiIndex): d.columns=[c[0] for c in d.columns]
+            d=data.get(sym)
+            if d is None or len(d)<30: continue
             nm=sym.replace('.NS',''); la=d.iloc[-1]; pr=d.iloc[-2]
             ss_d=calc(d); e50=d['Close'].ewm(50).mean(); a14=(d['High']-d['Low']).rolling(14).mean()
             # ── ATR% filter: skip too-dead (<0.5%) or too-wild (>5%) ──
             atrpct=float(a14.iloc[-1]/la['Close']*100) if a14.iloc[-1]>0 else 0
             if 0<atrpct<0.5 or atrpct>5: continue
-            # ── Daily trend per stock for higher timeframe bias ──
-            stock_trend=nifty_trend
-            try:
-                import yfinance as yf3
-                sdaily=yf3.download(sym,period="1mo",interval="1d",progress=False)
-                if not sdaily.empty and len(sdaily)>=20:
-                    se50=sdaily['Close'].ewm(50).mean().iloc[-1] if len(sdaily)>=50 else None
-                    if se50 is not None:
-                        stock_trend="BULL" if sdaily['Close'].iloc[-1]>se50 else "BEAR"
-            except: pass
             # ── News context for this stock ──
             news_ctx=""
             for nc in state.get("news_cache",[])[-3:]:
@@ -508,11 +543,12 @@ def go():
                         print(f"  {ic} {st:7s} {er:4s} {nm} @{round(ep):.0f} ₹{pnl:+,}")
                 if nm not in sd["positions"] and sg and sg[0]!="NEUTRAL":
                     ac,pc=sg
-                    # Per-strategy cooloff (3 consecutive losses)
-                    if sd.get('loss_streak',0)>=3: continue
-                    # Direction filter: follow NIFTY regime (stock trend is advisory)
-                    if ac=='BUY' and nifty_trend!='BULL': continue
-                    if ac=='SELL' and nifty_trend!='BEAR': continue
+                    # Per-strategy cooloff (3 consecutive losses) — disabled: take every pattern
+                    if COOLOFF_ON and sd.get('loss_streak',0)>=3: continue
+                    # Direction filter: follow NIFTY regime only if REGIME_GATE (advisory otherwise)
+                    if REGIME_GATE:
+                        if ac=='BUY' and nifty_trend!='BULL': continue
+                        if ac=='SELL' and nifty_trend!='BEAR': continue
                     # Trend filter: price vs EMA50
                     if (ac=='BUY' and d['Close'].iloc[-1]<e50.iloc[-1]) or (ac=='SELL' and d['Close'].iloc[-1]>e50.iloc[-1]): continue
                     free=max(0,sd['capital']-sd.get('locked',0))
@@ -553,6 +589,7 @@ def go():
     ux(state); ss(state)
     cl=len(state['closed_trades']); op=sum(len(state['strategies'][s]['positions']) for s in ST)
     tc=sum(state['strategies'][s]['capital'] for s in ST)
+    state['trade_count'] = cl  # ← FIX: sync trade_count field
     print(f"DONE: ₹{tc:,.0f} | P&L ₹{tc-I:+,} | Trades {cl} | Open {op} | New {nt}")
     state['last_run']=ni.strftime("%Y-%m-%d %H:%M"); ss(state)
 if __name__=="__main__":

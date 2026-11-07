@@ -7280,3 +7280,248 @@ Closed. 11193 total trades.
 Closed. 11193 total trades.
 Closed. 11193 total trades.
 Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+Closed. 11193 total trades.
+RUN 2026-10-20 09:20 | ₹276,260 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+📰 News for 101 stocks fetched
+  ❌ Engulf  SL   JUSTDIAL @728 ₹-36.18213762555797
+  ⚠️ JUSTDIAL: Expecting value: line 7676 column 11 (char 122910)
+Traceback (most recent call last):
+  File "/home/ubuntu/Trading-BOT/trading/paper_trading/engine.py", line 559, in <module>
+    import pandas as pd,numpy as np; go()
+                                     ~~^^
+  File "/home/ubuntu/Trading-BOT/trading/paper_trading/engine.py", line 553, in go
+    ux(state); ss(state)
+    ~~^^^^^^^
+  File "/home/ubuntu/Trading-BOT/trading/paper_trading/engine.py", line 303, in ux
+    wb=openpyxl.load_workbook(E) if os.path.exists(E) else openpyxl.Workbook()
+       ~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/reader/excel.py", line 348, in load_workbook
+    reader.read()
+    ~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/reader/excel.py", line 303, in read
+    self.read_worksheets()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/reader/excel.py", line 237, in read_worksheets
+    ws_parser.bind_all()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/worksheet/_reader.py", line 465, in bind_all
+    self.bind_cells()
+    ~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/worksheet/_reader.py", line 368, in bind_cells
+    for idx, row in self.parser.parse():
+                    ~~~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/worksheet/_reader.py", line 156, in parse
+    for _, element in it:
+                      ^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/xml/etree/ElementTree.py", line 1262, in iterator
+    data = source.read(16 * 1024)
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/zipfile/__init__.py", line 1105, in read
+    data = self._read1(n)
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/zipfile/__init__.py", line 1173, in _read1
+    data += self._read2(n - len(data))
+            ~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/zipfile/__init__.py", line 1208, in _read2
+    raise EOFError
+EOFError
+RUN 2026-10-20 09:30 | ₹276,224 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  ❌ Engulf  SL   JUSTDIAL @728 ₹-36.18213762555797
+  🤖 JEV LONG  conf=0.67 AGREE vs BUY — Engulf JUSTDIAL ₹746 ($0.00002)
+  🟢 Engulf  ENTR BUY JUSTDIAL @746 x2 SL@728 TP@782
+DONE: ₹276,188 | P&L ₹-223,812.27953583864 | Trades 11195 | Open 39 | New 2
+RUN 2026-10-20 09:40 | ₹276,188 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+  ❌ Engulf  SL   JUSTDIAL @728 ₹-36.18213762555797
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 1
+RUN 2026-10-20 09:50 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 10:00 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+📰 News for 101 stocks fetched
+Traceback (most recent call last):
+  File "/home/ubuntu/Trading-BOT/trading/paper_trading/engine.py", line 559, in <module>
+    import pandas as pd,numpy as np; go()
+                                     ~~^^
+  File "/home/ubuntu/Trading-BOT/trading/paper_trading/engine.py", line 553, in go
+    ux(state); ss(state)
+    ~~^^^^^^^
+  File "/home/ubuntu/Trading-BOT/trading/paper_trading/engine.py", line 303, in ux
+    wb=openpyxl.load_workbook(E) if os.path.exists(E) else openpyxl.Workbook()
+       ~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/reader/excel.py", line 348, in load_workbook
+    reader.read()
+    ~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/reader/excel.py", line 303, in read
+    self.read_worksheets()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/reader/excel.py", line 237, in read_worksheets
+    ws_parser.bind_all()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/worksheet/_reader.py", line 465, in bind_all
+    self.bind_cells()
+    ~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/worksheet/_reader.py", line 368, in bind_cells
+    for idx, row in self.parser.parse():
+                    ~~~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/worksheet/_reader.py", line 156, in parse
+    for _, element in it:
+                      ^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/xml/etree/ElementTree.py", line 1262, in iterator
+    data = source.read(16 * 1024)
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/zipfile/__init__.py", line 1105, in read
+    data = self._read1(n)
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/zipfile/__init__.py", line 1173, in _read1
+    data += self._read2(n - len(data))
+            ~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/zipfile/__init__.py", line 1208, in _read2
+    raise EOFError
+EOFError
+RUN 2026-10-20 10:10 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 10:20 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 10:30 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 10:40 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 10:50 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 11:00 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+📰 News for 101 stocks fetched
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 11:10 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 11:20 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 11:30 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 11:40 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 11:50 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 12:00 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+📰 News for 101 stocks fetched
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 12:10 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 12:20 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 12:30 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 12:40 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 12:50 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 13:00 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+📰 News for 101 stocks fetched
+Traceback (most recent call last):
+  File "/home/ubuntu/Trading-BOT/trading/paper_trading/engine.py", line 559, in <module>
+    import pandas as pd,numpy as np; go()
+                                     ~~^^
+  File "/home/ubuntu/Trading-BOT/trading/paper_trading/engine.py", line 553, in go
+    ux(state); ss(state)
+    ~~^^^^^^^
+  File "/home/ubuntu/Trading-BOT/trading/paper_trading/engine.py", line 303, in ux
+    wb=openpyxl.load_workbook(E) if os.path.exists(E) else openpyxl.Workbook()
+       ~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/reader/excel.py", line 348, in load_workbook
+    reader.read()
+    ~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/reader/excel.py", line 303, in read
+    self.read_worksheets()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/reader/excel.py", line 237, in read_worksheets
+    ws_parser.bind_all()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/worksheet/_reader.py", line 465, in bind_all
+    self.bind_cells()
+    ~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/worksheet/_reader.py", line 368, in bind_cells
+    for idx, row in self.parser.parse():
+                    ~~~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/site-packages/openpyxl/worksheet/_reader.py", line 156, in parse
+    for _, element in it:
+                      ^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/xml/etree/ElementTree.py", line 1262, in iterator
+    data = source.read(16 * 1024)
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/zipfile/__init__.py", line 1105, in read
+    data = self._read1(n)
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/zipfile/__init__.py", line 1173, in _read1
+    data += self._read2(n - len(data))
+            ~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-linux-x64/lib/python3.14/zipfile/__init__.py", line 1208, in _read2
+    raise EOFError
+EOFError
+RUN 2026-10-20 13:10 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 13:20 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 13:30 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 13:40 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 13:50 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 14:00 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+📰 News for 101 stocks fetched
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 14:10 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 14:20 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 14:30 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 14:40 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 14:50 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 15:00 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+📰 News for 101 stocks fetched
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 15:10 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 15:20 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+RUN 2026-10-20 15:30 | ₹276,152 | 103×27=2781 checks/run
+  📊 NIFTY regime: BULL
+DONE: ₹276,152 | P&L ₹-223,848.46167346416 | Trades 11196 | Open 38 | New 0
+Closed. 11196 total trades.
+Closed. 11196 total trades.
+Closed. 11196 total trades.
