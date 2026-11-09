@@ -1,9 +1,0 @@
-services:
-  paper-bot:
-    build: .
-    restart: unless-stopped
-    env_file: .env
-    command: ["python", "-m", "bot", "schedule"]
-    volumes:
-      - ./data:/app/data
-      - ./config.json:/app/config.json:ro
