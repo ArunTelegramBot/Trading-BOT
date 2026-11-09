@@ -1,0 +1,16 @@
+{
+  "mode": "paper",
+  "timezone": "Asia/Kolkata",
+  "session_start": "09:15",
+  "session_end": "15:30",
+  "report_time": "16:00",
+  "initial_capital_inr": 500000,
+  "max_daily_loss_inr": 10000,
+  "max_orders_per_day": 5000,
+  "strategy_count": 50,
+  "symbols": ["NIFTY"],
+  "bar_interval_minutes": 5,
+  "slippage_bps": 5,
+  "fee_bps": 10,
+  "approval_required": true
+}
