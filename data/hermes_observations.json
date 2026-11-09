@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0.0",
+  "purpose": "Daily paper-trading observations for Hermes review and approved strategy improvement proposals.",
+  "timezone": "Asia/Kolkata",
+  "market": "India",
+  "paper_capital": 500000,
+  "mode": "paper",
+  "approval_policy": {
+    "hermes_may": [
+      "read observations",
+      "classify mistakes",
+      "compare strategies",
+      "propose rule changes",
+      "run approved paper experiments",
+      "prepare daily reports"
+    ],
+    "hermes_may_not": [
+      "send live orders",
+      "change live strategy rules",
+      "deploy a strategy without explicit user approval",
+      "override risk limits"
+    ],
+    "approval_channel": "telegram"
+  },
+  "daily_observations": [],
+  "decision_log": [],
+  "schema_notes": {
+    "daily_observations": "Append one object per trading date. Keep raw observations immutable.",
+    "decision_log": "Append Hermes proposals, user approvals or rejections, tests, and outcomes.",
+    "profit_loss": "Store numeric values in INR. Positive values are profit and negative values are loss.",
+    "trade_counts": "Use completed trades for wins/losses and orders separately for execution activity.",
+    "strategy_results": "Store one result object per strategy per trading date."
+  },
+  "daily_observation_template": {
+    "date": "YYYY-MM-DD",
+    "market_session": {
+      "timezone": "Asia/Kolkata",
+      "start": "09:15",
+      "end": "15:30",
+      "report_time": "16:00"
+    },
+    "summary": {
+      "orders_submitted": 0,
+      "orders_filled": 0,
+      "completed_trades": 0,
+      "winning_trades": 0,
+      "losing_trades": 0,
+      "open_positions": 0,
+      "turnover_inr": 0,
+      "gross_profit_loss_inr": 0,
+      "costs_inr": 0,
+      "net_profit_loss_inr": 0,
+      "ending_paper_capital_inr": 500000,
+      "max_drawdown_inr": 0
+    },
+    "strategy_results": [],
+    "execution_observations": [],
+    "mistakes": [],
+    "market_context": [],
+    "data_quality_issues": [],
+    "hermes_review": {
+      "status": "pending",
+      "hypotheses": [],
+      "proposals": [],
+      "approval_required": true
+    }
+  },
+  "strategy_result_template": {
+    "strategy_id": "strategy_001",
+    "strategy_version": "v1",
+    "allocated_capital_inr": 10000,
+    "orders": 0,
+    "completed_trades": 0,
+    "wins": 0,
+    "losses": 0,
+    "win_rate": null,
+    "turnover_inr": 0,
+    "gross_profit_loss_inr": 0,
+    "costs_inr": 0,
+    "net_profit_loss_inr": 0,
+    "max_drawdown_inr": 0,
+    "status": "active"
+  },
+  "decision_template": {
+    "decision_id": "decision_YYYYMMDD_001",
+    "date": "YYYY-MM-DD",
+    "source_observation_date": "YYYY-MM-DD",
+    "strategy_id": "strategy_001",
+    "current_version": "v1",
+    "proposed_version": "v2",
+    "issue": "",
+    "evidence": [],
+    "proposed_change": "",
+    "tests_required": [
+      "historical_backtest",
+      "out_of_sample_test",
+      "walk_forward_test",
+      "paper_trading_validation"
+    ],
+    "hermes_recommendation": "pending_approval",
+    "user_decision": "pending",
+    "decision_timestamp": null,
+    "outcome": null
+  }
+}

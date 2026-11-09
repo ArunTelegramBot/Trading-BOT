@@ -1,0 +1,24 @@
+{
+  "concept_counts": {
+    "fundamental": 85,
+    "technical": 37,
+    "behavior": 97,
+    "index": 38,
+    "factor": 35,
+    "momentum": 24,
+    "volatility": 53,
+    "risk": 249,
+    "diversification": 48,
+    "cost": 110,
+    "valuation": 139,
+    "trend": 57,
+    "volume": 73,
+    "liquidity": 28,
+    "take profit": 5,
+    "stop loss": 1,
+    "position sizing": 16,
+    "drawdown": 2
+  },
+  "chunk_count": 1801,
+  "rule_candidate_count": 769
+}
